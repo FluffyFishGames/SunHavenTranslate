@@ -1,0 +1,1165 @@
+:System.Void Wish.Donovan::.cctor()
+Es geht nichts über einen schönen Knochen, um den Punkt zu treffen, das ist genau das, was ich brauche! Danke, ich werde mir das merken.
+:Wish.InteractionInfo Wish.RecordPlayer::get_InteractionPoint()
+Starten
+Stoppen
+:System.Void Wish.RecordPlayer::TurnOn(System.Boolean,System.Int32,System.Boolean)
+Benötigt eine Platte zum Abspielen!
+:System.Void Wish.AnimalSpawnItem::MakeDecorationPreview()
+Dekorationsvorschau
+:System.Void Wish.AnimalSpawnItem::CreateNewAnimal(Wish.AnimalItem,System.Boolean)
+New pet animal unique id 
+:System.Void Wish.ApartmentElevator::Interact(System.Int32)
+Auf welche Ebene gehst du?
+:Wish.InteractionInfo Wish.ApartmentElevator::get_InteractionPoint()
+Aufzug
+:System.Void Wish.Bed::FailAttemptToSleep()
+Du musst mit 
+ verheiratet sein um in diesem Bett zu schlafen!
+:Wish.InteractionInfo Wish.BookShelf::get_InteractionPoint()
+Lesen 
+:Wish.InteractionInfo Wish.CookingPot::get_InteractionPoint()
+Kochen
+:System.Void Wish.TimeOfNeedCutscene2::Complete()
+Bist du bereit, zurückzugehen?
+:System.Void Wish.JourneyToDragonsMeetCutscene1::Complete()
+Sprich mit Elios.
+:System.Void Wish.JourneyToDragonsMeetCutscene2::Complete()
+XX, du bist ein Magier! Ich dachte, ich hätte eine magische Energie in dir gespürt, als wir uns das erste Mal trafen, aber jetzt sprudelt diese Energie nur so aus dir heraus. Ich gratuliere dir!
+Elios gab mir meinen Segen, als ich noch viel jünger war, also weiß ich, dass es viel zu verkraften ist. Ich bin immer in der Nähe, um mit dir zu reden, wenn du dir über deine Magie oder etwas anderes unsicher bist.
+Wie wäre es, wenn wir jetzt wieder nach Hause gehen?
+:System.Void Wish.LuciaCutscene::<SceneRoutine>b__7_4()
+Geh los und platziere deine Farm.
+:System.Void Wish.MarriageCutscene::Complete()
+Das ist der glücklichste Tag meines Lebens!
+:System.Void Wish.MarriageCutscene::SetNPCOneLiners()
+Ich fühle mich so, als wäre es erst gestern gewesen, dass ich zum ersten Mal durch deine Tür gestürmt bin... Und jetzt sieh dich an!
+Das ist so eine schöne Hochzeit, ich habe mir geschworen nicht zu weinen, aber...
+Herzlichen Glückwunsch zur Hochzeit. Ich könnte mir nicht vorstellen, sich vor alle Leuten zu stellen und zu heiraten.
+So feiern sie also die Hochzeit in der Stadt der Menschen... Betrachte mich als unbeeindruckt.
+Hey, toll, dass ihr geheiratet habt. Ich hoffe ihr habt viele glückliche Jahre zusammen und so weiter. Gibt es auch was zu essen oder...
+Das ist so anders als bei einer Elfenhochzeit... Oh - trotzdem schön!
+Oh, XX. Ich freue mich so für dich! Wenn du jemals einen Rat brauchst, weißt du, wo du hingehen kannst.
+Herzlichen Glückwunsch! Ihr seid so ein süßes Paar, nya!
+Emma und Elizabeth waren während der Zeremonie nicht zu lästig, oder? Sie waren beide so aufgeregt, dass sie nicht aufhören wollten zu zappeln... Oh, und herzlichen Glückwunsch!
+Zu sehen, wie zwei Bürger von Sun Haven den Bund der Ehe schließen, ist wirklich herzerwärmend. Herzlichen Glückwunsch, XX.
+Das ist die größte Hochzeit, die ich je gesehen habe. Es scheint, als ob die halbe Stadt hier ist!
+Keine Sorge, ich war während der gesamten Zeremonie in Alarmbereitschaft.
+Menschliche Zeremonien sind so viel praktischer als elfische. Es ist lustig, wie sich unsere Kulturen unterscheiden, sogar beim Feiern.
+Was für eine wunderbare Zeremonie! Es ist gut, wenn man sich auf so schöne Dinge wie diese konzentrieren kann. Es ist nicht nur ein besonderer Tag für dich, weißt du. Die ganze Stadt feiert
+Das war... ziemlich langweilig.
+Mach dir keine Sorgen um die Stühle, ich werde sie alle einsammeln.
+Sieht aus, als hättest du den großen Fisch an Land gezogen!
+Tage wie dieser erinnern uns daran, was es bedeutet, Teil einer Gemeinschaft zu sein.
+Das Beste an der Ehe? Ein ständiger Trainingspartner! Hm, wann ist Giuseppe das letzte Mal mit mir joggen gegangen...
+Tonya ist am Tag nach unserer Hochzeit einen Marathon gelaufen... Ich habe ausgeschlafen.
+Farmer! Bist du jetzt ein Daddy??
+Hallo, Farmer! Liam hat uns gesagt, wir sollen "Glückwunsch" sagen. ...... Herzlichen Glückwunsch!!
+Können wir jetzt Spiele spielen?
+Muss ich auch eines Tages so heiraten?
+Auf viele glückliche gemeinsame Jahre!
+:System.Void Wish.TheSunDragonsProtectionCutscene2::Complete()
+Bist du bereit zurückzugehen?
+:System.Void Wish.TheSunDragonsProtectionCutscene5_EliosTurnin::Complete()
+Bist du bereit zurückzugehen?
+:System.Void Wish.DayCycle::Update()
+Tag 
+:Wish.InteractionInfo Wish.Decoration::get_InteractionPoint()
+Öffnen
+:System.Void Wish.Chest::Interact(System.Int32)
+Jemand benutzt dies bereits.
+:Wish.InteractionInfo Wish.Chest::get_InteractionPoint()
+Öffnen
+:System.Void Wish.CraftingTable::Interact(System.Int32)
+Ich sollte das nicht ohne Erlaubnis benutzen. Vielleicht würde mich Lynn es benutzen lassen, wenn ich sie besser kennen würde.
+:Wish.InteractionInfo Wish.CraftingTable::get_InteractionPoint()
+Sachen aufnehmen
+:System.Void Wish.CraftingTable::SetupCraftingQueue()
+Abgeschlossen
+:System.Void Wish.CraftingTable::.ctor()
+Herstellen
+:Wish.InteractionInfo Wish.ForageTree::get_InteractionPoint()
+Schütteln
+:System.Void Wish.ForageTree::Shake(System.Boolean)
+Am besten stehle ich nicht aus Claudes Garten... Wenn ich Claude besser kennen würde, lässt er mich sicher Früchte aus seinem Garten nehmen.
+:Wish.InteractionInfo Wish.Forageable::get_InteractionPoint()
+Aufschließen
+Aufnehmen
+:Wish.InteractionInfo Wish.ForageableChest::get_InteractionPoint()
+Aufnehmen
+:System.Void Wish.HungryMonster::Interact(System.Int32)
+Jemand benutzt dies bereits.
+:Wish.InteractionInfo Wish.HungryMonster::get_InteractionPoint()
+Snaccoon
+:System.Void Wish.HungryMonster::MonsterFull()
+Das Monster ist voll
+:System.Void Wish.HungryMonster::MonsterHungry()
+Das Monster ist hungrig
+:System.Void Wish.HungryMonster::.cctor()
+Meine Güte, ist das ein hungriger Junge.
+Wow, das ist ein hübscher Kerl.
+Wow, so gut aussehend.
+Wow, so majestätisch.
+Meine Güte, ist das ein hungriger Bursche.
+Mensch, das ist ein frecher Bursche
+Sieht aus, als wäre Omas Hausmannskost zu weit gegangen.
+:ClearingTheRoad2Quest
+Jemand benutzt dies bereits.
+:System.Void Wish.Inspectable::.ctor()
+Untersuchen
+Hier ist nichts von Interesse
+:System.Void Wish.Mailbox::Interact(System.Int32)
+Der Briefkasten ist leer.
+:Wish.InteractionInfo Wish.Mailbox::get_InteractionPoint()
+Briefkasten
+:System.Void Wish.ManaInfuser::Interact(System.Int32)
+Lade 10 mana für 1  <sprite="orb_icon" index=0> auf
+:System.Void Wish.ManaInfuser::RefreshDialogue()
+Lade 10 mana for 1  <sprite="orb_icon" index=0> auf
+:Wish.InteractionInfo Wish.ManaInfuser::get_InteractionPoint()
+Mana aufladen
+:System.Void Wish.Minecart::StartMineCart()
+Ab in die Mine!
+:System.Boolean Wish.PlayerHouse::Upgrade(System.Int32)
+Du musst erst auf ein Stufe 2 Haus aufrüsten!
+Du kannst das Haus nicht aufrüsten, während Tiere im Inneren sind!
+Du kannst das Haus nicht aufrüsten, während Tiere im Inneren sind!
+:Wish.InteractionInfo Wish.TreasureChest::get_InteractionPoint()
+Öffnen
+:System.Void Wish.EliosFountain::.ctor()
+Berühre das Wasser
+:Wish.InteractionInfo Wish.Animal::get_InteractionPoint()
+Streichel 
+Fütter 
+Streichel 
+Fütter 
+Aufheben 
+:System.String Wish.Animal::GetName()
+\(Klon\)
+:System.String Wish.NPCAI::GiftResponse(Wish.ItemData,System.Boolean&)
+Ich hasse dieses ITEM.
+Dieses ITEM ist okay.
+Ich mag dieses ITEM.
+Ich LIEBE dieses ITEM!
+:System.String Wish.NPCAI::HandleWeddingRing(System.Boolean&)
+Hehe, du willst wieder heiraten?? Das ist süß, Sweetie, aber ich glaube nicht, dass es so funktioniert.
+Ich weiß nicht, ob das ein Scherz ist oder nicht, aber die Geste ist wirklich süß. Und natürlich würde ich gerne einen zweiten Ring nehmen!
+Soll das ein Scherz sein? Ich hoffe es, da du ja schon verheiratet bist...
+Ich glaube fest daran, ein extravagantes Leben zu leben, aber es ist ein wenig anders, wenn es um die Ehe geht, XX. Ich werde... definitiv passen.
+Oh - wow! Es tut mir so leid, XX, aber ich glaube, ich bin noch nicht ganz bereit dafür. Wir sollten uns erst einmal besser kennenlernen, oder?
+Wie sehe ich für dich aus? Ich bin eine Kauffrau, keine Bäuerin. Ich liebe den Ring, aber es wird mehr Bemühung deinerseits erfordern, bevor ich ja sage.
+[]<i>(Du musst mit diesem Charakter ausgehen, unverheiratet sein, 15 volle Herzen erreicht haben und im Dialog weit genug fortgeschritten sein, um diesen Charakter zu heiraten)</i>
+Oh! Heh, ich sollte wirklich nicht überrascht sein. Was wirklich überraschend ist... Ich denke nicht, dass es eine schlechte Idee ist. Sicher, lass es uns tun, XX![]Wir sollten es morgen um 16 Uhr im Veranstaltungsplatz machen! Ich kümmere mich um alles andere, du tauchst einfach auf!
+Heh, es wird Zeit, dass sich meine Investition auszahlt. Was meinst du mit "welche Investition"? Ich spreche von <i>Dir</i>, XX![]Natürlich werde ich dich heiraten! Ich bezahle für jemanden, der die Zeremonie arrangiert, du triffst mich einfach morgen um 16:00 Uhr auf dem Veranstaltungsplatz.
+Ah, ich dachte mir, dass das kommt... Nun, ich will dich nicht länger auf die Folter spannen.[]Lass es uns tun, XX - lass uns heiraten!![]Ich werde jemanden beauftragen, eine nette kleine Zeremonie in deiner menschlichen Stadt zu arrangieren. Komm einfach um 16:00 Uhr und ich kümmere mich um den Rest!
+Endlich! Ja, natürlich sollten wir heiraten, XX! Es macht allen Sinn der Welt.[]Wir sollten es in Sun Haven tun. Ich werde mich mit deinem Erzmagier in Verbindung setzen, um die Zeremonie zu arrangieren. Pass nur auf, dass du pünktlich bist! Sagen wir 16:00 Uhr. Wir sehen uns dann morgen!
+Oh! Heh, ich sollte wirklich nicht überrascht sein. Was mich wirklich überrascht,... Ich denke nicht, dass es eine schlechte Idee ist. Sicher, lass es uns tun, XX! Ich werde es sogar in deiner geliebten Menschenstadt für dich arrangieren. Lasst uns um 16:00 Uhr anfangen. Sei nicht zu spät, Kanalratte!
+Ah! Ha, das wurde aber auch Zeit![]Ja XX, ich werde dich auf jeden Fall heiraten! Überlass mir die Zeremonie, du kommst einfach morgen um 16:00 Uhr auf den Veranstaltungsplatz. Ich kann es kaum erwarten!
+XX! Ich habe mir diesen Moment schon so oft vorgestellt... Ja, ich werde dich heiraten![]Lass uns die Zeremonie morgen um 16:00 Uhr abhalten. Ich bereite alles auf dem Veranstaltungsplatz vor, du musst nur dort sein. Ich sehe dich dann!
+Ah, wow, das ist eine Menge. Weißt du... Ich glaube, ich bin bereit dafür! Ja XX, lass uns heiraten!! Ich kümmere mich darum, eine Zeremonie zu organisieren. Du triffst mich einfach morgen auf dem Veranstaltungsplatz. Sagen wir um 16:00 Uhr!
+Ich habe von diesem Moment geträumt! Ich dachte, ich wäre darauf vorbereitet, aber jetzt fühle ich mich, als würde ich schweben.[]Natürlich werde ich dich heiraten, XX! Ich bereite die Zeremonie vor, du triffst mich einfach morgen um 16:00 Uhr auf dem Veranstaltungsplatz.
+Heiraten? Mit mir? Ich hätte nie gedacht... Nun, ich schätze, es spielt jetzt keine Rolle, was ich gedacht habe.[]Ja, natürlich werde ich dich heiraten, XX. Ich bezahle jemanden, der die Zeremonie auf dem Veranstaltungsplatz vorbereitet. Sei morgen um 16:00 Uhr da. Ich kann es wirklich kaum erwarten!
+OH - oh mein Gott, wie schön! XX, ich werde dich heiraten! Kitty wird XX heiraten, nya nya![]Keine Sorge, Kitty wird die Zeremonie arrangieren. Du musst nur morgen um 16:00 Uhr auf dem Veranstaltungsplatz erscheinen! Ich kann es kaum erwarten!
+... Wirklich, meinst du das ernst?[]XX, dich zu heiraten würde mich zum glücklichsten Mann der Stadt machen! Ja, lass es uns tun! Ich kümmere mich um die Vorbereitungen, du musst nur bis morgen um 16 Uhr auf dem Veranstaltungsplatz sein.
+Es ist an der Zeit, dass du fragst, XX. Ich wurde schon ungeduldig, aber jetzt kannst du deinen Platz an der Seite des zukünftigen Königs von Withergate einnehmen.[]Das heißt, ich nehme deinen Vorschlag an! Ich werde ein paar Lakaien damit beauftragen, morgen eine Zeremonie in deiner menschlichen Stadt zu arrangieren. Sei um 16:00 Uhr dort und lass mich nicht warten.
+Oh mein Gott!!! XX!!! Ja, ja <i>natürlich</i> werde ich dich heiraten![]Ich werde die Zeremonie für uns morgen vorbereiten. Versuche um 16:00 Uhr auf dem Veranstaltungsplatz zu sein! Ich bin so aufgeregt, XX!
+Du machst mir einen Antrag?? Oh - es tut mir leid, ich war einfach so unvorbereitet darauf.[]...Die Antwort ist ja, offensichtlich! Ich weiß, dass du es in Sun Haven machen willst, also werde ich mit deinem Erzmagier sprechen, um es zu arrangieren. Sei einfach morgen um 16:00 Uhr dort. Ah, das ist so aufregend!
+Oh! Heh, ich sollte wirklich nicht überrascht sein. Was mich wirklich überrascht,... Ich denke nicht, dass es eine schlechte Idee ist. Sicher, lass es uns tun, XX![]Wir sollten es morgen um 16 Uhr auf dem Veranstaltungsplatz machen! Ich kümmere mich um alles andere, du tauchst einfach auf!
+:System.String Wish.NPCAI::HandleLoveLetter(System.Boolean&)
+Oh... Das ist süß von dir, XX, und unerwartet![]Vor allem, weil, naja, wir sind ja schon zusammen. Aber es ist so eine romantische Geste! Ich werde das in Ehren halten.
+Oh... Das ist süß von dir, XX, und unerwartet![]Ich habe das Gefühl, dass wir in unserer Beziehung einfach noch nicht so weit sind. Lass uns einander besser kennenlernen und sehen, was passiert.
+[]<i>(Du darfst mit diesem Charakter noch nicht zusammen oder verheiratet sein und musst 5 volle Herzen erreicht haben)</i>
+Oh... Das ist süß von dir, XX, und unerwartet![]Um ehrlich zu sein, habe ich mich gefragt, was wohl passiert wäre, wenn wir miteinander ausgegangen wären. Also, lass es uns tun!
+:Wish.InteractionInfo Wish.FarmSellingCrate::get_InteractionPoint()
+Sachen verkaufen
+:System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)
+Das ist was ich für dich habe.
+Bist du sicher, dass du dich scheiden lassen möchtest?
+:System.Void Wish.DialogueTree::.cctor()
+Kein Problem.
+Kein Ding.
+Jederzeit wieder!
+Mit Vergnügen.
+Darauf kannst du wetten!
+Das ist das Mindeste, was ich tun kann.
+Nicht der Rede wert!
+Aber gern doch.
+:Wish.InteractionInfo Wish.NPC::get_InteractionPoint()
+Sprechen
+:System.Void Wish.NPC::.cctor()
+Was auch immer du dir wünschst, ich bin mir sicher, du findest es hier.
+:System.String Wish.Pet::PetInteractionText()
+Ableinen 
+Anleinen 
+Fütter 
+Streichel 
+:System.Boolean Wish.Quest::CheckForCompletion(Wish.QuestPanel)
+ - Abgeben bei 
+:System.String Wish.QuestProgressRequirement::GetProgressNameString(System.String,Wish.Quest)
+Steigere eine deiner Fähigkeiten
+:System.Void Wish.Inventory::AddItem(Wish.Item,System.Int32,System.Int32,System.Boolean)
+Gegenstand hinzufügen 
+ Anzahl: 
+:System.Void Wish.ArmorItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Benötigt Kampfstufe 
+<color=#C6281D>Benötigt Kampfstufe  
+Verkaufspreis: 
+<color=#6B7DA1>(Rechtsklick zum Ausrüsten)</color>
+:System.Void Wish.NormalItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Verkaufspreis: 
+:System.Void Wish.FoodItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+<i>(Überreste)</i>
+Stellt einen 
+ Teil vom maximalen 
+ wieder her.
+ Leben
+ Mana
+Verkaufspreis: 
+Qualität: 
+:System.String Wish.FoodItem::StatIncreaseString(Wish.StatIncrease)
+sehr kleinen
+kleinen
+mitteleren
+großen
+riesigen
+:System.String Wish.FoodItem::StatString(Wish.StatType)
+Manaregenration
+Lebensregeneration
+Angriffsstärke
+Magiestärke
+:System.Void Wish.FishItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Länge: 
+Qualität: 
+Verkaufspreis: 
+:System.Void Wish.CropItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Qualität: 
+Verkaufspreis: 
+:System.Void Wish.WateringCanItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Benutzungen: 
+Verkaufspreis: 
+:System.Void Wish.AnimalItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Verkaufspreis: 
+:System.Void Wish.PetItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Verkaufspreis: 
+:System.Void Wish.SkillNode::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
+ (Globale Fähigkeit)
+ (Jemand hat diese Fähigkeit bereits)
+:System.Void Wish.Skills::UpdateProfessions()
+Du hast unausgegebene Fähigkeitspunkte. Drücke [k] um den Fähigkeitsbaum zu öffnen!
+:System.Void Wish.Cart::Interact(System.Int32)
+Ebene: </b></i>Steinbruch
+Ebene: </b></i>
+:Wish.InteractionInfo Wish.Cart::get_InteractionPoint()
+Betreten
+:System.Void Wish.Food::UseDown1()
+Du kannst Überreste nicht essen!
+:System.Void Wish.SaleManager::GenerateMerchantShops()
+Konnte nicht genügend Gegenstände finden
+:System.Void Wish.Map::UpdateNPCImagePositions(System.Boolean)
+Quest abschließen
+Gebe ab in 
+ an 
+ bei 
+Verfügbare Quest
+ Quest erhältlich von 
+ bei 
+Quest abgeben
+Abgeben in 
+ bei 
+:System.Void Wish.NetworkPlayer::Update()
+Bandbreite eingehend :
+ Bandbreite ausgehend :
+ Bandbreite eingehenend delta : 
+ Bandbreite ausgehend delta : 
+:System.Void Wish.NetworkPlayer::WorldData(BeardedManStudios.Forge.Networking.RpcArgs)
+Weltdaten vom Host erhalten.
+:System.Void Wish.AnimalStand::Interact(System.Int32)
+Soll ich 
+ für 
+ kaufen?
+:System.Void Wish.AnimalStand::RefreshDialogue()
+Soll ich 
+ für 
+ kaufen?
+:Wish.InteractionInfo Wish.AnimalStand::get_InteractionPoint()
+Reden
+:System.String Wish.AnimalStand::<GetResponses>b__5_0()
+<color="red">Kaufe 1 (
+Kaufe 1 (
+:System.Void Wish.PetStand::Interact(System.Int32)
+Du hast bereits 
+ freigeschaltet!
+Möchtest du  
+ für 
+ Münzen kaufen?
+:Wish.InteractionInfo Wish.PetStand::get_InteractionPoint()
+Reden
+:Wish.InteractionInfo Wish.PickupDecoration::get_InteractionPoint()
+Aufnehmen
+:System.Void Wish.Placeable::Use1()
+Bist du sicher, dass du dein Haus hier platzieren möchtest? Die Wahl ist unveränderlich.
+:System.Void Wish.Player::RequestSleep(Wish.Bed)
+Möchtest du schlafen?
+Es ist zu früh zum Schlafen!
+:System.Void Wish.Player::PassOut()
+Du bist ohnmächtig geworden!
+:System.String Wish.PlayerSettings::GetButtonName(Wish.Button)
+Zauber 1
+Zauber 2
+Emote 1
+Emote 2
+Emote 3
+Emote 4
+Emote 5
+Emote 6
+:System.Void Wish.Present::Start()
+Geschenk bereits geöffnet!
+:System.Void Wish.Present::Interact(System.Int32)
+Du erhälst einen 
+ und 
+!
+:Wish.InteractionInfo Wish.Present::get_InteractionPoint()
+Öffnen
+:System.Void Wish.MineLock::Interact(System.Int32)
+Es sieht so aus, als stecke in diesem Schloss bereits ein Schlüssel.
+Benutze 
+ (vorherige Minen müssen freigeschaltet sein)
+Füge einen 
+ ein um es für heute freizuschalten. Füge einen 
+ ein um es permanent freizuschalten.
+:Wish.InteractionInfo Wish.MineLock::get_InteractionPoint()
+Aufschließen
+:Wish.InteractionInfo Wish.BulletinBoard::get_InteractionPoint()
+Öffnen
+:System.Void Wish.BulletinBoard::OpenUI()
+Demnächst verfügbar
+:System.Void Wish.DragonsMeetQuestManager::SpawnLucia()
+Geh, sprich mit Elios.
+:System.Void Wish.NelvariGate::Interact(System.Int32)
+Der Baum sagt diesmal nichts...[]Vielleicht sollte ich herausfinden, was er versucht zu sagen und später zurückkommen.
+:Wish.InteractionInfo Wish.NelvariGate::get_InteractionPoint()
+Untersuchen
+:Wish.InteractionInfo Wish.NelvariTree::get_InteractionPoint()
+Untersuchen
+:System.Void Wish.PlayerFarmQuestManager::OnPlant(System.Int32)
+Gieße das gepflügte Land mit einem Linksklick!
+:System.Void Wish.PlayerFarmQuestManager::Update()
+Platziere dein Haus irgendwo!
+Wähle dein Haus mit einem Linksklick aus!
+:System.Void Wish.PlayerFarmQuestManager::SendStartingNotifications()
+Pflüge das Land mit einem Linksklick während du die Hacke ausgerüstest hast!
+Rechtsklick auf dein Andenken, um es auszurüsten
+:System.Void Wish.PlayerFarmQuestManager::OnHoe()
+Pflanzen deine Samen auf den gepflügten Boden!
+:System.Void Wish.PlayerFarmQuestManager::OnWateringCanEmpty()
+Deine Gießkanne ist leer! Klicke mit der linken Maustaste auf eine beliebige Wasserquelle, um sie wieder aufzufüllen!
+:System.Void Wish.SunHavenTownQuestManager::SpawnLucia(System.Int32,System.Int32)
+Bist du bereit zu gehen?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection4()
+Hey, Farmer. Bist du auf dem Weg zu Drachentreff?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection6()
+Hey, Farmer. Bist du auf dem Weg zu Drachentreff?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection8()
+Hey, Farmer. Bist du auf dem Weg zu Drachentreff?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRaimi(System.Int32)
+Du hast diesen Blick in deinen Augen - du bist ein Abenteurer, nicht wahr? Dann kannst du mir helfen.
+Ich will sehen, wie geschickt du bist. Ich kenne einen Ort mit einigen echten Monstern. Wenn du sie alle alleine erschlägst, bekommst du wohlverdiente Beute und meinen Respekt als Kämpfer!
+:System.Void Wish.RepairSign::Interact(System.Int32)
+Demnächst verfügbar
+:Wish.InteractionInfo Wish.RepairSign::get_InteractionPoint()
+Lesen
+:System.Void Wish.SaleStand::Interact(System.Int32)
+Soll ich 
+ für 
+ kaufen? 
+ übrig.
+Wir haben leider nichts mehr auf Lager.
+:System.Void Wish.SaleStand::RefreshDialogue()
+Soll ich 
+ für 
+ kaufen? 
+ übrig.
+Sieht so aus, als hättest du das letzte Exemplar gekauft!
+:Wish.InteractionInfo Wish.SaleStand::get_InteractionPoint()
+Kaufen
+:System.String Wish.SaleStand::<GetResponses>b__12_0()
+<color="red">Kaufe 1 (
+Kaufe 1 (
+:System.String Wish.SaleStand::<GetResponses>b__12_4()
+<color="red">Kaufe 5 (
+Kaufe 5 (
+:System.String Wish.SaleStand::<GetResponses>b__12_6()
+<color="red">Kaufe alle (
+Kaufe alle (
+:System.Void Wish.ScenePortalManager::.ctor()
+Lade Welt
+:System.Void Wish.ScenePortalSpot::OnTriggerEnter2D(UnityEngine.Collider2D)
+Sorry, dieser Laden ist geschlossen
+:System.Void Wish.ScenePortalSpot::Interact(System.Int32)
+Geöffnet von 
+ am bis 
+ pm.
+:Wish.InteractionInfo Wish.ScenePortalSpot::get_InteractionPoint()
+Betreten
+:System.Void Wish.Seeds::Use1()
+Das kann hier nicht gepflanzt werden
+:System.String Wish.Stat::ToString()
+ Angriffsstärke
+% Angriffsgeschwindigkeit
+ Leben/Sek
+ Mana/Sek
+% Beweungsgeschwindigkeit
+% Sprunghöhe
+% Lebensraub
+ Leben
+ Mana
+ Verteidigung
+ Stärke bei allen Angriffen
+ Geld pro Tag
+ Romantikbonus
+ Bonus Farmen EXP
+ Bonus Angeln EXP
+ Bonus Kampf EXP
+ Bonus Bergbau EXP
+ Bonus Herstellen EXP
+% Chance auf Betäubung
+% Genauigkeit
+ Schmiedefähigkeit
+ Farmfähigkeit
+ Bergbaufähigkeit
+ Holzfällerfähigkeit
+ Angelfähigkeit
+% Schadensreduktion
+ Gold pro Erzeugnis
+% Bonus Erfahrung
+ MISSING STAT NAME
+:Wish.InteractionInfo Wish.Tree::get_InteractionPoint()
+Sammeln
+:System.Void Wish.CharacterCreation::GenerateNewCharacter()
+Spieler
+:System.Void Wish.CharacterCreation::SetRaceImages()
+Rasse
+:System.Void Wish.CharacterCreation::SetClothingImages(Wish.ClothingLayer)
+Flügel
+Heiligenschein
+Hörner
+Schwänze
+Hauben
+:System.Void Wish.CraftingPanel::UpdateItemImages(Wish.Recipe)
+ Stunde
+ Minute
+:System.Void Wish.LoadCharacterMenu::SetupSavePanels()
+ Münzen
+Tag 
+0 Wünsche
+:System.Void Wish.MainMenuController::OnGameLobbyJoinRequested(Steamworks.GameLobbyJoinRequested_t)
+Verbinde mit Server.
+Verbinde mit Server. Wähle erst einen Charakter.
+:System.Void Wish.PlayerSleepCount::Update()
+Spieler am schlafen: 
+:System.Void Wish.ProfessionLevelup::OnLevelUp(Wish.ProfessionType,System.Int32)
+Stufe 
+ 
+!
+:System.Void Wish.QuestList::CheckQuestsForComplete(System.Boolean)
+Tage
+ Tag übrig)
+ (letzter Tag!)
+ Tage übrig)
+:Wish.InteractionInfo Wish.QuestPlaceable::get_InteractionPoint()
+Platziere Juns Pflanze
+:System.Void Wish.Relationships::SetupRelationshipPanel()
+Du bist verheiratet mit 
+Du datest 
+:System.Void Wish.SkillTree::UpdateLevelText(System.Int32)
+Stufe: 
+:System.Void Wish.SkillTree::UpdateSkillPointText(System.Int32)
+Fähigkeitspunkte: 
+:System.Void Wish.SpellSelectionHandler::Update()
+Du hast einen neuen Zauberspruch gelernt! Weise es deiner Werkzeugleiste zu und drücke Q oder R um ihn zu benutzen!
+System.Void Wish.WorldController::SetupWorld()
+Richte Welt ein
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_0()
+Hoch auf die Dach-Farm
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_2()
+Runter in den Eingangsbereich
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_4()
+Egal
+:System.String Wish.Bed/<>c::<FailAttemptToSleep>b__7_0()
+Verstanden.
+:System.String Wish.AnneCutscene/<>c::<SceneRoutine>b__5_4()
+Okay!
+:System.String Wish.AnneCutscene/<>c::<SceneRoutine>b__5_5()
+Ich denke?
+:System.Boolean Wish.AnneCutscene/<SceneRoutine>d__5::MoveNext()
+Klopf, klopf! Sieh dich an, du bist schon auf den Beinen. Du bist wirklich mit Leib und Seele Farmer, was? Das ist toll, wirklich toll.[]Sag mal, mir ist aufgefallen, dass du keine Werkzeuge hast. Ohne Werkzeug kann man doch keine Farm betreiben, oder?[]Keine Sorge, mein Freund, ich bin zufällig Sun Havens angesehenster Händler. Ich kann dir alles besorgen! Was sagt Ihr dazu?
+Das ist die richtige Einstellung! Bitte sehr, ein Anfängerset.
+:System.Boolean Wish.BarCutscene/<SceneRoutine>d__4::MoveNext()
+Hallo Reisender.
+Ich bin dein Reiseführer.
+:System.Boolean Wish.BarracksIntro1_Start/<SceneRoutine>d__3::MoveNext()
+Schlage die Attrappe 5 Mal mit deinem Schwert.
+Farmer! Hast du eine Minute Zeit?
+Ich bin Roza, zweite Kommandantin des Sun Haven Corps. Sun Haven ist sicher, aber Monster leben direkt vor der Stadt. Es ist meine Aufgabe, dafür zu sorgen, dass ihr darauf vorbereitet seid.[]Hier, nimm dieses Schwert und tritt an die Attrappe heran. Schlag 5 Mal kräftig zu, damit ich deine Technik sehen kann.
+Schlag 5 Mal mit dem Schwert auf die Attrappe.
+:System.Boolean Wish.BarracksIntro2_Middle/<SceneRoutine>d__3::MoveNext()
+Triff die Attrappe 3 Mal beim Springen.
+Hey, nicht schlecht! Es geht aber nicht nur um Kraft. Schnelligkeit und Beweglichkeit können genauso wichtig sein. Versuche, 3 Sprungangriffe zu landen.
+Triff die Attrappe 3 Mal im Sprung
+:System.Boolean Wish.BarracksIntro3_Crossbow/<SceneRoutine>d__3::MoveNext()
+Triff die Attrappe 5 Mal mit deiner Armbrust.
+Du bist ein Naturtalent mit dem Schwert! Aber ich frage mich, wie gut bist du auf Distanz? Versuche, die Attrappe 5 Mal mit dieser Armbrust zu treffen.
+Triff die Puppe 5 Mal mit deiner Armbrust
+:System.Boolean Wish.BarracksIntro4_End/<SceneRoutine>d__4::MoveNext()
+Gute Arbeit, Farmer. Es ist gut zu wissen, dass einige unserer Bürger sich in einem Kampf behaupten können. Behalte ruhig eine dieser Waffen - aber nur eine!
+:System.Boolean Wish.BeachIntroCutscene1_Start/<SceneRoutine>d__8::MoveNext()
+Du musst der Neuankömmling sein, hm? Hallo, ich bin Peter. Bist du hierher gekommen, um eine Angel auszuwerfen? Ich würde gerne mitmachen![]Was ist das? Du hast keine Angelrute? Ich sag dir was, ich überlasse dir eine meiner alten Angelruten, wenn du mich dir zeigen lässt, wie man sie benutzt. Hier, versuch es mal.
+Als erstes wirfst du deine Leine aus. Wenn du dann spürst, dass ein Fisch anbeißt, zieh kräftig an der Angelrute.
+Benutze deine Angelrute, um einen Fisch zu fangen.
+Lass dich nicht von kleinen Bissen täuschen, warte bis zu einem großen Biss, um den Fisch einzufangen!
+:System.Boolean Wish.BeachIntroCutscene2_End/<SceneRoutine>d__6::MoveNext()
+Hey, Prost! Nicht schlecht für deinen ersten Wurf. Mach weiter mit dem Angeln und du wirst jeden Abend Essen auf dem Tisch haben. Komm wieder in meinen Laden, wenn du deine alte Rute aufrüsten willst.
+:System.Boolean Wish.BulletinBoardCutscene1_Start/<SceneRoutine>d__3::MoveNext()
+Hey XX, komm mal kurz her!
+XX, ich bin mir sicher, dass du damit beschäftigt bist, die Stadt kennenzulernen, aber ich wollte dir das Schwarze Brett von Sun Haven vorstellen. Hier kommen die Nachbarn zusammen, um sich gegenseitig zu helfen. Das ist der Ort, an dem die Gemeinschaft wirklich glänzt![]Oh, und es gibt gerade zwei neue Aufgaben. Warum schaust du sie dir nicht an?
+Öffne das schwarze Brett und nimm die beiden Aufgaben an.
+:System.Boolean Wish.BulletinBoardCutscene2_End/<SceneRoutine>d__3::MoveNext()
+Ich hatte vor, diese Aufgaben zu erledigen, um zu helfen. Ich habe sogar 5 Äpfel und einen Feuerstein bekommen. Mir läuft allerdings die Zeit davon - macht es dir etwas aus, für mich zu übernehmen?
+Ich muss jetzt los. Vergiss nicht, regelmäßig auf das schwarze Brett zu schauen, da es normalerweise jeden Tag neue Aufgaben gibt. Danke XX, viel Glück!
+:System.Boolean Wish.TimeOfNeedCutscene1/<SceneRoutine>d__3::MoveNext()
+Höre auf meine Worte, XX...[]
+XX...[]Ich habe beunruhigende Neuigkeiten. Das Schicksal von Sun Haven könnte auf dem Spiel stehen. Ich muss dich sofort sehen.
+:System.String Wish.TimeOfNeedCutscene2/<>c::<Complete>b__3_0()
+Ich bin bereit aufzubrechen.
+:System.String Wish.TimeOfNeedCutscene2/<>c::<Complete>b__3_3()
+Ich würde liebr bleiben.
+:System.Boolean Wish.TimeOfNeedCutscene2/<SceneRoutine>d__4::MoveNext()
+Endlich bist du hier, XX. Meine Vermutung war richtig. Ein mächtiger Zauber wurde über die Monsterstadt Withergate gelegt, der eine immerwährende Dunkelheit erzeugt.[]Dieser Zauber verhindert mein Eindringen in die Stadt, und an seiner Quelle steht der Monddrache Dynus.[]Dynus versteckt sich in der Sicherheit seines Zaubers, während sich die Dunkelheit über unsere Welt ausbreitet. Wenn dieser Zauber uns erreicht, wird Sun Haven in ewige Dunkelheit gehüllt sein...[]........[]XX, ich glaube, du bist aus einem bestimmten Grund nach Sun Haven gekommen. Ich habe dir meinen Segen gegeben, weil ich eine größere Macht in dir gespürt habe.[]Deine Kraft und dein Verstand sind der Schlüssel zu unserem Erfolg. Da ich mich Dynus nicht selbst stellen kann, bist du es, der seine dunkle Magie aufhalten muss, XX.[]Mir ist klar, dass ich dich bitte, einen gefährlichen Weg zu beschreiten, aber du musst ihn nicht alleine gehen.[]Um Führung zu erhalten, reise nach Westen in die Elfenstadt Nel'Vari und finde den Weltdrachen Nivara. Ich weiß, dass die Elfenstadt für die Menschen nur ein Mythos ist, aber sie ist so real wie der Dreck unter deinen Füßen. Einen Zugang zu erhalten wird schwierig sein. Der Eingang zu Nel'Vari liegt tief im <b>Westlichen Wald</b>, bewacht von einem mysteriösen Rätsel. Den Schlüssel zu diesem Rätsel kenne ich nicht.[]Allerdings betrachten die Elfen ihre Kultur als heilig. Wenn du mehr über die Elfen lernst, könntest du die Lösung des Rätsels herausfinden.[]Auch ich habe einige Lehren, die dich besser darauf vorbereiten, Dynus zu begegnen. Doch bevor du mit mir trainieren kannst, musst du erst an Stärke gewinnen.[]Letztendlich liegt es an dir, welchen Weg du einschlagen willst, aber sei gewarnt, Dynus in deinem jetzigen Zustand gegenüberzutreten, wäre ziemlich gefährlich.[]XX, ich schlage vor, dass du mit Nivara und mir trainierst, bevor du dich dem Monddrachen stellst. Aber natürlich ist das deine Entscheidung.[]Geh jetzt. Bereite dich vor. Du musst dich Dynus stellen und Sun Haven vor einem dunklen Schicksal bewahren!
+:System.Boolean Wish.ClearingTheRoadCutscene1/<SceneRoutine>d__15::MoveNext()
+Wache
+Herr! Was sollen wir mit diesem großen, hässlichen Ding machen?
+Es scheint keine unmittelbare Bedrohung zu sein. Aber Vorsicht ist besser als Nachsicht. Behalte es im Auge, während ich einen Bericht schreibe.
+Wachen
+Ja, Sir!
+XX! Sei vorsichtig, da ist ein großes Monster, das die Straße nach Norden blockiert. Im Moment schläft es, aber wer weiß, was es tun wird, wenn es aufwacht.
+:System.Boolean Wish.ClearingTheRoadCutscene2/<SceneRoutine>d__11::MoveNext()
+Wache
+Heiliger Strohsack, das Biest hat echt Appetit!
+Wache
+Du meinst, es ist wach? Schnell, wir müssen es dem Kapitän sagen!
+:System.Boolean Wish.ConfrontingDynusCutscene1/<SceneRoutine>d__5::MoveNext()
+Igitt, du schon wieder. Ich hoffe, du hast gebadet, seit ich dich beim Klettern aus der Kanalisation erwischt habe, aber so wie du riechst, schätze ich, dass du es nicht getan hast. Nur Bürger dürfen das Schloss betreten. Hat die Wache dich durchgelassen? Dafür kriege ich seinen Kopf...
+Ich habe eine Wohnung, also bin ich jetzt ein Bürger.
+Ist das so? Flemmett muss seine Standards erhöhen...[]Na dann. Du wolltest König Minos sehen, richtig?
+Ich werde dich zu ihm bringen. Sprich mich nur nicht auf dem Weg dorthin an.
+Diese Burg hat es wirklich in sich.
+<i>(Sag nichts.)</i>
+Ugh...
+Und was machst du hier?
+<i>(Sag nichts.)</i>
+Mein Job ist es, nervige Trottel wie dich zu beaufsichtigen, die keine Anweisungen befolgen können. Sicherlich habe ich nichts Besseres zu tun.
+Der König ist durch diese Tür. Versuche, dich nicht wie ein Vollidiot zu verhalten.
+:System.Boolean Wish.ConfrontingDynusCutscene2/<SceneRoutine>d__7::MoveNext()
+König Minos
+Willkommen in meinem Thronsaal, Neuankömmling. Ich bin Minos, der Dämonenkönig von Withergate. Du bist die Person, die meinen Sohn gefunden hat, als er durch unsere Kanalisation kroch. Habe ich Recht?
+Ja.
+Nein, das war... jemand anderes.
+Gut, du sprichst wahrheitsgemäß. Ehrlichkeit wird dich bei mir weit bringen. XX.
+Ich kann deine Lügen durchschauen. XX. Es wäre das Beste, wenn du ehrlich zu mir bist.
+Woher kennst du meinen Namen?
+Ich verstehe es.
+Woher kennst du meinen Namen?
+Ich verstehe es.
+Nichts entgeht hier meinem Wissen. Das wirst du noch lernen. Was hat so ein kleines Ding wie du in meinem Thronsaal zu suchen?
+Ich muss mit Dynus sprechen.
+Ja, meine Beraterin Xyla hat das erwähnt. Du bist neu hier und doch <i>so sehr begierig</i>, Dynus zu sehen. Und warum?
+Ich bin hier, um seinen Bann der Dunkelheit zu stoppen.
+Sun Haven will sich Dynus hingeben.
+Warum um alles in der Welt willst du das?
+Weil Sun Haven in Gefahr ist.
+Um die Welt vor der Dunkelheit zu retten.
+Ich verstehe jetzt - du siehst dich selbst als den Helden. Und warum auch nicht?[]Du hast die Tage des Sonnenlichts nicht miterlebt, als Familien von Stadt zu Stadt getrieben wurden und zu ihrer eigenen Sicherheit in der Dunkelheit unterwegs waren. Alles nur, weil sie vom Monstervolk waren.[]Das Monstervolk hat es satt, für die Probleme der Menschen verantwortlich gemacht zu werden. Die Gemeinschaft von Withergate wird nicht verloren gehen, nur weil die Menschen in Sun Haven Angst vor der Dunkelheit haben.
+Das hat nichts damit zu tun.
+Es tut mir leid, was mit dem Monstervolk passiert ist. Ich möchte nur mit Dynus sprechen.
+Wie auch immer, du kannst nichts tun, um den Monddrachen von seinem Zauber abzuhalten. Er ist zu mächtig, um aufgehalten zu werden.
+Es gibt nichts, was du tun kannst, um den Monddrachen von seinem Zauber abzuhalten. Er ist zu mächtig, um aufgehalten zu werden.
+Warum in aller Welt sollte sich Sun Haven so aufgeben wollen?
+Weil Sun Haven bankrott ist.
+Weil Dynus so mächtig ist.
+Hm... Interessant. Und was hält dein Beschützer, der Sonnendrache, von diesem Plan?
+Wen interessiert es, was er denkt? Er ist ein Schwächling.
+Es war Elios' Idee.
+Ich habe noch nie jemanden gesehen, der sich so gegen Elios wendet... Andererseits scheint Sun Haven an einem seidenen Faden zu hängen. Vielleicht sagst du ja doch die Wahrheit.
+Eine weitere Lüge. Es ist enttäuschend zu sehen, dass unser neuester Bürger nicht einmal seinem eigenen König vertrauen kann. Dennoch bist du ein legaler Bürger von Withergate.
+Ich werde Euch Dynus sehen lassen... aber erst, wenn ich überzeugt bin, dass Eure Loyalität nicht nur Withergate gilt, sondern auch mir. Wenn Ihr mein Vertrauen verdienen wollt, geht in den Wald südlich meiner Stadt und sammelt dort die Gloritkristalle. Bringt mir 10 Kristalle und ich werde euch erlauben, Dynus' Gemächer zu betreten.
+Wird das dem Wald nicht schaden?
+Wir bauen schon seit Jahren Glorit ab. Ihr könnt keinen Schaden anrichten, der nicht schon angerichtet wurde.
+Das ist ja furchtbar!
+Willst du den Wald nicht retten?
+Das Monstervolk mag es lieber dunkel. Dann fühlt sich Withergate mehr wie die Heimat an, die es sein soll. Jetzt hör auf, meine Zeit zu verschwenden. Ich will dich nicht wiedersehen, es sei denn, du trägst einen Sack voller Glorit auf dem Rücken.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_1()
+Ich brauche den Kristall, damit ich den Monddrachen aufhalten kann.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_2()
+Ich bin hier im Auftrag des Dämonenkönigs.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_3()
+(Zahle 5000 Gold) Bist du sicher, dass ich dich nicht... wieder überreden kann?
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_5()
+(Kampf) Ich habe nicht vor, dich zu überreden, zu gehen. Ich habe vor, dich zu zwingen!
+:System.Boolean Wish.ConfrontingDynusCutscene3_BanditIntro/<SceneRoutine>d__5::MoveNext()
+Du willst mich wohl verarschen... Du schon wieder? Sieh mal, Kleiner, du kannst nichts tun, um mich davon abzuhalten, die Kristalle diesmal zu nehmen. Letztes Mal hast du sie bekommen, jetzt bin ich dran. Und fang nicht mit diesem ganzen "Gleichgewicht des Waldes" Zeug an. Sieh dich um - dieser Wald ist völlig ohne Lebensgrundlage!	
+Ja klar, und ich bin der König der Elfen. Versuch eine andere Ausrede Kind, vielleicht funktioniert die nächste!
+Ich... nun, das ist eine Menge Gold... aber... *seufz* In Ordnung, du hast mich. Zu einem fetten Sack Gold kann ich nicht nein sagen. Nimm die Kristalle und lass mich in Ruhe. Ich bin fertig. Vergiss die westliche Region, ich ziehe nach Osten. Du wirst nie wieder etwas von mir hören, das kann ich dir versprechen.
+Du hast es so gewollt - dieses Mal bin ich darauf vorbereitet, mich zu verteidigen. Ich habe mit Monstern gerechnet, aber stattdessen nehme ich es mit dir auf, Junge!
+:System.Boolean Wish.ConfrontingDynusCutscene4_BanditExit/<SceneRoutine>d__2::MoveNext()
+Sheesh, hast du trainiert oder was? Schon gut, schon gut, du hast mich fertig gemacht. Nimm die Kristalle. Ich bin am Ende. Vergiss die westliche Region, ich fahre nach Osten. Du wirst nie wieder von mir hören, das kann ich dir versprechen.
+:System.Boolean Wish.ConfrontingDynusCutscene5/<SceneRoutine>d__7::MoveNext()
+König Minos
+Du bist zurückgekehrt, was? Ich dachte schon, der Wald würde dich lebendig auffressen. Es sieht so aus, als hättest du ein paar Tricks in petto - keine schlechte Eigenschaft für einen Bürger von Withergate![]Du hast alle zehn Kristalle? Sehr gut! Ein Deal ist ein Deal, Neuling. Du darfst in Dynus' Gemächer gehen. Gehe durch den Altarraum, um den Monddrachen zu finden... und viel Glück.
+:System.Boolean Wish.JourneyToWithergateCutscene2/<SceneRoutine>d__5::MoveNext()
+Eh? Ah... ein Reisender. Es ist viel Zeit vergangen, seit ich das letzte Mal einen wie dich gesehen habe. Du suchst Einlass in die Stadt der Finsternis, ja? Der Dämonenkönig Minos hat mir die Ehre erwiesen, abtrünnige Seelen nach Withergate zu bringen, bis meine Schuld beglichen ist. Komm an Bord, Reisender. Lass uns aufbrachen.
+Ich bin bereit.
+:System.Boolean Wish.JourneyToWithergateCutscene3/<SceneRoutine>d__7::MoveNext()
+Kanalisation
+Ich kann mich nicht daran erinnern, wann meine Dienste das letzte Mal benötigt wurden. Was hoffst du in Withergate zu erreichen, Reisender?
+Ich muss die Ausbreitung der Dunkelheit aufhalten.
+Ich muss mit Dynus, dem Monddrachen, sprechen.
+Ah... Deine Worte sind voller Entschlossenheit.[]Hast du also endlich die schleichende Bedrohung bemerkt, die aus Withergate herauskriecht? Sie breitet sich jeden Tag weiter aus und bringt Verwüstung, wo immer sie hinkommt.
+Was ist es genau?
+Weißt du, was die Ursache dafür ist?
+Es ist eine Dunkelheit, die alles natürliche Licht überwinden wird, und sie ist das Produkt einer mächtigen, uralten Magie. Magie, die nur ein Drache ausüben kann. Verstehst du? Wenn es dein Ziel ist, die Dunkelheit zu stoppen, dann musst du den Drachen dahinter stoppen.
+Wie soll ich das tun?
+Der Monddrache hat eine Vorliebe für Opfergaben, was dir zum Vorteil gereichen kann. Du könntest seine Gunst gewinnen, wenn du ihn mit einem großen Tribut besänftigst. Natürlich könntest du ihn auch auf die altmodische Art aufhalten.
+Auf die altmodische Art?
+Die Waffen an deinem Gürtel sprechen für sich, Abenteurer. Aber den unbezwingbaren Dynus zu einem Duell herauszufordern, würde schlecht enden, wenn du dich ihm jetzt näherst. Du siehst zäh aus, aber du musst dich schon mehr anstrengen. Reisender, wir nähern uns unserem Ziel.
+Wir sind angekommen. Geh mit Stärke voran.
+:System.Boolean Wish.JourneyToWithergateCutscene4/<SceneRoutine>d__12::MoveNext()
+Igitt, ein Außenstehender, der durch die Kanalisation kommt. Wie vulgär. Heute ist dein Unglückstag. Mein Name ist Cordelia und ich habe einen Sitz im königlichen Rat des Dämonenkönigs Minos. Zufälligerweise bin ich gerade auf dem Weg zum Prinzen, um ihn zu sehen. Ich bin sicher, er wird sich freuen, dich kennenzulernen.
+Was ist denn das? Hast du etwas zum Abendessen gefangen?
+Ich habe diesen Eindringling gefunden, der sich durch die Kanalisation eingeschlichen hat.
+Die Kanalisation, sagtest du? Der alte Charon zahlt also immer noch seine Schuld ab. Gut zu wissen. Cordelia, ich glaube, in der Tierhandlung gibt es etwas, das deine Aufmerksamkeit erfordert. Du gehst vor. Xyla und ich werden uns darum kümmern.
+Ja, Prinz Darius.
+Halte dich nicht für zu schlau, nur weil du den Weg durch die Kanalisation wie eine Ratte gefunden hast.
+Hat Cordelia diesen Eingang nicht mit einem Nebelzauber versperrt?
+Der Eindringling scheint ihn überwunden zu haben. Das Problem mit Verwirrungszaubern ist, dass sie sich darauf verlassen, dass das Subjekt Verstand hat.
+Ich habe König Minos gesagt, dass die Kanalisation eine Schwachstelle ist... Du solltest mit deinem Vater reden, Darius.
+Das ist jetzt irrelevant. Was willst du hier, Außenstehender?
+Ich muss mit Dynus sprechen.
+Das geht dich nichts an.
+Du scheinst die Situation hier nicht zu verstehen. Du bist in MEINEM Gewahrsam. Wenn du meine Frage nicht beantwortest, wirst du die nächsten 5 Jahre in meinem Kerker eingesperrt, bevor ich mich entscheide, noch einmal zu fragen.
+Ich muss mit Dynus sprechen.
+Der Monddrache? Du glaubst, du kannst in unsere Stadt einbrechen und einfach so zu Dynus spazieren? Für eine kleine Ratte hast du ganz schön Nerven!
+Jeder, der eine Audienz beim Monddrachen wünscht, muss die Erlaubnis von König Minos erhalten. Zu deinem Pech verschwendet er keine Zeit mit wertlosen Touristen. König Minos spricht nur mit seinen Bürgern.
+Das ist richtig, Außenseiter. Du willst mit König Minos sprechen? Dann fang lieber an, dir hier ein Zuhause zu suchen![]Eigentlich glaube ich, dass das Wohnhaus die Straße runter freie Zimmer hat.
+Das wollte ich dem Außenseiter eigentlich nicht sagen, Xyla, aber da du anscheinend eine Kanalratte als Nachbarn haben willst... ja, ich glaube, das Wohnhaus hat ein Zimmer frei.
+Es ist sowieso nicht so, dass du dort eine Wohnung bekommen könntest. Meine hat mich ganze 500 Tickets gekostet! Und ich vermute, dass der Außenseiter nicht <i>wirklich</i> reich an Withergate-Tickets ist.
+Das reicht Xyla. Lasst uns unseren unwillkommenen Gast verlassen. Du bist keine Bedrohung für uns. Wachen, eskortiert sie zurück in die Kanalisation, aus der sie gekrochen sind.
+Wir sehen uns später, Kanalratte!
+:System.Boolean Wish.JourneyToWithergateCutscene5/<SceneRoutine>d__2::MoveNext()
+... Hm? Wie lange stehst du schon da? Nun, was willst du?
+Ich suche nach einer Wohnung.
+Ich brauche einen Platz zum Leben.
+Ist das so? Ich habe noch eine Wohnung frei, aber ich kann nicht irgendein Monster von der Straße hier leben lassen. Ich muss wissen, dass du ein echtes Mitglied unserer kleinen Gemeinschaft bist. Das bedeutet, dass du zwei Empfehlungen brauchst, also fang besser an, dir Freunde zu machen. Es ist auch nicht billig, besonders für einen Außenseiter. Der Preis ist <b>500 Tickets.</b>[]... Ah sheesh, sag mir nicht, dass du überhaupt keine Tickets hast? Du bist wirklich neu in der Stadt.[]Hör zu, ich lasse dich die Wohnung heute nehmen und du bezahlst mich im Laufe der Zeit. Aber du solltest wissen, dass du - rechtlich gesehen - kein Bürger bist, bis deine Wohnung komplett abbezahlt ist.
+Wie bekomme ich Tickets?
+Wie bekomme ich Empfehlungen?
+Tickets sind die Währung in Withergate. Du musst dafür arbeiten, Kumpel. Mache Jobs, verdiene Geld. So funktioniert diese Welt.
+Wie komme ich an Empfehlungen?
+Du kennst keine zwei Leute in der Stadt? Dynus, der Allmächtige... Schau, du musst Leute kennenlernen. Geh und rede mit ein paar Leuten auf der Straße. Wenn du dich mit ein paar Leuten angefreundet hast, kommst du wieder zu mir, wenn du die Wohnung behalten willst.
+Du kennst keine zwei Leute in der Stadt? Dynus, der Allmächtige... Schau, du musst Leute kennenlernen. Geh und rede mit ein paar Leuten auf der Straße. Wenn du dich mit ein paar Leuten angefreundet hast, kommst du wieder zu mir, wenn du die Wohnung behalten willst.
+Wie bekomme ich Tickets?
+Tickets sind die Währung in Withergate. Du musst dafür arbeiten, Kumpel. Mache Jobs, verdiene Geld. So funktioniert diese Welt.
+:System.Boolean Wish.GeneralStoreCutscene/<SceneRoutine>d__6::MoveNext()
+Du musst der neue Nachbar sein, über den die Leute reden! Willkommen im Gemischtwarenladen. Oh, warte, eine Sekunde.
+Da haben wir's. Wie auch immer, ich bin Emmett. Ich arbeite hier und an anderen Orten. An vielen anderen Orten...[]Allerdings nur, bis ich genug gespart habe, um mir ein eigenes Haus zu kaufen. Aber hey, wenigstens ist mir nie langweilig. Ich habe gehört, dass die Leute sagen, du sollst ein Farmer sein. Nun, wir verkaufen viele Samen, die dir helfen könnten. Geh jetzt und schau es dir an. Ich gehe bis 20 Uhr nirgendwo hin.
+:System.String Wish.GloriteThugCutscene/<>c::<SceneRoutine>b__7_0()
+Jeder verdient eine zweite Chance!
+:System.String Wish.GloriteThugCutscene/<>c::<SceneRoutine>b__7_2()
+Ich habe ihn mit meinen eigenen Augen gesehen. Er ist schuldig!
+:System.Boolean Wish.GloriteThugCutscene/<SceneRoutine>d__7::MoveNext()
+Bitte, gib mir noch eine Chance. Mein Name ist Stephen. Lass mich in deiner Stadt arbeiten - ich werde alles tun!
+Wir können nicht zulassen, dass Kriminelle wie er in Sun Haven frei herumlaufen.
+XX, hast du ihn beim illegalen Sammeln von Glorit beobachtet? Was denkst du, was wir tun sollten?
+<i>Willst du Stephen Sun Haven beitreten lassen? (Du kannst diese Entscheidung nicht rückgängig machen)
+Ich vertraue auf XXs Urteilsvermögen. Komm mit mir.
+Wenn du es sagst...
+Roza, du hast XX gehört. Bringt ihn weg.
+Mit Vergnügen.
+:System.Boolean Wish.GuardForestCutscene/<SceneRoutine>d__4::MoveNext()
+Hey, da bist du ja! Ich habe mir schon Sorgen gemacht. Ich bin der Erzmagier von Sun Haven, aber dieser Titel ist mir nicht so wichtig - nenn mich einfach Lucia. Lass mich die Erste sein, die dich in Sun Haven willkommen heißt! Moment, hat der Wagenlenker das schon getan? Verflixt, er bekommt immer die erste Begrüßung... Wie auch immer, folge mir in dein neues Zuhause!
+Wir haben schon eine ganze Weile versucht, jemanden zu finden, der sich um die Farm kümmert, deshalb war ich sehr aufgeregt, als ich deinen Brief erhielt. Ich habe alles für dich vorbereitet, XX. Dein Land ist ein wenig rau, aber das macht es nicht weniger zu deinem. Es gehört eine Menge Mut dazu, seine Ersparnisse für ein so großes Stück Land auszugeben. Ich bin auf Anhieb von dir beeindruckt, XX!
+Hier sind wir, trautes Heim Glück allein! Jetzt müssen wir nur noch deine Hütte einrichten. Mach schon, such dir einen Platz aus! Und mach dir keine Sorgen wegen des Unkrauts und der Steine, die kann ich für dich aus dem Weg räumen. Ich gebe dir ein kleines Licht, damit du besser sehen kannst.
+Platziere dein Haus irgendwo!
+:System.Boolean Wish.LynnHangoutCutscene1/<SceneRoutine>d__2::MoveNext()
+Danke, dass du mich eingeladen hast, XX. Ich war überrascht, als du gefragt hast, aber es ist schön, ab und zu mal aus der Schmiede zu kommen.
+Wie läuft es mit deiner Ausbildung?
+Wie hast du dich in der Stadt eingelebt?
+Solon sagt mir, dass ich gut vorankomme, aber ich weiß es nicht. Manchmal kann ich kaum mithalten.
+Ich denke, ich kenne Sun Haven inzwischen ziemlich gut, aber ich vermisse mein Zuhause immer noch sehr. Meine Familie auch. Ich weiß nicht so recht, wie ich hierher passe.
+Wenigstens hältst du überhaupt mit.
+Denkst du, dass das hier das Richtige für dich ist?
+Ich denke, du passt hier gut hin!
+Ich habe gemerkt, dass du Probleme hattest.
+Ja, das stimmt. Ich könnte es vertragen, wenn ich mich öfter dran erinnere.
+Wenn du vorschlägst, dass ich aufhören soll, kannst du gleich aufhören. Ich kann mir nicht vorstellen, meine Mutter im Stich zu lassen.
+Ach, wirklich? Vielleicht denke ich einfach zu viel darüber nach. Danke XX!
+Sieht man das? Oh... hast du mich deshalb eingeladen? Wenn ich es mir recht überlege, antworte bitte nicht darauf.
+Weißt du, ich bin froh, dass du so früh nach mir hierher gezogen bist. So bin ich nicht der Außenseiter, der versucht, sich anzupassen. Es fühlt sich fast so an, als würden wir das zusammen machen... Oh, aber ich meine nicht "zusammen" zusammen! Nicht so![]Ähm, wie auch immer...[]Und wie geht es deiner Farm?
+Ich habe hart auf der Farm gearbeitet.
+Ich habe mich auch außerhalb der Farm beschäftigt.
+Ich wette, das hast du! Ich will nicht zu anmaßend sein, aber ich liebe frisches Gemüse wirklich.
+Oh? Und was hast du stattdessen gemacht?
+Ich bringe dir welches!
+Ich verkaufe alle meine Ernten mit Gewinn.
+Ich habe mich in der Stadt herumgetrieben.
+Ich habe die Welt erkundet.
+Das würdest du tun, für mich? Das wäre großartig!
+Oh, sicher, natürlich. Das verstehe ich.
+Oh, Nathaniel hat etwas davon erwähnt! Es hört sich so an, als ob du dir hier einen ziemlichen Namen machst. Eine Bekanntheit zu sein, wie du oder Nathaniel, klingt nach zu viel. Ich habe schon genug um die Ohren.
+Wow, ich habe bisher nur Sun Haven erkundet. Ich habe noch nicht einmal in Betracht gezogen, die Stadt zu verlassen. Wenn ich ehrlich bin, hört sich das nach zu viel an. Ich habe so schon genug um die Ohren.
+Weißt du, es hört sich so an, als ob du dich hier sehr gut einfügen würdest. XX, kann ich dich etwas fragen? Es ist etwas Ernstes, also zieh mich bitte nicht auf.
+Schieß los.
+Was ist es denn?
+Glaubst du, ich hätte hierher ziehen sollen, um Lehrling zu werden?[]Ich glaube, ich bin ein guter Schmied, aber ich frage mich, was passiert wäre, wenn Solon sich jemand anderen ausgesucht hätte.[]Vielleicht würde jemand anderes einen besseren Job machen als ich. Solon ist ein Meister. Er könnte jeden auf der Welt ausbilden.[]Ich habe einfach nicht das Gefühl, dass ich es verdiene, hier zu sein. Denke ich zu viel darüber nach, oder habe ich wirklich einen Fehler gemacht?
+Du verdienst es, hier zu sein, mehr als jeder andere!
+Wenn du dazu bestimmt wärst, hier zu sein, würdest du dann an dir selbst zweifeln?
+Du meinst es ernst, und du machst keine Witze? Wow... Ich glaube, das brauchte ich. Danke, XX, du bist ein toller Freund.
+Sheesh... Daran habe ich noch nie gedacht. Du könntest Recht haben. Ich muss noch eine Menge nachdenken.
+Ich muss heute noch einige Arbeiten erledigen, also sollte ich jetzt zurückgehen. Bist du bereit zu gehen?
+Klingt gut.
+Ich wünschte, wir könnten den ganzen Tag bleiben.
+Das hat Spaß gemacht, XX. Danke, dass du mich mitgenommen hast!
+Meine Güte, ich weiß nie, was ich sagen soll, wenn du so nett zu mir bist![]Das hat Spaß gemacht, XX. Danke, dass du mich mitgenommen hast.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_0()
+Ja, habe ich.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_2()
+Nein, habe ich nicht. Sind wir sicher?
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_4()
+Ich möchte nicht darüber reden.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_6()
+Eine Farm.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_8()
+Gemeinschaft.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_10()
+Einsamkeit.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_12()
+Ein Neustart.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_14()
+[Wünsche dir Liebe]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_16()
+[Wünsche dir Reichtümer]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_18()
+[Wünsche dir Abenteuer]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_20()
+[Wünsche dir Frieden]
+:System.Boolean Wish.IntroCutscene/<SceneRoutine>d__4::MoveNext()
+Es sieht nach klarem Himmel aus, was eine gute Nachricht für uns ist. Der Vollmond sorgt für gute Sicht und das bedeutet, dass es keine unwillkommenen Überraschungen auf der Straße geben wird. Ich bin mir sicher, dass du die gleichen Gerüchte gehört hast wie ich. Monster und dergleichen.
+Ich würde mir keine großen Sorgen machen. Meiner Erfahrung nach lassen Monster dich in Ruhe, solange du das Gleiche tust.[]Nicht jeder würde dem zustimmen. Du wirst sehen, dass sich das Militär jetzt in Sun Haven verschanzt hat. Vorsicht ist besser als Nachsicht, schätze ich.
+Ich will dich nicht beunruhigen, mein Freund. Wir sind sehr sicher. Es ist nur schön, den Mond zu sehen, das ist alles.
+Das ist wahrscheinlich am besten so. Gerüchte und Hörensagen nützen niemandem etwas.
+Es dauert nicht mehr lange, bis wir Sun Haven erreichen. Hier ist nicht mehr viel los. Das muss doch was für dich sein, oder? Sag mal, was ist so wichtig, dass es dich so weit raus aufs Land zieht?
+Das Farmleben ist ein einfaches Leben. Von seiner eigenen harten Arbeit zu leben, ist ein respektabler Lebensstil.
+Die Menschen brauchen sich gegenseitig, das verstehe ich. Alleine zu leben ist überhaupt keine Art zu leben.
+Wegen der ganzen Zeit, die ich in diesem Wagen verbracht habe, weiß ich ein oder zwei Dinge über Einsamkeit. Man kann eine Menge lernen, wenn man Zeit alleine verbringt.
+Ein Fahrgast hat mir mal gesagt, dass jeder Moment ein neuer Anfang ist. Oder so ähnlich.
+Oh! Siehst du die Sternschnuppe? Jetzt ist deine Chance - wünsch dir was! Aber halte den Atem an und puste ihn in den Himmel, sonst geht er nicht in Erfüllung.
+*Ich konnte nicht rechtzeitig an einen Wunsch denken... ich wurde fast ohnmächtig! Nun, ich hoffe du hast deinen Wunsch erfüllt bekommen. Und sieh an, wir sind da! Ich schätze, ich bin die erste, die dich willkommen heißt. XX. Willkommen in Sun Haven!
+:System.Boolean Wish.JourneyToDragonsMeetCutscene1/<SceneRoutine>d__2::MoveNext()
+Das ist es, Elios ist gleich da vorne. Ich fürchte, ich kann nicht mit dir gehen - es muss ganz allein deine Entscheidung sein. Viel Glück, XX! Ich werde hier sein, wenn du fertig bist.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<Complete>b__4_0()
+Ich bin bereit zu gehen.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<Complete>b__4_3()
+Ich bleibe lieber hier.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_1()
+Mich selbst.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_3()
+Meine Freunde.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_5()
+Meine Familie.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_7()
+Meine Vorfahren.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_9()
+Ein loderndes Feuer.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_10()
+Eine aufsteigende Wolke.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_11()
+Ein fließender Fluss.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_12()
+Ein stehender Baum.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_13()
+Die Erfüllung meines Schicksals.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_14()
+Im Moment leben.
+:System.Boolean Wish.JourneyToDragonsMeetCutscene2/<SceneRoutine>d__5::MoveNext()
+Ich habe auf dich gewartet, XX. Es ist ein Glück, dass Lucia dich unversehrt hierher gebracht hat.[]Ich bin Elios, der Sonnendrache und Wächter von Sun Haven.[]Sun Haven ist eine beständige Gemeinschaft mit einer großartigen Zukunft. Ich trage die Verantwortung für den Erhalt des Gemeinwesens hier. Als Hüter ziehe ich es vor, jeden Neuankömmling persönlich zu sehen. XX, ich brauche einen Einblick in dein Innerstes. Mach deinen Geist frei. Antworte nur mit der reinsten Wahrheit.
+XX, für wen lebst du dein Leben?
+Für dich selbst, wie ich sehe. In der Tat, jeder Baum im Wald muss sich selbst aus dem Dreck heben. XX, wo fühlst du die stärkste natürliche Verbindung?
+Zu deinen Freunden, wie ich sehe. In der Tat, kein einzelner Baum kann einen Wald bilden.[]XX, wo fühlst du die stärkste natürliche Verbindung?
+Zu deiner Familie, wie ich sehe. In der Tat, der Baum kann nicht ohne den Samen wachsen.[]XX, wo fühlst du die stärkste natürliche Verbindung?
+Zu deinen Vorfahren, wie ich sehe. In der Tat, die Feuer der Vergangenheit befruchten den Boden von heute.[]XX, wo fühlst du die stärkste natürliche Verbindung?
+XX, was bringt dein Herz zum Brennen?
+Hm... Wie interessant. XX, es gibt eine Kraft in dir. Deine Energie wirkt fast vertraut. Wäre ich blind, würde ich sicher denken, dass ein junger Drache vor mir steht.[]Ich kann nicht sagen, was dies für dein Schicksal bedeutet, aber diese Kraft wird nur wachsen. Achte auf deinen Weg. Erforsche deine Verbindung mit dieser Magie. Hege und pflege dich.[]Und XX, deine Kräfte werden zweifelsohne Auswirkungen auf unsere Welt haben. Obwohl diese Verantwortung nur auf dich fällt, denke daran, dass du nicht allein bist.[]Entfremde dich nicht von deinen Nachbarn. Sie werden dich unterstützen, wenn du schwankst.[]Ich gewähre dir meinen Segen, XX.[]Du hast nun Zugang zu der großen Macht, die in dir wohnt, aber du musst deine Fähigkeiten vertiefen, bevor du deine Reise fortsetzen kannst. Wenn die Zeit reif ist, werde ich die Hand ausstrecken, um dich zu führen. Wenn du diesen Ort verlässt, beginnst du dein neues Leben. Gehe zuversichtlich deinem Glück entgegen, XX.
+:System.Boolean Wish.LiamWheatCutscene/<Cutscene1>d__8::MoveNext()
+Farmer, bist du es? Ich weiß nicht, wie es in deiner Heimat läuft, aber in Sun Haven klauen wir nicht von den Feldern unserer Nachbarn.
+Es tut mir so leid, es wird nicht wieder vorkommen.
+Was willst du dagegen tun?
+Danke, ich möchte wirklich, dass wir gute Nachbarn sind.
+Wenn das noch einmal passiert, muss ich die Stadtwache rufen.
+:System.Boolean Wish.LiamWheatCutscene/<Cutscene2>d__9::MoveNext()
+Farmer, bist du es schon wieder? Ich sagte, ich würde die Wachen rufen, wenn ich dich dabei erwische, wie du meinen Weizen nimmst.
+Ooh, ich habe solche Angst.
+Dann ruf sie doch einfach.
+WACHEN!!
+WACHEN!!!
+Wache
+Was ist das Problem?
+Ich habe XX dabei erwischt, wie er Weizen von meinem Feld gestohlen hat.
+Ich übernehme ab hier.[]Auf geht's Dieb, du gehst in den Knast.
+Ich übernehme ab hier.[]Auf geht's Dieb, du kommst ins Gefängnis.
+Ich übernehme ab hier.[]Los Dieb, du gehst in den Knast.
+Ich übernehme ab hier.[]Los Dieb, wir sperren dich ein.
+Ich übernehme es von hier.[]Los Dieb, du gehst ins Gefängnis.
+:System.Boolean Wish.LuciaCutscene/<SceneRoutine>d__7::MoveNext()
+Da bist du ja! Ich habe mir schon Sorgen gemacht. Ich bin der Erzmagier von Sun Haven, aber dieser Titel ist mir nicht so wichtig - nenn mich einfach Lucia. Lasst mich die Erste sein, die euch in Sun Haven willkommen heißt![]Moment, das hat der Kutscher schon gesagt? Verdammt, dieser Mann bekommt immer die ersten Grüße... Nun, wie auch immer. Hier, das ist der Hauptmann, der für die Soldaten in Sun Haven verantwortlich ist.
+Das ist Nathaniel, und ich freue mich, dich kennenzulernen. Du bist zu einem guten Zeitpunkt gekommen, Reisender. Sun Haven war noch nie so sicher. Ich meine die Jahreszeit. Es ist eigentlich schon ziemlich spät am Abend.
+XX, ich möchte, dass du zu uns kommst, wenn du Probleme hast, dich einzuleben. Betrachte uns einfach als deine Nordsterne.
+Warte, kann es zwei Nordsterne geben?
+In diesem Fall, ja. Wie auch immer, XX, folge mir zu deinem neuen Zuhause!
+Du kannst von hier aus übernehmen, Lucia. War nett, dich kennenzulernen, und wir sehen uns in der Stadt, Nachbar!
+Sollen wir?
+Hier sind wir, trautes Heim Glück allein! Jetzt müssen wir nur noch deine Hütte einrichten. Los, such dir einen Platz aus! Und mach dir keine Sorgen um das Unkraut, das kann ich für dich aus dem Weg räumen.[]Hier, ich gebe dir ein kleines Licht zum Arbeiten.
+Platziere dein Haus irgendwo!
+:System.String Wish.MarriageCutscene/<>c::<Complete>b__35_0()
+Ich kann kaum erwarten unser Leben gemeinsam zu verbringen.
+:System.String Wish.MarriageCutscene/<>c::<Complete>b__35_1()
+Ich möchte noch etwas Zeit mit den Gästen verbringen.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_0()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_1()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_2()
+Awww... Danke.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_3()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_4()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_5()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_6()
+Ich nehme das als Kompliment.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_7()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_8()
+Ich weiß nicht... Ich glaube, man hätte es besser planen können.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_9()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_10()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_11()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_12()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_13()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_14()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_15()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_16()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_17()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_18()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_19()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_20()
+Ich weiß, es ist umwerfend.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_21()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_22()
+Toll.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_23()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_24()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_25()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_26()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_27()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_28()
+Du bist ziemlich langweilig!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_29()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_30()
+Danke dir, Emmett!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_31()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_32()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_33()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_34()
+Die Gemeinschaft hier ist toll!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_35()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_36()
+Ich würde mir nicht einmal die Mühe machen zu fragen.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_37()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_38()
+Klingt ganz nach euch beiden.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_39()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_40()
+Etwas wie das...
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_41()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_42()
+Danke, Kiddo.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_43()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_44()
+Vielleicht später.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_45()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_46()
+Nur, wenn du heiraten möchtest.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_47()
+Man sieht sich!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_48()
+Danke dir.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_49()
+Man sieht sich!
+:System.Boolean Wish.MarriageCutscene/<SceneRoutine>d__37::MoveNext()
+Achtung! Ruhe, bitte![]Danke. Nun lasst uns beginnen.[]Wir haben uns hier versammelt, um das heilige Bündnis zwischen zwei strahlenden Wesen zu feiern - XX und 
+. In der Ehe werden sie Trost und Sicherheit finden, während sie durch ein Leben reisen, das durch ihre Liebe noch schöner wird.[]Zu den Verlobten sage ich: Schließt keinen Bund der Liebe, sondern lasst euch von eurer Liebe tragen, wie das Meer ein Schiff trägt, und lasst euer Glück so voll und sichtbar werden wie ein Segel voller Wind.[]Wenn jemand gegen diese Verbindung protestieren sollte, soll er sprechen.[]...... Gott sei Dank, dieser Teil macht mich immer nervös.[]Willst du, 
+, XX zu deinem angetrauten Partner nehmen?
+Ich will!
+Bernard
+Und nimmst du, XX, 
+, zu deinem angetrauten Partner?
+Ich will.
+Ich will nicht.
+Mit der Macht, die mir von der Erzmagierin Lucia von Sun Haven und Elios, dem Sonnendrachen, verliehen wurde, erkläre ich euch hiermit zu Ehepartnern. Ihr könnt diese Zeremonie nun mit einem Kuss besiegeln!
+:System.Boolean Wish.MinesCutscene/<SceneRoutine>d__4::MoveNext()
+Es gibt viele Arten von Steinen, Erzen und Edelsteinen in den Minen, die immer wertvoller werden, je tiefer du gräbst.[]Ein <color=#39CCFF>rostiger Schlüssel</color>, der auf dieser Ebene versteckt ist, schließt die nächste Ebene vorübergehend auf.[]Du kannst einen Schlüssel an einem Amboss herstellen, um die nächste Ebene dauerhaft aufzuschließen. Diese Ebene erfordert einen <color=#39CCFF>Kupferschlüssel</color>.
+:System.Boolean Wish.QuarryCutscene1_Start/<SceneRoutine>d__7::MoveNext()
+Oh je, noch ein Steinschlag. Hey, du hast ein großartiges Timing - hilf mir, die Felsen wegzuräumen, ja?
+Verdammt, noch ein Steinschlag. Hey, du hast ein großartiges Timing - hilf mir, diese Felsen wegzuräumen, ja? []Was, du hast keine Spitzhacke dabei? Na gut, nimm die hier.
+Und? Willst du den ganzen Tag nur dastehen oder hilfst du mit? Komm schon, hilf mir, die Steine zu zerbrechen.
+Hilf Solon, die heruntergefallenen Felsen zu zerbrechen
+:System.Boolean Wish.QuarryCutscene2_End/<SceneRoutine>d__4::MoveNext()
+Das wird reichen! Danke für die Hilfe, Farmer. Mein Name ist Solon. Ich betreibe hier die Schmiede, also komm vorbei, wenn du Werkzeug oder Rüstung brauchst.
+:System.String Wish.TheSunDragonsProtectionCutscene1/<>c::<SceneRoutine>b__3_4()
+Ich bin auf dem Weg!
+:System.String Wish.TheSunDragonsProtectionCutscene1/<>c::<SceneRoutine>b__3_6()
+Tut mir leid, ich kann gerade nicht.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene1/<SceneRoutine>d__3::MoveNext()
+Höre auf meine Worte, XX...[]
+Ich kann spüren, wie deine Macht wächst. Dein Dienst für Sun Haven war bemerkenswert, aber heute hängt die Sicherheit von Sun Haven von dir ab.
+Lebe wohl, XX.
+XX, Sun Haven braucht dich. Es gibt keine Wahl.
+:System.String Wish.TheSunDragonsProtectionCutscene2/<>c::<Complete>b__3_0()
+Ich bin bereit zu gehen.
+:System.String Wish.TheSunDragonsProtectionCutscene2/<>c::<Complete>b__3_3()
+Ich möchte lieber bleiben.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene2/<SceneRoutine>d__5::MoveNext()
+Es freut mich zu sehen, dass du zu Stärke kommst, XX. Jetzt bitte ich dich, deine Macht zum Wohle von Sun Haven einzusetzen.[]Eine unbekannte Energie ist in den letzten Tagen aufgetaucht - eine dunkle Energie. Ich glaube, dass sie sich in unserer Welt ausbreitet, aber ich weiß nicht, wo.[]XX, ich muss mich mit meinesgleichen beraten, den anderen Wächterdrachen in dieser Region. Es ist zwingend notwendig, dass ich ihr Wissen über diese Dunkelheit einhole. Zumindest werde ich sie warnen, wachsam zu sein.[]Dennoch darf ich Sun Haven nicht unbewacht lassen. Ich werde einen Schutzzauber über die Stadt legen, um sie zu schützen, während ich weg bin.[]Dafür, XX, bitte ich dich um deine Hilfe.[]Geh in den Wald östlich von Sun Haven und finde einen Kristall namens Glorit. Glorit wächst dort im Überfluss, aber ich brauche nur einen.[]Es ist wichtig, dass du nicht mehr als einen Kristall nimmst, XX. Das Gleichgewicht der Waldtiere hängt von diesen Kristallen ab.[]XX, kehre umgehend mit dem Kristall zurück, damit ich meine Reise beginnen kann.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_2()
+Ihr seht für mich nicht wie Bauarbeiter aus.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_3()
+Du bist ein schlüchter Lügner.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_4()
+Ich lasse euch nicht all die Kristalle nehmen!
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_5()
+(Zahle 500 Gold) Vielleicht wird dich das überzeugen, die Kristalle zurückzulegen?
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_7()
+(Kämpfen) Du hast es so gewollt!
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_9()
+(Begründen) Das Leben der Waldtiere hängt von diesen Kristallen ab.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_11()
+(Zahle 1000 Gold) Vielleicht wird dich das überzeugen, die Kristalle zurückzulegen?
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_13()
+(Kämpfen) Du hast es so gewollt!
+:System.Boolean Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<SceneRoutine>d__6::MoveNext()
+Hey, dieser Bereich ist tabu! Wir beenden hier hinten einige private Bauarbeiten, also komm später wieder, wenn wir fertig sind.
+Vergiss ihn UND die Tiere. Diese Kristalle werden sich zu Hause bestimmt gut verkaufen, und jetzt gehören sie mir!
+Ach ja? Was wirst du dagegen tun?
+Was ist das? Der Boss hat nie gesagt, dass wir den Tieren wehtun würden! Ich habe ein Kaninchen zu Hause - ich kann da nicht mehr mitmachen.
+Nun, da du meine Sprache sprichst... Vielleicht kann ich dieses Mal eine Ausnahme machen.
+Jetzt bist du dran, Junge!
+:System.String Wish.TheSunDragonsProtectionCutscene4_BanditExit/<>c::<SceneRoutine>b__2_0()
+Verschwinde von hier.
+:System.String Wish.TheSunDragonsProtectionCutscene4_BanditExit/<>c::<SceneRoutine>b__2_1()
+Du kannst dich glücklich schätzen.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene4_BanditExit/<SceneRoutine>d__2::MoveNext()
+Okay, okay! Ich lege die Kristalle zurück, lass mich einfach gehen.
+*Schluck* Ich gehe ja schon, ich gehe ja schon!
+:System.String Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<>c::<Complete>b__4_0()
+Ich bin bereit zu gehen.
+:System.String Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<>c::<Complete>b__4_3()
+Ich möchte bleiben.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<SceneRoutine>d__5::MoveNext()
+Ausgezeichnet, XX. Ich werde die Magie dieses Kristalls nutzen, um einen Schutzzauber über Sun Haven zu legen, während ich weg bin. Du hast unsere Wälder beschützt, und nun schützt dein Dienst Sun Haven selbst. Diese Taten sind nichts anderes als edel.[]Kümmere dich in meiner Abwesenheit um Sun Haven, XX. Ich werde nicht lange weg sein.
+:System.Boolean Wish.TrainIntroCutscene/<SceneRoutine>d__12::MoveNext()
+Entschuldige, dass ich dich störe, aber ist dieser Platz besetzt? Du fährst doch nicht nach Sun Haven, oder?
+Doch, das tue ich.
+Du fährst nach Sun Haven?
+Was geht dich das an?
+Wirklich? Ich nehme an, dann sind wir wohl Nachbarn!
+Ja, das bin ich. Wenn du dorthin gehst, dann macht uns das zu Nachbarn!
+Tut mir leid, du hast recht. Es geht mich nichts an.
+Nun, mein Name ist Lynn. Wie heißt du? XX? Ich wünschte, ich hätte einen interessanteren Namen wie deinen. Darf ich dich etwas fragen, XX? Ich habe mich gefragt, ob du die gleichen Gerüchte gehört hast wie ich. Die Leute sagen, dass es überall in dieser Gegend Monster gibt. Hast du so etwas auch schon gehört?
+Ja, habe ich...
+Nein, habe ich nicht.
+Du klingst besorgt... Sollte ich auch besorgt sein?
+Oh, nein? Das ist überraschend. Ich habe gehört, dass es da draußen eine Stadt voller Monster gibt. Die Leute sind nicht mehr so viel unterwegs, weil sie Angst vor Monstern auf der Straße haben. Ich weiß aber nicht, ob das stimmt.
+Es tut mir so leid, ich wollte die Unterhaltung nicht ruinieren. Ich bin sicher, Sun Haven ist sicher.[]Oh, schau mal aus dem Fenster - da ist eine Sternschnuppe! Wünsch dir etwas, schnell!
+[Wünsch dir Liebe!]
+[Wünsch dir Reichtum!]
+[Wünsch dir Abenteuer]
+[Wünsch dir Frieden]
+Hoffen wir, dass unsere Wünsche in Erfüllung gehen... Es sieht so aus, als würden wir jetzt an die Haltestelle kommen. Oh je, ich bin nervös - aber wir wollen Sun Haven nicht warten lassen!
+Da seid ihr ja! Ich fing gerade an, mir Sorgen zu machen. Ich freue mich sehr, euch beide in Sun Haven begrüßen zu dürfen![]Ich bin Lucia, die Erzmagierin von Sun Haven. Und darf ich euch Nathaniel vorstellen, den Hauptmann der Stadtwache.
+Freut mich, euch kennenzulernen, Reisende. Ihr seid zu einem guten Zeitpunkt gekommen. Sun Haven war noch nie so sicher. Lynn, ich bin gespannt auf die Arbeit, die du mit Solon machst. Und du bist XX? Weißt du, ich war mir nicht sicher, ob ich dieses Land jemals wieder bewirtschaftet sehen würde - ich kann es kaum erwarten, zu sehen, wie es aussieht, nachdem du ein wenig harte Arbeit hineingesteckt hast!
+Nathaniel und ich widmen die meisten unserer wachen Stunden Sun Haven. Unser Ziel ist es, diese Stadt und ihre Bürger voranzubringen. Ich möchte, dass ihr beide wisst, dass wir für euch da sind, wenn ihr etwas braucht. Zögert wirklich nicht, uns aufzusuchen!
+Viele eurer neuen Nachbarn werden das auch sagen. Wir alle in Sun Haven sind sehr vertraut miteinander. Die Leute bleiben aus einem bestimmten Grund hier. Ich wette, du wirst auch einen Grund zum Bleiben finden.
+Es gibt hier so viel für dich zu tun, ich bin schon ganz aufgeregt, wenn ich an all das denke! Nathaniel, wann denkst du, sollten unsere neuen Nachbarn den Sonnendrachen besuchen?
+Ich bin mir nicht sicher, aber vielleicht sollten sie zumindest zuerst ihre Betten sehen?
+Oh, natürlich. Du hast Recht! Ich greife mir selbst vor. XX, warum begleite ich dich nicht zu deinem neuen Zuhause?
+Lynn, ich bringe dich zu deinem Haus. Wir haben dich in der Nähe des Steinbruchs untergebracht. Komm, folge mir.[]Oh - es war schön, dich kennenzulernen, XX!
+Danke, dass du mit mir gefahren bist, XX. Tschüss!
+Sollen wir?
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_0()
+<color="red">Infuse 10 mana (1  <sprite="orb_icon" index=0>)</color>
+Lade 10 Mana auf (1  <sprite="orb_icon" index=0>)
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_2()
+<color="red">Lade 100 Mana auf (10  <sprite="orb_icon" index=0>)</color>
+Lade 100 Mana auf (10  <sprite="orb_icon" index=0>)
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_4()
+Lade alle Mana auf (
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_6()
+Man sieht sich!
+:System.Void Wish.DialogueTree/<>c__DisplayClass23_6::<ParseTextAsset>b__10(Wish.Item)
+Ich kann nicht warten!
+Ist schon okay, vielleicht nächstes mal.
+Süß.
+Awww...
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_8()
+Geschenk geben
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_14()
+Man sieht sich!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_16()
+Man sieht sich!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_20()
+Ich würde mich gerne von meinem Ehepartner scheiden lassen.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_22()
+Ich bin mir sicher.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_24()
+Eigentlich ist es egal.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_26()
+ <sprite="gold_icon" index=0> Welche Dienstleistungen bietest du an?
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_28()
+ <sprite="gold_icon" index=0> Was verkaufst du?
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_30()
+Man sieht sich!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_32()
+Man sieht sich!
+:System.String Wish.DialogueTree/<>c::<Talk>b__25_0()
+Kein Problem.
+:System.String Wish.DialogueTree/<>c::<Talk>b__25_2()
+Man sieht sich.
+:System.Void Wish.FishingRod/<>c__DisplayClass64_0::<WinMiniGame>b__0()
+Fisch gefangen: 
+:System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()
+Lade freundliche Nachbarn...
+Lade geheime Emotes...
+Lade freundliche Nachbarn...
+Sammle fluffige Tiere...
+Entwickle Snaccoons...
+Lade Kleidung...
+Rüste Charaktere aus...
+Lade Drachen... 
+:System.Boolean Wish.LoadMainMenu/<LoadAsync>d__9::MoveNext()
+Kompiliere Emmetts... 
+Zertrete Bugs... 
+:System.Boolean Wish.LoadMainMenu/<LoadItemsAsync>d__10::MoveNext()
+Grabe Minen...
+:System.Void Wish.NetworkGameManager/<>c__DisplayClass8_0::<ObjectInitialized>b__0()
+Spieleranzahl 
+:System.Void Wish.NetworkPlayer/<>c__DisplayClass59_0::<UpdateSceneID>b__0()
+Anderer Spieler ist in der Szene 
+:System.Void Wish.NetworkPlayer/<>c__DisplayClass80_0::<LoadedWorld>b__0()
+ verbunden!
+:System.String Wish.AnimalStand/<>c::<GetResponses>b__5_2()
+Man sieht sich!
+:System.String Wish.PetStand/<>c::<Interact>b__3_1()
+Ja.
+:System.String Wish.PetStand/<>c::<Interact>b__3_2()
+Nein.
+:System.String Wish.Placeable/<>c::<Use1>b__23_1()
+Bestätigen.
+:System.String Wish.Placeable/<>c::<Use1>b__23_3()
+Nein.
+:System.String Wish.Player/<>c::<RequestSleep>b__374_1()
+Ja
+:System.String Wish.Player/<>c::<RequestSleep>b__374_3()
+Nein
+:System.String Wish.MineLock/<>c__DisplayClass6_0::<Interact>b__1()
+Benutze 
+:System.String Wish.MineLock/<>c::<Interact>b__6_2()
+Schließen
+:System.Void Wish.BigBridgeQuestManager/<>c::<StopPlayer>b__6_1()
+Wache
+Entschuldige, du kannst dort nicht ohne Waffe hin.
+:System.String Wish.NPCSpawnManager/<>c::<SpawnNPC>b__7_0()
+<sprite="quest_assets" index=0> Ich bin bereit!
+:System.String Wish.NPCSpawnManager/<>c::<SpawnNPC>b__7_2()
+Ich bin noch nicht bereit.
+:System.String Wish.QuestDialogueOverride/<>c::<LoadQuest>b__10_0()
+Danke.
+:System.String Wish.QuestDialogueOverride/<>c::<LoadQuest>b__10_1()
+Man sieht sich!
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnLucia>b__12_0()
+<sprite="quest_assets" index=0> Lass uns gehen!
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnLucia>b__12_2()
+Nein, ich habe mich noch nicht vorbereitet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_0()
+<sprite="quest_assets" index=0> Ich brauche eine Eskorte nach Drachentreff.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_2()
+Nun, hier sind wir. Wirst du mit dem Sonnendrachen reden? Oder hast du mich ohne Grund den ganzen Weg zurücklegen lassen?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_4()
+Nein, ich habe mich noch nicht vorbereitet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_0()
+<sprite="quest_assets" index=0> Ich brauche einen Eskort nach Drachentreff.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_2()
+Nun, hier sind wir. Wirst du mit dem Sonnendrachen reden? Oder hast du mich ohne Grund den ganzen Weg zurücklegen lassen?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_4()
+Nein, ich habe mich noch nicht vorbereitet.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection8>b__15_2()
+Nun, hier sind wir. Wirst du mit dem Sonnendrachen reden? Oder hast du mich ohne Grund den ganzen Weg zurücklegen lassen?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection8>b__15_4()
+Nein, ich habe mich noch nicht vorbereitet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRaimi>b__17_0()
+<sprite="quest_assets" index=0> Natürlich!
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRaimi>b__17_1()
+Ich bin dabei!
+Whoa, du brauchst eine Waffe! Komm zurück wenn du ausgerüstet bist.
+Ich weiß nicht, ich bin gerade sehr beschäftigt...
+:System.Void Wish.TownNorthEntranceQuestManager/<>c::<StopPlayer>b__6_1()
+Wache
+Entschuldige, du kannst hier noch nicht hin.
+:System.Void Wish.WheatFieldQuestManager/<>c::<StopPlayer>b__6_1()
+Wache
+Entschuldige, du kannst ohne Wafe nicht hier hin.
+:System.String Wish.RepairSign/<>c__DisplayClass6_0::<Interact>b__1()
+<color="red">Reparieren</color>
+Reparieren
+:System.String Wish.RepairSign/<>c::<Interact>b__6_2()
+Nicht jetzt
+:System.String Wish.SaleStand/<>c::<GetResponses>b__12_2()
+Man sieht sich!
+:System.Void Wish.LoadCharacterMenu/<>c__DisplayClass5_0::<SetupSavePanels>b__1()
+Bist du sicher, dass du  
+löschen möchtest?

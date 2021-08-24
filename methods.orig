@@ -1,0 +1,1165 @@
+:System.Void Wish.Donovan::.cctor()
+Nothing like a nice bone to hit the spot, this is exactly what I need! Thanks, I'll remember this.
+:Wish.InteractionInfo Wish.RecordPlayer::get_InteractionPoint()
+Play
+Stop
+:System.Void Wish.RecordPlayer::TurnOn(System.Boolean,System.Int32,System.Boolean)
+Requires a record to play!
+:System.Void Wish.AnimalSpawnItem::MakeDecorationPreview()
+Decoration Preview
+:System.Void Wish.AnimalSpawnItem::CreateNewAnimal(Wish.AnimalItem,System.Boolean)
+New pet animal unique id 
+:System.Void Wish.ApartmentElevator::Interact(System.Int32)
+What floor are you going to?
+:Wish.InteractionInfo Wish.ApartmentElevator::get_InteractionPoint()
+Elevator
+:System.Void Wish.Bed::FailAttemptToSleep()
+You must be married to 
+ to sleep in their bed!
+:Wish.InteractionInfo Wish.BookShelf::get_InteractionPoint()
+Read 
+:Wish.InteractionInfo Wish.CookingPot::get_InteractionPoint()
+Cook
+:System.Void Wish.TimeOfNeedCutscene2::Complete()
+Are you ready to head back?
+:System.Void Wish.JourneyToDragonsMeetCutscene1::Complete()
+Go speak with Elios.
+:System.Void Wish.JourneyToDragonsMeetCutscene2::Complete()
+XX, you're a mage! I thought I felt some magical energy in you when we first met, but now that energy is bursting from you. Congratulations!
+Elios gave me my blessing when I was much younger, so I know it can be a lot to take in. I'm always around to talk if you're feeling unsure about your magic or anything else.
+For now, how about we head back home?
+:System.Void Wish.LuciaCutscene::<SceneRoutine>b__7_4()
+Go and place your farm somewhere.
+:System.Void Wish.MarriageCutscene::Complete()
+This is the happiest day of my life!
+:System.Void Wish.MarriageCutscene::SetNPCOneLiners()
+It seems like just yesterday I was barging through your door for the first time... Now look at you!
+This is such a beautiful wedding, I told myself I wouldn't cry, but...
+Congratulations on the marriage. I couldn't imagine standing up in front of everyone and getting married like that.
+So this is how they celebrate marriage in the Human town... Consider me unimpressed.
+Hey, good job on getting married. Hope you have lots of happy years together, and all that. So is there going to be any food, or...
+This is so different from an Elven wedding... Oh - still nice though!
+Oh, XX. I'm so happy for you! If you ever need any advice, you know where to go.
+Congratulations, congratulations! You make such a cute cute couple, nya!
+Emma and Elizabeth weren't too bothersome during the ceremony, were they? They were both so excited, they wouldn't stop fidgeting... Oh, and congratulations!
+Watching two of Sun Haven's citizens joined in matrimony is truly heartwarming. Congratulations, XX.
+This is the biggest wedding I've ever been seen. It seems like half the town is here!
+Don't worry, I was on alert through the whole ceremony.
+Human ceremonies are so much more practical than Elven ones. It's funny how our cultures differ, even in celebration.
+What a wonderful ceremony! It's good to have nice things like this to focus on. It's not just a special day for you, you know. The whole town is celebrating
+This was... pretty boring.
+Don't worry about the chairs, I'll gather them all up.
+Looks like you landed the big fish!
+Days like this remind us what it means to be part of a community.
+The best thing about marriage? Permanent workout partner! Hm, when is the last time Giuseppe joined me on a jog...
+Tonya ran a marathon the day after our wedding... I slept in.
+Farmer! Are you a daddy now??
+Hello, farmer! Liam told us to say congratulations...... Congratulations!!
+Can we play games now?
+Do I have to get married like this someday, too?
+Here's to many happy years together!
+:System.Void Wish.TheSunDragonsProtectionCutscene2::Complete()
+Are you ready to head back?
+:System.Void Wish.TheSunDragonsProtectionCutscene5_EliosTurnin::Complete()
+Are you ready to head back?
+:System.Void Wish.DayCycle::Update()
+Day 
+:Wish.InteractionInfo Wish.Decoration::get_InteractionPoint()
+Open
+:System.Void Wish.Chest::Interact(System.Int32)
+Someone is already using this.
+:Wish.InteractionInfo Wish.Chest::get_InteractionPoint()
+Open
+:System.Void Wish.CraftingTable::Interact(System.Int32)
+I shouldn't use this without permission. Maybe if I get to know Lynn better, she will let me use it.
+:Wish.InteractionInfo Wish.CraftingTable::get_InteractionPoint()
+Pickup Items
+:System.Void Wish.CraftingTable::SetupCraftingQueue()
+Finished
+:System.Void Wish.CraftingTable::.ctor()
+Craft
+:Wish.InteractionInfo Wish.ForageTree::get_InteractionPoint()
+Shake
+:System.Void Wish.ForageTree::Shake(System.Boolean)
+Best not to steal from Claude's garden... Maybe if I get to know him better, he'll let me pick fruit from his garden.
+:Wish.InteractionInfo Wish.Forageable::get_InteractionPoint()
+Unlock
+Pick
+:Wish.InteractionInfo Wish.ForageableChest::get_InteractionPoint()
+Pick
+:System.Void Wish.HungryMonster::Interact(System.Int32)
+Someone is already using this.
+:Wish.InteractionInfo Wish.HungryMonster::get_InteractionPoint()
+Snaccoon
+:System.Void Wish.HungryMonster::MonsterFull()
+Monster is full
+:System.Void Wish.HungryMonster::MonsterHungry()
+Monster is hungry
+:System.Void Wish.HungryMonster::.cctor()
+Gosh, this is one hungry boyo.
+Wow, this is one handsome fella.
+Wow, so handsome.
+Wow, so majestic.
+Jeez, this is one hungry boyo.
+Jeez, this is one chonky lad
+Looks like grandma's home cookin' went too far.
+:ClearingTheRoad2Quest
+Someone is already using this.
+:System.Void Wish.Inspectable::.ctor()
+Examine
+Seems like nothing of interest
+:System.Void Wish.Mailbox::Interact(System.Int32)
+There is no mail at this time.
+:Wish.InteractionInfo Wish.Mailbox::get_InteractionPoint()
+Mailbox
+:System.Void Wish.ManaInfuser::Interact(System.Int32)
+Infuse 10 mana for 1  <sprite="orb_icon" index=0>
+:System.Void Wish.ManaInfuser::RefreshDialogue()
+Infuse 10 mana for 1  <sprite="orb_icon" index=0>
+:Wish.InteractionInfo Wish.ManaInfuser::get_InteractionPoint()
+Infuse Mana
+:System.Void Wish.Minecart::StartMineCart()
+Going to the mines!
+:System.Boolean Wish.PlayerHouse::Upgrade(System.Int32)
+You must upgrade to a tier 2 house first!
+You can't upgrade a house with animals inside!
+You can't upgrade a house with animals inside!
+:Wish.InteractionInfo Wish.TreasureChest::get_InteractionPoint()
+Open
+:System.Void Wish.EliosFountain::.ctor()
+Touch the water
+:Wish.InteractionInfo Wish.Animal::get_InteractionPoint()
+Pet 
+Feed 
+Pet 
+Feed 
+Pickup 
+:System.String Wish.Animal::GetName()
+\(Clone\)
+:System.String Wish.NPCAI::GiftResponse(Wish.ItemData,System.Boolean&)
+I hate this ITEM.
+This ITEM is okay.
+I like this ITEM.
+I love this ITEM!
+:System.String Wish.NPCAI::HandleWeddingRing(System.Boolean&)
+Hehe, you want to get married again?? That's cute sweetie, but I don't think it works that way.
+I don't know if this is a little joke or not, but the gesture is really cute. And of course, I'd be happy to take a second ring!
+Is this meant to be a joke? I hope so, since you're already married...
+I firmly believe in living life in extravagance, but it's a little different when it comes to marriage, XX. I'll... definitely pass.
+Oh - wow! I'm so sorry XX, but I don't think I'm quite ready for that. We should get to know each other better first, right?
+Who do I look like to you? I'm a merchant, not a farm wife. I love the ring, but it's going to take more effort on your part before I say yes.
+[]<i>(You must be dating this character, unmarried, achieved 15 full hearts, and progressed far enough in the dialogue to marry this character)</i>
+Oh! Heh, I really shouldn't be surprised. Actually, what's really surprising is... I don't think it's a bad idea. Sure, let's do it, XX![]We should do it at 4pm tomorrow at the event center! I'll take care of everything else, you just show up!
+Heh, it's about time my investment paid off. What do you mean "what investment?" I'm talking about <i>you</i>, XX![]Of course I'll marry you! I'll pay for someone to arrange the ceremony, you just meet me at the event square tomorrow at 4:00 pm.
+Ah, I figured this was coming... Well I won't hold you in suspense.[]Let's do it, XX - let's get married!![]I'll have someone set up a nice little ceremony in your Human town. Just show up at 4:00 pm and I'll take care of the rest!
+Finally! Yes of course we should be married, XX! It makes all the sense in the world.[]We should do it in Sun Haven. I'll see about contacting your Archmage to set up the ceremony. You just make sure you're on time! Let's call it 4:00 pm. I'll see you tomorrow!
+Oh! Heh, I really shouldn't be surprised. Actually, what's really surprising is... I don't think it's a bad idea. Sure, let's do it, XX![]I'll even set it up for you in your beloved Human town. Let's kick it off at 4:00 pm. Don't be late, sewer rat!
+Ah! Heh, it's about time![]Yes XX, I will absolutely marry you! Let me handle the ceremony, you just get yourself to the event square tomorrow at 4:00 pm. I can't wait!
+XX! I've pictured this moment so many times... Yes, I will marry you![]Let's have the ceremony tomorrow at 4:00 pm. I'll get the event center all set up, you just need to be there. I'll see you then!
+Ah, wow, this is a lot.[]You know... I think I'm ready for this! Yes XX, let's get married!! I'll see about setting up a ceremony. You just meet me tomorrow at the event square. Let's say 4:00 pm!
+I've been dreaming of the moment! I thought I'd be prepared for it, but now I feel like I'm floating.[]Of course I'll marry you, XX!! I'll prepare the ceremony, you just meet me at the event square tomorrow at 4:00 pm.
+Marriage? With me? I never thought... Well, I guess it doesn't matter what I thought now.[]Yes, of course I will marry you, XX. I'll pay for somebody to set up the ceremony in the event square. Be there tomorrow at 4:00 pm. I really can't wait!
+OH - oh my goodness gracious! XX, I will marry you! Kitty will marry XX, nya nya![]Don't worry, Kitty will get the ceremony set up. You just show up to the event square at 4:00 pm tomorrow! I can't wait!
+... Really, do you mean this?[]XX, marrying you would make me the happiest man in town! Yes, let's do it! I'll handle the preparations, you just get yourself to the event square by 4:00 pm tomorrow.
+It's about time you asked, XX. I was growing impatient, but now you can take your proper place by the side of Withergate's future king.[]That is to say, I accept your proposal! I'll have some lackeys set up a ceremony tomorrow in your Human town. Be there at 4:00 pm, and don't keep me waiting.
+Oh my goodness!! XX!! Yes, yes <i>of course</i> I'll marry you![]I'll prepare the ceremony for us tomorrow. Try to be at the event square by 4:00 pm! I'm so excited, XX!
+You're proposing?? Oh - I'm sorry, I was just so unprepared for this.[]...The answer is yes, obviously! I know you'll want it in Sun Haven, so I'll talk to your Archmage to set it up. Just be there tomorrow at 4:00 pm. Ah, this is so exciting!
+Oh! Heh, I really shouldn't be surprised. Actually, what's really surprising is... I don't think it's a bad idea. Sure, let's do it, XX![]We should do it at 4pm tomorrow at the event center! I'll take care of everything else, you just show up!
+:System.String Wish.NPCAI::HandleLoveLetter(System.Boolean&)
+Oh... This is sweet of you, XX, and unexpected![]Mostly because, well, we're already dating. But it's such a romantic gesture! I'll treasure this.
+Oh... This is sweet of you, XX, and unexpected![]I feel like we just aren't there yet in our relationship. Let's get to know each other better and see what happens.
+[]<i>(You must be not be dating or married to this character already and achieved 5 full hearts)</i>
+Oh... This is sweet of you, XX, and unexpected![]To be honest with you, I've been wondering what would have happened if we dated. So, let's do it!
+:Wish.InteractionInfo Wish.FarmSellingCrate::get_InteractionPoint()
+Sell Items
+:System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)
+This is what I got for you.
+Are you sure you want to get a divorce?
+:System.Void Wish.DialogueTree::.cctor()
+No problem.
+No sweat.
+Anytime!
+My pleasure.
+You bet!
+It's the least I could do.
+Don't mention it!
+You're welcome.
+:Wish.InteractionInfo Wish.NPC::get_InteractionPoint()
+Talk
+:System.Void Wish.NPC::.cctor()
+Whatever you're wishing for, I'm sure you'll find it here.
+:System.String Wish.Pet::PetInteractionText()
+Unleash 
+Leash 
+Feed 
+Pet 
+:System.Boolean Wish.Quest::CheckForCompletion(Wish.QuestPanel)
+ - Turn in to 
+:System.String Wish.QuestProgressRequirement::GetProgressNameString(System.String,Wish.Quest)
+Level up in any skill
+:System.Void Wish.Inventory::AddItem(Wish.Item,System.Int32,System.Int32,System.Boolean)
+Add item 
+ amount: 
+:System.Void Wish.ArmorItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Requires Combat Level 
+<color=#C6281D>Requires Combat Level 
+Sell Price: 
+<color=#6B7DA1>(Right click to equip)</color>
+:System.Void Wish.NormalItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Sell Price: 
+:System.Void Wish.FoodItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+<i>(Leftovers)</i>
+Provides a 
+ amount of max 
+ permanently.
+ health
+ mana
+Sell Price: 
+Quality: 
+:System.String Wish.FoodItem::StatIncreaseString(Wish.StatIncrease)
+very small
+small
+moderate
+large
+huge
+:System.String Wish.FoodItem::StatString(Wish.StatType)
+mana regen
+health regen
+attack damage
+magic damage
+:System.Void Wish.FishItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Length: 
+Quality: 
+Sell Price: 
+:System.Void Wish.CropItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Quality: 
+Sell Price: 
+:System.Void Wish.WateringCanItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Uses: 
+Sell Price: 
+:System.Void Wish.AnimalItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Sell Price: 
+:System.Void Wish.PetItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)
+Sell Price: 
+:System.Void Wish.SkillNode::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
+ (Global Skill)
+ (Someone else already has this skill)
+:System.Void Wish.Skills::UpdateProfessions()
+You have unspent skill points. Press [K] to open the skill tree!
+:System.Void Wish.Cart::Interact(System.Int32)
+Current Floor: </b></i>Quarry
+Current Floor: </b></i>
+:Wish.InteractionInfo Wish.Cart::get_InteractionPoint()
+Enter
+:System.Void Wish.Food::UseDown1()
+You can't eat leftovers!
+:System.Void Wish.SaleManager::GenerateMerchantShops()
+Couldn't find enough items
+:System.Void Wish.Map::UpdateNPCImagePositions(System.Boolean)
+Complete Quest
+Turn in 
+ to 
+ at 
+Available Quest
+ quest available from 
+ at 
+Quest Turn In
+Turn in 
+ at 
+:System.Void Wish.NetworkPlayer::Update()
+Bandwidth in :
+ Bandwidth out :
+ Bandwidth in delta : 
+ Bandwidth out delta : 
+:System.Void Wish.NetworkPlayer::WorldData(BeardedManStudios.Forge.Networking.RpcArgs)
+Received world data from host.
+:System.Void Wish.AnimalStand::Interact(System.Int32)
+Should I buy 
+ for 
+?
+:System.Void Wish.AnimalStand::RefreshDialogue()
+Should I buy 
+ for 
+?
+:Wish.InteractionInfo Wish.AnimalStand::get_InteractionPoint()
+Talk
+:System.String Wish.AnimalStand::<GetResponses>b__5_0()
+<color="red">Buy 1 (
+Buy 1 (
+:System.Void Wish.PetStand::Interact(System.Int32)
+You've already unlocked the 
+!
+Would you like to buy this 
+ for 
+ coins?
+:Wish.InteractionInfo Wish.PetStand::get_InteractionPoint()
+Talk
+:Wish.InteractionInfo Wish.PickupDecoration::get_InteractionPoint()
+Pick
+:System.Void Wish.Placeable::Use1()
+Are you sure you want to place your house here? It cannot be changed once placed.
+:System.Void Wish.Player::RequestSleep(Wish.Bed)
+Would you like to sleep?
+It is too early to sleep!
+:System.Void Wish.Player::PassOut()
+You passed out!
+:System.String Wish.PlayerSettings::GetButtonName(Wish.Button)
+Spell 1
+Spell 2
+Emote 1
+Emote 2
+Emote 3
+Emote 4
+Emote 5
+Emote 6
+:System.Void Wish.Present::Start()
+Already opened present!
+:System.Void Wish.Present::Interact(System.Int32)
+You receive an 
+ and a 
+!
+:Wish.InteractionInfo Wish.Present::get_InteractionPoint()
+Open
+:System.Void Wish.MineLock::Interact(System.Int32)
+It looks like this lock already has a key in it.
+Use 
+ (requires previous mines to be unlocked)
+Insert a 
+ to unlock for this day only. Insert a 
+ to unlock permanently.
+:Wish.InteractionInfo Wish.MineLock::get_InteractionPoint()
+Unlock
+:Wish.InteractionInfo Wish.BulletinBoard::get_InteractionPoint()
+Open
+:System.Void Wish.BulletinBoard::OpenUI()
+Coming Soon
+:System.Void Wish.DragonsMeetQuestManager::SpawnLucia()
+Go speak with Elios.
+:System.Void Wish.NelvariGate::Interact(System.Int32)
+The tree is not saying anything this time...[]Maybe I should figure out what he is trying to say and come back later.
+:Wish.InteractionInfo Wish.NelvariGate::get_InteractionPoint()
+Investigate
+:Wish.InteractionInfo Wish.NelvariTree::get_InteractionPoint()
+Inspect
+:System.Void Wish.PlayerFarmQuestManager::OnPlant(System.Int32)
+Water the tilled ground by left clicking with your watering can!
+:System.Void Wish.PlayerFarmQuestManager::Update()
+Place your house anywhere!
+Select your house by left clicking on it!
+:System.Void Wish.PlayerFarmQuestManager::SendStartingNotifications()
+Till the ground by left clicking on grass with your hoe!
+Right click on your keepsake to equip it
+:System.Void Wish.PlayerFarmQuestManager::OnHoe()
+Plant your seeds on the tilled ground!
+:System.Void Wish.PlayerFarmQuestManager::OnWateringCanEmpty()
+Your watering can is empty! Left click on any water source to refill!
+:System.Void Wish.SunHavenTownQuestManager::SpawnLucia(System.Int32,System.Int32)
+Are you ready to go?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection4()
+Hey there, farmer. Are you headed to Dragon's Meet?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection6()
+Hey there, farmer. Are you headed to Dragon's Meet?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRozaForSunDragonsProtection8()
+Hey there, farmer. Are you headed to Dragon's Meet?
+:System.Void Wish.SunHavenTownQuestManager::SpawnRaimi(System.Int32)
+You've got that look in your eye - you're an adventurer, aren't you? You can help me, then.
+I want to see how skilled you are. I know a spot with some real monsters. If you slay them all on your own, you'll get some well-earned loot and my respect as a fighter!
+:System.Void Wish.RepairSign::Interact(System.Int32)
+Coming Soon
+:Wish.InteractionInfo Wish.RepairSign::get_InteractionPoint()
+Read
+:System.Void Wish.SaleStand::Interact(System.Int32)
+Should I buy 
+ for 
+? 
+ left.
+We're all out of that right now.
+:System.Void Wish.SaleStand::RefreshDialogue()
+Should I buy 
+ for 
+? 
+ left.
+It looks like you got the last one!
+:Wish.InteractionInfo Wish.SaleStand::get_InteractionPoint()
+Buy
+:System.String Wish.SaleStand::<GetResponses>b__12_0()
+<color="red">Buy 1 (
+Buy 1 (
+:System.String Wish.SaleStand::<GetResponses>b__12_4()
+<color="red">Buy 5 (
+Buy 5 (
+:System.String Wish.SaleStand::<GetResponses>b__12_6()
+<color="red">Buy All (
+Buy All (
+:System.Void Wish.ScenePortalManager::.ctor()
+Loading World
+:System.Void Wish.ScenePortalSpot::OnTriggerEnter2D(UnityEngine.Collider2D)
+Sorry, this shop is closed
+:System.Void Wish.ScenePortalSpot::Interact(System.Int32)
+Open from 
+ am to 
+ pm.
+:Wish.InteractionInfo Wish.ScenePortalSpot::get_InteractionPoint()
+Enter
+:System.Void Wish.Seeds::Use1()
+This can't be planted here
+:System.String Wish.Stat::ToString()
+ Attack Damage
+% Attack Speed
+ HP/Sec
+ Mana/Sec
+% Movespeed
+% Jump Height
+% Lifesteal
+ Health
+ Mana
+ Defense
+ Damage to All Attacks
+ Money Per Day
+ Romance Bonus
+ Bonus Farming EXP
+ Bonus Fishing EXP
+ Bonus Combat EXP
+ Bonus Mining EXP
+ Bonus Crafting EXP
+% Chance to stun
+% Accuracy
+ Smithing Skill
+ Farming Skill
+ Mining Skill
+ Woodcutting Skill
+ Fishing Skill
+% Damage Reduction
+ Gold per craft
+% Bonus Experience
+ MISSING STAT NAME
+:Wish.InteractionInfo Wish.Tree::get_InteractionPoint()
+Pick
+:System.Void Wish.CharacterCreation::GenerateNewCharacter()
+Player
+:System.Void Wish.CharacterCreation::SetRaceImages()
+Race
+:System.Void Wish.CharacterCreation::SetClothingImages(Wish.ClothingLayer)
+Wings
+Halo
+Horns
+Tails
+Hoods
+:System.Void Wish.CraftingPanel::UpdateItemImages(Wish.Recipe)
+ hour
+ min
+:System.Void Wish.LoadCharacterMenu::SetupSavePanels()
+ Coins
+Day 
+0 Wishes
+:System.Void Wish.MainMenuController::OnGameLobbyJoinRequested(Steamworks.GameLobbyJoinRequested_t)
+Connecting to server from invite.
+Connecting to Server from invite. Selecting character first.
+:System.Void Wish.PlayerSleepCount::Update()
+Players Sleeping: 
+:System.Void Wish.ProfessionLevelup::OnLevelUp(Wish.ProfessionType,System.Int32)
+Level 
+ 
+!
+:System.Void Wish.QuestList::CheckQuestsForComplete(System.Boolean)
+Days
+ day left)
+ (last day!)
+ days left)
+:Wish.InteractionInfo Wish.QuestPlaceable::get_InteractionPoint()
+Place Jun's Flower
+:System.Void Wish.Relationships::SetupRelationshipPanel()
+You are married to 
+You are dating 
+:System.Void Wish.SkillTree::UpdateLevelText(System.Int32)
+Level: 
+:System.Void Wish.SkillTree::UpdateSkillPointText(System.Int32)
+Skill Points: 
+:System.Void Wish.SpellSelectionHandler::Update()
+You learned a new spell! Bind it to your toolbar and press Q or R to use it!
+System.Void Wish.WorldController::SetupWorld()
+Setup World
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_0()
+Up to rooftop farm
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_2()
+Down to lobby
+:System.String Wish.ApartmentElevator/<>c::<Interact>b__2_4()
+Nevermind
+:System.String Wish.Bed/<>c::<FailAttemptToSleep>b__7_0()
+Got it.
+:System.String Wish.AnneCutscene/<>c::<SceneRoutine>b__5_4()
+Okay!
+:System.String Wish.AnneCutscene/<>c::<SceneRoutine>b__5_5()
+I guess so?
+:System.Boolean Wish.AnneCutscene/<SceneRoutine>d__5::MoveNext()
+Knock knock! Look at you, up and at 'em already. You're really committed to this farming gig, huh? That's great, really great.[]Say, I can't help but notice that you don't have any tools. You can't have a farm without tools, right?[]Don't worry my friend, I happen to be Sun Haven's most distinguished merchant. I can get you all set up! What do you say?
+That's the spirit! Here you go, one beginner's tool set.
+:System.Boolean Wish.BarCutscene/<SceneRoutine>d__4::MoveNext()
+Hello traveler.
+I am your guide.
+:System.Boolean Wish.BarracksIntro1_Start/<SceneRoutine>d__3::MoveNext()
+Hit the dummy 5 times with your sword.
+Farmer! Do you have a minute?
+I'm Roza, secondary command of the Sun Haven Corps. Sun Haven is safe, but monsters live just outside of town. It's my job to make sure you're prepared for that.[]Here, take this sword and step up to the dummy. Give it 5 good whacks so I can see your technique.
+Hit the dummy 5 times with your sword.
+:System.Boolean Wish.BarracksIntro2_Middle/<SceneRoutine>d__3::MoveNext()
+Hit the dummy 3 times while jumping.
+Hey, not bad! It's not all about strength, though. Speed and agility can be just as important. Try landing 3 jump attacks for me.
+Hit the dummy 3 times while jumping
+:System.Boolean Wish.BarracksIntro3_Crossbow/<SceneRoutine>d__3::MoveNext()
+Hit the dummy 5 times with your crossbow.
+You're a natural with that thing! But I wonder, how good are you at a distance? Try shooting the dummy 5 times with this crossbow.
+Hit the dummy 5 times with your crossbow
+:System.Boolean Wish.BarracksIntro4_End/<SceneRoutine>d__4::MoveNext()
+Beautiful work, farmer. It's good to know that some of our citizens can handle themselves in a scrap. Go ahead and keep one of those weapons - but only one!
+:System.Boolean Wish.BeachIntroCutscene1_Start/<SceneRoutine>d__8::MoveNext()
+You must be the new arrival, huh? 'Hoy there, I'm Peter. Did you come here to cast a line? I'd be happy to join![]What's this? You haven't got a rod? Tell you what, I'll let you take one of my old fishing rods if you let me teach you how to use it. Here, give it a try.
+First thing you want to do is cast your line. Then when you feel a fish bite, give a strong pull.
+Use your fishing rod to catch the fish.
+Don't be fooled by small bites, wait until a large bite to real the fish in!
+:System.Boolean Wish.BeachIntroCutscene2_End/<SceneRoutine>d__6::MoveNext()
+Hey, cheers! Not bad for your first cast.[]Keep fishing and you'll have food on your table every night. Come on back to my shop here if you ever want to upgrade that old rod.
+:System.Boolean Wish.BulletinBoardCutscene1_Start/<SceneRoutine>d__3::MoveNext()
+Hey XX, come here for a sec!
+XX, I'm sure you're busy getting to know the town but I wanted to introduce you to Sun Haven's bulletin board.[]This board is where neighbors come together to help each other. This is where the community really shines![]Oh, and there's two new postings up right now. Why don't you take a look?
+Open the bulletin board and accept the two tasks.
+:System.Boolean Wish.BulletinBoardCutscene2_End/<SceneRoutine>d__3::MoveNext()
+I was planning to do these tasks to help out, I even got 5 apples and a fire gem. I'm running short on time though - do you mind taking over for me?
+I've got to run. Don't forget to check this board frequently since there are usually new postings every day. Thanks XX, good luck!
+:System.Boolean Wish.TimeOfNeedCutscene1/<SceneRoutine>d__3::MoveNext()
+Listen to my words, XX...[]
+XX...[]I have troubling news. Sun Haven's very fate may be at stake. I must see you at once.
+:System.String Wish.TimeOfNeedCutscene2/<>c::<Complete>b__3_0()
+I'm ready to go.
+:System.String Wish.TimeOfNeedCutscene2/<>c::<Complete>b__3_3()
+I'd rather stay.
+:System.Boolean Wish.TimeOfNeedCutscene2/<SceneRoutine>d__4::MoveNext()
+At last you're here, XX.[]My suspicions were correct. A powerful spell has been cast over the monster city of Withergate, creating an everlasting darkness.[]This spell prevents my entry into the city, and at its source is the Moon Dragon, Dynus.[]Dynus conceals himself behind the safety of his spell while the darkness spreads over our world. If this spell reaches us, Sun Haven will be shrouded in eternal darkness...[]........[]XX, I believe you have come to Sun Haven for a reason. I gave you my blessing because I sensed a greater power within you.[]Your power and wit is the key to our success. As I myself cannot confront Dynus, it is you who must stop his dark magic, XX.[]I realize I am asking you to walk a dangerous path, but you need not walk it alone.[]For guidance, travel west to the elven city Nel'Vari and find the World Dragon, Nivara. I know the Elven city is mere myth to the Humans, but it is as real as the dirt beneath your feet.[]Gaining entry will be difficult. The entrance to Nel'Vari lies deep in the <b>Western Forest</b>, guarded by a mysterious puzzle. The key to the puzzle, I do not know.[]However, the Elves consider their culture to be sacred. Learning more about the Elves could provide insight to the puzzle's solution.[]I, too, have some teachings that will better prepare you to face Dynus. However, you will need to grow in strength before training with me.[]Ultimately, it is up to you to decide which path to take, but be warned, facing Dynus in your current state would be quite dangerous.[]XX, I suggest you train with Nivara and myself before confronting the Moon Dragon. But of course, this is your journey.[]Go now. Prepare yourself. You must face Dynus and save Sun Haven from a dark fate!
+:System.Boolean Wish.ClearingTheRoadCutscene1/<SceneRoutine>d__15::MoveNext()
+Guard
+Sir! What should we do about this big ugly thing?
+It doesn't seem to be an immediate threat. Better to be safe than sorry though. Keep an eye on it while I make a report.
+Guards
+Yes, sir!
+XX! Be careful, there's a large monster blocking the road north. It's asleep right now, but who knows what it will do when it wakes up.
+:System.Boolean Wish.ClearingTheRoadCutscene2/<SceneRoutine>d__11::MoveNext()
+Guard
+Holy moly, that beast has some appetite!
+Guard
+You mean it's awake? Quick, we need to tell the captain!
+:System.Boolean Wish.ConfrontingDynusCutscene1/<SceneRoutine>d__5::MoveNext()
+Ew, it's you again. I hope you've bathed since I caught you climbing out of the sewer, but from the smell of you I'd guess you haven't.[]Only citizens are allowed to see the castle. Did the guard let you past? I'll have his head for this...
+I have an apartment, so I'm a citizen now.
+Is that so? Flemmett needs to raise his standards...[]Fine then. You were asking to see King Minos, correct?
+I'll take you to him. Just don't talk to me on the way.
+This castle is really something.
+<i>(Say nothing.)</i>
+Ugh...
+So what do you do here?
+<i>(Say nothing.)</i>
+My job is to chaperone annoying twerps like you who can't follow instructions. Surely I have nothing better to do.
+The king is through this door. Try not to act like a complete fool.
+:System.Boolean Wish.ConfrontingDynusCutscene2/<SceneRoutine>d__7::MoveNext()
+King Minos
+Welcome to my throne room, newcomer. I am Minos, the Demon King of Withergate.[]You're the person my son found crawling through our sewers. Am I correct?
+Yes.
+No, that was... someone else.
+Good, you speak truthfully. Honesty will take you far with me. XX.
+I can see through your lies. XX. It's best if you're honest with me.
+How did you know my name?
+I understand.
+How did you know my name?
+I understand.
+Nothing escapes my knowledge here. You'll learn that, one way or another.[]Now what business does a little thing like you have in my throne room?
+I need to speak with Dynus.
+Yes, my advisor Xyla mentioned that. You're new here, yet <i>so very eager</i> to see Dynus. Why?
+I'm here to stop his spell of darkness.
+Sun Haven wants to give itself to Dynus.
+Why in the world would you want that?
+Because Sun Haven is in danger.
+To save the world from darkness.
+I understand now - you think of yourself as the hero. And why wouldn't you?[]You didn't witness the days of sunlight when families were driven from town to town, traveling in darkness for their own safety. All because they were monsterfolk.[]Monsterfolk are done being blamed for Human problems. Withergate's community will not be lost just because the Humans in Sun Haven are afraid of the dark.
+This has nothing to do with that.
+I'm sorry for what happened to the monsterfolk. I just want to talk to Dynus.
+Regardless, there's nothing you can do to stop the Moon Dragon from casting his spell. He's too powerful to be stopped.
+Regardless, there's nothing you can do to stop the Moon Dragon from casting his spell. He's too powerful to be stopped.
+Why in the world would Sun Haven want to give itself up like that?
+Because Sun Haven is bankrupt.
+Because Dynus is so powerful.
+Mm... Interesting. And what does your guardian, the Sun Dragon, think of this plan?
+Who cares what he thinks? He's a weakling.
+It was Elios's idea.
+I've never seen someone turn against Elios like this... Then again, Sun Haven does seem to be hanging by a thread. Maybe you're telling the truth after all.
+Another lie. It's disappointing to see that our newest citizen can't be trusted, even by his own king.[] However, you are a legal citizen of Withergate nonetheless.
+I will let you see Dynus... but only after I'm convinced that your loyalty lies not just with Withergate, but with me.[]If you want to earn my trust, go to the forest south of my city and collect the glorite crystals there. Bring me 10 crystals and I will allow you into Dynus's chambers.
+Won't that hurt the forest?
+We've been mining glorite for years already. There's no damage you can do that hasn't already been done.
+That's horrible!
+Don't you want to save the forest?
+Monsterfolk prefer it dark. It makes Withergate feel more like the home it's meant to be.[]Now quit wasting my time. I don't want to see you again unless you've got a bag full of glorite on your back.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_1()
+I need that crystal so I can stop the Moon Dragon.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_2()
+I'm here on a job for the Demon King.
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_3()
+(Pay 5000 gold) You're sure I can't... persuade you again?
+:System.String Wish.ConfrontingDynusCutscene3_BanditIntro/<>c::<SceneRoutine>b__5_5()
+(Fight) I don't plan on convincing you to leave. I plan on making you!
+:System.Boolean Wish.ConfrontingDynusCutscene3_BanditIntro/<SceneRoutine>d__5::MoveNext()
+You've got to be kidding me... You again??[]Look kid, there's nothing you can do to stop me from taking the crystals this time. You got yours last time, now it's my turn.[]And don't start with all of that "livelihood of the forest" stuff. Look around you - this forest is all out of livelihood!	
+Yeah right, and I'm king of the Elves over here. Try another excuse kid, maybe the next one will work!
+I... well that's a lot of gold there... but...[]*sigh* All right, you got me. I can't say no to a fat wallet. Take the crystals and leave me alone.[]I'm washed up. Forget the Western Region, I'm headed east. You'll never hear from me again, I can promise you that.
+You asked for it - this time, I came prepared to defend myself. I was expecting monsters, but I'll take you on instead, kid!
+:System.Boolean Wish.ConfrontingDynusCutscene4_BanditExit/<SceneRoutine>d__2::MoveNext()
+Sheesh, have you been working out or what? All right, all right, you got me. Take the crystals.[]I'm washed up. Forget the Western Region, I'm headed east. You'll never hear from me again, I can promise you that.
+:System.Boolean Wish.ConfrontingDynusCutscene5/<SceneRoutine>d__7::MoveNext()
+King Minos
+You've returned, eh? I thought maybe the forest would eat you alive. It looks like you've got some tricks up your sleeve - not a bad quality for a citizen of Withergate![]You have all ten crystals? Very good. A deal is a deal, newcomer. You may pass into Dynus's chambers. Head through the altar room to find the Moon Dragon... and good luck.
+:System.Boolean Wish.JourneyToWithergateCutscene2/<SceneRoutine>d__5::MoveNext()
+Eh? Ah... a traveler. Much time has passed since I last saw one such as yourself.[]You seek entry to the City of Darkness, yes? I am honorbound by the Demon King Minos to ferry wayward souls to Withergate until my debt is paid.[]Come aboard, traveler. Let us embark.
+I'm ready.
+:System.Boolean Wish.JourneyToWithergateCutscene3/<SceneRoutine>d__7::MoveNext()
+Sewer
+I cannot recall the last time my services were needed. What do you hope to accomplish in Withergate, traveler?
+I need to stop the darkness spreading.
+I need to talk to Dynus, the Moon Dragon.
+Ah... Your words are heavy with determination.[]So then, have you finally noticed the sluggish menace creeping out of Withergate? It spreads more each day and brings desolation wherever it goes.
+What is it, exactly?
+Do you know what is causing it?
+It is a darkness that will overcome all natural light, and it is the product of powerful, ancient magic. Magic that only a dragon can wield.[]Do you see? If your goal is to stop the darkness, then you must stop the dragon behind it.
+How do I do that?
+The Moon Dragon has an appreciation for offerings, which can work to your advantage. You might win his favor if you appease him with a great tribute.[]Of course, you could just stop him the old fashioned way.
+The old fashioned way?
+Those weapons on your belt speak enough for themselves, adventurer. But challenging the Indomitable Dynus to a duel would end poorly if you approached him now. You look tough, but you'll have to do better than that.[]For now, traveler, we approach our destination.
+We have arrived. Go forward with strength.
+:System.Boolean Wish.JourneyToWithergateCutscene4/<SceneRoutine>d__12::MoveNext()
+Ew, an outsider coming in through the sewer. How vulgar.[]It's your unlucky day. My name is Cordelia, and I hold a seat on the Demon King Minos's royal council. As it happens, I'm on my way to see the prince right this moment. I'm sure he'll be thrilled to meet you.
+What's this? Did you catch something for dinner?
+I found this intruder sneaking in through the sewer system.
+The sewer, you said? So old Charon is still repaying his debt. Good to know.[]Cordelia, I believe there's a matter at the pet shop that requires your attention. You go ahead. Xyla and I will handle this.
+Yes, Prince Darius.
+Don't think yourself too clever just because you found your way through the sewers like a rat.
+Didn't Cordelia block that entrance off with a fog spell?
+The intruder seems to have gotten past it. The problem with confusion spells is that they rely on the subject having brains.
+I told King Minos the sewer was a weak spot... You should talk to your daddy, Darius.
+It's irrelevant now.[]What are you here for, outsider?
+I need to speak with Dynus.
+It's none of your business.
+You don't seem to understand the situation here. You're in MY custody. If you don't answer my question, you'll spend the next 5 years locked in my dungeon before I decide to ask again.
+I need to speak with Dynus.
+The Moon Dragon? You think you can break into our city and waltz right up to Dynus, just like that? You've got some nerve for a little rat!
+Anyone seeking audience with the Moon Dragon must be granted permission by King Minos.[]Unfortunately for you, he won't waste time with worthless tourists. King Minos only speaks to his citizens.
+That's right, outsider. You want to talk to King Minos? You better start looking for a home here![]Actually, I think the apartment building down the road has vacancies.
+I wasn't going to tell that to the outsider, Xyla, but since you seem to want a sewer rat for a neighbor... yes, I believe the apartment building does have one room available.
+It's not like they can get an apartment there anyway. Mine cost me a whole 500 tickets! And I'm guessing the outsider isn't <i>exactly</i> rich in Withergate tickets.
+That's enough Xyla. Let's leave our unwelcome guest. They're no threat to us. Guards, escort them back to the sewer they crawled out of.
+Catch you later, sewer rat!
+:System.Boolean Wish.JourneyToWithergateCutscene5/<SceneRoutine>d__2::MoveNext()
+... Eh? How long you been standin' there?[]Well, whadd'ya want?
+I'm looking for an apartment.
+I need a place to live.
+Is that so? Well I got one apartment available right now, but I can't have just any old monster off the street livin' here, y'know. I need to know you're a real member of our little community, heh.[]That means you're gonna need two recommendations, so you better start makin' friends.[]It ain't cheap either, 'specially to an outsider. The price is <b>500 tickets.</b>[]... Ah sheesh, don't tell me you ain't got any tickets at all?? You really are new in town.[]Listen, I'll let you take the apartment today and pay me over time. But you should know that - LEGALLY - you ain't a citizen until your apartment is completely paid off.
+How do I get tickets?
+How do I get recommendations?
+Tickets are the currency in Withergate. You gotta work for it, pal. Do jobs, get money. That's how this world works.
+How do I get recommendations?
+You don't know two people in town? Dynus almighty... Look, you need to meet people. Go talk to some people on the street. Make some friends, maybe help somebody.[]Once you're friendly enough with a couple of people, come back and see me if you wanna keep that apartment.
+You don't know two people in town? Dynus almighty... Look, you need to meet people. Go talk to some people on the street. Make some friends, maybe help somebody.[]Once you're friendly enough with a couple of people, come back and see me if you wanna keep that apartment.
+How do I get tickets?
+Tickets are the currency in Withergate. You gotta work for it, pal. Do jobs, get money. That's how this world works.
+:System.Boolean Wish.GeneralStoreCutscene/<SceneRoutine>d__6::MoveNext()
+You've got to be that new neighbor people are talking about! Welcome to the General Store. Oh, wait, one sec.
+There we go. Anyway, I'm Emmett. I work here, among other places. Lots of other places...[]It's only until I save up enough to buy my own house, though. But hey, at least I'm never bored.[]I heard people say you're supposed to be a farmer. Well, we sell lots of seeds that could help you get started. Go on now and take a look. I'm not going anywhere 'til 8:00 pm.
+:System.String Wish.GloriteThugCutscene/<>c::<SceneRoutine>b__7_0()
+Everyone deserves a second chance!
+:System.String Wish.GloriteThugCutscene/<>c::<SceneRoutine>b__7_2()
+I saw him with my own eyes, he's guilty.
+:System.Boolean Wish.GloriteThugCutscene/<SceneRoutine>d__7::MoveNext()
+Please, give me another chance. My name is Stephen. Put me to work in your town - I'll do anything!
+We can't have criminals like him walking free in Sun Haven.
+XX, did you witness him illegally collecting glorite? What do you think we should do?
+<i>Will you let Stephen join Sun Haven? (You cannot undo this decision)
+I trust XX's judgement. Come with me
+If you say so...
+Roza, you heard XX. Take him away.
+With pleasure.
+:System.Boolean Wish.GuardForestCutscene/<SceneRoutine>d__4::MoveNext()
+Hey, there you are! I was beginning to worry. I'm the Archmage of Sun Haven, but I don't care too much for that title - just call me Lucia. Let me be the first to welcome you to Sun Haven! Wait, did the Wagon Driver already do that? Darn him, he always gets the first welcome... Anyway, follow me to your new home!
+We've been trying to find someone to take care of this farm for a while now, so I was really excited to get your letter. I've got everything prepared for you, XX. Your land is a little rough, but that doesn't make it any less yours. It takes a lot of courage to spend your life savings on a big piece of land like this. Right off the bat, I'm impressed with you, XX!
+Here we are, home sweet home! Now we just need to set up your cabin. Go ahead, choose a spot! And don't worry about the weeds and rocks, I can get those out of the way for you. Let me give you a little light to work by.
+Place your house anywhere!
+:System.Boolean Wish.LynnHangoutCutscene1/<SceneRoutine>d__2::MoveNext()
+Thanks for inviting me, XX. I was surprised when you asked, but it's nice to get my head out of the forge once in a while.
+How is your apprenticeship going?
+How are you settling into town?
+Solon tells me I'm doing well, but I don't know. Sometimes I can barely keep up.
+I guess I know Sun Haven pretty well by now, but I still miss my home a lot. My family, too. I don't quite know where I fit in here.
+At least you're keeping up at all.
+Do you think this is right for you?
+I think you're fitting in fine!
+I could tell you were having some trouble.
+That's true. I could stand to remember that more often.
+If you're suggesting I should quit, you can stop right there. I can't imagine letting my mother down.
+Aw, really? Maybe I'm just overthinking it. Thanks XX!
+You can tell? Oh... Is that why you invited me out? On second thought, please don't answer that.
+You know, I'm glad you moved here so soon after me. This way, it's less like I'm the outsider trying to fit in.[]It almost feels like we're in this together... Oh, but I don't mean 'together' together! Not like that![]Um, anyway...[]So how is your farm?
+I have been hard at work on the farm.
+I've been keeping busy outside of the farm.
+I bet you have! Not to be too presumptuous, but I really love fresh vegetables.
+Oh? So what have you been doing instead?
+I'll bring you some!
+I sell all my crops for profit.
+I've been keeping busy around town.
+I've been exploring the world.
+You would, for me? That would be great!
+Oh, sure, of course. It's your living. I understand.
+Oh, Nathaniel mentioned something about that! It sounds like you're making quite a name for yourself around here.[]Being a town figure like you or Nathaniel sounds like too much. I've got enough on my mind as it is.
+Wow, I've only been exploring Sun Haven. I haven't even considered going outside of town yet. If I'm being honest, that sounds like too much. I've got enough on my mind as it is.
+You know, it sounds like you're fitting in really easily here. XX, can I ask you something? It's kind of serious, so please don't tease me.
+Go ahead.
+What is it?
+Do... do you think I should have moved here to be an apprentice?[]I think I'm a good blacksmith, but I wonder what would have happened if Solon had chosen someone else.[]Maybe someone else would do a better job than me. Solon is a master, after all. He could apprentice anyone in the world.[]I just don't feel like I deserve to be here. Am I thinking about it too much, or did I really make a mistake?
+You deserve to be here more than anyone!
+If you were meant to be here, would you be doubting yourself?
+You mean it, and you're not teasing? Wow... I think I really needed to hear that. Thank you XX, you're a great friend.
+Sheesh... I never thought of that before. You might be right. I have a lot of thinking to do.
+I still have some work to finish today, so I should be getting back now. Are you ready to go?
+Sounds good.
+I wish we could stay all day.
+This was fun, XX. Thanks for taking me out!
+Oh my goodness, I never know what to say when you're so nice to me![]This was fun, XX. Thanks for taking me out.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_0()
+Yes I have.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_2()
+No, I haven't. Are we safe?
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_4()
+I don't care to talk about it.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_6()
+A farm.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_8()
+Community.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_10()
+Solitude.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_12()
+A new beginning.
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_14()
+[Wish for Romance]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_16()
+[Wish for Riches]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_18()
+[Wish for Adventure]
+:System.String Wish.IntroCutscene/<>c::<SceneRoutine>b__4_20()
+[Wish for Peace]
+:System.Boolean Wish.IntroCutscene/<SceneRoutine>d__4::MoveNext()
+Lookin' like clear skies ahead, which is good news for us. Full moon gives good visibility, and that means no unwelcome surprises on the road.[]I'm sure you've heard the same rumors I have. Monsters and the like.
+I wouldn't worry much. In my experience, monsters mind themselves so long as you do the same.[]Not everyone would agree, though. You'll see the military is holed up in Sun Haven now. Better safe than sorry, I s'pose.
+I don' mean to worry you, friend. We're plenty safe. Just nice havin' the moon to see by is all.
+That's prob'ly for the best. Rumors and hearsay don't do nobody no good.
+Not long before we hit Sun Haven now. Not much traffic goin' this way these days.[]Must be somethin' out here for you, eh? Say, what's important enough to get you this far out in the country?
+Farm life is simple livin'. Livin' off your own sweat is a respectable lifestyle.
+People need each other, so I understand. Livin' alone ain't no way to live at all.
+All the time I spend in this wagon, I know a thing or two about solitude. There's a lot you can learn just by spendin' time alone.
+A passenger once told me that every moment is a new beginning. Or somethin' like that.
+Oh! See that shootin' star? Now's yer chance - make a wish! But hold yer breath and blow it to the sky, otherwise it won' come true.
+*GASP* I - couldn't think of a wish in time... nearly blacked out! Well I hope you got yer wish out. And lookit that, we're here! Guess I'll be the first to welcome you. XX. Welcome to Sun Haven!
+:System.Boolean Wish.JourneyToDragonsMeetCutscene1/<SceneRoutine>d__2::MoveNext()
+This is it, Elios is just ahead. I'm afraid I can't go with you - it has to be entirely your own choice. Good luck, XX! I'll be here when you're done.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<Complete>b__4_0()
+I'm ready to go.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<Complete>b__4_3()
+I'd rather stay.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_1()
+Myself.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_3()
+My friends.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_5()
+My family.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_7()
+My ancestors.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_9()
+A blazing fire.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_10()
+A soaring cloud.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_11()
+A flowing river.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_12()
+A standing tree.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_13()
+Fulfilling my destiny.
+:System.String Wish.JourneyToDragonsMeetCutscene2/<>c::<SceneRoutine>b__5_14()
+Living in the moment.
+:System.Boolean Wish.JourneyToDragonsMeetCutscene2/<SceneRoutine>d__5::MoveNext()
+I have been waiting for you, XX. It is fortunate that Lucia brought you here unharmed.[]I am Elios, the Sun Dragon and guardian of Sun Haven.[]Sun Haven is an enduring community with a bountiful future. I carry the responsibility of preserving the commonwealth here. It is not a duty I take lightly.[]As guardian, I prefer to see each new arrival myself. XX, I require a glimpse of your innermost self.[]Clear your mind. Respond only with the purest truth.
+XX, for whom do you live your life?
+Yourself, I see. Indeed, every tree in the forest must lift itself out of the dirt.[]XX, where do you feel the strongest natural connection?
+Your friends, I see. Indeed, no one tree can make a forest.[]XX, where do you feel the strongest natural connection?
+Your family, I see. Indeed, the tree can not grow without the seed.[]XX, where do you feel the strongest natural connection?
+Your ancestors, I see. Indeed, the fires of the past fertilize today's soil.[]XX, where do you feel the strongest natural connection?
+XX, what sets your heart alight?
+Hm... How curious. XX, there is power within you. Your energy is almost familiar. Were I blind, I would surely think a young dragon stood before me.[]I cannot say what this means for your fate, but this power will only grow. Mind your ways. Explore your connection with this magic. Nurture yourself.[]And XX, your powers will undoubtedly have consequences on our world. Though this responsibility falls only on you, remember that you are not alone.[]Do not alienate yourself from your neighbors. They will support you when you falter.[]I grant you my blessing, XX.[]You now have access to the great power that resides within you, but you must hone your skills before continuing on your journey. When the time is right, I will reach out to guide you.[]As you leave this place, you enter your new life. Walk confidently toward your fortune, XX.
+:System.Boolean Wish.LiamWheatCutscene/<Cutscene1>d__8::MoveNext()
+Farmer, it's you? I mistook you for a bandit just now![]I don't know how things are done where you come from, but in Sun Haven we don't take from our neighbor's fields.
+I'm so sorry, it won't happen again.
+What are you going to do about it?
+Thanks, I really want us to be good neighbors.
+If this happens again, I'll have to call the town guards.
+:System.Boolean Wish.LiamWheatCutscene/<Cutscene2>d__9::MoveNext()
+Farmer, it's you again? I said I would call the guards if I caught you taking my wheat.
+Ooh, I'm so scared.
+Go ahead and call them, then.
+GUARDS!!
+GUARDS!!
+Guard
+What's the trouble?
+I caught XX stealing wheat from my field.
+I'll take it from here.[]Let's go thief, you're going to the slammer.
+I'll take it from here.[]Let's go thief, you're going to the big house.
+I'll take it from here.[]Let's go thief, you're going to jail.
+I'll take it from here.[]Let's go thief, you're going into lockup.
+I'll take it from here.[]Let's go thief, you're going to the pound.
+:System.Boolean Wish.LuciaCutscene/<SceneRoutine>d__7::MoveNext()
+There you are! I was beginning to worry. I'm the Archmage of Sun Haven, but I don't care too much for that title - just call me Lucia. Let me be the first to welcome you to Sun Haven![]Wait, the wagon driver already said that? Dang it, that man always gets the first greetings... Well, whatever. Here, meet the captain in charge of the soldier in Sun Haven.
+It's Nathaniel, and I'm glad to meet you. You came at a good time, traveler. Sun Haven's never been safer.[]I mean time of year. It's pretty late in the evening, actually.
+XX, I want you to come to us if you have any trouble settling in. Just think of us as your North Stars.
+Wait, can there be two North Stars?
+In this case, yes. Anyway, XX, follow me to your new home!
+You can take it from here, Lucia. Nice meeting you, and I'll see you around town, neighbor!
+Shall we?
+Here we are, home sweet home! Now we just need to set up your cabin. Go ahead, choose a spot! And don't worry about the weeds, I can get those out of the way for you.[]Here, let me give you a little light to work by.
+Place your house anywhere!
+:System.String Wish.MarriageCutscene/<>c::<Complete>b__35_0()
+I can't wait to start our lives together.
+:System.String Wish.MarriageCutscene/<>c::<Complete>b__35_1()
+I want to meet with our guests a bit longer.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_0()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_1()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_2()
+Awww... thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_3()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_4()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_5()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_6()
+I'll take that as a compliment.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_7()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_8()
+I'm not sure... I guess we could have planned this better.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_9()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_10()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_11()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_12()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_13()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_14()
+Thanks.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_15()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_16()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_17()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_18()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_19()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_20()
+I know. Its incredible.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_21()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_22()
+Great.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_23()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_24()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_25()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_26()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_27()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_28()
+You're pretty boring!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_29()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_30()
+Thank you Emmett!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_31()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_32()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_33()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_34()
+The community here is amazing!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_35()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_36()
+I wouldn't even bother asking.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_37()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_38()
+Sounds just like you two.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_39()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_40()
+Something like that...
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_41()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_42()
+Thanks kiddo.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_43()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_44()
+Maybe later.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_45()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_46()
+Only if you want to get married.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_47()
+See ya!
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_48()
+Thank you.
+:System.String Wish.MarriageCutscene/<>c::<SetNPCOneLiners>b__38_49()
+See ya!
+:System.Boolean Wish.MarriageCutscene/<SceneRoutine>d__37::MoveNext()
+Attention! Quiet, please![]Thank you. Now, let us begin.[]We gather here in order to celebrate the sacred bond between two radiant beings - XX and 
+. Today they join together as one and enter into this most intimate commitment.[]In marriage, they will find comfort and safety as they journey through a life made more beautiful by their love.[]To the betrothed, I say this: make not a bond of love, but let your love carry you as the sea carries a ship, and let your happiness show as full and visible as a sail full of wind.[]Now, if anyone should protest this union, let them speak.[]...... Thank goodness, that part always makes me nervous.[]Do you, 
+, take XX to be your wedded partner?
+I do!
+Bernard
+And do you, XX, take 
+ to be your wedded partner?
+I do.
+I do not.
+, XX, before these witnesses you have pledged to be joined in marriage.[]With the power granted to me by the Archmage Lucia of Sun Haven and Elios the Sun Dragon, I hereby declare you joined in matrimony. You may now seal this ceremony with a kiss!
+:System.Boolean Wish.MinesCutscene/<SceneRoutine>d__4::MoveNext()
+There are many kinds of rocks, ores, and gems in the mines that become more valuable as you dig deeper.[]A <color=#39CCFF>rusty key</color> hidden on this floor will unlock the next floor temporarily.[]You may craft a key at an anvil to unlock the next floor permanently. This floor requires a <color=#39CCFF>copper key</color>.
+:System.Boolean Wish.QuarryCutscene1_Start/<SceneRoutine>d__7::MoveNext()
+Aw heck, another rockslide. Hey, you've got great timing - help me clear these rocks, will you?
+Aw heck, another rockslide. Hey, you've got great timing - help me clear these rocks, will you? []What, you don't have a pickaxe on you? All right, take this one.
+Well? You just going to stand there all day or are you helping out? Come on, give me a hand breaking these rocks.
+Help Solon break the fallen rocks
+:System.Boolean Wish.QuarryCutscene2_End/<SceneRoutine>d__4::MoveNext()
+That will do it! Thanks for the help, farmer.[]Name's Solon. I run the blacksmith here, so swing by if you need any tools or armor.
+:System.String Wish.TheSunDragonsProtectionCutscene1/<>c::<SceneRoutine>b__3_4()
+I'm on my way!
+:System.String Wish.TheSunDragonsProtectionCutscene1/<>c::<SceneRoutine>b__3_6()
+I'm sorry, I can't right now.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene1/<SceneRoutine>d__3::MoveNext()
+Listen to my words, XX...[]
+I can sense your power growing. Your service to Sun Haven has been notable, but today the safety of Sun Haven depends on you.
+Farewell, XX.
+XX, Sun Haven needs you. There is no choice in this matter.
+:System.String Wish.TheSunDragonsProtectionCutscene2/<>c::<Complete>b__3_0()
+I'm ready to go.
+:System.String Wish.TheSunDragonsProtectionCutscene2/<>c::<Complete>b__3_3()
+I'd rather stay.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene2/<SceneRoutine>d__5::MoveNext()
+It gladdens me to see you coming into your strength, XX. Now I ask you to use your power for the good of Sun Haven.[]An unfamiliar energy has emerged in recent days - a dark energy. I believe it to be spreading in our world, but I know not where.[]XX, I need to confer with my kin, the other guardian dragons in this region. It is imperative that I seek their knowledge about this darkness. At the very least, I will warn them to stay vigilant.[]Still, I must not leave Sun Haven unguarded. I will lay a safeguard spell over the town to offer some protection while I am gone.[]For this, XX, I ask your help.[]Delve into the forest East of Sun Haven and find a crystal called Glorite. Glorite grows abundantly there, but I need only one.[]It is crucial that you not take more than one crystal, XX. The livelihood of the forest animals depends on those crystals.[]XX, return with the crystal promptly so I may begin my journey.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_2()
+You don't look like construction workers to me.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_3()
+You're a bad liar.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_4()
+I won't let you take all those crystals!
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_5()
+(Pay 500 gold) Maybe this will convince you to put the crystals back?
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_7()
+(Fight) You asked for it!
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_9()
+(Reason) The livelihood of the forest animals depends on those crystals.
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_11()
+(Pay 1000 gold) Maybe this will convince you to put the crystals back?
+:System.String Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<>c::<SceneRoutine>b__6_13()
+(Fight) You asked for it!
+:System.Boolean Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<SceneRoutine>d__6::MoveNext()
+Hey, this area is off limits! We're finishing up some private construction work back here, so come back later when we're finished.
+Forget him AND the animals. These crystals are sure to sell big back home, and now they're all mine!
+Oh yeah? Whaddya gonna do about it?
+What's that? The boss never said we was hurtin' animals! I got a bunny back home - I can't be a part of this no more.
+Well now that you're speaking my language... Maybe I can make an exception this time.
+You're in for it now, kid!
+:System.String Wish.TheSunDragonsProtectionCutscene4_BanditExit/<>c::<SceneRoutine>b__2_0()
+Get out of here.
+:System.String Wish.TheSunDragonsProtectionCutscene4_BanditExit/<>c::<SceneRoutine>b__2_1()
+Consider yourself lucky.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene4_BanditExit/<SceneRoutine>d__2::MoveNext()
+Okay, okay! I'll put the crystals back, just let me go.
+*GULP* I'm going, I'm going!
+:System.String Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<>c::<Complete>b__4_0()
+I'm ready to go.
+:System.String Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<>c::<Complete>b__4_3()
+I'd rather stay.
+:System.Boolean Wish.TheSunDragonsProtectionCutscene5_EliosTurnin/<SceneRoutine>d__5::MoveNext()
+Excellent, XX. I will use this crystal's magic to lay a spell of protection over Sun Haven while I am gone.[]You protected our forests, and now your service protects Sun Haven itself. These acts are nothing if not noble.[]Take care of Sun Haven in my absence, XX. I will not be gone long.
+:System.Boolean Wish.TrainIntroCutscene/<SceneRoutine>d__12::MoveNext()
+Sorry to bother you, but is this seat taken?[]You're not going to Sun Haven, are you?
+Yes, I am.
+You're going to Sun Haven?
+What's it to you?
+Really? I suppose that will make us neighbors, then!
+Yes, I am. If that's where you're headed, then that will make us neighbors!
+Sorry, you're right. It's none of my business.
+Well, my name is Lynn. What's yours?[]...[]XX? I wish I had a more interesting name like yours.[]May I ask you something, XX? I was wondering if you've heard the same rumors I have. People say there are monsters all over this area. Have you heard anything like that?
+Yes, I have...
+No, I haven't.
+You sound worried... Should I be worried, too?
+Oh, no? That's surprising.[]I've heard there's a city full of monsters out there. People haven't been traveling as much because they're afraid of monsters on the road. I don't know if it's true, though.
+I'm so sorry, I didn't mean to ruin the conversation. I'm sure Sun Haven is safe and sound.[]Oh, look out the window - there's a shooting star! Make a wish, quick!
+[Wish for Romance]
+[Wish for Riches]
+[Wish for Adventure]
+[Wish for Peace]
+Here's to hoping our wishes come true... It looks like we're coming in to the station now. Oh gosh, I'm nervous - but we don't want to keep Sun Haven waiting!
+There you are! I was just starting to worry. I'm very happy to welcome you both to Sun Haven![]I am Lucia, the Archmage of Sun Haven. And allow me to introduce Nathaniel, the captain of the town guard.
+Glad to meet you, travelers. You came at a good time. Sun Haven's never been safer.[]Lynn, I'm excited to see the work you do with Solon.[]And you're XX? You know, I wasn't sure I'd ever see this land farmed again - I can't wait to see what it looks like after you put a little hard work into it!
+Nathaniel and I give most of our waking hours to Sun Haven. Our purpose is to guide this town forward, including its citizens.[]I just want the two of you to know that we're here for you if you need anything. Truly, don't hesitate to seek us out!
+A lot of your new neighbors will say the same thing, too. All of us in Sun Haven are very familiar with each other. People stick around here for a reason. You'll find a reason to stay too, I bet.
+There's so much for you to do here, I'm getting excited thinking about it all! Nathaniel, when do you think our new neighbors should visit the Sun Dragon?
+I'm not sure, but maybe they should at least see their beds first?
+Oh, of course you're right! I'm getting ahead of myself. XX, why don't I accompany you to your new home?
+Lynn, I'll show you to your house. We have you set up near the quarry. Come, follow me.[]Oh - it was nice meeting you, XX!
+Thanks for riding with me, XX. Bye for now!
+Shall we?
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_0()
+<color="red">Infuse 10 mana (1  <sprite="orb_icon" index=0>)</color>
+Infuse 10 mana (1  <sprite="orb_icon" index=0>)
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_2()
+<color="red">Infuse 100 mana (10  <sprite="orb_icon" index=0>)</color>
+Infuse 100 mana (10  <sprite="orb_icon" index=0>)
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_4()
+Infuse all mana (
+:System.String Wish.ManaInfuser/<>c::<GetResponses>b__2_6()
+See ya!
+:System.Void Wish.DialogueTree/<>c__DisplayClass23_6::<ParseTextAsset>b__10(Wish.Item)
+I can't wait!
+Its okay, maybe next time.
+Sweet.
+Awww shucks...
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_8()
+Give gift
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_14()
+See ya!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_16()
+See ya!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_20()
+I'd like to divorce my spouse.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_22()
+I'm sure.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_24()
+Actually, nevermind.
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_26()
+ <sprite="gold_icon" index=0> What services do you provide?
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_28()
+ <sprite="gold_icon" index=0> What are you selling?
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_30()
+See ya!
+:System.String Wish.DialogueTree/<>c::<ParseTextAsset>b__23_32()
+See ya!
+:System.String Wish.DialogueTree/<>c::<Talk>b__25_0()
+No problem.
+:System.String Wish.DialogueTree/<>c::<Talk>b__25_2()
+See ya!
+:System.Void Wish.FishingRod/<>c__DisplayClass64_0::<WinMiniGame>b__0()
+You caught a 
+:System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()
+Loading Friendly Neighbors...
+Loading Secret Emotes...
+Loading Snarky Neighbors...
+Accumulating Floofy Critters...
+Devising Snaccoons...
+Loading Clothing...
+Suiting up Characters...
+Loading dragons... 
+:System.Boolean Wish.LoadMainMenu/<LoadAsync>d__9::MoveNext()
+Compiling Emmetts... 
+Squashing bugs... 
+:System.Boolean Wish.LoadMainMenu/<LoadItemsAsync>d__10::MoveNext()
+Digging Mines...
+:System.Void Wish.NetworkGameManager/<>c__DisplayClass8_0::<ObjectInitialized>b__0()
+Player Count 
+:System.Void Wish.NetworkPlayer/<>c__DisplayClass59_0::<UpdateSceneID>b__0()
+Other player is in scene 
+:System.Void Wish.NetworkPlayer/<>c__DisplayClass80_0::<LoadedWorld>b__0()
+ connected!
+:System.String Wish.AnimalStand/<>c::<GetResponses>b__5_2()
+See ya!
+:System.String Wish.PetStand/<>c::<Interact>b__3_1()
+Yes.
+:System.String Wish.PetStand/<>c::<Interact>b__3_2()
+No.
+:System.String Wish.Placeable/<>c::<Use1>b__23_1()
+Confirm.
+:System.String Wish.Placeable/<>c::<Use1>b__23_3()
+No.
+:System.String Wish.Player/<>c::<RequestSleep>b__374_1()
+Yes
+:System.String Wish.Player/<>c::<RequestSleep>b__374_3()
+No
+:System.String Wish.MineLock/<>c__DisplayClass6_0::<Interact>b__1()
+Use 
+:System.String Wish.MineLock/<>c::<Interact>b__6_2()
+Close
+:System.Void Wish.BigBridgeQuestManager/<>c::<StopPlayer>b__6_1()
+Guard
+Sorry, you can't go there without a weapon.
+:System.String Wish.NPCSpawnManager/<>c::<SpawnNPC>b__7_0()
+<sprite="quest_assets" index=0> I'm ready!
+:System.String Wish.NPCSpawnManager/<>c::<SpawnNPC>b__7_2()
+I'm not ready yet.
+:System.String Wish.QuestDialogueOverride/<>c::<LoadQuest>b__10_0()
+Thanks.
+:System.String Wish.QuestDialogueOverride/<>c::<LoadQuest>b__10_1()
+See ya!
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnLucia>b__12_0()
+<sprite="quest_assets" index=0> Lets go!
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnLucia>b__12_2()
+No, I haven't prepared yet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_0()
+<sprite="quest_assets" index=0> I need an escort to Dragon's Meet.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_2()
+Well, here we are. Are you going to talk to the Sun Dragon? Or did you make me come all the way up here for no reason?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection4>b__13_4()
+No, I haven't prepared yet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_0()
+<sprite="quest_assets" index=0> I need an escort to Dragon's Meet.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_2()
+Well, here we are. Are you going to talk to the Sun Dragon? Or did you make me come all the way up here for no reason?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection6>b__14_4()
+No, I haven't prepared yet.
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection8>b__15_2()
+Well, here we are. Are you going to talk to the Sun Dragon? Or did you make me come all the way up here for no reason?
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRozaForSunDragonsProtection8>b__15_4()
+No, I haven't prepared yet.
+:System.String Wish.SunHavenTownQuestManager/<>c::<SpawnRaimi>b__17_0()
+<sprite="quest_assets" index=0> Sure thing!
+:System.Void Wish.SunHavenTownQuestManager/<>c::<SpawnRaimi>b__17_1()
+I'm in!
+Whoa, you need a weapon! Come back when you've armed yourself.
+:I don't know, I'm pretty busy...
+:System.Void Wish.TownNorthEntranceQuestManager/<>c::<StopPlayer>b__6_1()
+Guard
+Sorry, you can't go there right now.
+:System.Void Wish.WheatFieldQuestManager/<>c::<StopPlayer>b__6_1()
+Guard
+Sorry, you can't go there without a weapon.
+:System.String Wish.RepairSign/<>c__DisplayClass6_0::<Interact>b__1()
+<color="red">Repair</color>
+Repair
+:System.String Wish.RepairSign/<>c::<Interact>b__6_2()
+Not right now
+:System.String Wish.SaleStand/<>c::<GetResponses>b__12_2()
+See ya!
+:System.Void Wish.LoadCharacterMenu/<>c__DisplayClass5_0::<SetupSavePanels>b__1()
+Are you sure you want to delete 
+?

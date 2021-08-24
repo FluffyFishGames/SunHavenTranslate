@@ -1,0 +1,3311 @@
+Sun Haven
+Humans
+​
+Host
+Yes
+(Use WASD to walk)
+Name...
+Back
+Race
+Connect
+Striped Shirt
+Hair
+Feminine
+Version 0.2.1b
+Body Type
+Hey there!
+Sun Haven is in Early Access, which means not all game content is currently available, and some content will be buggy.
+You can report bugs in the #report-bugs channel of our Discord. 
+We're still hard at work on Sun Haven, so stay tuned for patch updates! 
+- Pixel Sprout Studios
+Server name:
+Known issue with Multiplayer: if you connect to another player's world before the host finishes loading the world, you may fail to connect.
+Please wait until the host has loaded the game before attempting to connect to a multiplayer game.
+If you fail to connect to a game, please restart the application.
+No
+Resourceful and ambitious, Humans have worked to emerge as one of the most prominent races in the world. A legacy of defying the odds and overcoming every obstacle is the birthright of this industrious race. Humans carry the uncanny desire not just to meet expectations, but surpass them.					
+Pixel Sprout Studios
+Enter text...
+Find A Game
+<size=150%>(8/13) Patch 0.2.1a Notes :</size>
+Sun Haven map functionality:
+- Romanceable NPCs are now visible on the Sun Haven map.
+- The player also shows on the map. (single player only)
+- Available quests and completable quests show on the map.
+Dating/Marriage to NPCs:
+- You can now gift NPCs a wedding ring to get married! This requires 15 hearts and getting far enough in - the dialogue (you can only marry one NPC at a time).
+- We’ve added a new wedding event to get married! The event center north of Sun Haven is now unlocked for this event (west from the train tracks).
+- Dating now begins if you accept the NPC during the second date. However, Bernard now sells a love letter to begin dating an NPC if you’ve declined the second date or declined the NPC during the second date.
+- NPCs now have proper dialogue reflecting your relationship. This includes 10 Dialogue Cycles before dating, 5 Dialogue Cycles while dating, 3 Dialogue Cycles while married, 5 Dialogue Cycles if dating is declined, and more one-liners added for each instance.
+- Bernard now sells keepsakes for NPCs that you have 8 hearts with in case you miss it in their dialogue or lose it for any reason.
+- You can now get up to 20 hearts with NPCs. It was previously capped at 10 before dating. Now it is capped at 15 before marriage.
+- You can now talk to Bernard to get divorced after marriage.
+Part 1 of 2 for mines update:
+- Floors 26-50 have been added!
+- Small rebalance to mining numbers: ore tiers are now in increments of 10 floors rather than 5.
+More character customization:
+- Naga race is now unlocked!
+- We’ve added new character select customization options.
+- We’ve added over 250 pieces of clothing (including color variations) into shops.
+- Most clothing now comes in the following color variations: pink, red, orange, yellow, green, blue, purple, black, and white.
+Other Changes:
+- Mac Build Support!!
+- More Settings: Keybinds, Increase Day Length, Pause time during dialogue
+- The tier 3 house upgrade is now available at the town hall! Now, you purchase the permit from Emmet at the Town Hall and craft the upgrade at your crafting table.
+- Romanceable NPC Bust Emotes now allow you to see the NPCs’ emotions while you’re talking!
+- Fence Gates are now in!
+- New wallpapers have been added to shops!
+- Wallpapers can now be placed across individual walls as well as in the Withergate apartment.
+- New farm songs and mine songs!
+- Increased size of tier 2 house to fit large furniture items and rugs
+- Multiplayer disconnection improvements
+- Various Bug fixes
+Coming Soon:
+- Nelvari/Withergate map and quests
+- Part 2 of the mines update, including more content in the mines (mines enemies, and chests/rewards every 10 floors). 
+- Salon/Clothing UI
+- Gray/Brown colors for clothing
+Got It!
+(You forgot to name your character!)
+Confirm
+Name
+Play
+Color:
+Defaults to steam name
+Are you sure you want to delete XX?
+Load Character
+Masculine
+Join
+0/0
+Server name
+0 ms
+Game mode
+Enter command...
+Public
+Logged in as
+Game type
+3x
+Rebind
+-
+Use Item: C
+Sound Effects Volume
+Exit Game
+Pause
+Edit Keybinds
+100%
+Option A
+Pause During Dialogue
+Day 10
+1.
+Loading World...
+Exit
+Patch Notes
+Options
+Singleplayer
+Multiplayer
+New Character
+Host & Play
+Press Any Key...
+Time: 10:45 AM
+Clear
+Close
+Submit
+5 jobs in progress
+Day Speed
+Ambient Volume
+Bob
+Resolution
+You must enter the password to enable cheats
+Delete
+Zoom Level
+Select
+Master Volume
+Music Volume
+Wish Count
+Coins: 150
+Waddup
+Fullscreen
+Enable Cheats
++
+30 min
+0
+04:30 PM
+<size=300>Sun Haven</size>
+Special Thanks to:
+Alex
+Brendan
+Bruce
+Emily
+Jennifer
+John 1
+John 2
+Katelyn
+Kyle
+Lexxi
+Michael
+Mike
+Sat
+FPS: 
+10000
+Inventory
+Chest
+10 <sprite="gold_icon" index=0>
+Oranges
+Town Hall
+100/100
+Buy
+coins
+orbs
+tickets
+Clothing Store
+Record Store
+Fishing Store
+Topee
+Rewards:
+1
+Topee's Studies
+Reward:
+Accept
+X
+Cow
+I'm looking for a favor for my sister Emma - she just heard about <color=#39CCFF>iron ore</color> and is really curious... for some reason. She really just wants to see some. Can someone bring 5 <color=#39CCFF>iron ore</color>? You can deliver it straight to her, I bet that would make her happy. Thanks!
+- Liam
+<sprite="left_arrow" index=0> Event Center
+ North of Town <sprite="up_arrow" index=0>
+Shipping Portal
+Items in this container will be sold overnight
+General Store
+Bernard
+Sword
+Craft
+30 minutes
+02
+Cooking Pot
+Level up in your skills to unlock more recipes!
+Cancel
+Queue
+Tailor
+Pet Store
+5000 <sprite="gold_icon" index=0>
+Hat Store
+     Sun Haven <sprite="right_arrow" index=0>
+<sprite="left_arrow" index=0> Farm\t
+     
+Glorite Cave <sprite="Up_arrow" index=0>
+  Withergate City <sprite="right_arrow" index=0>
+ Withergate Forest <sprite="down_arrow" index=0>
+  
+Ghosty Boy
+26
+45
+9
+39
+7
+34
+Select Mine Floor: 
+20
+23
+14
+18
+46
+38
+16
+27
+43
+19
+49
+41
+Exit Mine
+8
+31
+35
+40
+12
+3
+13
+47
+37
+5     
+36
+10
+32
+15
+30
+17
+44
+21
+2
+33
+22
+50
+4
+6
+48
+29
+42
+24
+11
+25
+28
+Current Floor: <b><i>5</i>
+Weapon Merchant
+0/5
+Feed him the required items to wake him up
+Mining Merchant
+Next
+Dear XX,
+Since you've been kind to me lately, I hoped I could trust you with a request. I'm looking for a new record, but the record store owner has been talking to me... a lot. I'd rather not see him today. Will you pick up a record and bring it to my home? I'm looking for something like a <b>waltz</b>. I've enclosed 500 gold to cover the cost. I'll pay you 500 gold for the delivery. Thanks in advance.
+- Claude
+10/10
+Crafting Table
+Snaccoon
+  Town Center <sprite="up_arrow" index=0>
+          Farm <sprite="left_arrow" index=0> \t
+ Quarry <sprite="right_arrow" index=0>\t
+     Quarry <sprite="right_arrow" index=0>
+Anvil
+ Event Center <sprite="up_arrow" index=0>
+<sprite="left_arrow" index=0> Barracks\t
+0/10
+2/10
+Glorite Cave <sprite="up_arrow" index=0>    
+ Deep Wilderness<sprite="right_arrow" index=0>
+Sun Haven Town <sprite="left_arrow" index=0> 
+Farming Merchant
+Farming Store
+ Town Center <sprite="right_arrow" index=0> 
+  West Forest <sprite="left_arrow" index=0> 
+Bakery
+Cape Merchant
+Crossbow Merchant
+Sylvia
+Sylvius
+Furnace
+Furniture Table
+Grinder
+Loveable little buddy for your farm.
+<color=#6B7DA1>(Left click at house or farm to place)</color>
+Chicken
+Sheep
+Baby Stump
+Silk Moth
+Baby Griffin
+Puppy
+ Loveable little buddy. 
+<color=#6B7DA1>(Grab a leash to have them follow you!)</color>
+Kitty
+Bunny
+Prince Frog
+Shiver
+Bubbles
+Smolder
+Nimbus
+Grimbus
+Baby Tiger
+Baby Dragon
+Unicorn
+Sprinkles
+Mr. Slither
+Raccoon
+Ruby Amulet
+An armor piece, for added protection.
+Magic Girl Gloves
+A good looking item to help you create your look.
+Withergate Mask
+Magic Circlet (Green)
+Magic Circlet (Orange)
+Magic Circlet (Red)
+Magic Circlet (Purple)
+Adamant Helmet
+Adamant Chest Plate
+Adamant Legs
+Adamant Gloves
+Copper Gloves
+Gina Helmet
+Gina Chest Armor
+Gina Pants
+Gina Gloves
+Iron Helmet
+Iron Chest Plate
+Mithril Chest Plate
+Mithril Legs
+Mithril Gloves
+Sunite Helmet
+Aspect of the Sun
+Sunite Chest Plate
+Sunite Legs
+Sunite Gloves
+Fancy Pants
+Copper Ring
+Iron Ring
+Adamant Ring
+Mithril Ring
+Sunite Ring
+Bonding Ring
+Become more favorable with others.
+Wedding Ring
+The perfect way to propose. Gift this to an NPC when the time is right to ask them to marry you.
+Enchanted Wedding Ring
+You're married!
+Sparkling Sun Helmet
+Sparkling  Sun Chest Plate
+Sparkling Sun Legs
+Sparkling Sun Gauntlets
+Angel Wings 1
+Angel Wings 2
+Angel Wings 3
+Angel Wings 4
+Angel Wings 5
+Angel Wings 6
+Black Cape
+Green Cape
+Orange Cape
+Red Cape
+Gray Cape
+Royalty Cape
+Moonlight Cape
+Sunset Cape
+Majesty Cape
+All Seeing Eye Cape
+Bloomed Green Cape
+Adventurer Cape
+Golden Stripes Cape
+Demon Wings 3
+Demon Wings 1
+Demon Wings 2
+Demon Wings 4
+Demon Wings 5
+Demon Wings 6
+Elf Wings 4
+Elf Wings 1
+Elf Wings 2
+Elf Wings 3
+None
+Bird Skintone 1
+Bird Skintone 10
+Bird Skintone 11
+Bird Skintone 12
+Bird Skintone 2
+Bird Skintone 3
+Bird Skintone 4
+Bird Skintone 5
+Bird Skintone 6
+Bird Skintone 7
+Bird Skintone 8
+Bird Skintone 9
+Cat Skintone 1
+Cat Skintone 10
+Cat Skintone 11
+Cat Skintone 12
+Cat Skintone 2
+Cat Skintone 3
+Cat Skintone 4
+Cat Skintone 5
+Cat Skintone 6
+Cat Skintone 7
+Cat Skintone 8
+Cat Skintone 9
+Dog Skintone 1
+Dog Skintone 10
+Dog Skintone 11
+Dog Skintone 12
+Dog Skintone 2
+Dog Skintone 3
+Dog Skintone 4
+Dog Skintone 5
+Dog Skintone 6
+Dog Skintone 7
+Dog Skintone 8
+Dog Skintone 9
+Fire Elemental Skintone 1
+Skintone 1
+Skintone 10
+Skintone 11
+Skintone 12
+Skintone 2
+Skintone 3
+Skintone 4
+Skintone 5
+Skintone 6
+Skintone 7
+Skintone 8
+Skintone 9
+Fish Skintone 1
+Green Reptile Skintone 1
+Orange Reptile Skintone 1
+Anchor Shirt
+Angel Dress
+Petal Shirt  (Pink)
+Petal Shirt  (Black)
+Petal Shirt  (Green)
+Petal Shirt  (Orange)
+Petal Shirt  (Purple)
+Petal Shirt  (Red)
+Petal Shirt  (Blue)
+Petal Shirt  (White)
+Petal Shirt  (Yellow)
+Petal Cropped Shirt
+Avocado Shirt
+Bow Tie Shirt
+Business Outfit
+Camo Shirt
+Cool Jacket (Blue)
+Cool Jacket (Green)
+Cool Jacket (Purple)
+Cool Jacket
+Dorky Fish Shirt
+Sun Dress (Brown)
+Sun Dress (Green)
+Sun Dress (Pink)
+Sun Dress (Yellow)
+Sun Dress (Black)
+Sun Dress (Blue)
+Sun Dress (Orange)
+Sun Dress (Purple)
+Sun Dress (White)
+Sun Dress (Red)
+Sun Dress
+Fairy Shirt (Black)
+Fairy Shirt (Green)
+Fairy Shirt (Purple)
+Fancy Vest
+Fancy Vest (Green)
+Fancy Vest (Purple)
+Heart Shirt
+Hippy Shirt
+Sleeveless Hoodie (Blue)
+Sleeveless Hoodie (Gray)
+Sleeveless Hoodie (Orange)
+Sleeveless Hoodie (Red)
+Sleeveless Hoodie (Yellow)
+Sleeveless Hoodie (Black)
+Sleeveless Hoodie (Green)
+Sleeveless Hoodie (Pink)
+Sleeveless Hoodie (Purple)
+Sleeveless Hoodie (White)
+Hoodie
+Jester Shirt
+Letterman Jacket
+Letterman Jacket (Black)
+Letterman Jacket (Green)
+Letterman Jacket (Orange)
+Letterman Jacket (Pink)
+Letterman Jacket (Purple)
+Letterman Jacket (Red)
+Letterman Jacket (White)
+Letterman Jacket (Yellow)
+Long Sleeve Shirt (Black)
+Long Sleeve Shirt (Blue)
+Long Sleeve Shirt (Brown)
+Long Sleeve Shirt (Green)
+Long Sleeve Shirt (Orange)
+Long Sleeve Shirt (Pink)
+Long Sleeve Shirt (Purple)
+Long Sleeve Shirt (Red)
+Long Sleeve Shirt (White)
+Long Sleeve Shirt (Yellow)
+Longsleeve Shirt
+Long Tuxedo (Black)
+Long Tuxedo (Green)
+Long Tuxedo (Red)
+Long Tuxedo (White)
+Magic Shirt (Red)
+Magic Shirt (Green)
+Magic Shirt (Orange)
+Magic Shirt (Brown)
+Magic Shirt (Purple)
+Magic Shirt (Black)
+Magic Shirt (Blue)
+Magic Shirt (Pink)
+Magic Shirt (White)
+Magic Shirt (Yellow)
+Magic Shirt
+Moon Shirt (Purple)
+Moon Shirt (Black)
+Moon Shirt (Blue)
+Moon Shirt (Green)
+Moon Shirt (Orange)
+Moon Shirt (Pink)
+Moon Shirt (Red)
+Moon Shirt (White)
+Moon Shirt (Yellow)
+Moon Shirt
+Muscle Shirt (Brown)
+Muscle Shirt (White)
+Muscle Shirt (Orange)
+Muscle Shirt (Grey)
+Muscle Shirt
+Music Note Shirt
+Officer Uniform Shirt
+Paw Shirt (Green)
+Paw Shirt (Yellow)
+Paw Shirt (Blue)
+Paw Shirt (Orange)
+Paw Shirt (White)
+Polkadot Shirt
+Poofy Shirt (Purple)
+Poofy Shirt (Black)
+Rainbow Shirt
+ Rapunzel Shirt (Orange)
+ Rapunzel Shirt (Yellow)
+ Rapunzel Shirt (Black)
+ Rapunzel Shirt (Blue)
+ Rapunzel Shirt (Teal)
+ Rapunzel Shirt (Pink)
+ Rapunzel Shirt (Purple)
+ Rapunzel Shirt (Red)
+ Rapunzel Shirt (White)
+Rapunzel Shirt
+Referee Shirt
+Sailor Shirt
+School Shirt
+Skeleton Shirt
+Slash Tank Top (Black)
+Slash Tank Top (White)
+Slash Tank Top (Blue)
+Slash Tank Top (Green)
+Slash Tank Top (Orange)
+Slash Tank Top (Pink)
+Slash Tank Top (Purple)
+Slash Tank Top (Red)
+Slash Tank Top (Yellow)
+Snow Jacket
+Snowflake Shirt
+Sparkling Sun Dress
+Sparkling Sun Gloves
+Sport Jersey
+Star Shirt
+Striped Shirt 1
+Striped Shirt 2 (Red)
+Striped Shirt 2 (Yellow)
+Striped Shirt 2 (White)
+Striped Shirt 2 (Purple)
+Striped Shirt 2 (Pink)
+Striped Shirt 2 (Orange)
+Striped Shirt 2 (Green)
+Striped Shirt 2 (Brown)
+Striped Shirt 2 (Blue)
+Striped Shirt 2 (Black)
+Striped Shirt 2
+Striped Shirt 3
+Sun Shirt
+Techy Shirt
+Torn Dress (Purple)
+Torn Dress (Red)
+Torn Dress (Black)
+Torn Dress (Blue)
+Torn Dress (Brown)
+Torn Dress (Orange)
+Torn Dress (Pink)
+Torn Dress (White)
+Torn Dress (Yellow)
+Torn Dress (Green)
+Torn Dress
+Tuxedo
+Tuxedo (White)
+Tuxedo (Red)
+Vampire Shirt (Red)
+Vampire Shirt (White)
+Vampire Shirt (Black)
+Vampire Shirt (Blue)
+Vampire Shirt (Green)
+Vampire Shirt (Orange)
+Vampire Shirt (Pink)
+Vampire Shirt (Purple)
+Vampire Shirt (Yellow)
+Vampire Shirt
+Vest Shirt (Green)
+Vest Shirt (Purple)
+Vest Shirt (Black)
+Eyes 2
+Eyes 1
+Eyes 3
+Eyes 4
+Eyes 5
+Eyes 6
+Eyes 7
+Eyes 9
+Eyes 10
+Eyes 8
+Eyes 11
+Eyes 12
+Eyes 13
+Eyes 14
+Fire Elemental Eyes 1
+Dog Face 1
+Fish Face 1
+Green Reptile Face 1
+Green Reptile Face 2
+Orange Reptile Face 1
+Elf Mask 1
+Elf Mask 2
+Elf Mask 3
+Elf Mask 4
+Elf Mask 5
+Facial Hair 1
+Facial Hair 10
+Facial Hair 11
+Facial Hair 2
+Facial Hair 3
+Facial Hair 4
+Facial Hair 5
+Facial Hair 6
+Facial Hair 7
+Facial Hair 8
+Facial Hair 9
+Green Reptile Horns 2
+Hair 9
+Hair 8
+Hair 10
+Hair 2
+Hair 3
+Hair 1
+Buzzcut (Black)
+Buzzcut (Blue)
+Buzzcut (Brown)
+Buzzcut (Dark Pink)
+Buzzcut (Gray)
+Buzzcut (Green)
+Buzzcut (Orange)
+Buzzcut (Pink)
+Buzzcut (Purple)
+Buzzcut (Red)
+Buzzcut (White)
+Buzzcut (Yellow)
+Hair 11
+Hair 4
+Hair 5
+Hair 6
+Hair 13
+Hair 12
+Hair 7
+Fire Elemental Hair 2
+Fire Elemental Hair 1
+Hair 14
+Green Reptile Horns 1
+Orange Reptile Horns 1
+Angel Halo 1
+Angel Halo 2
+Angel Halo 3
+Angel Halo 4
+Angel Halo 5
+Baseball Hat (Black)
+Baseball Hat (Blue)
+Baseball Hat (Brown)
+Baseball Hat (Green)
+Baseball Hat (Orange)
+Baseball Hat (Pink)
+Baseball Hat (Purple)
+Baseball Hat (Red)
+Baseball Hat (White)
+Baseball Hat (Yellow)
+Beret Hat (Black)
+Beret Hat (Blue)
+Beret Hat (Brown)
+Beret Hat (Green)
+Beret Hat (Orange)
+Beret Hat (Pink)
+Beret Hat (Purple)
+Beret Hat (Red)
+Beret Hat (White)
+Beret Hat (Yellow)
+Beret Hat
+Chef Hat (White)
+Chef Hat (Black)
+Chef Hat (Blue)
+Chef Hat (Pink)
+Chef Hat (Red)
+Chef Hat (Green)
+Chef Hat (Orange)
+Chef Hat (Purple)
+Chef Hat (Yellow)
+Chef Hat
+Magic Circlet (Black)
+Magic Circlet (Blue)
+Magic Circlet (Pink)
+Magic Circlet (White)
+Magic Circlet (Yellow)
+Magic Circlet
+Feather Circlet (Gold Blue)
+Feather Circlet (Gold Yellow)
+Feather Circlet (Gold Green)
+Feather Circlet (Gold Pink)
+Feather Circlet (Gold Red)
+Feather Circlet (Gold Black)
+Feather Circlet (Gold Orange)
+Feather Circlet (Gold Purple)
+Feather Circlet (Gold White)
+Golden Feather Circlet
+Feather Circlet (Silver Blue)
+Feather Circlet (Silver Green)
+Feather Circlet (Silver Pink)
+Feather Circlet (Silver Red)
+Feather Circlet (Silver Black)
+Feather Circlet (Silver Orange)
+Feather Circlet (Silver Purple)
+Feather Circlet (Silver Yellow)
+Feather Circlet (Silver White)
+Silver Feather Circlet
+Demon Horns 1
+Demon Horns 2
+Demon Horns 3
+Demon Horns 4
+Demon Horns 5
+Demon Horns 6
+Ice Cream Hat (Black)
+Ice Cream Hat (Blue)
+Ice Cream Hat (Brown)
+Ice Cream Hat (Green)
+Ice Cream Hat (Orange)
+Ice Cream Hat (Purple)
+Ice Cream Hat (Pink)
+Ice Cream Hat (Red)
+Ice Cream Hat (White)
+Ice Cream Hat (Yellow)
+Pirate Hat (Black)
+Pirate Hat (Blue)
+Pirate Hat (Brown)
+Pirate Hat (Green)
+Pirate Hat (Orange)
+Pirate Hat (Pink)
+Pirate Hat (Purple)
+Pirate Hat (Red)
+Pirate Hat (White)
+Pirate Hat (Yellow)
+Witch Hat (Blue)
+Witch Hat (White)
+Witch Hat (Black)
+Witch Hat (Purple)
+Witch Hat (Green)
+Witch Hat (Orange)
+Witch Hat (Pink)
+Witch Hat (Red)
+Witch Hat (Yellow)
+Western Hat (Brown)
+Western Hat (Black)
+Western Hat (Pink)
+Western Hat (White)
+Western Hat (Blue)
+Western Hat (Green)
+Western Hat (Orange)
+Western Hat (Purple)
+Western Hat (Red)
+Western Hat (Yellow)
+Western Hat
+Elf Horns
+Elf Deer Horns
+Elf Hair Flowers
+Sheriff Hat (Brown)
+Sheriff Hat (Black)
+Sheriff Hat (Pink)
+Sheriff Hat (White)
+Sheriff Hat (Blue)
+Sheriff Hat (Green)
+Sheriff Hat (Orange)
+Sheriff Hat (Purple)
+Sheriff Hat (Red)
+Sheriff Hat (Yellow)
+Edgy Pants (Black)
+Petal Skirt (Black)
+Petal Skirt (Teal)
+Petal Skirt (Yellow)
+Petal Skirt (Pink)
+Petal Skirt
+Rapunzel Skirt (Purple)
+Rapunzel Skirt (Black)
+Rapunzel Skirt (Blue)
+Rapunzel Skirt (Orange)
+Rapunzel Skirt (Red)
+Rapunzel Skirt (White)
+Rapunzel Skirt (Green)
+Rapunzel Skirt (Pink)
+Rapunzel Skirt (Yellow)
+Rapunzel Skirt
+Belted Pants (Brown)
+Belted Pants (Black)
+Belted Pants (Blue)
+Belted Pants (Purple)
+Belted Pants (Green)
+Belted Pants (Orange)
+Belted Pants (Pink)
+Belted Pants (Red)
+Belted Pants (White)
+Belted Pants (Yellow)
+Belted Pants
+Business Pants
+Edgy Pants (Blue)
+Edgy Pants (Brown)
+Edgy Pants (Green)
+Edgy Pants (Orange)
+Edgy Pants (Pink)
+Edgy Pants (Purple)
+Edgy Pants (Red)
+Edgy Pants (White)
+Edgy Pants (Yellow)
+Edgy Pants
+Generic Pants (Black)
+Generic Pants (Blue)
+Generic Pants (Brown)
+Generic Pants (Green)
+Generic Pants (Orange)
+Generic Pants (Pink)
+Generic Pants (Purple)
+Generic Pants (Red)
+Generic Pants (White)
+Generic Pants (Yellow)
+Generic Pants
+Magic Skirt (Blue)
+Magic Skirt (Green)
+Magic Skirt (Orange)
+Magic Skirt (Red)
+Magic Skirt (Purple)
+Shorts
+Pants 2 (black)
+Pastel Skirt (Black)
+Pastel Skirt (Blue)
+Pastel Skirt (Brown)
+Pastel Skirt (Green)
+Pastel Skirt (Orange)
+Pastel Skirt (Pink)
+Pastel Skirt (Purple)
+Pastel Skirt (Red)
+Pastel Skirt (White)
+Pastel Skirt (Yellow)
+Pastel Skirt
+Basic Skirt (Pink)
+Basic Skirt (Teal)
+Basic Skirt (Purple)
+Basic Skirt (Black)
+Basic Skirt (Blue)
+Basic Skirt (Brown)
+Basic Skirt (Green)
+Basic Skirt (Orange)
+Basic Skirt (Red)
+Basic Skirt (White)
+Basic Skirt (Yellow)
+Basic Skirt
+Street Pants (Black)
+Street Pants (Blue)
+Street Pants (Brown)
+Street Pants (Green)
+Street Pants (Orange)
+Street Pants (Pink)
+Street Pants (Purple)
+Street Pants (Red)
+Street Pants (White)
+Street Pants (Yellow)
+Street Pants
+Tuxedo Pants (Red)
+Tuxedo Pants (White)
+Vampire Skirt (Red)
+Vampire Skirt (Orange)
+Vampire Skirt (Black)
+Vampire Skirt (Blue)
+Vampire Skirt (Green)
+Vampire Skirt (Pink)
+Vampire Skirt (Purple)
+Vampire Skirt (White)
+Vampire Skirt (Yellow)
+Vampire Pants
+Naga Tail 3
+Naga Tail 2
+Naga Tail 4
+Naga Tail 5
+Naga Tail 1
+Demon Tail 1
+Demon Tail 2
+Demon Tail 3
+Demon Tail 4
+Demon Tail 5
+Demon Tail 6
+Dog Tail 1
+Fish Tail 1
+Reptile Tail 1
+Reptile Tail 2
+Reptile Tail 3
+Adventure Keepsake
+A token of adventure.
+Riches Keepsake
+A token of riches.
+Romance Keepsake
+A token of romance.
+Peace Keepsake
+A token of peace.
+Lynn's Shield
+A token of friendship.
+Anne's Pearl Earrings
+Donovan's Dog Tag
+Vaan's Ruby Ring
+Xyla's Queen Chess Piece
+Nathaniel's Helmet
+Jun's Diary
+Liam's Oven Mitts
+Catherine's Charm
+Claude's House Key
+Kitty's Cat Toy
+Wornhardt's Stethoscope
+Darius's Royal Heirloom
+Lucia's Fire Orb
+Iris's Enchanted Totem 
+Cat Dress (Blue)
+Cat Dress (Green)
+Cat Dress (Purple)
+Cat Tail 1
+Cat Dress
+Cat Face 1
+Cat Eyes
+Bird Face 1
+Bird Tail 1
+Naga Mask 1
+Naga Mask 2
+Naga Mask 3
+Naga Mask 4
+Naga Mask 5
+Naga Mask 6
+Cropped Top (Blue)
+Cropped Top (Yellow)
+Cropped Top (White)
+Cropped Top (Red)
+Cropped Top (Purple)
+Cropped Top (Pink)
+Cropped Top (Orange)
+Cropped Top (Green)
+Cropped Top (Black)
+Cropped Top
+Dev Watering Can
+Used to water tilled dirt
+<color=#6B7DA1>(Left click on tilled dirt to water)</color>
+<color=#6B7DA1>(Left click to water to refill)</color>
+Rusty Watering Can
+Holds water for you to water crops or tilled dirt.
+Copper Watering Can
+Iron Watering Can
+Adamant Watering Can
+Mithril Watering Can
+Sunite Watering Can
+Mushroom
+Yum.
+Flour
+Noodles
+Greenspice
+Sugar
+Cheesecake
+Egg Hash
+Egg Tarts
+Mashed Potatoes
+Clam Chowder
+Carribean Green Soup
+Red Veggie Soup
+Creamy Beef Stew
+Chicken Noodle Soup
+Spicy Ramen
+Spaghetti
+BLT
+Pot Pie
+Honeyglazed Apple
+Popcorn
+Cinnamon Apple Pie
+Stuffed Casserole
+Peach Cobbler
+Fried Rice
+Fried Carp
+Tomato Salad
+Pickled Veggie Salad
+Spring Roll
+Shimmerroot Treat
+Energy Smoothie
+Orange
+Peach
+Raspberries
+Fish Tempura
+Corn
+The "fruits" of your labor.
+Potatoes
+Demon Orb
+Snappy Plant
+Carrot
+Shimmerroot
+Cinnaberry
+Lettuce
+Rice
+Eggplant
+Kraken Kale
+Moonplant
+Suckerstem
+Tombmelon
+Razorstalk
+Wheat Seeds
+Grows in 3 days. Valued quite highly for its versatility, but takes a lot of work to grow a large harvest.
+<color=#6B7DA1>(Left click to place on tilled dirt)</color>
+Corn Seeds
+Grows in 6 days. Corn grows slow, but yields plenty to harvest.
+Potato Seeds
+Grows in 5 days. When fertilized, they have an additional chance to be high quality.
+Tomato Seeds
+Grows in 5 days. Tomatos are a common meal ingredient.
+Demon Seeds
+Grows in 3 days.
+Snappy Seeds
+Grows in 4 days.
+Carrot Seeds
+Grows in 5 days. Carrots are a common meal ingredient.
+Shimmerroot Seeds
+Grows in 10 days. Shimmerroot takes a long time to grow, but some say you can even see the gold sparkles when it's time to cash in. Always grows legendary quality.
+Onion Seeds
+Grows in 5 days. Onions are a classic in sprucing up any meal.
+Cinnaberry Seeds
+Grows in 6 days. Cinaberries are a sweet snack you can eat on the go, and are an important ingredient in great tasting dessert.
+Lettuce Seeds
+Grows in 7 days. Lettuce absorbs moisture well from the air, so it always stays watered the next day.
+Rice Seeds
+Eggplant Seeds
+Grows in 7 days.
+Kraken Kale Seeds
+Moonplant Seeds
+Grows in 5 days.
+Suckerstem Seeds
+Grows in 6 days.
+Tombmelon Seeds
+Razorstalk Seeds
+Berry
+Rex Cap
+An important item on your journey.
+Topi's Notebook
+Peter's Lure
+Joke Book
+Jun's Flower
+Meat
+Glorite Crystal
+Amanda's Book
+Albert's Sword
+Medicine
+Jazz Record
+A treat for your ears.
+<color=#6B7DA1>(Use on record player to play)</color>
+Regal Record
+Bossa Record
+Waltz Record
+Celtic Record
+Lo-Fi Record
+Folk Record
+Music Box Record
+Sentimental Record
+Rain Record
+Kitty Record
+Lucia Record
+Liam Record
+Catherine Record
+Lynn Record
+Nathaniel Record
+Jun Record
+Claude Record
+Wornhardt Record
+Darius Record
+Donovan Record
+Xyla Record
+Iris Record
+Vaan Record
+Anne Record
+Classical EDM Record
+Basic Wallpaper
+The default wallpaper for your house.
+<color=#6B7DA1>(Use on a wall to place)</color>
+Flower Wallpaper
+Wallpaper for your house.
+Withergate Wallpaper
+Vintage Wallpaper
+Pink Rosebud Wallpaper
+Purple Grid Wallpaper
+Purple Striped Wallpaper
+Parchment Wallpaper
+Retro Striped Wallpaper
+Blue Diamond Wallpaper
+Bunny Wallpaper
+Purple Vintage Wallpaper
+Red Brick Wallpaper
+Brown Brick Wallpaper
+Nice Blue Wallpaper
+Nice Green Wallpaper
+Nice Ivory Wallpaper
+Nice Light Blue Wallpaper
+Blue Striped Wallpaper
+Withergate Royalty Wallpaper
+Purple Gold Arch Wallpaper
+Grey Brick Wallpaper
+Stained Glass Purple Wallpaper
+Navy Withergate Wallpaper
+Art Deco Purple Wallpaper
+Withergate Apartment Wallpaper
+Howdy Farmer,
+You're working hard, I can see it in your wallet - I'm kidding! But I can tell that you've been getting more confidence to you, which commendable. Now I don't do handouts but I can appreciate another small business owner. Consider this a loan. Pay me back by shopping at my store sometime.
+- Anne
+Hey XX,
+Well, color me impressed! Not only am I invested in your farm's growth, but also in how well you invest your money back into the business. You're a skilled farmer and business owner! It's been a while since I've seen someone with your dedication and generosity, and I guess it struck a chord with me. Now is my time to be generous to you, just this once. It's my favorite, so don't waste it - Raspberry Cheesecake on a Diamond Platter.
+To Farmer XX,
+I'm Bernard, administrator at Sun Haven's Town Hall. I wanted to reach out with this housewarming gift as a representative of Sun Haven. I hope it helps you get settled on your new land. 
+Come visit me at Town Hall to the south of Sun Haven's town square if you would like to build a barn for livestock. I can also authorize renovations to your old cabin with a <color=#39CCFF>house upgrade kit</color>.
+Regards,
+Hello XX,
+When I have Greenroot, I always find there is a hop in my step. Since you have been working so hard on your farm, I thought you could use that extra hop as well.
+You simply must try it!
+- Catherine
+I was restocking at my shop and it seems I had a handful of extra Cinaberry Seeds. When I saw them, I knew they matched your red aura and were meant for you. Please enjoy them and continue to glow!
+I want to welcome you to Sun Haven. Unlike even my most trusty bass, I have yet to find you out of tune. I'm curious what kind of song you will conduct in Sun Haven. You appear truly unique, but we will only know once we get to the bridge of your piece.
+I do hope your farm is prosperous here. Perhaps I could even get to know you further.
+I have traveled for years and heard songs from across the world that simply did not inspire me, but never has something spurred my creativity as much as yourself. From melody to chorus, you are entirely one of a kind.
+Continue to play your song, I cannot wait to hear it.
+Outsider,
+I am not going to pursue you as Xyla would, but I do think you have much to prove if you wish to be a true part of Withergate. So take these and show me you have some value to my family's kingdom. I do demand a cut of your crop, so bring me a Kraken Kale as thanks for my generosity.
+- Darius
+I must admit, you are making waves in my court. Be careful not to undermine me or I will lock you in my dungeon for daring to act against the prince of Withergate without a second thought. I suppose, however, that you are finally earning some right to my presence and a place amongst my subjects, and dare I say, peers. You've earned my respect and for that, so I offer a single gift. Do not expect this to happen again.
+Heyo XX,
+Nice to get to stretch the old brain muscles and write a letter. Do you know how rare it is for me to do this? Mainly since Manhole #3 doesn't count as a valid return address. Lucky for me though, I could just borrow Darius's address. I'm sure they won't notice. Anyway! I was just coming up to get some grub and this guy just hands me a bone. Can you believe it! These suckers are like candy for an Amari like me. As much as I wanted to chew through it right away, I thought you might like it more. So give it a try!
+- Donovan
+Woof right, it's been a bit crazy since you came to Withergate. Your spice is exactly what this boring town needs, though. So thanks for that, making this place feel like home even though I am technically not supposed to be near the city right now due to... *ahem* circumstances. 
+Well XX, you did it! You got me liking human culture all over again. Jeez. Good thing you're cute or you would've gotten some real pushback.
+I don't usually send mail outside of Nel'Vari, but I simply had to show you this remarkable basket of Blueberries I picked. I managed to get the tree to replenish in only a single hour!
+P.S. You are allowed to eat it, please enjoy my work.
+- Iris
+Our conversations inspired me to take a moment's rest and work on this furniture piece that I'd put off for far too long. I like how it turned out, so I wanted to show you what your encouragement helped me create.
+P.S. I included some of my babies along with it, water them well!
+Dearest XX,
+I was walking Topi and Pod home from school yesterday when my mind began to wander. I was so lost in thought, I wandered myself right into an apple tree! It was funny in the moment though, plus I ended up with a surplus of apples. Please, enjoy these apples!
+- Jun
+I find the best way to relax after a long and heart-filled session is to paint.
+While working on this piece, I realized I was thinking of you. So, I want you to have this and remember to take a moment to appreciate the small things in life. Like a painting.
+Thanks so much for pledging and supporting the development of Sun Haven! With your help we were able to bring this game to life. Please enjoy your rewards included below: A Pet Baby Dragon! To walk your pet, you will need to purchase a leash at the Sun Haven Pet Store!
+Thanks so much for pledging and supporting the development of Sun Haven! With your help we were able to bring this game to life. Please enjoy your rewards included below: A Pet Baby Tiger! To walk your pet, you will need to purchase a leash at the Sun Haven Pet Store!
+Thank you so much for pledging and supporting the development of Sun Haven on Kickstarter! Your generosity and heart for this project has helped us continue to add so many amazing features and details. Please enjoy your rewards included below: A Golden Record Player and All The 5 Custom Records.
+Thanks so much for pledging and supporting the development of Sun Haven! With your help we were able to bring this game to life. Please enjoy your rewards included below: A Sparkling Sun Dress and Sparkling Sun Armor!
+Thanks so much for pledging and supporting the development of Sun Haven! With your help we were able to bring this game to life. Please enjoy your rewards included below: A Withergate Mask!
+Hiya XX!
+I saw the cuuutest plushie on my way from the pet store today. It looks JUST like you and I NEEDED to show you! Isn't it so cute, nya!?
+- Kitty
+You're always a very very nice person to me. You actually listen to me and hang out with me which is suuuper fun! So I wanted to get you something to say I was thinking of mew! Get it?? Teehee!
+Hello there XX,
+I was making some cookies to celebrate Elizabeth's school project (she got a SUPER! sticker), and I might have gone a little overboard. We had way too many and the shop was closed so I guess I thought hey, XX may like them.
+So here’s a few treats, for you! I hope you like them!
+P.S. You don't have to eat them if you don't like them.
+Hi XX,
+You have really helped me fully settle in here and you were supposed to be the new neighbor! So I thought, it was about time I bring you a housewarming gift. Except I couldn't find time to actually bring it to you, so I am sending it to you. I hope that is okay!
+Thank you for being such a good friend and your support means a lot... and you know... Welcome to Sun Haven, I couldn't imagine the town without you!
+I wanted to stop by to see how you were settling in, but I saw you were busy at work with a real fire in your eyes. Instead, I am writing you this letter to commend your hard work.
+To thank you for your diligent work, I've included a small gift of Greenroot seeds. It may also be one of my favorites, I would not be opposed if you want to share!
+- Lucia
+You have continued to grow and change since coming to Sun Haven. To think you were also blessed by Elios makes us far closer to each other than anyone could imagine.
+As a token of my admiration for someone as powerfully blessed as yourself, enjoy these mana tomes. I find they help me hone my mana just in time for training in the evening.
+Hi there XX!
+I know you're busy settling in still, but I noticed you were a little light on armor when you were headed to the forest. I was a bit worried about you, so I thought these would help get you started on some strong armor!
+Stay Safe!
+- Lynn
+I saw your blade was looking a little dull, be sure to keep your sword sharp! I would be devastated to know a monster in the forest managed to hurt you because of a faulty weapon when I could have been there to help fix it!
+Stay Sharp!
+I heard about your skill from Roza as to how well you handle yourself in combat. You're very impressive with a sword, so I hear. So, you should come by the barracks sometime! I would enjoy the recruits seeing a true natural in action. Maybe I can offer a few pointers myself.
+- Nathaniel
+You missed joining in for a grand supper the last night, everyone in the barracks brought a dish! It was a true family-style potluck, one that I missed from when I was a rookie under my mother's command.
+While you may not be a part of the guard, I do consider you a part of our family, XX. Join us next time! We would be glad to have you - if you bring a dish of your own of course!
+Look here XX,
+I was stocking up on odds and ends, and this shipment of records came in scratched. (That's what I get for buying in bulk!) Turns out this is my favorite song, so consider it a free sample for the wares I have at my store.
+I was cooking dinner yesterday and I realized just how soothing this song was after stirring my cauldron all day. It is one of my favorites, so I hope it brings you a little peace as well.
+- Catherine						
+In my days, I have spent much time alone working on music. Yet, I have only ever finished a single song that I liked. Though I dislike sharing it and have gone to great lengths to prevent those here from finding my records, you listened to my songs - unfinished or only barely started - with a smile. I feel like I can give this to you with the confidence you will enjoy it without judgment.
+Human culture has always been lesser than that of the Demons. When we began the construction of Withergate City, musicians from across the land dared to present their music to my father and me. This is a recording of the best musicians to ever grace this world. Listen to it and perhaps you will begin to understand the true value of Withergate's culture.
+I was sliding back down my ladder after helping this slime dude find his lost keys, and I had to pause - this great tune was playing on my record player! So in that moment I decided you need a copy. I mean, if I can jam out down in the sewers then you should be able to jam out wherever you want.
+I spoke with Nivara today and she explained how much she much loved the tune of the birds. It was only then I realized how much I enjoy the music in my workshop and how it inspires me to work even harder. So I wish for you to have a copy of the song I like so much.
+P.S. I hope it inspires your productivity on the farm.
+I find meditating in the morning to be a good mindfulness practice. As I was enjoying my meditative trance, I found myself humming along to my music without thinking about it. You should give it a listen, I think you will enjoy the mellowing effect it has.
+I so so LOVE this song and I needed you to hear it. So take a listen and fall in love with it, just like Kitty. It makes me wanna get up and shake my tail, nya!
+Hi there XX,
+During our session today, Jun reminded me that sometimes it's good to take a step back and relax. So I took today to listen to my favorite song. In a way, it was kind of stressful to take a whole day just to myself.
+So you too. I mean you should too. Take a day... to listen to music you like.
+I am going to sign this before I make it a complete disaster.
+I was working late last night, finishing off a few of my Archmage duties which followed me home. I quite like to listen to music as I work, and I think you would as well. So please accept this gift, my favorite song to listen to. Perhaps it will be yours as well.
+I wanted to thank you for spending so much time with me lately and making me feel welcome to Sun Haven. You may remember this song, I hum it when I tinker and I sing it when I walk, oh that is embarrassing to think about. I hope no one heard me on my walk...
+Well, I really like the song and I want you to enjoy it as much as I do.
+Enjoy!
+Have you ever thought of battle like a dance? With every step and slash of your sword, you move in unison like making your own dance. The further you practice, the further you can perfect each movement.
+So please, take this record. If you listen to it while you practice, it will be as though we are dancing together even when we are apart.
+Taking to the air allows me to think and clear my head. It is a freeing experience I doubt you've had the honor of feeling just yet.
+There is one thing that clears my head just as well though - this song, a true waltz in symphonic form. When the day comes where we dance in unison, this shall be our song. So learn it well, I would quite enjoy our dance to be perfect.
+- Vaan
+While I was looking over my next month of meetings and appointments, I found myself swaying to the music. This really is my favorite piece, I wish I knew who wrote it. Anywho, I asked around at the record store and they had a second-hand copy, too bad it was missing its sleeve as well. A shame, but now you can have one. Enjoy this song and sway along, like the trees in the wind, and lose yourself for a moment in the music!
+- Dr. Wornhardt
+Hey <s>Sewer Rat</s> XX,
+I've yet to meet someone from the Human town that actually has some value to me, and that's still true. I will not allow you to bring your human nonsense into my town and mess up the place. So take whatever you were playing in your apartment and throw it out immediately. This is real music and I expect you to listen to it. Understood?!
+- Xyla
+To XX,
+Since I fly over your farm on my way into Sun Haven, I've seen you do such interesting things. In Nel' Vari I see Iris, the Elven Enchantress, work with her plants.. but it's different from you. You tend your crops so gently, and with such care, instead. Truly, I'm delighted to see you care for nature, so with this letter I've included a gift that should help your work. Farewell.
+Greetings my dear XX,
+The more I explore, the more I find people who admire my abilities and admire me. Yet, you continue to only watch me with a smile. Knowing you has made me grateful for the time I spend more grounded. And while I cannot take you with me on my Nimbus Cloud, I wish you to have the same sense of being in the clouds as me. I used my own magic to make a bed this soft for you, so please enjoy it, my dear. I worked so hard that I nearly broke a sweat!
+While an apple a day certainly does not keep the doctor away, a treat never hurt anyone now and again either. Make sure you are taking care of yourself and don't be afraid to stop by the hospital or my house for a check-up. I like to make sure everyone in Sun Haven is taken care of, especially if you are working hard in the sun. So come by any time!
+You have been working so hard lately, I think you could really use a little time to lean back and watch the clouds. Just like our first date together. A lovely thing it was. So enjoy the clouds, the little things in life that we all wish we had more time for.
+Hello Sewer Rat,
+You've been such a pest, all of Withergate is talking about you sneaking into <i>my</i> city. Listen to me closely, I will PAY you to just stay out. So take the bribe, and stick to your cushy farm in Sun Haven. You got it?
+Seems you're finally understanding the importance of all my work. The buildings, the layout, the shops, the carnival. All my work! When you were on your terrace the other night, I couldn't help but think about that. Wow, you weren't admiring me for once. Instead, you were admiring my craftsmanship, my work. In a way, that felt better than actually getting complimented. So take this, then you can admire my work at all times and compliment me about it later.
+Oh great, you brought that <color=#39CCFF>seaweed</color> I wanted. Well, thanks. Oh right, here's your gold.[]I'm still not clear on how this works... do I eat it, or put it on my face?
+Emmett is trying a new skin care routine. Bring 5 <color=#39CCFF>seaweed</color> to him at the general store.
+Looking for: <color=#39CCFF>Seaweed</color>
+Catherine told me <color=#39CCFF>seaweed</color> is good for your skin so I want to give it a try. I'll pay 150 gold to anyone that brings me 5 <color=#39CCFF>seaweed</color>. You know where to find me.
+- Emmett
+Emmett's Skin Care
+Wow, look at that - it's so well made! Thanks a lot, I think it will look nice next to my bunk. That is, if Roza lets me keep it...[]I almost forgot - your payment!
+Lester is trying to make the barracks a little more comfortable. Bring him a <color=#39CCFF>wooden torch</color> for decoration.
+Hey, everyone! Anybody looking to make some extra gold?
+I want a more personal touch to my bunk in the barracks. I'll pay 300 gold for a <color=#39CCFF>wooden torch</color>! First come, first serve. 
+- Lester
+Lester's Lamp
+Oh, hey farmer. Wait, you really brought me a <color=#39CCFF>rainbow trout</color>? That's so nice![]Thanks a bunch, let me repay you. Take some gold, please.
+Lester is looking for some fish to eat. Bring him 1 fresh <color=#39CCFF>rainbow trout</color>.
+Looking for trout!
+It's been so long since I've had <color=#39CCFF>rainbow trout</color> that I can't remember what it tastes like. I'd love if someone could bring me one, fresh.
+Lester's Trout
+Hello, farmer, did you bring me straw? All right! I'm going to make a secret bed somewhere. You can't know where![]Here, take these. It's okay, I have more.
+Pod's "Mama" has asked for <color=#39CCFF>straw</color> to be delivered to Pod. Bring Pod 10 <color=#39CCFF>straw</color>.
+Pod needs a whole bunch of <color=#39CCFF>straw</color> because I said so! So bring him 10 <color=#39CCFF>straw</color>, okay?
+- Mama
+Pod's Straw Bed
+Oh, XX! This is wonderful, thanks so much. I can't wait to finish my stew![]Oh, did you think I was making magic potions? Nope - just a healthy meal!
+Catherine is working on a witch's brew, but she needs a few more ingredients. Bring her 4 <color=#39CCFF>mushrooms</color> from the forest to finish it off.
+Hello, neighbors!
+I'm working a little magic in the kitchen, but I need a few <color=#39CCFF>mushrooms</color>. If someone could please bring me 4 <color=#39CCFF>mushrooms</color> from the forest, I'll repay you generously!
+Catherine's Brew
+Oh, the helpful farmer. Thanks for the copper, you're a dear. Please take this payment, as promised.
+Copper for Camila:
+Bring Camila 5 <color=#39CCFF>copper bars</color>. You can make <color=#39CCFF>copper bars</color> from copper ore found in the mines.
+Copper needed!
+I'm paying 1000 gold to the first person to bring me 5 <color=#39CCFF>copper bars</color>. I need them quick, so don't dally!
+- Camila
+Copper For Camila
+New farmer! Thank you, now Elizabeth will finally stop bragging about winning. You're a good neighbor!
+Emma's Debt:
+Emma owes Elizabeth 1 <color=#39CCFF>sand dollar</color>. Bring Emma a <color=#39CCFF>sand dollar</color> from the beach.
+I need help finding a <color=#39CCFF>sand dollar</color>! I lost at hopscotch and now I owe Elizabeth. I can't find one anywhere! Please help!
+- Emma
+Emma's Debt
+No way, you brought me <color=#39CCFF>berries</color>! I can't wait to try them. Let me pay you for going out of your way.
+Lester heard that <color=#39CCFF>berries</color> from the forest are delicious, but hasn't tried them himself. Bring him 4 <color=#39CCFF>berries</color> from the forest.
+Looking for <color=#39CCFF>berries</color>!
+Sophie keeps talking about these <color=#39CCFF>berries</color> she found in the forest. Apparently they're delicious! I'd love to try some, but I don't have time to go foraging. I'll pay 300 gold to anyone who brings me 4 <color=#39CCFF>berries</color>. Thanks a bunch!
+Lester's Snack
+Oh thank goodness! I don't know why, but Topi seems to only be eating <color=#39CCFF>noodles</color> right now.[]Anyway, take some gold for your help.
+Giuseppe needs a hand getting dinner for Topi. Bring him <color=#39CCFF>noodles</color> for Topi's dinner. You can make noodles at a cooking pot.
+Help with dinner?
+It's my night to make dinner for Topi, but he's decided that he doesn't like meat anymore and I'm out of ingredients. Does anyone have time to bring me some <color=#39CCFF>noodles</color>? It would be a great help!
+- Giuseppe
+Noodles for Giuseppe
+Oh, you actually brought me a smoothie? Wow, I wasn't expecting anyone to follow through. Thanks XX, this will help a whole lot. Here's some gold for your help.
+Emmett is low on energy. Bring Emmett an <color=#39CCFF>energy smoothie</color> to let him know you appreciate his hard work.
+I need a boost today. If anyone appreciates the work I do around here, please bring me an <color=#39CCFF>energy smoothie</color>. Otherwise, I might not make it through the day. I'm happy to pay for it. Thanks.
+Smoothie for Emmett
+Wow, this couch looks sturdy! Thank you XX, this is exactly what I was hoping for. Please take this gold in return.
+Tonya needs a new couch. Bring her a <color=#39CCFF>wooden couch</color>. You can craft one with a furniture crafter.
+Looking for a couch!
+Our old couch is broken now after a rowdy game of Dragons. If someone can deliver us a new <color=#39CCFF>wooden couch</color>, I'll pay more than it's worth!
+- Tonya
+Tonya's New Couch
+My sword! Oh thank you. You can't know how important this is to me. Just holding it takes me back to a time when I was a brave young knight.
+Find <color=#39CCFF>Albert's lost sword</color> in the eastern forest and return it to him.
+Albert's Keepsake
+Oh no, did Peter ask you to return this? That man knows nothing about discretion... Here farmer, hopefully some gold will earn <i>your</i> discretion.
+Amanda left her <color=#39CCFF>book</color> with Peter. Return the <color=#39CCFF>book</color> to Amanda at the library.
+Perfect timing, I was about to head out. Thank you, XX. You are indeed as helpful as I've heard.
+Bernard needs to repair some decorative banners around town. Bring Bernard some <color=#39CCFF>fabric</color> to help the repairs. You can craft <color=#39CCFF>fabric</color> from silk at a loom.
+Bernard's Banners
+Oh, you actually came back! Thanks, farmer. Sorry if I gave you some attitude before. I get grumpy when I'm tired. Here, have this as thanks.
+Bring Calvin a <color=#39CCFF>joke book</color> from the library to keep him from falling asleep on duty - again.
+Calvin is Bored
+This is the cherry on top of a perfect day! Thanks neighbor, you're really as nice as they say. I want you to have this.
+Catch a fresh <color=#39CCFF>sea bass</color> and deliver it to Camila for dinner.
+Camila's Craving
+Wow, look at that! These came out great. You clearly know your way around the farm.[]I just wanted to know how effective the fertilizer is, so you can keep the crops. And here, take some more fertilizer now that I know it works!
+Catherine has a new fertilizer formula she wants to test. Plant the Cinaberry seeds with the fertilizer Catherine gave you and bring the grown crop back to her.
+Catherine's Fertilizer
+Oh, you got my letter. Thank you XX, this is great. And don't forget your payment.
+Claude doesn't want to talk to the record store owner today, so he's asked you to buy a record for him. Buy the <color=#39CCFF>waltz record</color> and deliver it to Claude at his house.
+Claude's Record
+Liam is going to be so happy! Here, take my sandwich. I was going to have it for lunch, but now I want you to have it.
+Emma spilled Liam's <color=#39CCFF>flour</color> and wants to replace it so he doesn't have to worry. Bring Emma 5 <color=#39CCFF>flour</color>. You can craft <color=#39CCFF>flour</color> in a wheat grinder.
+Emma's Spill
+The soldiers will be grateful to have this, thanks again XX.
+Nathaniel needs coal to heat the barracks since Pinto dropped his basket in the river. Bring Nathaniel 8 pieces of <color=#39CCFF>coal</color> from the mines.
+Heat The Barracks
+<i>*sniff*</i> Ah, that's the stuff! Nobody will want to chat with this fish-breathed lady tonight. Maybe I'll finally get a moment to myself.[]Thanks XX, here's a little gold for your trouble.
+Anne has been getting some extra attention in the tavern lately, but she has a plan to stop it. Bring Anne <color=#39CCFF>fried carp</color> to make her breath stink!
+Helpful Halitosis
+Great, this is just what I ordered! Thanks, XX. Again, you're a lifesaver. And, again, not literally.
+Fetch the <color=#39CCFF>medicine</color> from Catherine's herb shop and bring it to Dr. Wornhardt at the hospital.
+Just What the Doctor Ordered
+Kitty has a craving for fresh <color=#39CCFF>dorado</color> - no need to cook it. Catch a <color=#39CCFF>dorado</color> and bring it to Kitty. 
+Holy wow, you <i>are</i> good at fishing! Thanks a bunch, XX. Have this shirt I made!
+Kitty Wants Fish
+Oh my goodness it's so shiny, nya! This is the best <color=#39CCFF>sapphire</color> for Kitty's dress, yes yes. Thank you, XX!
+Kitty is designing a fancy dress that requires a gemstone. Bring Kitty a <color=#39CCFF>sapphire</color> so she can finish her dress. You can find a <color=#39CCFF>sapphire</color> in the mines.
+Kitty's Dress
+Here you go, just like I said. Thanks for helping out!
+Water Kitty's garden outside her home.
+Kitty's Garden
+Anne wants to go on a date! Meet Anne outside of her cart at 4pm the next day.
+First Date With Anne
+Second Date With Anne
+Catherine wants to go on a date! Meet Catherine outside of her house at 5:00 pm the next day.
+First Date With Catherine
+Second Date With Catherine
+Claude wants to go on a date! Meet Claude at his house by 5:00 pm the next day.
+First Date With Claude
+Claude wants to go on a date! Meet Claude at his house by 12:00 pm the next day.
+Second Date With Claude
+Darius wants to go on a date! Meet Darius outside your apartment building at 5:00 pm the next day.
+First Date With Darius
+Second Date With Darius
+Donovan wants to go on a date! Meet Donovan by the manhole next to the apartment building at 12:00 pm the next day.
+First Date With Donovan
+Second Date With Donovan
+Iris wants to go on a date! Meet Iris outside of her house at 12:00 pm the next day.
+First Date With Iris
+Iris wants to go on a date! Meet Iris outside of her house at 5:00 pm the next day.
+Second Date With Iris
+Jun wants to go on a date! Meet Jun by his house at 10:00 am the next day.
+First Date With Jun
+Jun wants to go on a date! Meet Jun by his house at 5:00 pm the next day.
+Second Date With Jun
+Kitty wants to go on a date! Meet Kitty by her house at 10:00 am the next day.
+First Date With Kitty
+Kitty wants to go on a date! Meet Kitty by her house at 5:00 pm the next day.
+Second Date With Kitty
+Liam wants to go on a date! Meet Liam by his bakery at 5:00 pm the next day.
+First Date with Liam
+Liam wants to go on a date! Meet Liam by his house at 5:00 pm the next day.
+Second Date With Liam
+Lucia wants to go on a date! Meet Lucia outside of the town hall at 5:00 pm the next day.
+First Date With Lucia
+Lucia wants to go on a date! Meet Lucia outside of her house at 5:00 pm the next day.
+Second Date With Lucia
+Lynn wants to go on a date! Meet Lynn outside of her house at 10:00 am the next day.
+First Date With Lynn
+Lynn wants to go on a date! Meet Lynn outside of her house at 5:00 pm the next day.
+Second Date With Lynn
+Nathaniel wants to go on a date! Meet Nathaniel at the barracks by 12:00 pm the next day.
+First Date With Nathaniel
+Nathaniel wants to go on a date! Meet Nathaniel at the barracks by 5:00 pm the next day.
+Second Date With Nathaniel
+Vaan wants to go on a date! Meet Vaan outside of his house at 12:00 pm the next day.
+First Date With Vaan
+Vaan wants to go on a date! Meet Vaan outside of his house at 5:00 pm the next day.
+Second Date With Vaan
+Wornhardt wants to go on a date! Meet Wornhardt outside of the hospital at 10:00 am the next day.
+First Date With Wornhardt
+Wornhardt wants to go on a date! Meet Wornhardt outside of his house at 5:00 pm the next day.
+Second Date With Wornhardt
+Xyla wants to go on a date! Meet Xyla outside of her apartment at 5:00 pm tomorrow
+First Date With Xyla
+Second Date With Xyla
+Fantastic job, XX! It looks like this life will suit you well.[]If you need more seeds, they can be bought at the general store. You should visit it when you get the chance.[]You seem to have a good handle on things here now. I'm excited to see what you do with this place. Good luck, XX!
+Your life as a farmer has just begun. Get acquainted with the farming life by planting 10 <color=#39CCFF>wheat</color> and gathering 10 <color=#39CCFF>wood</color>.
+Settling In (1/3)
+You can buy more seeds at the general store if you need them. Go visit the general store.
+Settling In (2/3)
+Anne wants you to go find the general store.
+Settling In (3/3)
+Thanks very much, take this for your help.
+Help Judith keep her yard tidy by cutting all the <color=#39CCFF>weeds</color> in front of her house.
+Judith's Weeds
+Wonderful, XX! Thanks for your help. I love finding new ways to raise people's spirits, so it means a lot to me. I know it's not much, but please accept this.
+Jun says that bright colors can help raise a person's mood. Plant bright flowers around town to test his theory!
+Jun's Town Beautification
+Thank you XX, I'm sure the kids will love these! This is a big help. 
+Bring Jun 10 <color=#39CCFF>cookies</color> for his lesson plan.
+Jun's Lesson
+Begin your search for Withergate by heading north from Sun Haven.
+Journey to Withergate (1/8)
+Gather 10 <color=#39CCFF>wheat</color> and 10 <color=#39CCFF>potatoes</color> to wake the slumbering monster and clear the path going north.
+Journey to Withergate (2/8)
+Now that you're a legal citizen of Withergate, you can speak to the Demon King Minos. Go to the castle to speak to King Minos.
+Confronting Dynus (1/5)
+Now that you're a legal citizen of Withergate, you can speak to the Demon King Minos. Head North of the Withergate Carnival to find Withergate Castle and speak to the Demon King.
+Confronting Dynus (2/5)
+The Demon King, Minos, still doesn't trust you. Collect 10 <color=#39CCFF>glorite crystals</color> from the forest to the south of Withergate and bring them back to the Demon King to earn his trust.
+Confronting Dynus (3/5)
+The Demon King has decided to let you through to see Dynus. Now is the time to confront the Moon Dragon! His lair can be accessed within the Withergate Castle
+Confronting Dynus (4/5)
+Continue north toward Withergate.
+Journey to Withergate (3/8)
+Navigate through the fog to find your way to Withergate.
+Journey to Withergate (4/8)
+Travel to Withergate with Charon.
+Journey to Withergate (5/8)
+Enter Withergate. The Charon can take you from the left of the player farm back to the Withergate Sewer!
+Journey to Withergate (6/8)
+The Demon King Minos won't let you see Dynus unless you're a citizen of Withergate. Find the apartment building and buy an apartment to gain citizenship. The Charon can take you from the left of the player farm back to the Withergate Sewer!
+Journey to Withergate (7/8)
+... Eh? How long you been standin' there?[]Oh, you again. You're paying off your apartment, eh? Well, it's about time.[]What, you expectin' a trophy or somethin'? Your reward is me not kickin' you out on the streets. Congratulations, now beat it.
+Pay off your apartment to become a citizen of Withergate. Make 500 <color=#39CCFF>tickets</color>. Get 2 hearts with 2 Withergate citizens. The Charon can take you from the left of the player farm back to the Withergate Sewer!
+Journey to Withergate (8/8)
+Join Elios on Dragon's Meet
+Sun Dragon's Apprentice (1/4)
+Search the western forest for an entrance to the Elven city Nel'Vari.
+Sun Dragon's Apprentice (2/4)
+Sun Dragon's Apprentice (3/4)
+Sun Dragon's Apprentice (4/4)
+Research Nel'Vari's culture for clues to help find an entrance to the mysterious Elven city.
+The Mystery of Nel'Vari (1/4)
+Search the western forest for signs of Nel'Vari.
+The Mystery of Nel'Vari (2/4)
+Find the entrance to the Elven city Nel'Vari.
+The Mystery of Nel'Vari (3/4)
+The gate to Nel'Vari is locked by a puzzle that is vaguely familiar. Investigate the trees near the gate for clues to solve the riddle and gain entry into Nel'Vari.
+The Mystery of Nel'Vari (4/4)
+Meet Lucia at the Town Hall by 10am
+Sun Dragon's Protection (1/9)
+Lucia brought me here to see the Sun Dragon. Now's the time to talk to Elios.
+Sun Dragon's Protection (2/9)
+Elios is waiting for my strength to grow before seeing me again. Reach level 5 in any skill.
+Sun Dragon's Protection (3/9)
+Elios has called for your help, travel to Dragon's Meet to speak with him. Speak to Roza to have her escort you up the mountain.
+Sun Dragon's Protection (4/9)
+Roza brought me here to see the Sun Dragon. Now's the time to talk to Elios.
+Sun Dragon's Protection (5/9)
+Elios needs your help protecting Sun Haven in his absence. Find a <color=#39CCFF>glorite crystal</color> in the forest east of Sun Haven and return it to Elios.
+Sun Dragon's Protection (6/9)
+Sun Dragon's Protection (7/9)
+Elios will be back after two days. Await his return.
+Sun Dragon's Protection (8/9)
+Sun Dragon's Protection (9/9)
+You're getting married to Anne! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Anne Marriage
+You're getting married to Catherine! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Catherine Marriage
+You're getting married to Claude! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Claude Marriage
+You're getting married to Darius! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Darius Marriage
+You're getting married to Donovan! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Donovan Marriage
+You're getting married to Iris! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Iris Marriage
+You're getting married to Jun! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Jun Marriage
+You're getting married to Kitty! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Kitty Marriage
+You're getting married to Liam! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Liam Marriage
+You're getting married to Lucia! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Lucia Marriage
+You're getting married to Lynn! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Lynn Marriage
+You're getting married to Nathaniel! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Nathaniel Marriage
+You're getting married to Vaan! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Vaan Marriage
+You're getting married to Wornhardt! Meet him at the Event Center north of Sun Haven at 4pm for the ceremony.
+Wornhardt Marriage
+You're getting married to Xyla! Meet her at the Event Center north of Sun Haven at 4pm for the ceremony.
+Xyla Marriage
+Nice work! That should let the rest of those scoundrels know that we mean business.
+Raimi wants you to slay some monkeys in the eastern wilderness and bring him back 10 <color=#39CCFF>squashed bananas</color>.
+Monkey Madness
+I don't believe it, you actually found my lure! I never thought I'd see it again. You've done me a kindness, XX. Thanks very much!
+Search the beach to find Peter's lucky lure.
+Now I can make a real pretty necklace. Mama's going to be so surprised. When she gets surprised, she looks like a fish! Thanks XX!
+Bring Pod 5 <color=#39CCFF>seashells</color> to make a necklace for his mama. You can find <color=#39CCFF>seashells</color> all over the beaches.
+Pod's Necklace
+Wow, that's all the stone we need! This went way faster with your help, XX. We should have new merchants coming to town any day now.
+Bring 30 <color=#39CCFF>stone</color> and 1000 <color=#39CCFF>gold</color> to Nathaniel to finish repairs on the event square.
+Prepare The Event Square
+Great work, farmer! Good to know that I can trust you in my blind spot. Let's do it again sometime.
+Head to Raimi's spot and slay 10 <color=#39CCFF>Leafies</color>.
+Raimi's Combat Conquest
+As I live and breathe, that's my cap! I can't believe you found it. Take this as thanks, the cap is worth more to me.
+Rex's Mining Cap
+Ah shoot... Mari, you were right. Again. I've got to be honest XX, I didn't think you had it in you. Maybe Lucia or Nathaniel, but not a farmer. But you proved me wrong, and fair is fair.
+Bring 5 <color=#39CCFF>Leafie's leaves</color> to prove to Ronald that you're a monster slayer. Leaf monsters can be found in the forests west of town.
+Ronald and Mari's Bet
+Good timing, thanks XX.
+Bring Solon 4 <color=#39CCFF>coal</color> so he can finish his order.
+Solon Needs Coal
+This will do nicely. I appreciate it, XX.
+Bring Solon 3 pieces of <color=#39CCFF>meat</color> so he can feed the stray dog.
+Solon Needs Meat
+Iris's Experiment
+Mail Lynn's Mail
+Mermaid's Relic
+Peter's Boost
+Raimi's Sniffles
+Soldier's Diet
+When Life Gives You Lemons...
+Thank you, XX! I owe you big time! Take these, it's all my savings!
+Find <color=#39CCFF>Topi's notebook</color> somewhere in Sun Haven - and keep it a secret!
+Topi's Studies
+NAME
+Lucia
+<u>Quests
+Quest Start
+<size=8><color=#FFF164>Sun Dragon's Protection (3/5) sdfsadfasdfas dfasdfsdfasdfasdf
+<size=8><color=#B7FFA3> - Place Flower 0/5
+ - Place Flower 0/10 s
+Skill Points: 1
+Level: 5
+Forageables
++1000 xp
+Farming
+Fire Mage
+Animals 10/10
+1000/1000
+Congratulations, adventurer!
+You've reached the end of this questline as it currently exists in the game. Future patches will expand this questline, so keep an eye on our patch updates and enjoy Sun Haven in the meantime!
+Quest Rewards :
+Leafy
+1000 /1000
+Jump while airborne to
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis eros velit, ut gravida lacus tincidunt a. Nulla et consectetur urna. Aliquam augue orci, vestibulum et libero a, tempor consequat velit. Cras id sagittis purus. Curabitur quis tempus eros. Etiam efficitur libero purus, eget placerat turpis facilisis ultricies. Ut orci lectus, luctus sed mi nec, consectetur placerat ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas mattis sem id enim semper, vel scelerisque enim scelerisque. Ut viverra odio tempor magna gravida viverra.
+Duis varius metus nec nulla scelerisque, at commodo est cursus. Aenean id nibh in arcu elementum efficitur. Mauris faucibus blandit consequat. Nulla sit amet ligula rhoncus, cursus nisi ullamcorper, faucibus nulla. Nunc vitae tempus libero, at venenatis ante. Pellentesque nec suscipit orci. Maecenas et eros eget nunc molestie viverra ac sit amet arcu. Fusce magna risus, aliquet a vulputate ut, tincidunt eu sem. Mauris sed felis nec nisi luctus aliquam. Nullam vitae sagittis turpis. Quisque lacinia odio nec nibh facilisis iaculis. Fusce est quam, iaculis ut finibus nec, malesuada in enim. Donec egestas, lorem eget tristique ultrices, ante ipsum venenatis est, a laoreet ipsum nulla et arcu. In eleifend consectetur tellus. Etiam accumsan libero at est rhoncus, vel dictum diam bibendum.
+sdfsdfsdf
+Ready
+<b>Pizza! </b> Hey, how are you today? Hey, how are you today? Hey, how are you today? Hey, how are you today? Hey, how are you today? Hey, how are you today? Hey, how are you today?
+Forfeit
+You sleep straight through the night.
+5000g
+Q
+Level 5 Mining!
+Combat
+Topees
+Also choose one :
+To do:
+(Press any button to continue...)
+Dr. Hopsan Barley
+Loom
+Find Albert's lost sword in the eastern forest and return it to him.
+Edit
+Pickup
+Gift
+x2
+Players Sleeping : 1/1
+Mining
+Crafting
+Test 123
+[Previous]
+  - Yes
+Choose Bonus Reward :
+You learned a new spell! Bind it to your toolbar and press Q or R to use it!
+<color=red>- Albert's Sword 0/1
+<size=125%> Name \n<size=100%><i> Used to cut rockss
+Track
+R
+[Next]
+Exploration
+Copper Helmet
+Copper Chest Plate
+Copper Legs
+Iron Legs
+Iron Gloves
+Mithril Helmet
+Black Gloves
+Glow Ring
+Lights the way around you.
+Rocketship Shirt
+Seaweed
+Milk
+Egg
+Honey
+Cheese
+Tomato Soup
+Cheeseburger
+Pizza
+Apple Pie
+Cookie
+Bread
+Blueberry Salad
+Sesame Rice Ball
+Apple
+Blueberries
+Strawberries
+Coffee
+Wheat
+Tomato
+Pepper
+Onion
+Greenroot
+Pepper Seeds
+Grows in 6 days. Sun Haven hot peppers are delicious (and expensive), but grow so hot they never stay watered over night.
+Greenroot Seeds
+Grows in 3 days. Greenroot sells for VERY little, but is famous as a delicious cooking spice.
+Dorado
+Blup Blup.
+Crab
+Eel
+Blue Tang
+Rainbow Trout
+Angel Fish
+Sea Bass
+Pufferfish
+Gold Fish
+Blue Gill
+Carp
+Red Snapper
+Silver Carp
+Toolbox
+Lullaby Record
+Groovy Record
+Earthy Grid Wallpaper
+That's a dozen! Much obliged, farmer. I'm glad some people around here still care about chivalry. Here's a reward for your trouble.
+Albert is eating a lot of <color=#39CCFF>eggs</color> these days, but he's all out. Bring Albert 12 <color=#39CCFF>eggs</color> so he can continue his diet.
+Judith has me on a diet based on <color=#39CCFF>eggs</color>, but now we're all out of <color=#39CCFF>eggs</color>. Is there a hero in town willing to deliver a dozen <color=#39CCFF>eggs</color> to me? I will pay in kind!
+- Albert
+Albert's Diet
+Oh, my - this is a beauty of a helm! It looks just like the one I wore into battle, so many years ago... Thank you.
+Albert wants a taste of his past as a knight. Bring him a <color=#39CCFF>mithril helmet</color> to remind him of the glory days. You can craft a <color=#39CCFF>mithril helmet</color> at an anvil using <color=#39CCFF>mithril bars</color>.
+I miss the old days of knighthood. Can someone help me relive my glory days? I only want to wear a <color=#39CCFF>mithril helmet</color> again. It would be quite meaningful to me, and I'll pay more than it's worth!
+Albert's Pastime
+<color=#39CCFF>Coffee</color>, for me? Let me see that flyer... dozing... pay you!? Roza... Well, I guess I have to pay you. Thanks so much.
+Bring Calvin a cup of <color=#39CCFF>coffee</color>.
+NEEDED: Someone to deliver <color=#39CCFF>coffee</color> to Calvin. I have caught him dozing off too many times on duty, so he clearly needs it. Show him this flyer and he will pay you for your trouble. FOR CALVIN: PAY 200 GOLD FOR THE <color=#39CCFF>COFFEE</color>, THAT'S AN ORDER. 
+ - Roza
+All Nighter
+That's 5 <color=#39CCFF>clams</color>! My little brother is going to love these.[]Here farmer, you've earned this. It's a ruby I found while patrolling the path to Dragon's Meet.
+Allison wants 5 <color=#39CCFF>clams</color> to send home. Find 5 <color=#39CCFF>clams</color> on the beach and bring them to Allison in the barracks.
+Hello, citizens! I'm hoping somebody has the time to find 5 <color=#39CCFF>clams</color> on the beach for me. I want to send them home since we don't have a beach there. I'll trade something shiny for it!
+- Allison
+Allison's Clams
+This looks delicious, farmer. You sure you're not a chef just pretending to farm? Hah, only joking.[]Here's your gold, farmer. Thanks again!
+Allison is on a search for the best <color=#39CCFF>sesame rice ball</color> in town. Use your cooking pot to make one and bring it to her in the barracks.
+Hello, citizens! I'm in search of the best rice ball in town. I'm paying 300 gold for each <color=#39CCFF>sesame rice ball</color> I can get my hands on. Limit 1 per person. Thanks in advance!
+Allison's Rice Ball
+Hey, that smells familiar. Is that <color=#39CCFF>apple pie</color>? You saw my poster, then![]I can't wait to take this home - I might just eat it all in one sitting. Thanks, XX.
+Amanda is craving a dish from her childhood. Make an <color=#39CCFF>apple pie</color> and bring it to Amanda at the library.
+I'm craving something I haven't had since I was a kid - <color=#39CCFF>apple pie</color>. I'm stuck at the library but I would certainly repay somebody if they brought some to me. Thanks in advance. 
+- Amanda
+Amanda's Favorite Food
+Hey, that's my <color=#39CCFF>sapphire</color>! Thanks a bunch, XX. Here's your payment, as advertised.
+Anne thinks she lost her <color=#39CCFF>sapphire</color> in the mines. Find it and return it to her.
+LOST!
+I seem to have ""misplaced"" a <color=#39CCFF>sapphire</color> that has sentimental value. The last place I saw it was near the blacksmith. I'll pay more than it's worth to anyone who can return it to me, no questions asked. This is a one-time-only offer!
+Anne's Sapphire
+Wonderful, is that the helmet order I requested? Perfect timing, here's your payment. Hey, these look well-made! Very much appreciated.[]I'm sure we will need supplies in the future, so keep an eye out for my postings. We can use quality goods like this.
+Craft 2 <color=#39CCFF>copper helmets</color> and bring them to Roza at the barracks.
+NEEDED: 2 Well-crafted <color=#39CCFF>copper helmets</color> for training purposes. Please deliver to Roza at the barracks.
+Barracks: Helmet Shortage
+Look at that, my flyer worked after all! You did some fine work on these swords, thanks XX. You're proving yourself to be quite reliable.
+Craft 2 <color=#39CCFF>copper swords</color> and bring them to Roza at the barracks.
+Needed ASAP: 2 <color=#39CCFF>Copper swords</color> for new recruits to use in training. Pays 1200 gold. Report to Roza at the barracks for payment.
+Barracks: Sword Shortage
+Is that... <color=#39CCFF>pizza</color>?? Heck yeah! Tonight's going to be good, thanks a lot XX![]I'm sorry I don't have any gold, but I hope this fabric is useful.
+Billie needs to end her day on a good note. Bring her a <color=#39CCFF>pizza</color> at the salon.
+I usually stick to a healthy diet, but I've had a long day. I just want to end on a high note, so I'm looking for <color=#39CCFF>pizza</color>. I don't have gold, but I've got some extra fabric I can trade. Come by the salon if you're interested!
+- Billie
+Billie's Carbs
+Oh man, that's a big burger. I want to eat it all right now, but I should get Lester first. You know, as a witness. And in case I choke.[]Sorry, you don't care. Here, take this shirt, I accidentally bought two.
+Calvin wants to eat a <color=#39CCFF>cheeseburger</color> as fast as possible. Bring a <color=#39CCFF>cheeseburger</color> straight to him.
+I'm bored and looking for a challenge. I need to know how fast I can eat a whole <color=#39CCFF>cheeseburger</color> in one sitting. I'll give you something nice if you bring the burger to me fast!
+- Calvin
+Calvin's Big Burger
+Hey, these actually look pretty nice. You made these? No way, you must have stolen them or something. Whatever, I won't ask questions. Here, take your money.
+Calvin wants to change up his look, bring him a set of <color=#39CCFF>iron legs</color>.
+Does anyone actually read this thing? Whatever - I'm looking for new leg armor. I'm tired of the army-issued armor. I'll pay anyone 1000 gold to bring me a pair of <color=#39CCFF>iron legs</color>. That's it. 
+Calvin's Legs
+Wow, great work! You could consider a career in woodcraft, you know.[]Anyway, here's some gold for your work.
+Camila's house gets too dark in the evenings. Bring her a <color=#39CCFF>wooden torch</color> to light her house.
+My house is way too dark in the evening. Can anyone make me a nice lamp? I'm thinking a <color=#39CCFF>wooden torch</color> would go nicely in my home. Thanks in advance!
+Camila's Lamp
+These will do nicely, thank you XX. Here, go on and take this for your help. I really appreciate it!
+Gather 2 <color=#39CCFF>Leafie's leaves</color> for Catherine's new potion recipe.
+Catherine's Recipe
+Holy moly, you're donating the entire 500 <color=#39CCFF>gold</color>? That's incredible! Leave it to the farmer to get the job done, I guess. Your donation will go a long way to help the kids, thank you!
+Donate 500 <color=#39CCFF>gold</color> to Amanda at the library.
+Charity Call
+Thank goodness, you brought the <color=#39CCFF>cheese</color>! I thought the girls would never settle down again, but now I can make this cheesy bread... stuff. I appreciate it, farmer![]You should have this as payment. It's not gold, but it sure tastes better than gold! Though I guess that's actually not saying much.[]Wait, what does gold taste like?
+Liam urgently needs <color=#39CCFF>cheese</color>. Bring him 3 pieces of <color=#39CCFF>cheese</color> as soon as possible.
+NEED CHEESE ASAP
+Sorry for the urgency, but Emma and Elizabeth won't stop talking about this recipe! As far as I can tell, it's just bread with <color=#39CCFF>cheese</color> baked into it... but that's beside the point. I need 3 wedges of <color=#39CCFF>cheese</color> to make enough for all of us. Thanks a lot!
+Cheese for Liam
+Oh hey, XX. I wasn't expecting such a quick response to my note, so thanks a lot! Topi will be really happy... if he can focus long enough to actually make the chocolate milk stand.
+Bring Tonya 10 <color=#39CCFF>wood planks</color> so she can help Topi build a chocolate milk stand.
+Chocolate Milk Stand
+Oh, it's you. Thank you, this is exactly what I was hoping for.[]Let me repay you. Here's a small thank-you.
+Claude has a craving for <color=#39CCFF>tomato soup</color>. Bring it to him to satisfy his hunger.
+To whomever sees this:
+I'm hoping to have some <color=#39CCFF>tomato soup</color> for dinner. If anyone can help me satisfy this craving, I would be grateful.
+Claude's Craving
+Hello, farmer. You brought me <color=#39CCFF>tomatoes</color>? Excellent, thank you. Here, for your help.
+It looks like Claude is making soup. Bring him 5 <color=#39CCFF>tomatoes</color> to cook with.
+I'm in need of several <color=#39CCFF>tomatoes</color> for soup. 5 should do. I'll pay for your help, of course.
+Claude's Tomatoes
+Ew, it looks so squishy![]Liam said I shouldn't touch it with my hands so I'll leave it on the floor for now. Thank you XX! Have Liam's gold!
+Elizabeth wants to show Emma that <color=#39CCFF>pufferfish</color> are real. Bring her 1 <color=#39CCFF>pufferfish</color> for proof.
+Hi! Liam said I could make a poster here! I want a <color=#39CCFF>pufferfish</color> to prove to Emma that they're really real. Liam even gave me some gold to pay you back! Thanks!
+- Elizabeth
+Elizabeth's Proof
+Wow - <color=#39CCFF>iron ore</color>! How did you know??[]Thanks, XX! I'll give you cookies back!
+Emma is curious about <color=#39CCFF>iron ore</color>. Bring 5 <color=#39CCFF>iron ore</color> directly to her.
+Emma's Iron Will
+About time somebody came through. I appreciate it, neighbor. Take your payment.
+Bring a <color=#39CCFF>fire crystal</color> to Solon at the blacksmith.
+I need a <color=#39CCFF>fire crystal</color> to keep the forge burning hot while I work on a set of armor. Deliver it to me at the blacksmith. Quality crystals only. - Solon
+Fire Crystal Delivery
+Mmm, looks good. Thanks, XX. I think this will be a solid contender!
+Bring a <color=#39CCFF>blueberry salad</color> to Mari at the Tavern.
+Flavor Savor
+Thank goodness! I've been out here all day pretending to work so Tonya doesn't figure out I lost my tools.[]Thanks for not telling her, by the way. I'm always losing things, and she's always making fun of me for it.
+Find Giuseppe's lost <color=#39CCFF>toolbox</color> by the Wheat Field River and return them to Giuseppe.
+Fool's Tools
+All right, this will be fun! You're the best, farmer. Here, take this in return. I don't know how much it's worth, but I poured my heart into it.
+Giuseppe is looking for a new hobby. Bring him a <color=#39CCFF>loom</color> to get him started.
+Hello! I'm trying to expand my hobbies and am looking for a <color=#39CCFF>loom</color>. If anyone has an extra <color=#39CCFF>loom</color> lying around, I'll be happy to barter for it!
+Giuseppe's Loom
+This is <color=#39CCFF>amethyst</color>? It's beautiful! Catherine was right, this does fill me with a positive energy.[]Thank you so much, XX. Please let me pay you for your trouble.
+Heather learned that her birthstone is <color=#39CCFF>amethyst</color> and now needs to have it. Bring 1 <color=#39CCFF>amethyst</color> to Heather at the café.
+I just learned from Catherine that <color=#39CCFF>amethyst</color> is my birthstone, and now I just have to get some! Can someone bring me 1 <color=#39CCFF>amethyst</color>? I'll pay for it, of course!
+- Heather
+Heather's Birthstone
+Phew! You're really saving my bacon, farmer. I can't pay you in gold, but have some coffee on the house.
+The café is running out of <color=#39CCFF>milk</color> due to a missed shipment. Bring 5 bottles of <color=#39CCFF>milk</color> to Heather at the café.
+Help needed for the café!
+One of our shipments didn't make it this week and now we're quickly running out of <color=#39CCFF>milk</color>. We need 5 bottles of <color=#39CCFF>milk</color> to make it to the next shipment. As soon as possible, please!
+Heather's Shipment
+Well look at that, a gorgeous <color=#39CCFF>diamond</color>! This will add some long-overdue charm to my living space. Very much appreciated, XX. Here's your payment.
+Judith wants to add some glamor to her home with a <color=#39CCFF>diamond</color>. Find a <color=#39CCFF>diamond</color> and deliver it right to her.
+Wanted: 1 <color=#39CCFF>Diamond</color>
+I understand this may seem silly, but I think a <color=#39CCFF>diamond</color> would add some much-needed glamor to my home. I'm thinking, a centerpiece for my table. Of course, I don't expect it for free - I will repay you handsomely. It can be delivered right to me. Thank you!
+- Judith
+Judith's Centerpiece
+Oh, this looks delicious. I hope you didn't inconvenience yourself for this, XX![]Anyway, thank you so much. Please take some gold for your help.
+Jun is asking for fresh <color=#39CCFF>honey</color> to go with his tea. Bring Jun some <color=#39CCFF>honey</color>.
+Hello, Sun Haven! I'm looking for some fresh <color=#39CCFF>honey</color> to go with my tea. If a neighbor would kindly bring me some, I'd gladly repay them. Thanks!
+Jun's Honey
+I can't wait to give it a listen - I really have no idea what to expect. Thanks so much, farmer. Let me reimburse you for the record.[]Oh, and I just made these this morning so they're nice and fresh. Enjoy!
+Kara wants a new record to listen to. Deliver a <color=#39CCFF>groovy record</color> to her at home.
+I've felt like the house is a little too quiet lately. I could use a new <color=#39CCFF>groovy record</color> to liven up the place. Tonya recommended groovy jazz and I've been curious ever since! I can trade some fresh food in return.
+- Kara
+Kara's Record
+Ooh, these smell so sweet! Nothing beats farm-fresh, huh? I appreciate your work, farmer. Have this as thanks. It's not much, but it's for you.
+Kara is looking for a healthy snack for Pod. Bring 6 <color=#39CCFF>strawberries</color> to Kara at her house.
+I'm in need of some fresh fruit for Pod. I was hoping for <color=#39CCFF>strawberries</color>. 6 <color=#39CCFF>strawberries</color> should make a nice snack. Many thanks!
+Kara's Strawberries
+My <color=#39CCFF>starfish</color>! XX, you came through for Kitty? You're the best, nya![]Because you came through, I'll tell you... My secret project is a hat![]Everything is more fun as a secret, nya. Here, fish for you!
+Find 5 <color=#39CCFF>starfish</color> and bring them to Kitty for some kind of secret project.
+ATTENTION!
+I need 5 <color=#39CCFF>starfish</color>! It's for a seeeecret project, so don't ask why! Thank you thank you!
+Kitty's Secret Starfish
+Are these the <color=#39CCFF>sand dollars</color> I requested? Why, thank you XX! I must repay you for your time, go on and have this.
+Lucia seems to be working on a project at home and needs some materials. Bring her 3 <color=#39CCFF>sand dollars</color> from the beach.
+Attention, dear neighbors!
+I'm in need of some <color=#39CCFF>sand dollars</color> for a home project. 3 <color=#39CCFF>sand dollars</color> should do very well. Thank you in advance for your assistance!
+Lucia's Sand Dollars
+So this is <color=#39CCFF>blueberry salad</color>? It looks scrumptious![]Here, I hope this is an okay trade.
+Deliver a <color=#39CCFF>blueberry salad</color> to Lynn.
+Help, please!
+I just learned about something called <color=#39CCFF>blueberry salad</color>. It sounds delicious and exotic, but I don't trust myself to make it right. Would somebody who knows the recipe please bring me some? I can trade you some armor!
+Lynn's Blueberry Salad
+Oh hi XX, what are the tables  for? ... Oh right, my posting! I didn't think anybody would actually come through. You're a lifesaver, XX.
+Craft 3 <color=#39CCFF>wooden tables</color> and bring them to Liam.
+Make a Table
+These <color=#39CCFF>peppers</color> look good and spicy. Thanks farmer, these'll do nicely! Take a little gold for your trouble.
+Mari wants to play a trick on Ronald, and she needs <color=#39CCFF>peppers</color>. Bring 5 <color=#39CCFF>peppers</color> to Mari at the tavern.
+Lookin' for <color=#39CCFF>peppers</color>! 
+I need 5 <color=#39CCFF>peppers</color> so I can trick Ronald with them. He's such a wimp with spicy food! Just bring 'em on by the tavern - but speak to me and not Ronald! I'll be payin' for your help, of course.
+- Mari
+Mari's Trick Peppers
+Hey, XX. Oh - you brought the <color=#39CCFF>mithril sword</color>! I was expecting Solon or Lynn, but you seem to know your way around an anvil![]Here's your payment, farmer. Thanks a lot for the help!
+Bring Nathaniel a <color=#39CCFF>mithril sword</color> for advanced training. You can craft <color=#39CCFF>mithril swords</color> using mithril ore found in the mines.
+Attention Sun Haven!
+Nathaniel here! I'm in need of a high-quality sword for advanced training. What I'm after is a <color=#39CCFF>mithril sword</color>. The army will reimburse you generously for your work.
+- Cpt. Nathaniel
+Nathaniel's Equipment
+Farmer, you're a lifesaver. I don't know what we would have done without these <color=#39CCFF>onions</color>.[]Did you think I'd forget your pay? Heh, not a chance!
+The tavern is short on <color=#39CCFF>onions</color>. Bring 10 <color=#39CCFF>onions</color> to Ronald at the tavern.
+HELP NEEDED!
+Our usual suppliers missed a shipment, so now the tavern is short on <color=#39CCFF>onions</color>! We're paying top dollar for 10 <color=#39CCFF>onions</color> at the tavern. Please be quick!
+- Ronald
+Onions for Ronald
+Wow, these really are heavy! Which means they should work perfectly. Thanks a bunch, farmer![]Here's your payment!
+Peter needs a set of <color=#39CCFF>copper legs</color> to keep his footing. Make or buy a set of <color=#39CCFF>copper legs</color> for Peter. You can craft them at an anvil using copper ore from the mines.
+Wanted: <color=#39CCFF>Copper Legs</color>
+Yesterday, I was pulled right off my feet by a huge fish! Now I want a set of good, heavy <color=#39CCFF>copper legs</color> to keep my feet on the ground for round two. Anyone who has the skills to make them can deliver them straight to me. I'll pay!
+- Peter
+Peter's Sealegs
+Oh, thank you XX. I really needed this - my head is killing me. Here, take this as a thank you.
+Pinto bumped his head and needs some pain relief. Find a <color=#39CCFF>water crystal</color> and bring it to him at the barracks.
+Hello, this is my first time using this board. I'm looking for a <color=#39CCFF>water crystal</color>. Nobody at the barracks seems to have any. I hit my head this morning and have had a headache all day. Please return quickly with a <color=#39CCFF>water crystal</color>.
+- Pinto
+Pinto's Headache
+Is this is for that poster I put on the bulletin board? Neat! I'm going to use these to make some cool armor. Then maybe I can impress Allison.[]Oh, payment. Right, uh... sorry, this is all I have.
+Pinto needs some crafting materials. Bring 2 <color=#39CCFF>adamant bars</color> to Pinto at the barracks.
+Hello, everyone. I am hoping somebody can find 2 <color=#39CCFF>adamant bars</color> for me to use in crafting better armor. Please bring them to Pinto at the barracks, thank you.
+Pinto's Posturing
+Haha - it is for pranks, actually![]Have these gloves. They don't fit and are too heavy.
+Pod is asking for <color=#39CCFF>eggs</color> but it seems like he's up to something. Oh well, bring Pod 5 <color=#39CCFF>eggs</color>.
+Help! I need <color=#39CCFF>eggs</color>. It is not for pranks, that isn't what it's for. I need 5 <color=#39CCFF>eggs</color>! 
+Pod's Prank
+Oh, you brought the <color=#39CCFF>apples</color>! This is exactly what we need, thanks farmer. Maybe Pinto will learn to stand up straight while I'm shooting an <color=#39CCFF>apple</color> off his head!
+Bring 5 <color=#39CCFF>apples</color> to Roza at the barracks.
+NEEDED: 5 <color=#39CCFF>apples</color> to the barracks for target practice. See Roza for payment.
+Practice Apples
+Thank goodness somebody came through. If I went another sleepless night, I don't know what would happen to me.[]Here farmer, this should cover the record and then some. Thanks a lot!
+Raimi is having trouble sleeping. Bring him a <color=#39CCFF>lullaby record </color> from the record store.
+Trouble sleeping, need help!
+I've heard there's a nice record at the record store that will help me sleep. Can someone bring me a <color=#39CCFF>lullaby record </color>? I haven't slept well in ages, so this would be greatly appreciated!
+- Raimi
+Raimi's Lullaby
+Whew - that will do! This is perfect, farmer. Thanks so much.[]Oh, the <color=#39CCFF>earth fertilizer I</color>? The loser of the race has to use it as a pillow that night. Heheheh...
+For some reason, Roza needs a bag of <color=#39CCFF>earth fertilizer I</color> to motivate the soldiers in a relay race. Bring 1 <color=#39CCFF>earth fertilizer I</color> to Roza at the barracks.
+NEEDED: 1 BAG OF <color=#39CCFF>EARTH FERTILIZER I</color>
+We're running relays at the barracks this week, and I'm making sure the soldiers are motivated. I'm paying 200 gold out-of-pocket for a bag of <color=#39CCFF>earth fertilizer I</color>. The stinkier the better.
+- Roza
+Roza's Fertilizer
+Oh, now that's a nice specimen. Thanks a lot, farmer. Here, for catching such a beauty.
+Apparently, Solon loves <color=#39CCFF>eel</color>. Catch an <color=#39CCFF>eel</color> and bring it to Solon. You can catch <color=#39CCFF>eel</color> while fishing.
+Listen up! I want someone to bring me some <color=#39CCFF>eel</color>. It's been too long since I've had my favorite dish, so I'm paying generously. The sooner the better.
+Solon's Favorite
+So the farmer is the first to show up! The armor you brought looks well-made, too. This should stop those straw dummies from falling apart so quickly - it's impossible to train when my dummies last like five minutes.[]I appreciate it, farmer. Here's that gold for you.
+Sophie needs armor for training. Bring a <color=#39CCFF>copper chest plate</color> to Sophie near the Dragon Train to the north of town. You can craft a <color=#39CCFF>copper chest plate</color> with copper ore from the mines.
+Attention, citizens!
+I am in need of extra armor for training. I'm paying 600 gold for a <color=#39CCFF>copper chest</color>. I'm in a rush to keep training, so hurry up!
+- Sophie
+Sophie's Armor Quest
+All right! I've been waiting for this. When Calvin is off-duty tonight, I'm going to make him eat his words.[]Thanks, farmer. Take this ore like I promised.
+Sophie has a wager with Calvin and needs 3 <color=#39CCFF>adamant bars</color>. Bring the <color=#39CCFF>adamant bars</color> to Sophie. You can make <color=#39CCFF>adamant bars</color> by using adamant ore with your smelter.
+This is a call asking for 3 <color=#39CCFF>adamant bars</color>. With these bars, I intend to prove Calvin wrong by chopping clean through them with my iron sword. I'm willing to trade 6 mithril ore in return.
+Sophie's Strength Test
+XX, my hero! This table is so cute, it's perfect. I can't wait to put all my decorations on it. Thanks again, XX!
+Craft a <color=#39CCFF>wooden table</color> and bring it to Kitty.
+Sprucing Season
+Is that really 25 <color=#39CCFF>stones</color>? Uh-oh, I should have asked for more... but this is a real good start. Thank you, farmer!
+Topi wants to build a bridge from <color=#39CCFF>stones</color>. Bring him 25 <color=#39CCFF>stones</color> from the mines to do it.
+Please help!
+I need <color=#39CCFF>stones</color> to build a bridge! I'll need a looooot to build a whole bridge. 25 <color=#39CCFF>stones</color> should be enough!
+- Topi
+Topi's Bridge
+All right, <color=#39CCFF>coal</color>! I'm going to draw pretend tattoos all over Pod. Here, you can have this cool rock I found.
+Topi is asking for 5 <color=#39CCFF>coal</color> so he and Pod can draw on each other. Against your better judgment, bring Topi 5 <color=#39CCFF>coal</color>.
+Hello! This is Topi. I want <color=#39CCFF>coal</color> so Pod and I can draw on each other. Please bring 5 <color=#39CCFF>coal</color>!
+Topi's Tattoos
+Hey, my <color=#39CCFF>stones</color>! Thanks a bunch, farmer. You're a true neighbor.
+Dr. Wornhardt needs help keeping his office tidy. Bring him 5 <color=#39CCFF>stones</color> to help keep the wind from blowing his papers around. You can find <color=#39CCFF>stones</color> in the mines.
+If anyone has the time, I could use some help keeping my office in order. I love working with the window open, but the wind always blows my papers to the floor. Can someone just bring me 5 <color=#39CCFF>stones</color> to help weigh them down? That would be awesome!
+Wornhardt's Paperweights
+Are these the logs I needed? After this, the hospital will never run out of tongue depressors again! In fact, I may have gone a bit overboard asking for so many <color=#39CCFF>logs</color>...[]Oh well - thanks for coming through!
+The hospital is short on tongue depressors. Bring Dr. Wornhardt 25 <color=#39CCFF>logs</color> so the hospital never runs out again.
+The hospital needs your help!
+For anyone who has time to spare, I could really use a hand with supplies. I'm almost completely out of tongue depressors at the hospital. If someone can deliver 25 <color=#39CCFF>logs</color> to me, I would never run out again! Thanks in advance!
+Wornhardt's Supplies
+Farm
+the Beach
+the Beach Combat Room
+the Bridge
+Ascent
+Dragon's Meet
+the Hospital
+the Bakery
+the Barracks
+the Blacksmith
+the Clothing Store
+the Farming Store
+the General Store
+the Library
+Anne's House
+Catherine's House
+Wornhardt's House
+Jun' House
+Kitty's House
+Liam's House
+Lucia's House
+Lynn's House
+Nathaniels House
+the Pet Store
+the Record Store
+the Salon
+The Tavern
+the Town Hall
+the Quarry
+the Wheat Field
+Withergate
+Test 12354534534535
+Romance Merchant
+100
+Cafe
+E
+Elven Leaf Couch
+This would look great in your house or on your farm. 
+<color=#6B7DA1>(Left click to place)</color>
+Pet Leash
+Leashes a pet to make it follow you. Used to unleash your current pet as well.
+Animal Food
+Yummy food for your barn animals and your pets!
+Love Letter
+Gift this to an NPC to start dating them.
+Dev Axe
+Cut down trees with this tool.
+<color=#6B7DA1>(Left click on trees to use)</color>
+Rusty Axe
+Copper Axe
+Iron Axe
+Adamant Axe
+Mithril Axe
+Sunite Axe
+Copper Fishing Rod
+Time to go catch some fish!
+<color=#6B7DA1>(Hold left click and hold to cast your line)</color>
+Mithril Fishing Rod
+Sunite Fishing Rod
+DevHoe
+Turns grass into tilled dirt
+<color=#6B7DA1>(Left click to hoe)</color>
+<color=#6B7DA1>(Right click to unhoe)</color>
+Rusty Hoe
+Copper Hoe
+Iron Hoe
+Adamant Hoe
+Mithril Hoe
+Sunite Hoe
+Dev Pickaxe
+Bust rocks open with this tool. Also useful for picking up decorations.
+<color=#6B7DA1>(Left click on rock or decoration to use)</color>
+Rusty Pickaxe
+Iron Pickaxe
+Adamant Pickaxe
+Mithril Pickaxe
+Sunite Pickaxe
+Crossbow
+Wield this long range weapon on your way to victory.
+<color=#6B7DA1>(Left click to shoot arrow)</color>
+<color=#6B7DA1>(Right click to cast arrow storm)</color>
+Heavy Crossbow
+Elven Crossbow
+Mithril Crossbow
+Rel'Tar's Mark (Crossbow)
+Scythe
+A typical scythe for cutting crops or weeds. No farmer ever needed a better one.
+<color=#6B7DA1>(Left click to swing)</color>
+Dev Scythe
+Iron Sword
+Wield this slicey weapon on your way to victory.
+Adamant Sword
+Sunite Sword
+Earth Fertilizer II
+Fertilizes a crop, causing it to drop significantly more when harvested.
+<color=#6B7DA1>(Left click on a crop to use)</color>
+Fire Fertilizer I
+Fertilizes a crop, causing it to grow faster.
+Fire Fertilizer II
+Fertilizes a crop, causing it to grow significantly faster.
+Water Fertilizer I
+Fertilizes a crop, increasing its chances to stay watered overnight.
+Water Fertilizer II
+Fertilizes a crop, significantly increasing its chances to stay watered overnight.
+Bone Gift
+A great gift for unusual friends!
+Straw
+Ocean Treasure Chest
+Fallen Log
+Feather
+A material great for crafting.
+Mana Orbs
+Bonus Mana
+Havenite
+Ooh, shiny.
+Adamant Ore
+Raw material that gets smelted into a more usable form in order to craft items.
+Sunite Ore
+Gold Ore
+Raw material that sells for quite a bit. It can only be smelted into gold bars.
+Earth Crystal
+Shiny and useful. Help your crops out when you turn these into fertilizer.
+Copper Bar
+Smelted from ores, this material is a blacksmith's building blocks.
+Iron Bar
+Mithril Bar
+Rusty Key
+You won't get far without these.
+<color=#6B7DA1>(Use on mine gate to open)</color>
+Copper Key
+Iron Key
+Adamant Key
+Mithril Key
+Sunite Key
+Bushie's Branch
+The remnants of a fallen foe.
+Lion Mount Whistle
+Riding on this sure beats walking.
+<color=#6B7DA1>(Left click to summon/unsummon mount)</color>
+Skateboard Whistle
+Witch Broom Whistle
+Tier 2 House Upgrade
+Upgrades a house to tier 2.
+Tier 3 House Upgrade
+Upgrades a house to tier 3.
+Tier 2 House Permit
+Requirement to craft a tier 2 house upgrade kit at a crafting table. Sold by Bernard at the Town Hall
+Tier 3 House Permit
+Requirement to craft a tier 3 house upgrade kit at a crafting table. Sold by Bernard at the Town Hall
+House Demolition Kit
+Removes a selected house.
+Wooden Wardrobe
+Candle
+Shelf
+Baby Table
+Withergate Lamp
+House
+Place your house!
+Barn
+This would look great in your house or on your farm.
+Wooden Fence Gate
+Items can be stored here.
+Wooden Fence
+Large Window
+Lantern
+Gold Record Player
+Plays records.
+Record Player
+Blue Rug
+Sun Haven Rug
+Training Dummy
+Scarecrow
+Town North Entrance Sleeping Monster
+Forked Road Sleeping Monster
+Forest Sleeping Monster
+Snacoon Farm
+Snacoon Foresta
+Blue Bed
+Small Potted Bush
+Black Fridge
+Bunny Fridge
+Tall Plant
+Red Rug
+Snacoon Forestf
+Snacoon Nelvari
+Sun Haven Fridge
+Basic Fridge
+Boiler
+Blue Wooden Round Table
+Picnic Table
+Kitchen Sink Counter
+Blue Wooden Long Table
+Wooden Long Table
+Dark Wooden Round Table
+Wooden Round Table
+Baroque Half Moon Table
+Blue Wooden End Table
+Baroque End Table
+Blue Wooden Abstract Sculpture
+Giant Purple Teddy Plushie
+Long Wooden Display Table
+Red Flathead Chest
+Wood Flathead Chest
+Firefly Jar
+Mantel Clock
+Small Red Vanity Mirror
+White Sleepy Cat
+Blue Elven Vase
+Red Elven Vase
+Green Elven Vase
+Earthy Elven Vase
+Wooden Chicken Sculpture
+Red And Orange Bottles
+Blue And Green Bottles
+Yellow Flower
+Green Stocking
+Red Stocking
+Blue Stocking
+Pile Of Presents
+Red Green Stocking
+Gold Chest
+Snow Buddy
+Snowy Stocking
+Wreath Stand
+Wreath
+Gold Lion Statue
+Purple Quilted Sofa
+Brown Leather Stool
+Blue Fluffy Stool
+Wooden Stool
+Purple Cushion Stool
+Blue Cushion Stool
+Fluffy Rug
+Gold Column
+Black Rug
+Light Blue Rug
+Gold Pet House
+Bunny Mat
+Withergate Mat
+White Table Lamp
+Blue Table Lamp
+Green Table Lamp
+Purple Table Lamp
+Red Table Lamp
+White Floor Lamp
+Crescent Plant
+Cactus Plant
+Kitty Cactus
+Zen Plant
+Osho Plant
+Dreamy Painting
+Tree Oval Painting
+Sunny Day Small Painting
+Night Small Painting
+Sunset Small Painting
+Black Cat Painting
+Peaceful Waterfall Painting
+Elegant Vanity Painting
+Wild Mushrooms Painting
+Swirly Night Painting
+Moody Flower Painting
+Spooky Painting
+Organic Painting
+Meatloaf Painting
+Geode Painting
+Gold Fireplace
+Yellow Bed
+Cloud Bed
+Nice Wardrobe
+Mystic's Bookshelf
+Nice Bookshelf
+Warm Wooden Wall Shelf
+Gold Fridge
+Gold Couch
+Gold Piano
+Gold Ornate Rug
+Wildflowers Painting
+Gold Snake Vase
+Cow Plushie
+Triceratops Plushie
+Lucky Cat Plushie
+Octopus Plushie
+Pink Elephant Plushie
+Blue Elephant Plushie
+Penguin Plushie
+Dog Plushie
+Baby Panda Plushie
+Black Cat Plushie
+Pink Cat Plushie
+Giant Teddy Plushie
+Giant Pink Teddy Plushie
+Piglet Plushie
+Baby Elios Plushie
+Withergate Apartment End Table
+Withergate Apartment Rug
+Withergate Apartment Table
+Withergate Apartment Chair
+Withergate Apartment Counter
+Clay Pot
+Purple Teapot
+Green Gem Bottle
+Red Gem Bottle
+Purple Quill
+Butterfly Wall Display
+Rocking Chair
+Sunflower Rug
+Big Red Comfy Side Couch
+Large Kettle Pot
+Big Delicious Cake
+Weapons Rack
+Metal Sun Wall Plaque
+Red Bar Stool
+Epic Armor Stand
+Giant Sunflowers
+Big Leafy Plant
+Side Desk Table
+Metal Coffee Pot
+Glass Coffee Pot
+Round Wall Clock
+Boho Round Rug
+Orchestral Bass
+Harp
+Red Rose
+Grandfather Clock
+Cozy Fire Logs
+Small White Column
+Piano
+Candelabra
+Tall Candelabra
+Purple Couch Seat
+Small Black Column
+Royal Withergate Rug
+Royal Black Column
+Prickly Demon Plant
+Prince Darius Bust
+Royal Withergate Fireplace
+Blue Velvet Fringe Rug
+Round Blue Wooden Coffee Table
+Blue Lockers
+Traffic Light
+Slot Machine
+Demon Drama TV
+Traffic Cone
+Walkway Closed Sign
+Black Tire
+Street Sign Collage
+Gumball Machine
+Red Neon Door Light
+Froggy Buddy
+Sweeping Broom
+Cauldron Of Mysterious Green Liquid
+Light Green Side Couch
+Cloak Rack
+Red Banker's Light
+Teal And Yellow Ornate Rug
+Painter's Easel
+Wooden Ladder
+Plant Rack
+Carved Elven Square Table
+Carved Elven Long Table
+Blue Cushion Side Couch
+Collector's Shelf
+Pink Table Runner Dining Table
+Industrial Cooking Stove
+Brown Leather Side Couch Seat
+Pet Water Bowl
+Bunny Poster
+Night Sky Chest
+Sun Haven Fireplace
+Yellow Shaggy Rug
+Astrological Globe
+Red Quilted Couch
+Bunny Carrot Painting
+Pet Carrier
+Chewy Rope Pet Toy
+Blue Pet House
+Purple Pet House
+Red Pet House
+Brown Pet House
+Pink Pet House
+Crate Of Fetch Balls
+Basket Of Yarn Balls
+Wooden Crate Of Records
+Red Crate Of Records
+Hanging Wall Vinyl
+Turquoise Couch Seat
+Retro Penguin Record Cover
+Faux Tiger Rug
+Green Leather Side Couch Seat
+Shiny Leather Red Stool
+Shiny Leather Orange Stool
+Shiny Leather Yellow Stool
+Shiny Leather Green Stool
+Shiny Leather Turquoise Stool
+Shiny Leather Purple Stool
+Small Pony Painting
+Faux Unicorn Wall Mount
+Faux Dragon Wall Mount
+Small Sunflower
+Large Sunflower
+Lush Bird Bath
+Hanging Wall Plant
+Large White Fluffy Rug
+Mouse Buddy Decoration
+Dark Teal Sink Counter
+Ferris Wheel Miniature Model
+Sassy Plant
+Trampoline Shroom
+Wooden Pull Cart
+Wooden Windmill
+Wooden Bench
+Camp Fire
+Long Blue Wooden Bench
+Long Purple Wooden Bench
+Static TV
+Retro TV
+Retro Carnival TV
+LED Bat Banner
+Standing Coffin
+Jack-O-Stack
+Mystic Eye Banner
+LED Skull Banner
+Carnival Flier
+Cauldron of Mysterious Orange Liquid
+Ornate Square Blue Rug
+Blue Leather Side Couch Seat
+Long Red Desert Rug
+Neon Bat
+Neon Dragon Head Light
+Withergate Bed
+Black Couch Seat
+Basic Fireplace
+Star Chair
+Rainbow Cloud Wall Lamp
+Cloud Couch
+Cloud Table
+Cloud Wall Shelf
+Cloud Wardrobe
+Ice Cream Bed
+Ice Cream Couch
+Ice Cream Lamp
+Ice Cream End Table
+Ice Cream Wardrobe
+Ice Cream Rug
+Ice Cream Chair
+Ice Cream Wall Shelf
+Ice Cream Table
+Cloud Nightstand
+Elven Leaf Bed
+Elven Leaf Wall Bookshelf
+Elven Leaf Chair
+Elven Leaf Lamp
+Elven Leaf Nightstand
+Elven Leaf Rug
+Elven Leaf Wardrobe
+Orange Slice Bed
+Orange Slice Table
+Orange Slice Chair
+Orange Slice Lamp
+Orange Slice Nightstand
+Orange Slice Rug
+Orange Slice Wardrobe
+Orange Slice Bookshelf
+Orange Slice Couch
+Long Fringe Black Rug
+Espresso Cushioned Side Couch
+Black Cushioned Side Couch
+Black Ornate Oval Rug
+Brown Ornate Oval Rug
+Yellow Deep Couch
+Red Burst Couch
+Light Grey Diamond Couch
+Blue Velvet Couch
+Brown Geo Couch
+Earthy Striped Couch
+Withergate Couch
+Withergate Chair
+Withergate Table
+Chess Board
+Purple Bat Rug
+Purple Ottoman
+Cool Cat Couch
+Neon Pink L Desk
+Pink Stained Glass Window
+Gold Bed
+Butterfly Statue A
+Bed
+Nice Double Bed
+Nice Sofa
+Nice Wooden Night Stand
+Wooden Counter
+Craft all sorts of items here.
+Turn ore into bars.
+Turn bars into useful tools and armor.
+Crafts decorations for your house and farm.
+Turn crops and ingredients into yummy food.
+Grinds wheat and greenroot into pet food and cooking ingredients.
+Lynn Anvil
+Nice Wooden Lamp
+Bunny Side Table
+BunnyWardrobe
+BunnyCouch
+Bunny Table
+Carrots suck.
+BunnyLamp
+Berry Forageable
+Money Bag Forageable
+Mana Tome Forageable
+Forageable Chest
+Red Mushroom Forageable
+Fire Crystal Forageable
+Earth Crystal Forageable
+Breakable Pot
+Dragon Chest
+Dungeon Chest
+Water Crystal Forageable
+Small Money Bag
+Contains a small amount of money.
+<color=#6B7DA1>(Right click to use)</color>
+Small Mana Tome
+Contains a small amount of mana.
+Large Mana Tome
+Contains a large amount of mana.
+Pizza Box
+This pizza box says it serves 4. Well, all 4 me.
+ <color=#6B7DA1>(Right click to open)</color>
+Orb
+Contains an orb.
+Ticket
+Contains a ticket.
+Copper Ore Node
+Iron Ore Node
+Adamant Ore Node
+Mithril Ore Node
+Sunite Ore Node
+Gold Ore Node
+Coal Ore Node
+Sapphirenode
+Rubynode
+Amethystnode
+Diamondnode
+Havenitenode
+Stone Node 1
+Stone Node 2
+Stone Node 3
+Stone Node 4
+Stone Node 5
+Stone Node 6
+Stone Node 7
+Largerock1
+Wood Floor Tile
+Great for walking.
+<color=#6B7DA1>(Left click to place path on farm)</color>
+Stone Floor Tile
+Workshop Floor Tile
+Apple Tree
+Claude Apple Tree
+Orange Tree
+Blueberry Tree
+Strawberry Tree
+Peach Tree
+Raspberry Tree
+Elven Blueberry Tree
+Elven Peach Tree
+Elven Raspberry Tree
+Elven Strawberry Tree
+Oak Tree
+Nelvari Tree
+Vaccuumulus 
+Uses 40 mana.
+Create an arcane explosion around you that deals high damage to rocks and pushes back enemies. Automatically collects items.
+Rain Cloud
+Uses 25 mana.
+Summons a traveling cloud to rain down on crops and tilled dirt.
+Earthquake
+Create an earthquake in an area around you. Turns nearby farmable land into hoed land.
+Fire Beam
+Uses 20 mana.
+Shoot a high damage beam of fire in the target direction.
+Fireball
+Uses 5 mana.
+Shoot a concentrated ball of fire at enemies.
+Chain Lightning
+Uses 8 mana. 
+Cast a bolt of lightning at an enemy. Automatically chains to nearby enemies.
+WishBottle
+Make all your dreams come true
+Foraging2d
+8% chance to catch a treasure chest with any fish catch
+Combat6d
+Anne
+Stone Splitter
+Mining1a
+Stone nodes drop 2 extra stone
+Hidden Seam
+Mining4c
+Money bags have a 20% chance to give 1000 bonus gold
+Savings
+Mining1c
+Gain 150 bonus gold per day
+Foraging4d
+Fish swim to your bobber 20% faster
+Profit Margin
+Farming3b
+Cooked meals sell for 20% more
+Clear Cut
+Foraging1b
+Deal 20% increased damage to trees
+Expert Caster
+Combat4a
+Gain 20 max mana
+Farming5a
+Scarecrow effects +25%
+Expert Rider
+Foraging6a
+Gain 5% bonus movement speed while mounted
+Interpretation
+Foraging7a
+Mana tomes also restore 35% of your max mana
+Agility
+Combat1b
+Gain 10% bonus attack speed
+Treasure Hunter
+Mining8c
+Doubles treasure chest respawn rate underground
+Industrial II
+Mining5c
+Crafting any items also gives you 12 gold
+Triple Shot
+Combat4c
+Increase arrows shot by 1
+Firebeam
+Combat5a
+Unlock fire beam spell. Fire beam can be cast to shoot a high damage beam of fire in the target direction for 10 mana
+Organic
+Foraging4c
+All fruits sell for 75% more
+Combat7b
+Mining8b
+Foraging3d
+After catching a fish, gain 20% movement speed for 15 seconds
+Foraging1c
+Horn of Plenty
+Foraging8c
+Trees drop triple the fruit
+Wornhardt
+Expert Chef
+Farming1b
+Cooking recipes craft 25% faster
+Chef's Kiss I
+Farming4b
+Cooked meals give an extra heart when gifted
+Jun
+Gold-Getter
+Foraging2c
+Money bags have a 12% chance to give 1000 gold
+Hustle II
+Foraging5a
+Gain 5% bonus movement speed
+Air Skip
+Foraging1a
+Double-tap the jump button to perform a mid-air dash
+High Demand
+Mining4b
+Armor sell for 20% more
+Farming6b
+Mystic Miner II
+Mining6c
+Breaking a rock with a pickaxe restores 2 mana
+Foraging8d
+Everything you catch comes in pairs
+Legendary Caster
+Combat6a
+Gain 35 max mana
+Mining4a
+Copper bars sell for 100% more
+Hustle I
+Foraging2a
+Gain 8% bonus movement speed
+Liam
+Double Shot
+Combat2c
+Expert Swordsman
+Combat2b
+Your hits are 35% more accurate
+Sap Sucker
+Foraging4b
+Gain 8 Mana when chopping down a tree
+Combat8d
+Giving Back
+Farming5c
+Gain 0.5 mana regen per 10 seconds for every fully fed Snacoon
+Foraging6d
+Vacuumulus
+Mining6a
+Unlock vacuumulus spell. Vacuumulus can be cast to create an arcane explosion around you that deals high damage to rocks and pushes back enemies for 40 mana
+Foraging1d
+Silk Saver
+Foraging6b
+Get a 2nd Silk from every spider web
+Combat7a
+Novice Caster
+Combat2a
+Gain 15 max mana
+Hot Shot
+Combat3c
+Your bow shoots fire arrows instead. Fire arrows deal bonus damage
+Regeneration II
+Combat4d
+Gain 1 HP health regen per 10 seconds
+Farming8c
+Industrial I
+Mining2c
+Crafting any items also gives you 8 gold
+Farming2b
+15% chance to cook a higher quality meal
+In Your Element
+Foraging8a
+Plus 2 mana regen per 10 seconds while in the forest or wilderness
+Blast Mining
+Mining8a
+5% chance to drop an explosion of ores when breaking a node
+Fertile Land
+Farming7a
+20% increased chance for higher quality crop
+Regeneration I
+Combat1d
+Gain 1 HP regen per 10 seconds
+Combat1a
+Unlock fireball spell. Fireball can be cast to shoot a small concentrated ball of fire at enemies for 5 mana
+Invigorate
+Farming4a
+Standing near crops gives you bonus 2.5 mana per 10 seconds
+Smart Invester
+Mining7c
+Gain 5% of your total money every night. Max 5,000
+Quick Draw
+Combat5c
+Wood Splitter
+Foraging3b
+Trees drop 2 extra logs
+Mining3b
+Farming4c
+Receive a seed package in the mail from Catherine every Sunday
+Chef's Kiss II
+Farming8b
+Leftover meals give 2 bonus hearts when gifted
+Farming6c
+Ranger
+Combat1c
+Gain 2 flat damage to all attacks
+Forager's Boost
+Foraging4a
+Picking up a forageable regenerates 6 HP and 6 Mana
+Mining6b
+Heavy Handed I
+Foraging2b
+Deal 50% increased damage to tree stumps
+Farming2a
+Plus 15% speed on placed paths
+Sharp Shooter
+Combat6c
+Gain 10% bonus crit chance
+Leftovers II
+Farming7b
+15% chance to make a leftover second meal. Leftovers sell for half and cannot be eaten, but are great gifts
+Mining1b
+Rainy Day
+Farming8a
+Unlock rain cloud spell. Rain cloud can be cast to summon a large rain cloud that waters nearby crops for 25 mana
+Combat8b
+Mining2b
+Farmer's Market
+Farming1c
+Crops sell for 10% more
+Catherine
+Combat8a
+Combat5b
+Retaining Soil
+Farming1a
+Increase chance crops stay watered overnight by 15%
+Foraging5d
+Gain 10 mana after catching a fish
+Soul Food
+Foraging6c
+Eating mushrooms and berries always increase your max mana by 1. Maximum 40 mana can be gained from this skill
+Foraging5b
+Arrow Storm
+Combat8c
+Unlock arrow storm spell. Arrow storm can be cast from any crossbow to shoot a volley of magical arrows for 10 mana
+Combat7d
+Double Take
+Foraging5c
+Mushrooms and berries give 2 instead of 1
+Foraging7d
+Locally Sourced
+Foraging7c
+Forageables sell for 20% more
+Copper Collector
+Mining2a
+Copper nodes drop 1 extra copper ore
+Mystic Miner I
+Mining3c
+Breaking a rock with a pickaxe restores 1 mana
+Combat6b
+Daze
+Combat3b
+Gain 10% chance to stun monsters on hit for 1 second
+Coins
+Mining5b
+Combat5d
+Enriched
+Mining5a
+Ore nodes have a 20% chance to drop an extra ore
+Player
+Heavy Handed II
+Foraging8b
+Secret Compartment
+Foraging3c
+All treasure chests give 200 more gold
+Nathaniel
+Lynn
+Tiller's Tip II
+Farming7c
+Plus 7 extra gold per crop sold
+Coming Soon!
+Tickets
+Claude
+Comprehension
+Foraging3a
+Mana tomes give 50% more max mana
+Tiller's Tip I
+Farming3c
+Malleable Metal
+Mining7b
+All items take 10% less time to craft
+Friendly Farmer
+Farming3a
+Plus 15% chance to get an extra animal product
+Groundbreaker
+Farming6a
+Unlock earthquake spell. Earthquake can be cast to quickly hoe nearby land for 25 mana
+Attuned
+Foraging7b
+Standing near a tree or stump also regenerates 1 mana per second
+Meditation
+Combat2d
+Gain 1 mana regen per 10 seconds
+Volt Shot
+Combat7c
+Your bow shoots lightning arrows instead. Lightning arrows deal even more bonus damage and travel faster
+Bounty Hunter
+Combat4b
+Slaying a monster gives you 15% chance to drop double gold
+Weak Spot
+Mining3a
+10% additional chance to critically strike rocks
+Propagation
+Farming2c
+10% chance to gain an extra crop
+Leftovers I
+Farming5b
+10% chance to make a leftover second meal. Leftovers sell for half and cannot be eaten, but are great gifts
+Mining7a
+Padded Armor
+Combat3d
+Take 20% reduced damage
+Combat3a
+Unlock chain lightning spell. Chain lightning can be cast to fire a bolt of lightning at an enemy that automatically chains to nearby enemies
+Copper Pickaxe
+Copper Sword
+Mithril Sword
+Earth Fertilizer I
+Fertilizes a crop, causing it to drop more when harvested.
+Stone
+Log
+Wood Plank
+Silk
+Fabric
+Driftwood
+A little something to help you on your way.
+Sand Dollar
+Starfish
+Clam
+Seaweed Node
+Combat EXP
+Farming EXP
+Exploration EXP
+Mining EXP
+Sapphire
+Ruby
+Amethyst
+Diamond
+Copper Ore
+Iron Ore
+Mithril Ore
+Coal
+Raw material that's great for crafting but terrible for gifting.
+Fire Crystal
+Water Crystal
+Adamant Bar
+Sunite Bar
+Gold Bar
+Leafie's Leaf
+Squashed Banana
+Bug Shell
+Prickly Pear
+Lightning in a bottle
+Antler
+Wooden Table
+Wooden Torch
+Barrel Of Swords
+Barrel Of Red Flowers
+Book Candles
+Player Farm Stone Node
+Foliage 1
+Foliage 2
+Foliage 3
+Foliage 4
+Foliage 5
+Foliage 6
+Foliage 7
+Foliage 8
+The Prince of Withergate
+The Wild Adventurer
+The Royal Architect
+The Musical Prodigy
+The Caring Baker
+The Lovable Kitty
+The Renowned Doctor
+The Archmage of Sun Haven
+The Friendly Witch
+The Air Mage of Nel'Vari
+The Enchantress of Nel'Vari
+The Renowned Merchant
+The Captain of the Guard
+The Counselor
+The Blacksmith's Apprentice 
+These must be Peter's catches of the day.
+Examine
+This must be the biggest fish Peter ever caught!
+DID THAT JUST MOVE?!
+<i>Crrrroak</i>
+The smoke in the crystal ball clears to reveal... <color=#39CCFF>spicy ramen</color>.[]The smoke in the crystal ball clears to reveal... a <color=#39CCFF>small mana tome</color>.[]The smoke in the crystal ball clears to reveal...<color=#39CCFF>prickly pears</color>.[]The smoke in the crystal ball clears to reveal... a <color=#39CCFF>ruby</color>.[]The smoke in the crystal ball clears to reveal... a <color=#39CCFF>sapphire</color>.[]The smoke in the crystal ball clears to reveal... an <color=#39CCFF>amethyst</color>.
+These must be Iris's woodworking tools. It looks like they haven't been used in some time.
+This magic mirror shows what it has seen. Right now it shows Vaan eating a steaming bowl <color=#39CCFF>red veggie soup</color>.[]This magic mirror shows what it has seen. Right now it shows Vaan dropping a jar of <color=#39CCFF>honey</color> on the floor. Is that why the floor is sticky?[]This magic mirror shows what it has seen. Right now it shows Vaan modeling a <color=#39CCFF>Cape</color>.
+This is a phoenix feather! It's said that you can only get one by meeting a phoenix in the sky. It's a sign of good fortune!
+It's a complete replica of Withergate's Ferris Wheel, but miniature. This must be how Xyla also planned the whole city's construction. The detail is incredible!
+"The world's most DANGEROUS CROP - <color=#39CCFF>Snappy Plant</color>!"[]This whole page seems to be dedicated exclusively to <color=#39CCFF>wooden crossbows</color>.[]This looks like a magazine full of <color=#39CCFF>plushies</color> of all kinds.
+Read
+Is this Donovan's shopping list? All it says is "<color=#39CCFF>meat</color>."[]"3 Steps to the Perfect <color=#39CCFF>Egg Hash</color>!"[]"Looking for a classic gift without breaking the bank? Nothing beats a good old-fashioned <color=#39CCFF>bone</color>!"[]"<color=#39CCFF>Trash Boots</color>, the Mystery Afoot"[]These grease stains could only have come from <color=#39CCFF>pizza</color>.[]A strange handwritten note at the top of the page reads, "Best sandwich - <color=#39CCFF>BLT</color> or <color=#39CCFF>cheeseburger</color>???"
+That's a big bone! There are bite marks on one end... How did Donovan get this??
+The magazine is open to a page with a recipe for <color=#39CCFF>moon cream pie</color>.[]There seems to be a feature article by someone named "The Savvy Swordsman."[]They've ranked swords from best to worst: <color=#39CCFF>copper sword</color>, <color=#39CCFF>iron sword</color>, <color=#39CCFF>adamant sword</color>, <color=#39CCFF>mithril sword</color>, <color=#39CCFF>sunite sword</color>.[]The magazine is open to a page full of pictures of glittering <color=#39CCFF>diamonds</color>. They all seem to be individually circled.[]"The spiciest <color=#39CCFF>spicy ramen</color> outside of the Southern Islands!"[]"Looking for a classic gift without breaking the bank? Nothing beats a good old-fashioned <color=#39CCFF>bone</color>!"
+This must be Darius's crown. It's covered in dust.
+Coming Soon
+A helmet that looks like its seen some battles. Judging by the damage, the wearer was lucky to have it.
+Repair broken bridge for 20 wood planks?
+A good home for a good dog.
+Inspect
+This looks like fresh bread from Liam's Bakery. Now I'm hungry!
+I just want to lay down in the grass and watch it spin.
+It has Anne's hours on it, she's here 10am to 4pm. Good to know.
+Read Sign
+Repair the Sun Haven Cafe for 80 <color=#39CCFF>Wood Planks</color> and 6000 <sprite="gold_icon" index=0>  ?
+Touch the water
+It doesn't look like this has been used in a long time.
+I'd better not...
+Drink
+The raven represents knowledge.
+Some empty houses. Maybe someone will move in soon.
+Nice and warm.
+These are cute, but not the same as a real pet!
+Wow, doctor Wornhardt really cares about his work. This place is spotless.
+Would you like to repair the Sun Haven Salon for 30 Wooden Planks, 10 Cloth, and 4000 Gold?
+The owl represents wisdom.
+The shield is in the colors of the Eastern Region, but the insignia must be from Lynn's home village. It looks recently polished.
+"SALE!! <color=#39CCFF>Mithril bars</color> and <color=#39CCFF>Sunite bars</color>, cheap cheap cheap! Discounts provided for certified blacksmiths!"[]"Eastern Taste - the best <color=#39CCFF>creamy beef stew</color> recipe in the west!"[]Lynn seems to have written a list for herself.[]The list includes: <color=#39CCFF>copper bars</color>, <color=#39CCFF>adamant bars</color>, <color=#39CCFF>mithril bars</color>, new <color=#39CCFF>anvil</color>.[]"The secret to a longer, healthier life - <color=#39CCFF>pickled veggie salad</color>!"
+Make a wish!
+This looks so good, I should buy a slice for the road.
+"<color=#39CCFF>Fire crystals</color> are an important ingredient for anyone that wants to be taken seriously in the kitchen."[]"<color=#39CCFF>Small mana tomes</color> - the fastest way to boost your magical ability! Bring your spell-game to the next level with <color=#39CCFF>small mana tomes</color>!"[]Tucked inside this magazine is a note that reads, "Reminder: buy <color=#39CCFF>peppers</color>!"[]The magazine is open to an article detailing the best way to cultivate <color=#39CCFF>greenroot</color>.[]It looks like a recipe for an <color=#39CCFF>energy smoothie</color>.[]There's a picture of <color=#39CCFF>spicy ramen</color> with a note next to it: "YUM!"[]
+It's an old scroll that looks half-burned. It shows different techniques for casting fire spells. A word written in the corner reads, "CINDERHEAD."
+It's a worn-out apron. A picture in the pocket shows a man wearing it, standing with a young boy who resembles Liam.
+It's a picture of a chef wearing a <color=#39CCFF>chef's hat</color>. The hat is circled with a handwritten message that reads, "SO COOL!!"[]The page is open to a step-by-step guide to brewing the perfect cup of <color=#39CCFF>coffee</color>.[]Liam wrote a note on the side of the page. It looks like a short list, including <color=#39CCFF>cookies</color> and <color=#39CCFF>flour</color>.
+The magazine is open to a page full of pictures of glittering <color=#39CCFF>diamonds</color>. They all seem to be individually circled.[]"The perfect way to keep your gold safe - <color=#39CCFF>small money bag</color>!!"[]It looks like an opinion article. It reads, "Trying to impress your someone special? Gemstones show you're invested in your heart AND your wallet![]<color=#39CCFF>Ruby</color> and <color=#39CCFF>sapphire</color> are popular stones, but <color=#39CCFF>amethyst</color> is a great choice that is often overlooked."[]A handwritten note is laying on top of the magazine. It reads "<color=#39CCFF>Raspberry Cheesecake</color> Ingredients: <color=#39CCFF>Raspberry</color>, Cheesecake???"[]An article seems to have been ripped out, but the title is still on the page - Finding <color=#39CCFF>Gold Ore</color> for Amateurs.
+This is a painted portait of the Southern Islands. Somebody wrote something on the frame, "One day."
+This looks like Jun's diary. It's almost completely full with his most private thoughts... Better leave it.
+"Healthy Living's #1 suggested snack is... <color=#39CCFF>spring rolls</color>!"[]"Need help with your <color=#39CCFF>sesame rice balls</color>? Follow this quick and easy recipe!"[]"<color=#39CCFF>Chicken noodle soup</color> made easy."[]There are red stains on the page. It looks like Jun was eating <color=#39CCFF>spaghetti</color>.[]It's an article titled, "5 Decorative Uses for your <color=#39CCFF>Sand Dollars</color>."
+"Soldier's Diet Weekly - this week's HOT recommendations are <color=#39CCFF>earth's pie</color> and <color=#39CCFF>mashed potatoes with gravy</color>."[]There seems to be a feature article by someone named "The Savvy Swordsman."[]They've ranked swords from best to worst: <color=#39CCFF>copper sword</color>, <color=#39CCFF>iron sword</color>, <color=#39CCFF>adamant sword</color>, <color=#39CCFF>mithril sword</color>, <color=#39CCFF>sunite sword</color>.[]The magazine is open to a page full of armor sets.[]There are circles drawn around <color=#39CCFF>copper armor</color>, <color=#39CCFF>iron armor</color>, <color=#39CCFF>adamant armor</color>, <color=#39CCFF>mithril armor</color>, and <color=#39CCFF>sunite armor</color>.
+It's an outdated record player. There are carvings in the base that look like they were done by a child.
+It appears to be a flyer from the record store in Sun Haven. It says, "<color=#39CCFF>Records</color> galore!"[]"Get all the vitamins you need with <color=#39CCFF>red veggie soup</color>!"[]There's an article describing the pros and cons of <color=#39CCFF>tomato soup</color>. It's surprisingly in-depth.[]The magazine is open to a page of different <color=#39CCFF>record players</color>.[]Scrawled on the side of the page is what looks like an unfinished shopping list. The only item on the list is, <color=#39CCFF>tomatoes</color>.[]"<color=#39CCFF>Spaghetti</color> made EASY!"
+The first article on the page is titled "Fish this Season" and continues with a bulleted list:[]<color=#39CCFF>Gold Fish</color>, <color=#39CCFF>Red Snapper</color>, <color=#39CCFF>Blue Gill</color>, <color=#39CCFF>Carp</color>, <color=#39CCFF>Silver Carp</color>.[]It looks like an article about how to prepare different fish.[]There are circles drawn around <color=#39CCFF>Blue Tang</color>, <color=#39CCFF>Rainbow Trout</color>, <color=#39CCFF>Angel Fish</color>, and <color=#39CCFF>Pufferfish</color>.[]A handwritten note next to the list says <i>FRESH!</i>[]The page shows a picture of <color=#39CCFF>fish tempura</color>. Kitty seems to have written "YUMMY!!" next to it.[]There's a picture of <color=#39CCFF>pet food</color> that is circled... many times.
+It appears to be a dress that isn't finished yet. The needlework is impeccable! Who knew Kitty was so skilled?
+The article is titled, "A Taste of the Southern Islands" and shows a picture of <color=#39CCFF>carribean green soup</color>.[]The page has purple stains on it. Could Wornhardt have been eating a <color=#39CCFF>blueberry salad</color>?[]The page is open to a step-by-step guide to brewing the perfect cup of <color=#39CCFF>coffee</color>.[]It looks like an article about how to prepare different fish.[]There are circles drawn around <color=#39CCFF>Blue Tang</color>, <color=#39CCFF>Rainbow Trout</color>, <color=#39CCFF>Angel Fish</color>, and <color=#39CCFF>Pufferfish</color>.[]A handwritten note next to the list says <i>FRESH!</i>[]The first article on the page is titled "Fish this Season" and continues with a bulleted list:[]<color=#39CCFF>Gold Fish</color>, <color=#39CCFF>Red Snapper</color>, <color=#39CCFF>Blue Gill</color>, <color=#39CCFF>Carp</color>, <color=#39CCFF>Silver Carp</color>.
+Dreamcatchers are popular in the Southern Islands, but Dr. Wornhardt doesn't seem like the superstitious type.
+It's a book of poetry with notes in the margins. They looks like incantations based on the poems. Is this how Catherine learned her spells?
+Is this Catherine's shopping list? The list includes: <color=#39CCFF>Shimmeroot</color>, <color=#39CCFF>Carrots</color>, <color=#39CCFF>Blueberry Salad</color>.[]"<color=#39CCFF>Small mana tomes</color> - the fastest way to boost your magical ability! Bring your spell-game to the next level with <color=#39CCFF>small mana tomes</color>!"[]"Step up your gardening game, with watering cans! Top 5 watering cans from best to worst: <color=#39CCFF>Sunite Watering Can</color>, <color=#39CCFF>Mithril Watering Can</color>,[]<color=#39CCFF>Adamant Watering Can</color>, <color=#39CCFF>Iron Watering Can</color>, <color=#39CCFF>Copper Watering Can</color>."[]The page is bookmarked on an article titled, "Health benefits of <color=#39CCFF>Green Carribean Soup</color>.[]"Get all the vitamins you need with <color=#39CCFF>red veggie soup</color>!"[]A note at the top of the page says, "Reminder: buy ingredients for <color=#39CCFF>tomato soup</color>."
+Human
+Elf
+Elves are one of the oldest races in the world and are mystically attuned to the flow of life energy around them. Friends to all plants and animals, they are most at home in forests. However, younger members of this race are now spreading out into the world and creating villages where Elves have never been seen before.
+Demon
+Cunning and resourceful, Demons are creatures of darkness. They thrive in the shadow of night and are driven by their appetite for strength. For what is life's purpose if not to maintain power? This is the Demons' creed.
+Angel
+With grace unmatched, Angels are beacons of light in the darkest skies. They act as watchers of the world and chronicle the history of everything they see. While not every Angel holds to the exact same principles, whatever path they choose they will walk with complete devotion.
+Amari
+The origins of the Amari exist only as unfounded myth. What <i>is</i> known is that the Amari are strongly linked to their primal spirits, making them loyal allies who are in touch with the wilds of the world.
+Elemental
+The oldest of all races, Elementals exist as ethereal beings with bodies of whipping flame or flowing water. All that is known about them is that they are the result of nature’s chaotic elements mixed with strange and powerful magic. It is thought that the elementals alive today are the same that have existed for all time since they seem to have no natural lifespan.
+Naga
+The Naga are a secretive race, living underground for generations to keep their culture unspoiled by outside influence. Because they have hid from the surface for so long, they have learned most everything about subterranean living. Survival is the keystone of their culture.
+Body
+Eyes
+Pants
+Hat
+Tail
+You can't enter here until you are a citizen
+Withergate Castle
+You can't enter here yet
+Down to Apartment Hall
+Castle Hall
+at the Northern Barracks
+You need to be better friends with Vaan before you can enter his house!
+Vaan's House
+You must buy an apartment first
+Going Up?
+Withergate 
+Exit Tailor
+Down to Lobby
+Up to Rooftop Farm
+You need to be better friends with Xyla to enter.
+Xyla's House
+Home, Sweet Home...2
+Darius' Chambers
+Throne Room
+Dynus' Altar Room
+Dark energy prevents you from entering here
+You can't enter here 
+You need to be better friends with Lynn to enter.
+Tavern
+Barracks
+Hospital
+Library
+It's locked.
+Salon
+You need to be better friends with Catherine to enter.
+You need to be better friends with Wornhardt to enter.
+Magical forces prevent you from leaving
+Something tells me I should not go here.
+You can't go here.
+Peter's Fishing Store
+You can't go there yet. 
+Solon's Smithery
+You can't go here until you're stronger.
+You can't enter here yet 
+You can't go here right now
+Withergate Hat Store
+Withergate Tailor Store
+You can't go here yet
+Withergate Pet Store
+Withergate Apartment
+You need to be better friends with Donovan to enter.
+Donovan's House
+You need to be better friends with Jun to enter.
+Jun's House
+You need to be better friends with Claude to enter.
+Something on the other side blocks the way
+You need to be better friends with Liam to enter.
+You need to be better friends with Kitty to enter.
+You need to be better friends with Lucia to enter.
+You need to be better friends with Iris to enter.
+Iris' House
+Who?
+Nathaniel's Quarters
+Home Sweet Home
+at the Library
+at the Eastern Quarry Blacksmith
+Arcbug
+Centipillar
+Chimchuck
+Hornsnake
+Leafy
+Peppinch
+Phantome
+Pricklepop
+Prickletot
+Rootwalker
+Scorpepper
+Shadeclaw
+Torto
+Earth1
+Fire1
+Water1
+Earth2
+Fire2
+Water2
+Tree
+Farmable
+Forage
+Water
+Decoration
+Foliage
+Ground
+Wall
+FishableWater
+NelvariTree
+Oak
+Normal
+Ore
+Ocean
+TreasureChest
+OceanTreasureChest
+Bleed
+Enemy
+Heal
+PlayerBleed
+UseMana
+Projectile
+Breakable
+Default
+Smile
+Hit
+Death
+Attack
+Wander
+Chase
+Hurt
+Still
+Pathing
+Follow
+Pet
+Items
+Progress
+Kill
+Task
+Main
+Swing
+Jump
+Interact
+Continue
+Skills
+Quests
+Map
+InventorySlot1
+InventorySlot2
+InventorySlot3
+InventorySlot4
+InventorySlot5
+InventorySlot6
+InventorySlot7
+InventorySlot8
+InventorySlot9
+InventorySlot10
+Emote1
+Emote2
+Emote3
+Emote4
+Emote5
+Emote6
+Emote7
+Escape
+Spell1
+Spell2
+SwapActionbar
+Use2
+Left
+Right
+Up
+Down
+Key
+MouseButton
+SingleHit
+Piercing
+InfinitePierce
+HitboxOnly
+MouseOnly
+Both
+Armor
+Food
+Fish
+Crop
+WateringCan
+Animal
+Rare
+Epic
+Legendary
+Start
+Finish
+Constant
+Gloves
+Ring
+Amulet
+Keepsake
+Helmet
+Mask
+MaskCover
+Halo
+Horns
+FrontArms
+BackArms
+FrontGloves
+BackGloves
+FrontSleeves
+Mouth
+Ears
+Head
+Legs
+Overlay
+Face
+HairAccessory
+Red
+Brown
+Hazel
+Yellow
+Green
+Blue
+Darkblue
+Purple
+Darkpink
+Pink
+Lightpink
+White
+Gray
+Black
+SkinTone1
+SkinTone2
+SkinTone3
+SkinTone4
+SkinTone5
+SkinTone6
+SkinTone7
+SkinTone8
+SkinTone9
+SkinTone10
+SkinTone11
+SkinTone12
+Equip
+Use
+Craftable
+Monster
+Furniture
+Quest
+Common
+Uncommon
+VerySmall
+Small
+Moderate
+Large
+Huge
+Melee
+Pickaxe
+Axe
+Hoe
+NoGrip
+NeutralGrip
+HorizontalSlash
+VerticalSlash
+SpellCast
+SpellCharge
+ItemHold
+Pull
+UseItem
+Push
+SunHaven
+Nelvari
+Gold
+Orbs
+Feed
+Automatic
+Mine
+Forest
+PreWish
+PostWish
+Health
+Mana
+AttackDamage
+AttackSpeed
+HealthRegen
+ManaRegen
+Movespeed
+MagicDamage
+LifeSteal
+LifeOnKill
+MovespeedOnHit
+MovespeedOnKill
+HealthOnKill
+Crit
+DamageReduction
+GoldFind
+Knockback
+StunDuration
+Size
+FishingSkill
+MiningSkill
+ExplorationSkill
+Defense
+FlatDamage
+RomanceBonus
+MoneyPerDay
+BonusCombatEXP
+BonusWoodcuttingEXP
+BonusFishingEXP
+BonusMiningEXP
+BonusCraftingEXP
+BonusFarmingEXP
+StunChance
+Accuracy
+FarmingSkill
+GoldPerCraft
+MiningCrit
+WoodcuttingCrit
+SmithingSkill
+BonusExperience
+Fallen
+Grown
+Portrait
+Bust
+Native
+Steam
+Grass
+Dirt
+Wood
+Blank
+Hoed
+Watered
+Workshop
+x0
+x1
+x10
+x100
+x1000
+Lava
+Water flowers outside Kitty's house
+Meet Anne outside her cart at 4pm tomorrow
+Meet Catherine at her house at 5pm tomorrow
+Meet Claude at his house at 5pm tomorrow
+Meet Claude at his house at 12pm tomorrow
+Meet Darius outside your apartment building at 5pm tomorrow
+Meet Donovan by the manhole next to the apartment building at 12:00 pm tomorrow
+Meet Iris outside of her house at 12pm tomorrow
+Meet Iris at her house at 5pm tomorrow
+Meet Jun at his house at 10am tomorrow
+Meet Jun at his house at 5pm tomorrow
+Meet Kitty at her house at 10am tomorrow
+Meet Kitty at her house at 5pm tomorrow
+Meet Liam by his bakery at 5pm tomorrow
+Meet Liam at his house at 5pm tomorrow
+Meet Lucia outside of the town hall at 5pm tomorrow
+Meet Lucia outside of her house at 5:00 pm tomorrow
+Meet Lynn at her house at 10am tomorrow
+Meet Lynn at her house at 5pm tomorrow
+Meet Nathaniel at the barracks at 12pm tomorrow
+Meet Nathaniel at the barracks at 5pm tomorrow
+Meet Vaan outside his house at 12pm tomorrow
+Meet Vaan at his house at 5pm tomorrow
+Meet Wornhardt outside of the hospital at 10:00 am tomorrow
+Meet Wornhardt at his house at 5pm tomorrow
+Meet Xyla outside of her apartment at 5:00 pm tomorrow
+Plant 10 Wheat Seeds
+Water 10 Wheat Seeds
+Visit the General Store in Town
+Take the rest of the day to get settled in!
+Weeds Cleared
+General Store Flower
+Tavern Flower
+Hospital Flower
+Bridge Flower
+Investigate the path north of Sun Haven
+Feed the Snaccoon North of Sun Haven
+Go North to the castle to speak to the Demon King Minos
+Enter the throne room and speak with the Demon King
+Investigate forest south of Withergate
+Confront Dynus, the Moon Dragon
+Find your way north
+Get through the fog
+Charon
+Use the ferry
+Enter Withergate
+Find the apartment building and buy an apartment.
+Meet with Elios at Dragon's Meet
+Search the western forest for an entrance to the Elven city Nel'Vari
+Look for a book on Elven history in the library.
+Search the western forest
+Find the entrance to Nel'Vari
+Solve Puzzle of Nelvari
+Meet Lucia at the Town Hall at 10am tomorrow
+Talk to Elios
+Reach level 5 in any skill
+Talk to Roza
+Investigate the Eastern Wilderness
+Await Elios's return day
+Talk To Elios
+Meet Anne at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Catherine at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Claude at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Darius at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Donovan at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Iris at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Jun at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Kitty at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Liam at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Lucia at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Lynn at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Nathaniel at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Vaan at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Wornhardt at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Meet Xyla at 4 pm at the Event Center north of Sun Haven to get married tomorrow
+Bandit
+Arts & Expression
+	Elven culture is centered around artistic expression in many forms. Foremost is woodcraft - Elves are considered the most careful and skilled woodworkers to exist worldwide. Horticulture - the art of trimming and shaping plants - is also a celebrated form of expression. 
+	Elves have also been known to paint symbols of cultural significance on their houses as well. These symbols can be sigils of health and peace as well as low enchantments for protection and luck. The same symbols are carried over into their rich tradition of tattooing, which is a sign of spiritual maturity among Elves.
+Cultural Values
+<i>Nature & Harmony</i>
+	Elven values are based on the teachings of Nel'Vari's guardian dragon, Nivara. Nivara, also called the World Dragon, teaches the power of peace and harmony with nature. Her connection with nature allows her to practice advanced magical abilities.
+<i>Protective Secrecy</i>
+	Being the peaceful people they are, Elves have historically been trusting of other cultures. This trust, unfortunately, has led to catastrophe within Nel'Vari. In response, the Elves of Nel'Vari have taken a position of secrecy, allowing only select guests to walk within the city's boundaries. The city itself is protected by an illusion that prevents potential foes from ever finding it.
+Traditional Nursery Rhyme
+<align="center">Plant a seed inside your bed
+Grow a dream inside your head
+Sleep in soil, rich and dark
+Stems coiled up in bedtime bark
+Empty Book
+Just a blank page
+health
+mana

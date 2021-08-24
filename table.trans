@@ -1,0 +1,3311 @@
+Sun Haven
+Menschen
+​
+Host
+Ja
+(Benutze WASD zum Laufen)
+Name...
+Zurück
+Rasse
+Verbinden
+Gestreiftes Shirt
+Haare
+Feminin
+Version 0.2.1b
+Körpertyp
+Hey there!
+Sun Haven is in Early Access, which means not all game content is currently available, and some content will be buggy.
+You can report bugs in the #report-bugs channel of our Discord. 
+We're still hard at work on Sun Haven, so stay tuned for patch updates! 
+- Pixel Sprout Studios
+Server name:
+Bekanntes Problem mit Mehrspieler: Wenn du dich mit der Welt eines anderen Spielers verbindest, bevor der Host das Laden der Welt beendet hat, kann es sein, dass du dich nicht verbinden kannst.
+Bitte warte, bis der Host das Spiel geladen hat, bevor du versuchst, dich mit einem Mehrspieler-Spiel zu verbinden.
+Wenn du dich nicht mit einem Spiel verbinden kannst, starte bitte die Anwendung neu.
+Nein
+Die Menschen sind einfallsreich und ehrgeizig und haben sich zu einer der bedeutendsten Rassen der Welt entwickelt. Das Erbe, allen Widrigkeiten zu trotzen und jedes Hindernis zu überwinden, ist das Geburtsrecht dieser fleißigen Rasse. Die Menschen haben den unheimlichen Wunsch, Erwartungen nicht nur zu erfüllen, sondern sie zu übertreffen.					
+Pixel Sprout Studios
+Text eingeben...
+Spiel finden
+<size=150%>(8/13) Patch 0.2.1a Notes :</size>
+Sun Haven map functionality:
+- Romanceable NPCs are now visible on the Sun Haven map.
+- The player also shows on the map. (single player only)
+- Available quests and completable quests show on the map.
+Dating/Marriage to NPCs:
+- You can now gift NPCs a wedding ring to get married! This requires 15 hearts and getting far enough in - the dialogue (you can only marry one NPC at a time).
+- We’ve added a new wedding event to get married! The event center north of Sun Haven is now unlocked for this event (west from the train tracks).
+- Dating now begins if you accept the NPC during the second date. However, Bernard now sells a love letter to begin dating an NPC if you’ve declined the second date or declined the NPC during the second date.
+- NPCs now have proper dialogue reflecting your relationship. This includes 10 Dialogue Cycles before dating, 5 Dialogue Cycles while dating, 3 Dialogue Cycles while married, 5 Dialogue Cycles if dating is declined, and more one-liners added for each instance.
+- Bernard now sells keepsakes for NPCs that you have 8 hearts with in case you miss it in their dialogue or lose it for any reason.
+- You can now get up to 20 hearts with NPCs. It was previously capped at 10 before dating. Now it is capped at 15 before marriage.
+- You can now talk to Bernard to get divorced after marriage.
+Part 1 of 2 for mines update:
+- Floors 26-50 have been added!
+- Small rebalance to mining numbers: ore tiers are now in increments of 10 floors rather than 5.
+More character customization:
+- Naga race is now unlocked!
+- We’ve added new character select customization options.
+- We’ve added over 250 pieces of clothing (including color variations) into shops.
+- Most clothing now comes in the following color variations: pink, red, orange, yellow, green, blue, purple, black, and white.
+Other Changes:
+- Mac Build Support!!
+- More Settings: Keybinds, Increase Day Length, Pause time during dialogue
+- The tier 3 house upgrade is now available at the town hall! Now, you purchase the permit from Emmet at the Town Hall and craft the upgrade at your crafting table.
+- Romanceable NPC Bust Emotes now allow you to see the NPCs’ emotions while you’re talking!
+- Fence Gates are now in!
+- New wallpapers have been added to shops!
+- Wallpapers can now be placed across individual walls as well as in the Withergate apartment.
+- New farm songs and mine songs!
+- Increased size of tier 2 house to fit large furniture items and rugs
+- Multiplayer disconnection improvements
+- Various Bug fixes
+Coming Soon:
+- Nelvari/Withergate map and quests
+- Part 2 of the mines update, including more content in the mines (mines enemies, and chests/rewards every 10 floors). 
+- Salon/Clothing UI
+- Gray/Brown colors for clothing
+Verstanden!
+(Du hast vergessen, deinem Charakter einen Namen zu geben!)
+Bestätigen
+Name
+Starten
+Farbe:
+Steamname als Standard
+Bist du sicher, dass du XX löschen möchtest?
+Lade Charakter
+Maskulin
+Beitreten
+0/0
+Servername
+0 ms
+Spielmodus
+Befehl eingeben...
+Öffentlich
+Angemeldet als
+Spieltyp
+3x
+Zuweisen
+-
+Gegenstand nutzen: C
+Soundeffektlautstärke
+Spiel verlassen
+Pause
+Tastenzuweis.
+100%
+Option A
+Pausieren während Dialog
+Tag 10
+1.
+Lade Welt...
+Verlassen
+Änderungen
+Optionen
+Einzelspieler
+Mehrspieler
+Neuer Charakter
+Host & Spielen
+Beliebige Taste drücken...
+Zeit: 10:45 AM
+Leeren
+Schließen
+Absenden
+5 Aufträge werden ausgeführt
+Geschwindigkeit
+Umgebungslautstärke
+Bob
+Auflösung
+Du musst das Passwort eingeben um Cheats zu aktivieren
+Löschen
+Zoomstufe
+Auswählen
+Gesamtlautstärke
+Musiklautstärke
+Wunschanzahl
+Münzen: 150
+Waddup
+Vollbild
+Aktiviere Cheats
++
+30 min
+0
+04:30 PM
+<size=300>Sun Haven</size>
+Besonderen Dank an:
+Alex
+Brendan
+Bruce
+Emily
+Jennifer
+John 1
+John 2
+Katelyn
+Kyle
+Lexxi
+Michael
+Mike
+Sat
+FPS: 
+10000
+Inventar
+Truhe
+10 <sprite="gold_icon" index=0>
+Orangen
+Stadthalle
+100/100
+Kaufen
+Münzen
+Orbs
+Tickets
+Kleidungsladen
+Plattenladen
+Anglerladen
+Topee
+Belohnungen:
+1
+Topee's Studien
+Belohnung:
+Annehmen
+X
+Kuh
+Ich brauche einen Gefallen für meine Schwester Emma - sie hat gerade von <color=#39CCFF>Eisenerz</color> gehört und ist wirklich neugierig... aus irgendeinem Grund. Sie möchte einfach mal welches sehen. Kann jemand 5 <color=#39CCFF>Eisenerz</color> bringen? Du kannst es direkt zu ihr bringen, ich wette, das würde sie glücklich machen. Danke!
+- Liam
+<sprite="left_arrow" index=0> Veranstaltungsplatz
+ Norden der Stadt <sprite="up_arrow" index=0>
+Versandportal
+Sachen in diesem Inventar werden über Nacht verkauft
+Gemischtwarenladen
+Bernard
+Schwert
+Herstellen
+30 Minuten
+02
+Kochtopf
+Steigere deine Fähigkeiten um mehr Rezepte freizuschalten
+Abbrechen
+Warteschlange
+Schneider
+Haustierladen
+5000 <sprite="gold_icon" index=0>
+Hutladen
+     Sun Haven <sprite="right_arrow" index=0>
+<sprite="left_arrow" index=0> Farm
+     
+Glorit-Höhle <sprite="Up_arrow" index=0>
+  Withergate Stadt <sprite="right_arrow" index=0>
+ Withergate Wald <sprite="down_arrow" index=0>
+  
+Gespenstischer Junge
+26
+45
+9
+39
+7
+34
+Wähle Ebene: 
+20
+23
+14
+18
+46
+38
+16
+27
+43
+19
+49
+41
+Verlassen
+8
+31
+35
+40
+12
+3
+13
+47
+37
+5     
+36
+10
+32
+15
+30
+17
+44
+21
+2
+33
+22
+50
+4
+6
+48
+29
+42
+24
+11
+25
+28
+Derzeitige Ebene: <b><i>5</i>
+Waffenhändler
+0/5
+Füttere ihn mit den nötigen Essen um ihn zu wecken
+Bergbau-Händler
+Weiter
+Lieber XX,
+Da du in letzter Zeit so nett zu mir warst, habe ich gehofft, dass ich dir eine Bitte anvertrauen kann. Ich bin auf der Suche nach einer neuen Platte, aber der Besitzer des Plattenladens hat mit mir geredet... sehr viel. Ich möchte ihn heute lieber nicht sehen. Würdest du eine Platte abholen und zu mir nach Hause bringen? Ich suche nach etwas wie einem <b>Walzer</b>. Ich habe 500 Gold beigelegt, um die Kosten zu decken. Ich werde dir 500 Gold für die Lieferung zahlen. Vielen Dank im Voraus.
+- Claude
+10/10
+Werkbank
+Snaccoon
+  Stadtzentrum <sprite="up_arrow" index=0>
+          Farm <sprite="left_arrow" index=0> 
+ Steinbruch <sprite="right_arrow" index=0>
+     Steinbruch <sprite="right_arrow" index=0>
+Amboss
+ Veranstaltungsplatz <sprite="up_arrow" index=0>
+<sprite="left_arrow" index=0> Kaserne
+0/10
+2/10
+Glorite Cave <sprite="up_arrow" index=0>    
+ Tiefe Wildnis<sprite="right_arrow" index=0>
+Sun Haven Stadt <sprite="left_arrow" index=0> 
+Farmer-Händler
+Farmer-Laden
+ Stadtzentrum <sprite="right_arrow" index=0> 
+  Westlicher Wald <sprite="left_arrow" index=0> 
+Bäckerei
+Umhang-Händler
+Armbrust-Händler
+Sylvia
+Sylvius
+Ofen
+Möbel-Tisch
+Mühle
+Ein liebenswerter kleiner Kumpel für deinen Bauernhof.
+<color=#6B7DA1>(Linksklick auf Haus oder Hof zum Platzieren)</color>
+Hühnchen
+Schaf
+Baby Stumpf
+Seidenspinner
+Baby-Greif
+Welpe
+ Liebenswerter kleiner Kumpel. 
+<color=#6B7DA1>(Nimm eine Leine, damit sie dir folgen!)</color>
+Kitty
+Bunny
+Froschprinz
+Shiver
+Bubbles
+Smolder
+Nimbus
+Grimbus
+Baby-Tiger
+Baby-Drache
+Einhorn
+Sprinkles
+Herr Slither
+Waschbär
+Rubin Amulett
+Ein Rüstungsteil für zusätzlichen Schutz.
+Magisches Mädchenhandschuhe
+Ein gutaussehender Gegenstand, welcher dir hilft deinen Look zu kreieren.
+Withergate Maske
+Magischer Armreif (Grün)
+Magischer Armreif (Orange)
+Magischer Armreif (Rot)
+Magischer Armreif (Lila)
+Adamanthelm
+Adamantbrustplatte
+Adamanthose
+Adamanthandschuhe
+Kupferhandschuhe
+Gina Helm
+Gina Brustplatte
+Gina Hose
+Gina Handschuhe
+Eisenhelm
+Eisenbrustplatte
+Mithrilbrustplatte
+Mithrilhose
+Mithrilhandschuhe
+Sunithelm
+Aspekt der Sonne
+Sunitbrustplatte
+Sunithose
+Sunithandschuhe
+Ausgefallene Hose
+Kupferring
+Eisenring
+Adamantring
+Mithrilring
+Sunitring
+Bindungsring
+Werde von anderen mehr gemocht.
+Ehering
+Die perfekte Art einen Antrag zu machen. Schenke dies einem NSC wenn die Zeit ideal ist und frage ihn ob ihr heiraten wollt.
+Verzauberter Ehering
+Du bist verheiratet!
+Funkelnder Sonnenhelm
+Funkelnde Sonnenbrustplatte
+Funkelnde Sonnenhose
+Funkelnde Sonnenstulpen
+Engelsflügel 1
+Engelsflügel 2
+Engelsflügel 3
+Engelsflügel 4
+Engelsflügel 5
+Engelsflügel 6
+Schwarzer Umhang
+Grüner Umhang
+Oranger Umhang
+Roter Umhang
+Grauer Umhang
+Königlicher Umhang
+Mondlicht Umhand
+Sonnenuntergang Umhang
+Majestätischer Umhang
+Allsehendes Auge Umhang
+Blühender grüner Umhang
+Abenteurer Umhang
+Gold gestreifter Umhang
+Dämonenflügel 3
+Dämonenflügel 1
+Dämonenflügel 2
+Dämonenflügel 4
+Dämonenflügel 5
+Dämonenflügel 6
+Elfenflügel 4
+Elfenflügel 1
+Elfenflügel 2
+Elfenflügel 3
+Keine
+Vogelhautfarbe 1
+Vogelhautfarbe 10
+Vogelhautfarbe 11
+Vogelhautfarbe 12
+Vogelhautfarbe 2
+Vogelhautfarbe 3
+Vogelhautfarbe 4
+Vogelhautfarbe 5
+Vogelhautfarbe 6
+Vogelhautfarbe 7
+Vogelhautfarbe 8
+Vogelhautfarbe 9
+Katzenhautfarbe 1
+Katzenhautfarbe 10
+Katzenhautfarbe 11
+Katzenhautfarbe 12
+Katzenhautfarbe 2
+Katzenhautfarbe 3
+Katzenhautfarbe 4
+Katzenhautfarbe 5
+Katzenhautfarbe 6
+Katzenhautfarbe 7
+Katzenhautfarbe 8
+Katzenhautfarbe 9
+Hundehautfarbe 1
+Hundehautfarbe 10
+Hundehautfarbe 11
+Hundehautfarbe 12
+Hundehautfarbe 2
+Hundehautfarbe 3
+Hundehautfarbe 4
+Hundehautfarbe 5
+Hundehautfarbe 6
+Hundehautfarbe 7
+Hundehautfarbe 8
+Hundehautfarbe 9
+Feuerelementarhautfarbe 1
+Hautfarbe 1
+Hautfarbe 10
+Hautfarbe 11
+Hautfarbe 12
+Hautfarbe 2
+Hautfarbe 3
+Hautfarbe 4
+Hautfarbe 5
+Hautfarbe 6
+Hautfarbe 7
+Hautfarbe 8
+Hautfarbe 9
+Fischhautfarbe 1
+Grüne Reptilienhautfarbe 1
+Orange Reptilienhautfarbe 1
+Ambosshemd
+Engelskleid
+Blütenhemd (Rosa)
+Blütenhemd (Schwarz)
+Blütenhemd (Grün)
+Blütenhemd (Orange)
+Blütenhemd (Lila)
+Blütenhemd (Rot)
+Blütenhemd (Blau)
+Blütenhemd (Weiß)
+Blütenhemd (Gelb)
+Blütenkurzarmhemd
+Avocadohemd
+Hemd mit Fliege
+Geschäftsoutfit
+Camohemd
+Coole Jacke (Blau)
+Coole Jacke (Grün)
+Coole Jacke (Lila)
+Coole Jacke
+Deppenfischhemd
+Sonnenkleid (Braun)
+Sonnenkleid (Grün)
+Sonnenkleid (Rosa)
+Sonnenkleid (Gelb)
+Sonnenkleid (Schwarz)
+Sonnenkleid (Blau)
+Sonnenkleid (Orange)
+Sonnenkleid (Lila)
+Sonnenkleid (Weiß)
+Sonnenkleid (Rot)
+Sonnenkleid
+Feenhemd (Schwarz)
+Feenhemd (Grün)
+Feenhemd (Lila)
+Ausgefallene Weste
+Ausgefallene Weste (Grün)
+Ausgefallene Weste (Lila)
+Herzhemd
+Hippiehemd
+Ärmelloser Hoodie (Blau)
+Ärmelloser Hoodie (Grau)
+Ärmelloser Hoodie (Orange)
+Ärmelloser Hoodie (Rot)
+Ärmelloser Hoodie (Gelb)
+Ärmelloser Hoodie (Schwarz)
+Ärmelloser Hoodie (Grün)
+Ärmelloser Hoodie (Rosa)
+Ärmelloser Hoodie (Lila)
+Ärmelloser Hoodie (Weiß)
+Hoodie
+Hofnarrhemd
+Briefträgerjacke
+Briefträgerjacke (Schwarz)
+Briefträgerjacke (Grün)
+Briefträgerjacke (Orange)
+Briefträgerjacke (Rosa)
+Briefträgerjacke (Lila)
+Briefträgerjacke (Rot)
+Briefträgerjacke (Weiß)
+Briefträgerjacke (Gelb)
+Langarmhemd (Schwarz)
+Langarmhemd (Blau)
+Langarmhemd (Braun)
+Langarmhemd (Grün)
+Langarmhemd (Orange)
+Langarmhemd (Rosa)
+Langarmhemd (Lila)
+Langarmhemd (Rot)
+Langarmhemd (Weiß)
+Langarmhemd (Gelb)
+Langarmhemd
+Langer Tuxedo (Schwarz)
+Langer Tuxedo (Grün)
+Langer Tuxedo (Rot)
+Langer Tuxedo (Weiß)
+Magiehemd (Rot)
+Magiehemd (Grün)
+Magiehemd (Orange)
+Magiehemd (Braun)
+Magiehemd (Lila)
+Magiehemd (Schwarz)
+Magiehemd (Blau)
+Magiehemd (Rosa)
+Magiehemd (Weiß)
+Magiehemd (Gelb)
+Magiehemd
+Mondhemd (Lila)
+Mondhemd (Schwarz)
+Mondhemd (Blau)
+Mondhemd (Grün)
+Mondhemd (Orange)
+Mondhemd (Rosa)
+Mondhemd (Rot)
+Mondhemd (Weiß)
+Mondhemd (Gelb)
+Mondhemd
+Musclehemd (Braun)
+Musclehemd (Weiß)
+Musclehemd (Orange)
+Musclehemd (Grey)
+Musclehemd
+Musiknotenhemd
+Offiziersuniformhemd
+Pfotenhemd (Grün)
+Pfotenhemd (Gelb)
+Pfotenhemd (Blau)
+Pfotenhemd (Orange)
+Pfotenhemd (Weiß)
+Polkadot Hemd
+Puffiges Hemd (Lila)
+Puffiges Hemd (Schwarz)
+Regenbogenhemd
+ Rapunzelhemd (Orange)
+ Rapunzelhemd (Gelb)
+ Rapunzelhemd (Schwarz)
+ Rapunzelhemd (Blau)
+ Rapunzelhemd (Türkis)
+ Rapunzelhemd (Rosa)
+ Rapunzelhemd (Lila)
+ Rapunzelhemd (Rot)
+ Rapunzelhemd (Weiß)
+Rapunzelhemd
+Schiedsrichterhemd
+Seemannshemd
+Schulhemd
+Skeletthemd
+Schlitz Tanktop (Schwarz)
+Schlitz Tanktop (Weiß)
+Schlitz Tanktop (Blau)
+Schlitz Tanktop (Grün)
+Schlitz Tanktop (Orange)
+Schlitz Tanktop (Rosa)
+Schlitz Tanktop (Lila)
+Schlitz Tanktop (Rot)
+Schlitz Tanktop (Gelb)
+Schneejacke
+Schneeflockenhemd
+Glitzerndes Sonnenkleid
+Glitzernde Sonnenhandschuhe
+Sporttrikot
+Sternenhemd
+Gestreiftes Hemd 1
+Gestreiftes Hemd 2 (Rot)
+Gestreiftes Hemd 2 (Gelb)
+Gestreiftes Hemd 2 (Weiß)
+Gestreiftes Hemd 2 (Lila)
+Gestreiftes Hemd 2 (Rosa)
+Gestreiftes Hemd 2 (Orange)
+Gestreiftes Hemd 2 (Grün)
+Gestreiftes Hemd 2 (Braun)
+Gestreiftes Hemd 2 (Blau)
+Gestreiftes Hemd 2 (Schwarz)
+Gestreiftes Hemd 2
+Gestreiftes Hemd 3
+Sonnenhemd
+Techy Hemd
+Zerrissenes Kleid (Lila)
+Zerrissenes Kleid (Rot)
+Zerrissenes Kleid (Schwarz)
+Zerrissenes Kleid (Blau)
+Zerrissenes Kleid (Braun)
+Zerrissenes Kleid (Orange)
+Zerrissenes Kleid (Rosa)
+Zerrissenes Kleid (Weiß)
+Zerrissenes Kleid (Gelb)
+Zerrissenes Kleid (Grün)
+Zerrissenes Kleid
+Tuxedo
+Tuxedo (Weiß)
+Tuxedo (Rot)
+Vampirhemd (Rot)
+Vampirhemd (Weiß)
+Vampirhemd (Schwarz)
+Vampirhemd (Blau)
+Vampirhemd (Grün)
+Vampirhemd (Orange)
+Vampirhemd (Rosa)
+Vampirhemd (Lila)
+Vampirhemd (Gelb)
+Vampirhemd
+Westenhemd (Grün)
+Westenhemd (Lila)
+Westenhemd (Schwarz)
+Augen 2
+Augen 1
+Augen 3
+Augen 4
+Augen 5
+Augen 6
+Augen 7
+Augen 9
+Augen 10
+Augen 8
+Augen 11
+Augen 12
+Augen 13
+Augen 14
+Feuerelementaraugen 1
+Hundegesicht 1
+Fischgesicht 1
+Grünes Reptiliengesicht 1
+Grünes Reptiliengesicht 2
+Oranges Reptiliengesicht 1
+Elfenmaske 1
+Elfenmaske 2
+Elfenmaske 3
+Elfenmaske 4
+Elfenmaske 5
+Gesichtsbehaarung 1
+Gesichtsbehaarung 10
+Gesichtsbehaarung 11
+Gesichtsbehaarung 2
+Gesichtsbehaarung 3
+Gesichtsbehaarung 4
+Gesichtsbehaarung 5
+Gesichtsbehaarung 6
+Gesichtsbehaarung 7
+Gesichtsbehaarung 8
+Gesichtsbehaarung 9
+Grüne Reptilienhörner 2
+Haare 9
+Haare 8
+Haare 10
+Haare 2
+Haare 3
+Haare 1
+Buzzschnitt (Schwarz)
+Buzzschnitt (Blau)
+Buzzschnitt (Braun)
+Buzzschnitt (Dunkelrosa)
+Buzzschnitt (Grau)
+Buzzschnitt (Grün)
+Buzzschnitt (Orange)
+Buzzschnitt (Rosa)
+Buzzschnitt (Lila)
+Buzzschnitt (Rot)
+Buzzschnitt (Weiß)
+Buzzschnitt (Gelb)
+Haare 11
+Haare 4
+Haare 5
+Haare 6
+Haare 13
+Haare 12
+Haare 7
+Feuerelementarhaare 2
+Feuerelementarhaare 1
+Haare 14
+Grüne Reptilienhörner 1
+Orange Reptilienhörner 1
+Heiligenschein 1
+Heiligenschein 2
+Heiligenschein 3
+Heiligenschein 4
+Heiligenschein 5
+Baseballmütze (Schwarz)
+Baseballmütze (Blau)
+Baseballmütze (Braun)
+Baseballmütze (Grün)
+Baseballmütze (Orange)
+Baseballmütze (Rosa)
+Baseballmütze (Lila)
+Baseballmütze (Rot)
+Baseballmütze (Weiß)
+Baseballmütze (Gelb)
+Barett (Schwarz)
+Barett (Blau)
+Barett (Braun)
+Barett (Grün)
+Barett (Orange)
+Barett (Rosa)
+Barett (Lila)
+Barett (Rot)
+Barett (Weiß)
+Barett (Gelb)
+Barett
+Kochmütze (Weiß)
+Kochmütze (Schwarz)
+Kochmütze (Blau)
+Kochmütze (Rosa)
+Kochmütze (Rot)
+Kochmütze (Grün)
+Kochmütze (Orange)
+Kochmütze (Lila)
+Kochmütze (Gelb)
+Kochmütze
+Magischer Reif (Schwarz)
+Magischer Reif (Blau)
+Magischer Reif (Rosa)
+Magischer Reif (Weiß)
+Magischer Reif (Gelb)
+Magischer Reif
+Federreif (Gold-Blau)
+Federreif (Gold-Gelb)
+Federreif (Gold-Grün)
+Federreif (Gold-Rosa)
+Federreif (Gold-Rot)
+Federreif (Gold-Schwarz)
+Federreif (Gold-Orange)
+Federreif (Gold-Lila)
+Federreif (Gold-Weiß)
+Goldener Federreif
+Federreif (Silber-Blau)
+Federreif (Silber-Grün)
+Federreif (Silber-Rosa)
+Federreif (Silber-Rot)
+Federreif (Silber-Schwarz)
+Federreif (Silber-Orange)
+Federreif (Silber-Lila)
+Federreif (Silber-Gelb)
+Federreif (Silber-Weiß)
+Silberner Federreif
+Dämonenhörner 1
+Dämonenhörner 2
+Dämonenhörner 3
+Dämonenhörner 4
+Dämonenhörner 5
+Dämonenhörner 6
+Eiscrememütze (Schwarz)
+Eiscrememütze (Blau)
+Eiscrememütze (Braun)
+Eiscrememütze (Grün)
+Eiscrememütze (Orange)
+Eiscrememütze (Lila)
+Eiscrememütze (Rosa)
+Eiscrememütze (Rot)
+Eiscrememütze (Weiß)
+Eiscrememütze (Gelb)
+Piratenhut (Schwarz)
+Piratenhut (Blau)
+Piratenhut (Braun)
+Piratenhut (Grün)
+Piratenhut (Orange)
+Piratenhut (Rosa)
+Piratenhut (Lila)
+Piratenhut (Rot)
+Piratenhut (Weiß)
+Piratenhut (Gelb)
+Hexenhut (Blau)
+Hexenhut (Weiß)
+Hexenhut (Schwarz)
+Hexenhut (Lila)
+Hexenhut (Grün)
+Hexenhut (Orange)
+Hexenhut (Rosa)
+Hexenhut (Rot)
+Hexenhut (Gelb)
+Westernhut (Braun)
+Westernhut (Schwarz)
+Westernhut (Rosa)
+Westernhut (Weiß)
+Westernhut (Blau)
+Westernhut (Grün)
+Westernhut (Orange)
+Westernhut (Lila)
+Westernhut (Rot)
+Westernhut (Gelb)
+Westernhut
+Elfenhörner
+Elfen-Rehhörner
+Elfenhaarblumen
+Sheriffhut (Braun)
+Sheriffhut (Schwarz)
+Sheriffhut (Rosa)
+Sheriffhut (Weiß)
+Sheriffhut (Blau)
+Sheriffhut (Grün)
+Sheriffhut (Orange)
+Sheriffhut (Lila)
+Sheriffhut (Rot)
+Sheriffhut (Gelb)
+Ausgefallene Hose (Schwarz)
+Blütenrock (Schwarz)
+Blütenrock (Türkis)
+Blütenrock (Gelb)
+Blütenrock (Rosa)
+Blütenrock
+Rapunzelrock (Lila)
+Rapunzelrock (Schwarz)
+Rapunzelrock (Blau)
+Rapunzelrock (Orange)
+Rapunzelrock (Rot)
+Rapunzelrock (Weiß)
+Rapunzelrock (Grün)
+Rapunzelrock (Rosa)
+Rapunzelrock (Gelb)
+Rapunzelrock
+Gürtelhose (Braun)
+Gürtelhose (Schwarz)
+Gürtelhose (Blau)
+Gürtelhose (Lila)
+Gürtelhose (Grün)
+Gürtelhose (Orange)
+Gürtelhose (Rosa)
+Gürtelhose (Rot)
+Gürtelhose (Weiß)
+Gürtelhose (Gelb)
+Gürtelhose
+Geschäftshose
+Ausgefallene Hose (Blau)
+Ausgefallene Hose (Braun)
+Ausgefallene Hose (Grün)
+Ausgefallene Hose (Orange)
+Ausgefallene Hose (Rosa)
+Ausgefallene Hose (Lila)
+Ausgefallene Hose (Rot)
+Ausgefallene Hose (Weiß)
+Ausgefallene Hose (Gelb)
+Ausgefallene Hose
+Generische Hose (Schwarz)
+Generische Hose (Blau)
+Generische Hose (Braun)
+Generische Hose (Grün)
+Generische Hose (Orange)
+Generische Hose (Rosa)
+Generische Hose (Lila)
+Generische Hose (Rot)
+Generische Hose (Weiß)
+Generische Hose (Gelb)
+Generische Hose
+Magischer Rock (Blau)
+Magischer Rock (Grün)
+Magischer Rock (Orange)
+Magischer Rock (Rot)
+Magischer Rock (Lila)
+Shorts
+Hose 2 (black)
+Pastellrock (Schwarz)
+Pastellrock (Blau)
+Pastellrock (Braun)
+Pastellrock (Grün)
+Pastellrock (Orange)
+Pastellrock (Rosa)
+Pastellrock (Lila)
+Pastellrock (Rot)
+Pastellrock (Weiß)
+Pastellrock (Gelb)
+Pastellrock
+Basisrock (Rosa)
+Basisrock (Türkis)
+Basisrock (Lila)
+Basisrock (Schwarz)
+Basisrock (Blau)
+Basisrock (Braun)
+Basisrock (Grün)
+Basisrock (Orange)
+Basisrock (Rot)
+Basisrock (Weiß)
+Basisrock (Gelb)
+Basisrock
+Straßenhose (Schwarz)
+Straßenhose (Blau)
+Straßenhose (Braun)
+Straßenhose (Grün)
+Straßenhose (Orange)
+Straßenhose (Rosa)
+Straßenhose (Lila)
+Straßenhose (Rot)
+Straßenhose (Weiß)
+Straßenhose (Gelb)
+Straßenhose
+Tuxedohose (Rot)
+Tuxedohose (Weiß)
+Vampirrock (Rot)
+Vampirrock (Orange)
+Vampirrock (Schwarz)
+Vampirrock (Blau)
+Vampirrock (Grün)
+Vampirrock (Rosa)
+Vampirrock (Lila)
+Vampirrock (Weiß)
+Vampirrock (Gelb)
+Vampirhose
+Nagaschwanz 3
+Nagaschwanz 2
+Nagaschwanz 4
+Nagaschwanz 5
+Nagaschwanz 1
+Dämonenschwanz 1
+Dämonenschwanz 2
+Dämonenschwanz 3
+Dämonenschwanz 4
+Dämonenschwanz 5
+Dämonenschwanz 6
+Hundeschwanz 1
+Fischschwanz 1
+Reptilienschwanz 1
+Reptilienschwanz 2
+Reptilienschwanz 3
+Abenteuerandenken
+Ein Andenken an das Abenteuer.
+Reichtumsandenken
+Ein Andenken an den Reichtum.
+Liebesandenken
+Ein Andenken an die Liebe.
+Friedensandenken
+Ein Andenken an den Frieden.
+Lynns Schild
+Ein Andenken an die Freundschaft.
+Annes Perlohrringe
+Donovans Hundemarke
+Vaans Rubinring
+Xylas Königinnenbrustplatte
+Nathaniels Helm
+Juns Tagebuch
+Liams Ofenhandschuhe
+Catherines Zauber
+Claudes Hausschlüssel
+Kittys Katzenspielzeug
+Wornhardts Stethoskop
+Dariuss Königliches Erbstück
+Lucias Feuerkugel
+Iris' verzaubertes Totem
+Katzenkleid (Blau)
+Katzenkleid (Grün)
+Katzenkleid (Lila)
+Katzenschwanz 1
+Katzenkleid
+Katzengesicht 1
+Katzenaugen
+Vogelgesicht 1
+Vogelschwanz 1
+Nagamaske 1
+Nagamaske 2
+Nagamaske 3
+Nagamaske 4
+Nagamaske 5
+Nagamaske 6
+Kurzes Oberteil (Blau)
+Kurzes Oberteil (Gelb)
+Kurzes Oberteil (Weiß)
+Kurzes Oberteil (Rot)
+Kurzes Oberteil (Lila)
+Kurzes Oberteil (Rosa)
+Kurzes Oberteil (Orange)
+Kurzes Oberteil (Grün)
+Kurzes Oberteil (Schwarz)
+Kurzes Oberteil
+Dev Watering Can
+Wird benutzt um Ackerland zu gießen
+<color=#6B7DA1>(Linksklick auf Ackerland um es zu gießen)</color>
+<color=#6B7DA1>(Linksklick auf Wasser um aufzufüllen)</color>
+Rostige Gießkanne
+Trägt Wasser um Pflanzen auf Ackerland zu gießen.
+Kupfergießkanne
+Eisengießkanne
+Adamantgießkanne
+Mithrilgießkanne
+Sunitgießkanne
+Pilz
+Yummy.
+Mehl
+Nudeln
+Grünes Gewürz
+Zucker
+Käsekuchen
+Eierstich
+Eierkuchen
+Kartoffelpüree
+Muschelsuppe
+Grüne Karibiksuppe
+Rote Gemüsesuppe
+Rinder-Creme-Eintopf
+Hühner-Nudel-Suppe
+Scharfe Ramen
+Spaghetti
+BLT
+Topfkuchen
+Mit Honig glasierter Apfel
+Popcorn
+Zimt-Apfelkuchen
+Gefüllter Auflauf
+Pfirsichauflauf
+Gebratener Reis
+Gebratener Karpfen
+Tomatensalat
+Eingelegter Gemüsesalat
+Frühlingsrolle
+Schimmerwurzel-Bonbon
+Energie-Smoothie
+Orange
+Pfirsich
+Himbeeren
+Fischtempura
+Mais
+Die "Früchte" deiner Arbeit.
+Kartoffeln
+Dämonenkugel
+Bissige Pflanze
+Karotte
+Schimmerwurzel
+Zimtbeere
+Kopfsalat
+Reis
+Aubergine
+Krakenkohl
+Mondpflanze
+Saugnapf
+Traubenmelone
+Messerstiel
+Weizensamen
+Wächst in 3 Tagen. Wird wegen seiner Vielseitigkeit sehr geschätzt, erfordert aber eine Menge Arbeit, um eine reiche Ernte zu erzielen.
+<color=#6B7DA1>(Mit der linken Maustaste auf den Ackerboden legen)</color>
+Maissamen
+Wächst in 6 Tagen. Mais wächst langsam, liefert aber eine reiche Ernte.
+Kartoffelsamen
+Wächst in 5 Tagen. Wenn sie gedüngt werden, haben sie eine zusätzliche Chance, von hoher Qualität zu sein.
+Tomatensamen
+Wächst in 5 Tagen. Tomaten sind eine häufige Zutat für Mahlzeiten.
+Dämonensamen
+Wächst in 3 Tagen.
+Bissige Saat
+Wächst in 4 Tagen.
+Karottensamen
+Wächst in 5 Tagen. Karotten sind eine häufige Zutat für Mahlzeiten.
+Schimmerwurzelsamen
+Wächst in 10 Tagen. Die Schimmerwurzel braucht lange zum Wachsen, aber manche sagen, dass man sogar das Gold glitzern sehen kann, wenn es Zeit zum Verkaufen ist. Wächst immer in legendärer Qualität.
+Zwiebelsamen
+Wächst in 5 Tagen. Zwiebeln sind ein Klassiker zum Verfeinern jeder Mahlzeit.
+Zimtbeerensamen
+Wächst in 6 Tagen. Zimtbeeren sind ein süßer Snack für zwischendurch und eine wichtige Zutat für ein wohlschmeckendes Dessert.
+Kopfsalatsamen
+Wächst in 7 Tagen. Salat nimmt gut Feuchtigkeit aus der Luft auf, so dass er am nächsten Tag immer gewässert ist.
+Reissamen
+Auberginensamen
+Wächst in 7 Tagen.
+Krakenkohlsamen
+Mondpflanzensamen
+Wächst in 5 Tagen.
+Saugnapfsamen
+Wächst in 6 Tagen.
+Traubenmelonensamen
+Messerstielsamen
+Beere
+Rex Cap
+Ein wichtiger Gegenstand auf deiner Reise.
+Topis Notizbuch
+Peters Köder
+Witzebuch
+Juns Blume
+Fleisch
+Gloritkristall
+Amandas Buch
+Alberts Schwert
+Medizin
+Jazz Platte
+Ein Genuss für die Ohren.
+<color=#6B7DA1>(Auf einen Plattenspieler legen zum abspielen)</color>
+Regal Platte
+Bossa Platte
+Walzer Platte
+Keltische Platte
+Lo-Fi Platte
+Folk Platte
+Musikbox  Platte
+Sentimentale Platte
+Regen Platte
+Kitty Platte
+Lucia Platte
+Liam Platte
+Catherine Platte
+Lynn Platte
+Nathaniel Platte
+Jun Platte
+Claude Platte
+Wornhardt Platte
+Darius Platte
+Donovan Platte
+Xyla Platte
+Iris Platte
+Vaan Platte
+Anne Platte
+Klassische EDM Platte
+Standardtapete
+Die Standardtapete deines Hauses.
+<color=#6B7DA1>(An Wand benutzen um sie zu platzieren)</color>
+Blumentapete
+Tapete für dein Haus.
+Withergate Tapete
+Vintage-Tapete
+Rosa Rosenknospe Tapete
+Lila Gittertapete
+Violett gestreifte Tapete
+Pergamenttapete
+Retro gestreifte Tapete
+Blaue Diamanttapete
+Hasentapete
+Lila Vintage Tapete
+Rote Backstein Tapete
+Braune Ziegel Tapete
+Schöne blaue Tapete
+Hübsche Grüne Tapete
+Hübsche Elfenbein Tapete
+Hübsche Hellblaue Tapete
+Blaugestreifte Tapete
+Withergate Königliche Tapete
+Lila Gold Bogen Tapete
+Graue Ziegel Tapete
+Buntglas Violett Tapete
+Navy Withergate Tapete
+Art Deco Lila Tapete
+Withergate Wohnhaustapete
+Howdy Farmer,
+Du arbeitest hart, das sehe ich an deinem Portemonnaie - das ist ein Scherz! Aber ich kann sagen, dass du mehr Vertrauen in dich bekommen hast, was lobenswert ist. Nun, ich gebe keine Almosen, aber ich kann einen anderen kleinen Geschäftsführer fördern. Betrachte dies als ein Darlehen. Bezahle es mir zurück, indem du irgendwann in meinem Laden einkaufst.
+- Anne
+Hey XX,
+Nun, ich bin beeindruckt! Ich bin nicht nur am Wachstum deiner Farm interessiert, sondern auch daran, wie gut du dein Geld in das Geschäft reinvestierst. Du bist ein erfahrener Farmer und Geschäftsmann! Es ist schon eine Weile her, dass ich jemanden mit deinem Engagement und deiner Großzügigkeit gesehen habe, und das hat mich sehr beeindruckt. Jetzt ist es an der Zeit, dass ich großzügig zu dir bin. Es ist mein Lieblingsessen, also verschwende es nicht - Himbeer-Käsekuchen auf einem Diamant-Teller.
+An Farmer XX,
+Ich bin Bernard, Verwalter im Rathaus von Sun Haven. Ich wollte mich als Vertreter von Sun Haven mit diesem Einweihungsgeschenk melden. Ich hoffe, es hilft dir, dich auf deinem neuen Land einzuleben. 
+Komm mich im Rathaus südlich des Marktplatzes von Sun Haven besuchen, wenn du einen Stall für dein Vieh bauen willst. Ich kann auch die Renovierung deiner alten Hütte mit einem <color=#39CCFF>Hausausausbausatz</color> genehmigen.
+Mit freundlichen Grüßen,
+Hallo XX,
+Wenn ich Grünwurzel anbaue, finde ich immer zusätzlich ein wenig Hopfen. Da du so hart auf deiner Farm arbeitest, dachte ich, dass du diesen zusätzlichen Hopfen gebrauchen könntest.
+Du musst es einfach ausprobieren!
+- Catherine
+Ich habe in meinem Shop die Vorräte aufgestockt und es scheint, als hätte ich eine Handvoll extra Zimtbeerensamen. Als ich sie gefunden habe, wusste ich, dass sie zu deiner roten Aura passen und für dich bestimmt sind. Bitte genieße sie und strahle weiter!
+Ich möchte dich in Sun Haven willkommen heißen. Im Gegensatz zu meinem treuen Bass, habe ich dich noch nicht verstimmt vorgefunden. Ich bin neugierig, was für ein Lied du in Sun Haven dirigieren wirst. Du scheinst wirklich einzigartig zu sein, aber wir werden es erst wissen, wenn wir die Bridge deines Stücks erreicht haben.
+Ich hoffe, dein Hof gedeiht hier gut. Vielleicht kann ich dich ja noch näher kennenlernen.
+Ich bin jahrelang gereist und habe Lieder aus der ganzen Welt gehört, die mich einfach nicht inspiriert haben. Noch nie hat etwas meine Kreativität so sehr beflügelt wie du. Von der Melodie bis zum Refrain bist du völlig einzigartig.
+Mach weiter mit deinem Lied, ich kann es kaum erwarten, es zu hören.
+Außenseiter,
+Ich werde dich nicht verfolgen, wie Xyla es tun würde, aber ich denke, dass du viel zu beweisen hast, wenn du ein wahrer Teil von Withergate werden willst. Also nimm dies und zeige mir, dass du einen gewissen Wert für das Reich meiner Familie hast. Ich verlange einen Anteil an deiner Ernte, also bring mir einen Krakenkohl als Dank für meine Großzügigkeit.
+- Darius
+ich muss zugeben, dass du an meinem Hof Wellen schlägst. Pass auf, dass du mich nicht untergräbst, sonst sperre ich dich in meinen Kerker, weil du es gewagt hast, gegen den Prinzen von Withergate zu handeln, ohne es zu merken. Ich nehme jedoch an, dass du dir endlich ein Recht auf meine Anwesenheit und einen Platz unter meinen Untertanen, und ich wage es zu sagen, Gleichgestellten, verdienst. Du hast dir meinen Respekt verdient und dafür biete ich dir ein einziges Geschenk an. Erwarte nicht, dass dies noch einmal geschieht.
+Heyo XX,
+Schön, mal die alten Gehirnmuskeln zu dehnen und einen Brief zu schreiben. Weißt du eigentlich, wie selten ich das mache? Vor allem, weil Gulli #3 nicht als gültige Absenderadresse zählt. Zum Glück konnte ich mir einfach Darius Adresse ausleihen. Ich bin mir sicher, dass sie es nicht bemerken werden. Wie auch immer! Ich wollte mir gerade etwas zu essen holen und dieser Typ gibt mir einfach einen Knochen. Kannst du es glauben! Diese Lutscher sind wie Süßigkeiten für einen Amari wie mich. So sehr ich sie auch gleich durchkauen wollte, dachte ich mir, dass sie dir vielleicht besser schmecken. Also probier es aus!
+- Donovan
+Wuff, stimmt, es ist schon ein bisschen verrückt, seit du nach Withergate gekommen bist. Aber dein Feuer ist genau das, was diese langweilige Stadt braucht. Also danke dafür, dass du dafür sorgst, dass sich dieser Ort wie ein Zuhause anfühlt, auch wenn ich technisch gesehen im Moment nicht in der Nähe der Stadt sein sollte aufgrund von... *ähem* Umständen. 
+Nun XX, du hast es geschafft! Du hast mich dazu gebracht, die menschliche Kultur wieder zu mögen. Oh Gott. Gut, dass du niedlich bist, sonst hättest du eine echte Abfuhr bekommen.
+Normalerweise schicke ich keine Post außerhalb von Nel'Vari, aber ich musste dir einfach diesen bemerkenswerten Korb mit Blaubeeren zeigen, den ich gepflückt habe. Ich habe es geschafft, den Baum in nur einer einzigen Stunde wieder aufzufrischen!
+P.S. Du darfst sie gerne essen, bitte genieße meine Arbeit.
+- Iris
+Unsere Gespräche haben mich dazu inspiriert, eine kleine Pause einzulegen und an diesem Möbelstück, das ich schon viel zu lange aufgeschoben hatte, zu arbeiten. Ich liebe es und wollte dir zeigen, was deine Ermutigung mich hat schaffen lassen.
+P.S. Ich habe ein paar meiner Babies mit dazu gepackt, gieß sie gut!
+Liebster XX,
+Ich ging gestern mit Topi und Pod von der Schule nach Hause. Meine Gedanken schweiften ab. Ich war so in Gedanken versunken, dass ich direkt in einen Apfelbaum gelaufen bin! Es war lustig und ich hatte einen Überschuss an Äpfeln. Bitte, genieß diese Äpfel!
+- Jun
+Ich finde, die beste Art und Weise, sich nach einer langen und herzvollen Sitzung zu entspannen, ist zu malen.
+Während ich an diesem Bild gearbeitet habe, habe ich gemerkt, dass ich an dich gedacht habe. Deshalb möchte ich, dass du das hier bekommst und dich daran erinnerst, dir einen Moment Zeit zu nehmen, um die kleinen Dinge im Leben zu schätzen. Wie ein Gemälde.
+Vielen Dank, dass du die Entwicklung von Sun Haven unterstützt hast! Mit deiner Hilfe war es uns möglich, dieses Spiel zum Leben zu erwecken. Bitte genieße deine Belohnungen, die unten aufgeführt sind: Ein Haustier-Baby-Drache! Um mit deinem Haustier spazieren zu gehen, musst du eine Leine in der Tierhandlung von Sun Haven kaufen!
+Vielen Dank, dass du die Entwicklung von Sun Haven unterstützt hast! Mit eurer Hilfe konnten wir dieses Spiel zum Leben erwecken. Bitte genieße deine Belohnungen, die unten aufgeführt sind: Ein Haustier-Baby-Tiger! Um mit deinem Haustier spazieren zu gehen, musst du eine Leine in der Sun Haven Tierhandlung kaufen!
+Vielen Dank, dass du die Entwicklung von Sun Haven auf Kickstarter unterstützt hast! Deine Großzügigkeit und dein Herz für dieses Projekt haben uns geholfen, weiterhin so viele tolle Features und Details hinzuzufügen. Bitte genieße deine Belohnungen, die unten aufgeführt sind: Ein goldener Plattenspieler und alle 5 Custom Schallplatten.
+Vielen Dank, dass du uns bei der Entwicklung von Sun Haven unterstützt hast! Mit deiner Hilfe konnten wir dieses Spiel zum Leben erwecken. Bitte genieße deine Belohnungen, die unten aufgeführt sind: Ein funkelndes Sonnenkleid und eine funkelnde Sonnen-Rüstung!
+Vielen Dank, dass du die Entwicklung von Sun Haven unterstützt hast! Mit eurer Hilfe konnten wir dieses Spiel zum Leben erwecken. Bitte genieße deine Belohnungen, die unten aufgeführt sind: Eine Withergate-Maske!
+Hiya XX!
+Ich habe heute auf dem Weg von der Zoohandlung das süßeste Plüschtier gesehen. Es sieht GENAU so aus wie du und ich musste es dir unbedingt zeigen! Ist es nicht süß, nya!?
+- Kitty
+Du bist immer sehr nett zu mir. Du hörst mir tatsächlich zu und hängst mit mir ab, was suuuper lustig ist! Deshalb wollte ich dir etwas schenken.
+Hallo ihr XX,
+Ich habe ein paar Kekse gebacken, um Elizabeths Schulprojekt zu feiern (sie hat einen SUPER! Aufkleber bekommen), und ich habe es vielleicht ein bisschen übertrieben. Wir hatten viel zu viele und der Laden war geschlossen, also dachte ich wohl, hey, XX könnte sie auch mögen.
+Hier sind also ein paar Leckerbissen für dich! Ich hoffe, sie gefallen dir!
+P.S. Du musst sie nicht essen, wenn du sie nicht magst.
+Hi XX,
+Du hast mir wirklich geholfen, mich hier voll und ganz einzuleben! Also dachte ich, es wäre an der Zeit, dir ein Einweihungsgeschenk zu bringen. Nur konnte ich keine Zeit finden, es dir tatsächlich zu bringen, also schicke ich es dir. Ich hoffe, das ist in Ordnung!
+Danke, dass du so ein guter Freund bist, deine Unterstützung bedeutet mir sehr viel... und du weißt ja... Willkommen in Sun Haven, ich könnte mir die Stadt ohne dich nicht mehr vorstellen!
+Ich wollte vorbeikommen, um zu sehen, wie du dich eingelebt hast, aber ich sah, dass du mit einem echten Feuer in den Augen bei der Arbeit warst. Stattdessen schreibe ich dir diesen Brief, um deine harte Arbeit zu loben.
+Um dir für deine fleißige Arbeit zu danken, habe ich als kleines Geschenk ein paar Grünwurzelsamen beigelegt. Ich hätte nichts dagegen, wenn du die Ernte teilen möchtest!
+- Lucia
+Du hast dich weiter entwickelt und verändert, seit du nach Sun Haven gekommen bist. Der Gedanke, dass du auch von Elios gesegnet wurdest, lässt uns einander viel näher kommen, als man sich vorstellen kann.
+Als Zeichen meiner Bewunderung für jemanden, der so mächtig gesegnet ist wie du, schenke ich dir diese Mana-Bände. Ich finde, sie helfen mir, mein Mana rechtzeitig für das Training am Abend zu verfeinern.
+Hallo, XX!
+Ich weiß, dass du immer noch damit beschäftigt bist, dich einzuleben, aber mir ist aufgefallen, dass du zu wenig Rüstung trägst, als du in den Wald gegangen bist. Ich habe mir ein wenig Sorgen um dich gemacht, also dachte ich, dass dies hier dir helfen würde, eine starke Rüstung zu erhalten!
+Bleib sicher!
+- Lynn
+Ich habe gesehen, dass deine Klinge ein wenig stumpf aussieht, halte dein Schwert unbedingt scharf! Ich wäre am Boden zerstört, wenn ich wüsste, dass ein Monster im Wald es geschafft hat, dich wegen einer defekten Waffe zu verletzen, obwohl ich hätte da sein können, um es zu reparieren!
+Bleib Scharf!
+Ich habe von Roza gehört, wie gut du dich im Kampf beherrschst. Ich habe gehört, du bist sehr beeindruckend mit dem Schwert. Du solltest also einmal in der Kaserne vorbeikommen! Ich würde mich freuen, wenn die Rekruten ein echtes Naturtalent in Aktion sehen können. Vielleicht kann ich selbst ein paar Tipps geben.
+- Nathaniel
+Du hast es verpasst, am letzten Abend an einem großen Abendessen teilzunehmen, jeder in der Kaserne hat ein Gericht mitgebracht! Es war ein echtes Familienessen, eines, das ich vermisst habe, als ich noch ein Neuling unter dem Kommando meiner Mutter war.
+Auch wenn du kein Teil der Wache bist, betrachte ich dich als Teil unserer Familie, XX. Schließe dich uns das nächste Mal an! Wir würden uns freuen, dich dabei zu haben - wenn du natürlich ein eigenes Gericht mitbringst!
+Schau her XX,
+Ich habe mich mit Kleinigkeiten eingedeckt, und diese Lieferung von Schallplatten kam zerkratzt an. (Das hat man davon, wenn man in großen Mengen kauft!) Wie sich herausstellte, ist das mein Lieblingssong, also betrachte es als eine kostenlose Probe.
+Ich habe gestern das Abendessen gekocht und mir wurde klar, wie beruhigend dieses Lied ist, nachdem ich den ganzen Tag in meinem Kessel gerührt habe. Es ist eines meiner Lieblingslieder und ich hoffe, es bringt dir auch ein wenig Frieden.
+- Catherine						
+In meinen jungen Jahren habe ich viel Zeit allein damit verbracht, an Musik zu arbeiten. Dennoch habe ich bisher nur ein einziges Lied fertiggestellt, das mir gefiel. Obwohl ich es nicht gerne teile und alles getan habe, um zu verhindern, dass die Leute meine Aufzeichnungen finden, hast du meine Lieder - unvollendet oder kaum begonnen - mit einem Lächeln angehört. Ich habe das Gefühl, dass ich dir dies geben kann, ohne, dass du darüber urteilst.
+Die menschliche Kultur war schon immer minderwertiger als die der Dämonen. Als wir mit dem Bau von Withergate Stadt begannen, wagten sich Musiker aus dem ganzen Land zu uns, um meinem Vater und mir ihre Musik zu präsentieren. Dies ist eine Aufnahme der besten Musiker, die jemals diese Welt bereist haben. Hör sie dir an und vielleicht beginnst du dann, den wahren Wert der Kultur von Withergate zu verstehen.
+Ich rutschte gerade meine Leiter hinunter, nachdem ich diesem Schleim-Typen geholfen hatte, seine verlorenen Schlüssel zu finden, und ich musste innehalten - diese großartige Melodie lief auf meinem Plattenspieler! In diesem Moment entschied ich, dass du eine Kopie brauchst. Ich meine, wenn ich unten in der Kanalisation jammen kann, dann solltest du in der Lage sein, überall zu jammen, wo du willst.
+Ich habe heute mit Nivara gesprochen und sie hat mir erzählt, wie sehr sie die Melodie der Vögel liebt. Erst da habe ich gemerkt, wie sehr ich die Musik in meiner Werkstatt genieße und wie sie mich anspornt, noch härter zu arbeiten. Deshalb wünsche ich mir, dass du eine Kopie des Liedes bekommst, das ich so sehr mag.
+P.S. Ich hoffe, es inspiriert dich zu Höchstleistungen auf dem Hof.
+Ich finde, dass das Meditieren am Morgen eine gute Achtsamkeitsübung ist. Während ich meine meditative Trance genoss, ertappte ich mich dabei, wie ich zu meiner Musik mitsummte, ohne darüber nachzudenken. Du solltest es dir mal anhören, ich denke, du wirst den beruhigenden Effekt genießen.
+Ich LIEBE diesen Song so sehr und ich wollte, dass du ihn hörst. Also hör ihn dir an und verliebe dich in ihn, genau wie Kitty. Es bringt mich dazu, aufzustehen und mit meinem Schwanz zu wedeln, nya!
+Hallo, XX,
+Während unserer heutigen Sitzung hat mich Jun daran erinnert, dass es manchmal gut ist, einen Schritt zurückzutreten und zu entspannen. Also habe ich den heutigen Tag genutzt, um mein Lieblingslied zu hören. Irgendwie war es ganz schön anstrengend, einen ganzen Tag nur für mich zu nehmen.
+Du auch. Ich meine, das solltest du auch. Nimm dir einen Tag... um Musik zu hören, die du magst.
+Ich werde das hier unterzeichnen, bevor ich es zu einem kompletten Desaster mache.
+Ich habe letzte Nacht lange gearbeitet und einige meiner Aufgaben als Erzmagier erledigt, die ich von Zuhause erledigen kann. Ich höre gerne Musik, während ich arbeite, und ich denke, du würdest das auch tun. Also nimm bitte dieses Geschenk an, mein Lieblingslied. Vielleicht wird es auch deins werden.
+Ich wollte dir danken, dass du in letzter Zeit so viel Zeit mit mir verbracht hast und mir das Gefühl gegeben hast, in Sun Haven willkommen zu sein. Vielleicht erinnerst du dich an dieses Lied, ich summe es, wenn ich bastle und ich singe es, wenn ich gehe. Oh, das ist peinlich, wenn ich so darüber nachdenke. Ich hoffe, niemand hat mich auf meinem Spaziergang gehört...
+Nun, ich mag das Lied wirklich und ich möchte, dass du es genauso genießt wie ich.
+Viel Spaß!
+Hast du jemals über eine Schlacht als eine Art Tanz gedacht? Mit jedem Schritt und jedem Hieb deines Schwertes bewegst du dich im Einklang, als würdest du deinen eigenen Tanz führen. Je mehr du übst, desto mehr kannst du jede Bewegung perfektionieren.
+Also bitte, nimm diese Platte. Wenn du sie hörst, während du übst, wird es so sein, als würden wir zusammen tanzen, auch wenn wir getrennt sind.
+An der Luft zu sein, erlaubt mir zu denken und meinen Kopf frei zu bekommen. Es ist eine befreiende Erfahrung, von der ich bezweifle, dass du bisher die Gelegenheit hattest, sie zu spüren.
+Es gibt jedoch eine Sache, die meinen Kopf genauso gut frei macht - dieses Lied, ein wahrer Walzer in symphonischer Form. Wenn der Tag kommt, an dem wir im Einklang tanzen, wird dies unser Lied sein. Also lerne es gut, ich würde mich sehr freuen, wenn unser Tanz perfekt wird.
+- Vaan
+Während ich über meinen nächsten Monat voller Meetings und Termine nachdachte, ertappte ich mich dabei, wie ich zur Musik schunkelte. Das ist wirklich mein Lieblingsstück, ich wünschte, ich wüsste, wer es geschrieben hat. Jedenfalls habe ich mich im Plattenladen umgehört und die hatten ein gebrauchtes Exemplar, schade, dass die Hülle fehlte. Aber jetzt kannst du immerhin eine haben. Genieße diesen Song und lass dich dazu treiben, wie die Bäume im Wind, und verliere dich für einen Moment in der Musik!
+- Dr. Wornhardt
+Hey <s>Kanalratte</s> XX,
+Ich habe noch keinen Menschen aus der Menschenstadt getroffen, der für mich einen Wert hat. Ich werde nicht zulassen, dass du deinen menschlichen Unsinn in meine Stadt bringst und den Ort durcheinander bringst. Also nimm, was auch immer du in deiner Wohnung gespielt hast, und wirf es sofort raus. Dies ist echte Musik und ich erwarte, dass du sie dir anhörst. Verstanden?!
+- Xyla
+An XX,
+Seit ich auf meinem Weg nach Sun Haven über deinen Hof fliege, habe ich so interessante Dinge gesehen. In Nel' Vari sehe ich Iris, die Elfenverzauberin, mit ihren Pflanzen arbeiten... aber das ist anders als bei dir. Du pflegst deine Pflanzen so behutsam und mit solcher Sorgfalt. Es freut mich wirklich sehr, dass du dich um die Natur kümmerst, deshalb habe ich diesem Brief ein Geschenk beigelegt, das dir bei deiner Arbeit helfen soll. Lebe wohl.
+Grüße, mein lieber XX,
+Je mehr ich erforsche, desto mehr Menschen finde ich, die meine Fähigkeiten bewundern und dadurch mich bewundern. Dennoch beobachtest du mich weiterhin nur mit einem Lächeln. Dich zu kennen, hat mich dankbar für die Zeit gemacht, die ich auf der Erde verbringe. Und obwohl ich dich nicht mit auf meine Nimbuswolke nehmen kann, wünsche ich mir, dass du das gleiche Gefühl hast, in den Wolken zu sein wie ich. Ich habe meine eigene Magie benutzt, um ein so weiches Bett für dich zu machen. Genieße es bitte. Ich habe so hart gearbeitet, dass ich fast ins Schwitzen gekommen bin!
+Ein Apfel am Tag hält den Arzt sicher nicht fern, aber ein Leckerli ab und zu hat auch noch nie geschadet. Achte darauf, dass du dich um dich selbst kümmerst und scheue dich nicht, im Krankenhaus oder bei mir für einen Check-up vorbeizuschauen. Ich stelle gerne sicher, dass jeder in Sun Haven gut versorgt ist, besonders wenn du hart in der Sonne arbeitest. Also komm jederzeit vorbei!
+Du hast in letzter Zeit so hart gearbeitet, ich denke, du könntest wirklich ein wenig Zeit gebrauchen, um dich zurückzulehnen und die Wolken zu beobachten. Genau wie bei unserem ersten gemeinsamen Date. Eine schöne Sache war das. Also genieße die Wolken, die kleinen Dinge im Leben, für die wir uns alle wünschen, mehr Zeit zu haben.
+Hallo Kanalratte,
+Du warst so eine Plage, ganz Withergate spricht davon, dass du dich in <i>meine</i> Stadt geschlichen hast. Hör mir genau zu, ich bezahle dich dafür, dass du einfach draußen bleibst. Also nimm das Bestechungsgeld und bleib auf deiner gemütlichen Farm in Sun Haven. Hast du das verstanden?
+Es scheint, als würdest du endlich die Bedeutung meiner Arbeit verstehen. Die Gebäude, die Anlage, die Läden, der Rummel. Alles meine Arbeit! Als du neulich auf deiner Terrasse warst, konnte ich nicht anders als daran zu denken. Wow, du hast ausnahmsweise nicht mich bewundert. Stattdessen hast du meine Handwerkskunst bewundert, meine Arbeit. In gewisser Weise fühlte sich das besser an, als tatsächlich ein Kompliment zu bekommen. Also nimm das, dann kannst du meine Arbeit jederzeit bewundern und mir später ein Kompliment machen.
+Oh toll, du hast das <color=#39CCFF>Seegras</color> mitgebracht, das ich wollte. Naja, danke. Ach ja, hier ist dein Gold.[]Mir ist immer noch nicht klar, wie das funktioniert... esse ich es oder trage ich es auf mein Gesicht auf?
+Emmett probiert eine neue Hautpflegeroutine aus. Bringe ihm 5 <color=#39CCFF>Seegras</color> in den Gemischtwarenladen.
+Suche nach: <color=#39CCFF>Seegras</color>
+Catherine hat mir gesagt, dass <color=#39CCFF>Seegras</color> gut für deine Haut ist, also möchte ich es ausprobieren. Ich zahle 150 Gold an jeden, der mir 5 <color=#39CCFF>Seegras</color> bringt. Du weißt, wo du mich finden kannst.
+- Emmett
+Emmetts Hautpflege
+Wow, sieh dir das an - es ist so gut gemacht! Vielen Dank, ich denke, es wird sich gut neben meiner Koje machen. Das heißt, wenn Roza mich es behalten lässt...[]Fast hätte ich es vergessen - deine Bezahlung!
+Lester versucht, die Kaserne etwas gemütlicher zu machen. Bring ihm eine <color=#39CCFF>Holzfackel</color> als Dekoration mit.
+Hey, Leute! Möchte sich jemand ein bisschen Gold dazuverdienen?
+Ich möchte eine persönlichere Note für meine Koje in der Kaserne. Ich zahle 300 Gold für eine <color=#39CCFF>Holzfackel</color>! Wer zuerst kommt, mahlt zuerst. 
+- Lester
+Lesters Lampe
+Oh, hey Farmer. Warte, du hast mir wirklich eine <color=#39CCFF>Regenbogenforelle</color> mitgebracht? Das ist so nett![]Vielen Dank, lass mich mich revanchieren. Nimm etwas Gold, bitte.
+Lester ist auf der Suche nach etwas Fisch zum Essen. Bringe ihm 1 frische <color=#39CCFF>Regenbogenforelle</color>.
+Auf der Suche nach Forellen!
+Es ist schon so lange her, dass ich <color=#39CCFF>Regenbogenforelle</color> gegessen habe, dass ich mich nicht mehr daran erinnern kann, wie sie schmeckt. Ich würde mich freuen, wenn mir jemand eine mitbringen könnte, frisch.
+Lesters Forelle
+Hallo, Farmer, hast du mir Stroh mitgebracht? Ja, klar! Ich werde mir irgendwo ein geheimes Bett machen. Du darfst nicht wissen, wo![]Hier, nimm das. Ist schon gut, ich habe noch mehr.
+Pods "Mama" hat darum gebeten, <color=#39CCFF>Stroh</color> zu Pod zu bringen. Bringe Pod 10 <color=#39CCFF>Stroh</color>.
+Pod braucht einen ganzen Haufen <color=#39CCFF>Stroh</color>, weil ich es gesagt habe! Also bring ihm 10 <color=#39CCFF>Stroh</color>, okay?
+- Mama
+Pods Strohbett
+Oh, XX! Das ist wunderbar, vielen Dank! Ich kann es kaum erwarten, den Eintopf aufzuessen![]Oh, hast du gedacht, ich würde Zaubertränke machen? Nö - nur eine gesunde Mahlzeit!
+Catherine arbeitet an einem Hexengebräu, aber sie braucht noch ein paar Zutaten. Bringe ihr 4 <color=#39CCFF>Pilze</color> aus dem Wald, um es fertigzustellen.
+Hallo, Nachbarn!
+Ich zaubere gerade ein wenig in der Küche, aber ich brauche noch ein paar <color=#39CCFF>Pilze</color>. Wenn mir bitte jemand 4 <color=#39CCFF>Pilze</color> aus dem Wald bringen könnte, werde ich es großzügig vergelten!
+Katharinas Gebräu
+Oh, der hilfsbereite Farmer. Danke für das Kupfer, du bist ein Schatz. Bitte nimm diese Zahlung, wie versprochen.
+Kupfer für Camila:
+Bringe Camila 5 <color=#39CCFF>Kupferbarren</color>. Du kannst <color=#39CCFF>Kupferbarren</color> aus Kupfererz herstellen, das du in den Minen findest.
+Kupfer wird benötigt!
+Ich zahle 1000 Gold an die erste Person, die mir 5 <color=#39CCFF>Kupferbarren</color> bringt. Ich brauche sie schnell, also trödel nicht!
+- Camila
+Kupfer für Camila
+Neuer Farmer! Danke, jetzt wird Elizabeth endlich aufhören, mit ihrem Gewinn zu prahlen. Du bist eine guter Nachbar!
+Emmas Schulden:
+Emma schuldet Elizabeth 1 <color=#39CCFF>Sanddollar</color>. Bringe Emma einen <color=#39CCFF>Sanddollar</color> vom Strand.
+Ich brauche Hilfe bei der Suche nach einem <color=#39CCFF>Sanddollar</color>! Ich habe bei Himmel und Hölle verloren und jetzt schulde ich Elizabeth etwas. Ich kann nirgendwo einen finden! Bitte hilf mir!
+- Emma
+Emmas Schulden
+Was? Du hast mir wirklich <color=#39CCFF>Beeren</color> mitgebracht? Ich kann es kaum erwarten, sie zu probieren. Lass mich dich dafür bezahlen, da du den Weg auf dich genommen hast.
+Lester hat gehört, dass <color=#39CCFF>Beeren</color> aus dem Wald köstlich sind, hat sie aber selbst noch nicht probiert. Bringe ihm 4 <color=#39CCFF>Beeren</color> aus dem Wald.
+Suche nach <color=#39CCFF>Beeren</color>!
+Sophie spricht immer wieder von diesen <color=#39CCFF>Beeren</color>, die sie im Wald gefunden hat. Anscheinend sind sie köstlich! Ich würde gerne welche probieren, aber ich habe keine Zeit, um auf die Suche zu gehen. Ich zahle 300 Gold an jeden, der mir 4 <color=#39CCFF>Beeren</color> bringt. Vielen Dank!
+Lesters Snack
+Oh, Gott sei Dank! Ich weiß nicht, warum, aber Topi scheint im Moment nur <color=#39CCFF>Nudeln</color> zu essen.[]Wie auch immer, nimm etwas Gold für deine Hilfe.
+Giuseppe braucht Hilfe, um das Essen für Topi zu besorgen. Bring ihm <color=#39CCFF>Nudeln</color> für Topis Abendessen. Du kannst Nudeln in einem Kochtopf machen.
+Hilfe beim Abendessen?
+Ich soll heute das Abendessen für Topi machen, aber er hat beschlossen, dass er kein Fleisch mehr mag und mir sind die Zutaten ausgegangen. Hat jemand Zeit, mir ein paar <color=#39CCFF>Nudeln</color> zu bringen? Es wäre eine große Hilfe!
+- Giuseppe
+Nudeln für Giuseppe
+Oh, du hast mir tatsächlich einen Smoothie mitgebracht? Wow, ich habe nicht erwartet, dass jemand das durchzieht. Danke XX, das wird mir eine große Hilfe sein. Hier ist etwas Gold für deine Hilfe.
+Emmett hat wenig Energie. Bringe Emmett einen <color=#39CCFF>Energie-Smoothie</color>, um ihn wissen zu lassen, dass du seine harte Arbeit schätzt.
+Ich brauche heute einen Schub. Wenn jemand die Arbeit, die ich hier mache, zu schätzen weiß, dann bringe mir bitte einen <color=#39CCFF>Energie-Smoothie</color>. Sonst schaffe ich es vielleicht nicht durch den Tag. Ich bezahle gerne dafür. Danke!
+Smoothie für Emmett
+Wow, die Couch sieht stabil aus! Danke XX, das ist genau das, was ich mir erhofft habe. Bitte nimm dieses Gold im Gegenzug.
+Tonya braucht eine neue Couch. Bringe ihr eine <color=#39CCFF>Holzcouch</color>. Du kannst eine mit einem Möbeltisch herstellen.
+Wir suchen eine Couch!
+Unsere alte Couch ist nach einem Spiel der Drachen kaputt gegangen. Wenn uns jemand eine neue <color=#39CCFF>Holzcouch</color> liefern kann, zahle ich mehr als sie wert ist!
+- Tonya
+Tonyas neue Couch
+Mein Schwert! Oh, dankeschön. Du weißt gar nicht, wie wichtig das für mich ist. Es in der Hand zu halten, versetzt mich in eine Zeit zurück, in der ich ein tapferer junger Ritter war.
+Finde <color=#39CCFF>Alberts verlorenes Schwert</color> im östlichen Wald und gib es ihm zurück.
+Alberts Andenken
+Oh nein, hat Peter dich gebeten, es zurückzubringen? Dieser Mann versteht nichts von Diskretion... Hier Farmer, hoffentlich wird etwas Gold deine <i>Diskretion</i> sichern.
+Amanda hat ihr <color=#39CCFF>Buch</color> bei Peter gelassen. Bringe das <color=#39CCFF>Buch</color> zu Amanda in die Bibliothek zurück.
+Perfektes Timing, ich wollte gerade losfahren. Vielen Dank, XX. Du bist wirklich so hilfreich, wie ich gehört habe.
+Bernard muss einige Zierbanner in der Stadt reparieren. Bringe Bernard etwas <color=#39CCFF>Stoff</color>, um bei den Reparaturen zu helfen. Du kannst <color=#39CCFF>Stoff</color> aus Seide an einem Webstuhl herstellen.
+Bernards Banner
+Oh, du bist tatsächlich zurückgekommen! Danke, Farmer. Tut mir leid, wenn ich vorhin etwas mürrisch war. Ich werde mürrisch, wenn ich müde bin. Hier, nimm das als Dankeschön.
+Bring Calvin ein <color=#39CCFF>Witzbuch</color> aus der Bibliothek mit, damit er nicht im Dienst einschläft - schon wieder.
+Calvin ist gelangweilt
+Das ist die Kirsche auf dem Sahnehäubchen eines perfekten Tages! Danke Nachbar, du bist wirklich so nett, wie man sagt. Ich möchte, dass du das hier bekommst.
+Fange einen frischen <color=#39CCFF>Seebarsch</color> und liefere ihn Camila zum Abendessen.
+Camilas Verlangen
+Wow, schau dir das an! Die sind toll geworden. Du kennst dich eindeutig auf der Farm aus.[]Ich wollte nur wissen, wie effektiv der Dünger ist, damit du die Ernte erhalten kannst. Und hier, nimm noch etwas Dünger, jetzt wo ich weiß, dass er funktioniert!
+Catherine hat eine neue Düngerformel, die sie testen möchte. Pflanze die Zimtbeerensamen mit dem Dünger ein, den Catherine dir gegeben hat und bringe die gewachsene Ernte zu ihr zurück.
+Catherines Dünger
+Oh, du hast meinen Brief bekommen. Danke XX, das ist großartig. Und vergiss deine Bezahlung nicht.
+Claude will heute nicht mit dem Plattenladenbesitzer sprechen, deshalb hat er dich gebeten, eine Platte für ihn zu kaufen. Kaufe die <color=#39CCFF>Walzerplatte</color> und liefere sie Claude bei ihm zu Hause ab.
+Claudes Platte
+Liam wird so glücklich sein! Hier, nimm mein Sandwich. Ich wollte es eigentlich zu Mittag essen, aber jetzt möchte ich, dass du es bekommst.
+Emma hat Liams <color=#39CCFF>Mehl</color> verschüttet und will es ersetzen, damit er sich keine Sorgen machen muss. Bringe Emma 5 <color=#39CCFF>Mehl</color>. Du kannst <color=#39CCFF>Mehl</color> in einer Weizenmühle herstellen.
+Emmas Missgeschick
+Die Soldaten werden dankbar sein, dies zu haben, danke nochmals XX.
+Nathaniel braucht Kohle, um die Kaserne zu heizen, da Pinto seinen Korb in den Fluss fallen ließ. Bringe Nathaniel 8 Stück <color=#39CCFF>Kohle</color> aus den Minen.
+Die Kaserne heizen
+<i>*schnüff*</i> Ah, das ist der Stoff! Niemand wird heute Abend mit dieser fischatmigen Dame plaudern wollen. Vielleicht habe ich endlich mal einen Moment für mich.[]Danke XX, hier ist ein bisschen Gold für deine Mühe.
+Anne hat in letzter Zeit etwas mehr Aufmerksamkeit in der Taverne auf sich gezogen, aber sie hat einen Plan, um das zu verhindern. Bring Anne <color=#39CCFF>frittierten Karpfen</color>, um ihren Atem zum Stinken zu bringen!
+Hilfreiche Halitosis
+Großartig, das ist genau das, was ich bestellt habe! Danke, XX. Wieder einmal bist du ein Lebensretter. Und wieder nicht wörtlich gemeint.
+Hol das <color=#39CCFF>Medikament</color> aus Catherines Kräuterladen und bring es zu Dr. Wornhardt ins Krankenhaus.
+Genau das, was der Doktor bestellt hat
+Kitty hat ein Verlangen nach frischer <color=#39CCFF>Dorado</color> - du musst ihn nicht kochen. Fange einen <color=#39CCFF>Dorado</color> und bringe ihn zu Kitty. 
+Heiliger Strohsack, du <i>bist</i> gut im Angeln! Vielen Dank, XX. Nimm dieses Shirt, das ich gemacht habe!
+Kitty möchte Fisch
+Oh mein Gott, es glänzt so sehr, nya! Das ist der beste <color=#39CCFF>Saphir</color> für Kittys Kleid, ja ja. Danke, XX!
+Kitty entwirft ein schickes Kleid, das einen Edelstein benötigt. Bringe Kitty einen <color=#39CCFF>Saphir</color>, damit sie ihr Kleid fertigstellen kann. Du kannst einen <color=#39CCFF>Saphir</color> in den Minen finden.
+Kittys Kleid
+Bitte sehr, genau wie ich gesagt habe. Danke für deine Hilfe!
+Bewässere Kittys Garten außerhalb ihres Hauses.
+Kittys Garten
+Anne will auf ein Date gehen! Triff Anne am nächsten Tag um 16:00 Uhr vor ihrem Wagen.
+Erstes Date mit Anne
+Zweites Date mit Anne
+Catherine will auf ein Date gehen! Triff Catherine um 17:00 Uhr am nächsten Tag vor ihrem Haus.
+Erstes Date mit Catherine
+Zweites Date mit Catherine
+Claude will auf ein Date gehen! Triff Claude um 17:00 Uhr am nächsten Tag vor seinem Haus.
+Erstes Date mit Claude
+Claude will auf ein Date gehen! Triff Claude bis 12:00 Uhr am nächsten Tag bei ihm zu Hause.
+Zweites Date mit Claude
+Darius will auf ein Date gehen! Triff Darius um 17:00 Uhr am nächsten Tag vor deinem Wohnhaus.
+Erstes Date mit Darius
+Zweites Date mit Darius
+Donovan will auf ein Date gehen! Triff Donovan am nächsten Tag um 12:00 Uhr beim Gully neben dem Wohnhaus.
+Erstes Date mit Donovan
+Zweites Date mit Donovan
+Iris will auf ein Date gehen! Triff Iris um 12:00 Uhr am nächsten Tag vor ihrem Haus.
+Erstes Date mit Iris
+Iris will auf ein Date gehen! Triff Iris um 17:00 Uhr am nächsten Tag vor ihrem Haus.
+Zweites Date mit Iris
+Jun will auf ein Date gehen! Triff Jun um 10:00 Uhr am nächsten Tag vor seinem Haus.
+Erstes Date mit Jun
+Jun will auf ein Date gehen! Triff Jun um 17:00 Uhr am nächsten Tag bei seinem Haus.
+Zweites Date mit Jun
+Kitty will auf ein Date gehen! Triff Kitty um 10:00 Uhr am nächsten Tag bei ihrem Haus.
+Erstes Date mit Kitty
+Kitty will auf ein Date gehen! Triff Kitty um 17:00 Uhr am nächsten Tag bei ihrem Haus.
+Zweites Date mit Kitty
+Liam will auf ein Date gehen! Triff Liam um 17:00 Uhr in seiner Bäckerei am nächsten Tag.
+Erstes Date mit Liam
+Liam will auf ein Date gehen! Triff Liam um 17:00 Uhr bei seinem Haus am nächsten Tag.
+Zweites Date mit Liam
+Lucia will auf ein Date gehen! Triff Lucia um 17:00 Uhr am nächsten Tag vor dem Rathaus.
+Erstes Date mit Lucia
+Lucia will auf ein Date gehen! Triff Lucia um 17:00 Uhr am nächsten Tag vor ihrem Haus.
+Zweites Date mit Lucia
+Lynn will auf ein Date gehen! Triff Lynn um 10:00 Uhr am nächsten Tag vor ihrem Haus.
+Erstes Date mit Lynn
+Lynn will auf ein Date gehen! Triff Lynn um 17:00 Uhr am nächsten Tag vor ihrem Haus.
+Zweites Date mit Lynn
+Nathaniel will auf ein Date gehen! Triff Nathaniel um 12:00 Uhr am nächsten Tag in der Kaserne.
+Erstes Date mit Nathaniel
+Nathaniel will auf ein Date gehen! Triff Nathaniel bis 17:00 Uhr am nächsten Tag in der Kaserne.
+Zweites Date mit Nathaniel
+Vaan will auf ein Date gehen! Triff Vaan um 12:00 Uhr am nächsten Tag vor seinem Haus.
+Erstes Date mit Vaan
+Vaan will auf ein Date gehen! Triff Vaan um 17:00 Uhr am nächsten Tag vor seinem Haus.
+Zweites Date mit Vaan
+Wornhardt will auf ein Date gehen! Triff Wornhardt um 10:00 Uhr am nächsten Tag vor dem Krankenhaus.
+Erstes Date mit Wornhardt
+Wornhardt will auf ein Date gehen! Triff Wornhardt um 17:00 Uhr am nächsten Tag vor seinem Haus.
+Zweites Date mit Wornhardt
+Xyla will auf ein Date gehen! Triff Xyla morgen um 17:00 Uhr vor ihrer Wohnung
+Erstes Date mit Xyla
+Zweites Date mit Xyla
+Fantastische Arbeit, XX! Es sieht so aus, als würde dieses Leben gut zu dir passen.[]Wenn du mehr Samen brauchst, kannst du sie im Gemischtwarenladen kaufen. Du solltest ihn besuchen, wenn du die Gelegenheit hast.[]Du scheinst die Dinge hier jetzt gut im Griff zu haben. Ich bin gespannt, was du mit diesem Ort anstellst. Viel Glück, XX!
+Dein Leben als Farmer hat gerade erst begonnen. Mache dich mit dem Farmleben vertraut, indem du 10 <color=#39CCFF>Weizen</color> pflanzt und 10 <color=#39CCFF>Holz</color> sammelst.
+Eingewöhnung (1/3)
+Du kannst im Gemischtwarenladen weitere Samen kaufen, wenn du sie brauchst. Besuche den Gemischtwarenladen.
+Eingewöhnung (2/3)
+Anne möchte, dass du den Gemischtwarenladen aufsuchst.
+Eingewöhnung (3/3)
+Vielen Dank, nimm dies für deine Hilfe.
+Hilf Judith, ihren Garten in Ordnung zu halten, indem du das ganze <color=#39CCFF>Unkraut</color> vor ihrem Haus schneidest.
+Judiths Unkraut
+Wunderbar, XX! Danke für deine Hilfe. Ich liebe es, neue Wege zu finden, um die Laune der Menschen zu heben, deshalb bedeutet mir das sehr viel. Ich weiß, es ist nicht viel, aber bitte akzeptiere es.
+Jun sagt, dass helle Farben helfen können, die Laune eines Menschen zu heben. Pflanze helle Blumen in der Stadt, um seine Theorie zu testen!
+Juns Stadtverschönerung
+Danke XX, ich bin sicher, die Kinder werden sie lieben! Das ist eine große Hilfe. 
+Bringe Jun 10 <color=#39CCFF>Kekse</color> für seinen Unterrichtsplan.
+Juns Lektion
+Beginne deine Suche nach Withergate, indem du von Sun Haven aus nach Norden gehst.
+Reise nach Withergate (1/8)
+Sammle 10 <color=#39CCFF>Weizen</color> und 10 <color=#39CCFF>Kartoffeln</color>, um das schlummernde Monster zu wecken und den Weg nach Norden frei zu machen.
+Reise nach Withergate (2/8)
+Jetzt, wo du ein legaler Bürger von Withergate bist, kannst du mit dem Dämonenkönig Minos sprechen. Gehe zum Schloss, um mit König Minos zu sprechen.
+Konfrontation mit Dynus (1/5)
+Jetzt, wo du ein legaler Bürger von Withergate bist, kannst du mit dem Dämonenkönig Minos sprechen. Gehe in den Norden des Withergate-Karnevals, um das Withergate-Schloss zu finden und mit dem Dämonenkönig zu sprechen.
+Konfrontation mit Dynus (2/5)
+Der Dämonenkönig Minos traut dir immer noch nicht. Sammle 10 <color=#39CCFF>Gloritkristalle</color> aus dem Wald südlich von Withergate und bringe sie zurück zum Dämonenkönig, um sein Vertrauen zu gewinnen.
+Konfrontation mit Dynus (3/5)
+Der Dämonenkönig hat beschlossen, dich zu Dynus durchzulassen. Jetzt ist es an der Zeit, den Monddrachen zu konfrontieren! Seine Höhle ist in der Burg Withergate zu finden.
+Konfrontation mit Dynus (4/5)
+Gehe weiter nach Norden in Richtung Withergate.
+Reise nach Withergate (3/8)
+Navigiere durch den Nebel, um deinen Weg nach Withergate zu finden.
+Reise nach Withergate (4/8)
+Reise mit Charon nach Withergate.
+Reise nach Withergate (5/8)
+Betritt Withergate. Charon kann dich von der linken Seite der Farm zurück zur Withergate Kanalisation bringen!
+Reise nach Withergate (6/8)
+Der Dämonenkönig Minos wird dich Dynus nur sehen lassen, wenn du ein Bürger von Withergate bist. Finde das Wohnhaus und kaufe ein Apartment, um die Bürgerschaft zu erlangen. Charon kann dich von der linken Seite der Farm zurück zur Withergate Kanalisation bringen!
+Reise nach Withergate (7/8)
+... hm? Wie lange stehst du schon da?[]Ach, du schon wieder. Du zahlst deine Wohnung ab, was? Nun, das wurde auch Zeit. Was erwartest du? Eine Trophäe oder so etwas? Deine Belohnung ist, dass ich dich nicht auf die Straße setze. Gratuliere! Und jetzt verschwinde.
+Zahle deine Wohnung ab, um ein Bürger von Withergate zu werden. Zahle 500 <color=#39CCFF>Tickets</color>. Erhalte 2 Herzen bei 2 Withergate-Bürgern. Charon kann dich von der linken Seite der Farm zurück zur Withergate Kanalisation bringen!
+Reise nach Withergate (8/8)
+Schließe dich Elios auf dem Drachentreff an
+Der Lehrling des Sonnendrachens (1/4)
+Durchsuche den westlichen Wald nach einem Eingang zur Elfenstadt Nel'Vari.
+Der Lehrling des Sonnendrachens (2/4)
+Der Lehrling des Sonnendrachens (3/4)
+Der Lehrling des Sonnendrachens (4/4)
+Erforsche die Kultur von Nel'Vari nach Hinweisen, die dir helfen, den Eingang zur mysteriösen Elfenstadt zu finden.
+Das Mysterium von Nel'Vari (1/4)
+Durchsuche den westlichen Wald nach Zeichen von Nel'Vari.
+Das Mysterium von Nel'Vari (2/4)
+Finde den Eingang zur Elfenstadt Nel'Vari.
+Das Mysterium von Nel'Vari (3/4)
+Das Tor zu Nel'Vari ist durch ein Rätsel verschlossen, das dir vage bekannt vorkommt. Untersuche die Bäume in der Nähe des Tores nach Hinweisen, um das Rätsel zu lösen und Einlass nach Nel'Vari zu erhalten.
+Das Mysterium von Nel'Vari (4/4)
+Triff Lucia um 10 Uhr am Rathaus
+Schutz des Sonnendrachen (1/9)
+Lucia hat mich hierher gebracht, um den Sonnendrachen zu sehen. Jetzt ist es an der Zeit, mit Elios zu sprechen.
+Schutz des Sonnendrachen (2/9)
+Elios wartet darauf, dass meine Stärke wächst, bevor er mich wieder sieht. Erreiche Stufe 5 in einer beliebigen Fertigkeit.
+Schutz des Sonnendrachen (3/9)
+Elios hat dich um Hilfe gebeten, reise zum Drachentreff, um mit ihm zu sprechen. Sprich mit Roza, damit sie dich auf den Berg eskortiert.
+Schutz des Sonnendrachen (4/9)
+Roza hat mich hierher gebracht, um den Sonnendrachen zu sehen. Jetzt ist es an der Zeit, mit Elios zu sprechen.
+Schutz des Sonnendrachen (5/9)
+Elios braucht deine Hilfe, um Sun Haven in seiner Abwesenheit zu beschützen. Finde einen <color=#39CCFF>Gloritkristall</color> im Wald östlich von Sun Haven und bringe ihn zu Elios.
+Schutz des Sonnendrachen (6/9)
+Schutz des Sonnendrachen (7/9)
+Elios wird nach zwei Tagen zurück sein. Warte auf seine Rückkehr.
+Schutz des Sonnendrachen (8/9)
+Schutz des Sonnendrachen (9/9)
+Du wirst Anne heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Annes Hochzeit
+Du wirst Catherine heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Catherines Hochzeit
+Du wirst Claude heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Claudes Hochzeit
+Du wirst Darius heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz von Sun Haven für die Zeremonie.
+Darius Hochzeit
+Du wirst Donovan heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Donovans Hochzeit
+Du wirst Iris heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Iris Hochzeit
+Du wirst Jun heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Juns Hochzeit
+Du wirst Kitty heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Kittys Hochzeit
+Du wirst Liam heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Liams Hochzeit
+Du wirst Lucia heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Lucias Hochzeit
+Du wirst Lynn heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Lynns Hochzeit
+Du wirst Nathaniel heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Nathaniels Hochzeit
+Du heiratest Vaan! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Vaans Hochzeit
+Du wirst Wornhardt heiraten! Triff ihn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Wornhardts Hochzeit
+Du wirst Xyla heiraten! Triff sie um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven für die Zeremonie.
+Xylas Hochzeit
+Gute Arbeit! Das sollte den Rest dieser Schurken wissen lassen, dass wir es ernst meinen.
+Raimi will, dass du in der östlichen Wildnis ein paar Affen tötest und ihm 10 <color=#39CCFF>gequetschte Bananen</color> zurückbringst.
+Affenwahnsinn
+Ich kann es nicht glauben, du hast tatsächlich meinen Köder gefunden! Ich hätte nie gedacht, dass ich ihn noch einmal sehen würde. Du hast mir einen Gefallen getan, XX. Herzlichen Dank!
+Durchsuche den Strand, um Peters Glücksköder zu finden.
+Jetzt kann ich eine richtig schöne Halskette machen. Mama wird so überrascht sein. Wenn sie überrascht wird, sieht sie aus wie ein Fisch! Danke XX!
+Bringe Pod 5 <color=#39CCFF>Muscheln</color>, um eine Halskette für seine Mama zu machen. Du kannst <color=#39CCFF>Muscheln</color> überall an den Stränden finden.
+Pods Halskette
+Wow, das ist all der Stein, den wir brauchen! Das ging dank deiner Hilfe viel schneller, XX. Wir sollten bald neue Händler in der Stadt begrüßen können.
+Bringe 30 <color=#39CCFF>Stein</color> und 1000 <color=#39CCFF>Gold</color> zu Nathaniel, um die Reparaturen am Veranstaltungsplatz zu beenden.
+Bereite den Veranstaltungsplatz vor
+Gute Arbeit, Farmer! Gut zu wissen, dass ich dir in meinem toten Winkel anvertrauen kann. Lass uns das mal wieder machen.
+Gehe zu Raimis Platz und töte 10 <color=#39CCFF>Blättlinge</color>.
+Raimis Kampferoberung
+Das ist meine Kappe, so wahr ich hier stehe! Ich kann nicht glauben, dass du sie gefunden hast. Nimm das als Dankeschön, die Kappe ist mir mehr wert.
+Rex' Bergbaukappe
+Ah verdammt... Mari, du hattest Recht. Schon wieder. Ich muss ehrlich sein, XX, ich hätte nicht gedacht, dass du das könntest. Vielleicht Lucia oder Nathaniel, aber nicht ein Farmer. Aber du hast mich eines Besseren belehrt.
+Bring 5 <color=#39CCFF>Blätter von Blättlingen</color> mit, um Ronald zu beweisen, dass du ein Monstertöter bist. Blättlinge kannst du in den Wäldern westlich der Stadt finden.
+Ronalds und Maris Wette
+Gutes Timing, danke XX.
+Bringe Solon 4 <color=#39CCFF>Kohle</color>, damit er seinen Auftrag erledigen kann.
+Solon braucht Kohle
+Das wird gut tun. Ich weiß das zu schätzen, XX.
+Bringe Solon 3 Stücke <color=#39CCFF>Fleisch</color>, damit er den streunenden Hund füttern kann.
+Solon braucht Fleisch
+Iris' Experiment
+Lynns Post
+Reliquie der Meerjungfrau
+Peters Schub
+Raimis Schnupfen
+Soldats Diät
+Wenn das Leben dir Zitronen gibt...
+Danke, XX! Ich stehe tief in deiner Schuld! Nimm diese, es sind meine ganzen Ersparnisse!
+Finde <color=#39CCFF>Topis Notizbuch</color> irgendwo in Sun Haven - und halte es geheim!
+Topis Studien
+NAME
+Lucia
+<u>Quests
+Quest Anfang
+<size=8><color=#FFF164>Schutz des Sonnendrachen (3/5) sdfsadfasdfas dfasdfsdfasdfasdf
+<size=8><color=#B7FFA3> - Platziere Blumben 0/5
+ - Platziere Blumen 0/10 s
+Fähigkeitspunkte: 1
+Stufe: 5
+Futterpflanzen
++1000 xp
+Farmen
+Feuermagier
+Tiere 10/10
+1000/1000
+Glückwunsch, Abenteurer!
+Du hast das Ende dieser Questlinie erreicht. Zukünftige Updates werden diese Questlinie erweitern!
+Quest Belohnungen :
+Blättling
+1000 /1000
+Springe während du in der Luft bist um
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis eros velit, ut gravida lacus tincidunt a. Nulla et consectetur urna. Aliquam augue orci, vestibulum et libero a, tempor consequat velit. Cras id sagittis purus. Curabitur quis tempus eros. Etiam efficitur libero purus, eget placerat turpis facilisis ultricies. Ut orci lectus, luctus sed mi nec, consectetur placerat ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas mattis sem id enim semper, vel scelerisque enim scelerisque. Ut viverra odio tempor magna gravida viverra.
+Duis varius metus nec nulla scelerisque, at commodo est cursus. Aenean id nibh in arcu elementum efficitur. Mauris faucibus blandit consequat. Nulla sit amet ligula rhoncus, cursus nisi ullamcorper, faucibus nulla. Nunc vitae tempus libero, at venenatis ante. Pellentesque nec suscipit orci. Maecenas et eros eget nunc molestie viverra ac sit amet arcu. Fusce magna risus, aliquet a vulputate ut, tincidunt eu sem. Mauris sed felis nec nisi luctus aliquam. Nullam vitae sagittis turpis. Quisque lacinia odio nec nibh facilisis iaculis. Fusce est quam, iaculis ut finibus nec, malesuada in enim. Donec egestas, lorem eget tristique ultrices, ante ipsum venenatis est, a laoreet ipsum nulla et arcu. In eleifend consectetur tellus. Etiam accumsan libero at est rhoncus, vel dictum diam bibendum.
+sdfsdfsdf
+Bereit
+<b>Pizza! </b> Hey, wie geht es dir heute? Hey, wie geht's dir heute? Hey, wie geht's dir heute? Hey, wie geht's dir heute? Hey, wie geht's dir heute? Hey, wie geht es dir heute? Hey, wie geht es dir heute?
+Forfeit
+Du schläfst die ganze Nacht durch.
+5000g
+Q
+Level 5 Bergbau!
+Kampf
+Topees
+Also choose one :
+To do:
+(Beliebige Taste drücken zum fortsetzen...)
+Dr. Hopsan Barley
+Webstuhl
+Finde Alberts verlorenes Schwert im östlichen Wald und bringe es ihm zurück.
+Bearbeiten
+Aufnehmen
+Geschenk
+x2
+Schlafende Spieler : 1/1
+Bergbau
+Herstellen
+Test 123
+[Zurück]
+  - Ja
+Wähle extra Belohnung :
+Du hast einen neuen Zauberspruch gelernt! Weise ihn deiner Werkzeugleiste zu und drücke Q oder R um ihn zu benutzen!
+<color=red>- Alberts Sschwert 0/1
+<size=125%> Name \n<size=100%><i> Wird verwendet um Steine zu schleifen
+Verfolgen
+R
+[Weiter]
+Erkundung
+Kupferhelm
+Kupferbrustplatte
+Kupferhose
+Eisenhose
+Eisenhandschuhe
+Mithrilhelm
+Schwarze Handschuhe
+Glühender Ring
+Erleuchtet dir den Weg um dich herum.
+Raumschiffhemd
+Seegras
+Milch
+Ei
+Honig
+Käse
+Tomatensuppe
+Cheeseburger
+Pizza
+Apfelkuchen
+Keks
+Brot
+Heidelbeersalat
+Sesamreisbällchen
+Apfel
+Heidelbeeren
+Erdbeeren
+Kaffee
+Weizen
+Tomate
+Paprika
+Zwiebel
+Grünwurzel
+Paprikasamen
+Wächst in 6 Tagen. Sun Haven Paprikas sind köstlich (und teuer), wachsen aber so heiß, dass sie nie über Nacht bewässert bleiben.
+Grünwurzelsamen
+Wächst in 3 Tagen. Grünwurzel wird für SEHR wenig verkauft, ist aber als köstliches Kochgewürz bekannt.
+Dorado
+Blup Blup.
+Krabbe
+Aal
+Blauer Tang
+Regenbogenforelle
+Anglerfisch
+Wolfsbarsch
+Kugelfisch
+Goldfisch
+Blauer Sonnenbarsch
+Karpfen
+Roter Schnapper
+Silberkarpfen
+Werkzeugkasten
+Wiegenlied Platte
+Groovy Platte
+Erdiges Gitter Tapete
+Das ist ein Dutzend! Vielen Dank, Farmer. Ich bin froh, dass einige Leute hier noch Wert auf Ritterlichkeit legen. Hier ist eine Belohnung für deine Mühe.
+Albert isst in diesen Tagen eine Menge <color=#39CCFF>Eier</color>, aber er ist völlig erschöpft. Bringe Albert 12 <color=#39CCFF>Eier</color>, damit er seine Diät fortsetzen kann.
+Judith hat mich auf eine Diät gesetzt, die auf <color=#39CCFF>Eiern</color> basiert, aber jetzt sind die <color=#39CCFF>Eier</color> alle. Gibt es einen Helden in der Stadt, der bereit ist, mir ein Dutzend <color=#39CCFF>Eier</color> zu liefern? Ich werde in Naturalien zahlen!
+- Albert
+Alberts Diät
+Oh, mein Gott - was für eine Schönheit von einem Helm! Er sieht genauso aus wie der, den ich vor so vielen Jahren in der Schlacht getragen habe... Ich danke dir.
+Albert möchte eine Erinnerung an seine Vergangenheit als Ritter. Bringe ihm einen <color=#39CCFF>Mithrilhelm</color>, um ihn an die glorreichen Tage zu erinnern. Du kannst einen <color=#39CCFF>Mithrilhelm</color> an einem Amboss aus <color=#39CCFF>Mithrilbarren</color> herstellen.
+Ich vermisse die alten Tage des Rittertums. Kann mir jemand helfen, meine glorreichen Tage wieder aufleben zu lassen? Ich möchte nur wieder einen <color=#39CCFF>Mithrilhelm</color> tragen. Es wäre sehr bedeutend für mich, und ich würde mehr bezahlen, als er wert ist!
+Alberts Zeitvertreib
+<color=#39CCFF>Kaffee</color>, für mich? Lass mich das Flugblatt sehen... bezahlen!? Roza... Nun, ich schätze, ich muss dich bezahlen. Vielen Dank!
+Bring Calvin eine Tasse <color=#39CCFF>Kaffee</color>.
+GEBRAUCHT: Jemand, der <color=#39CCFF>Kaffee</color> zu Calvin bringt. Ich habe ihn schon zu oft im Dienst beim Einnicken erwischt, also hat er es eindeutig nötig. Zeig ihm dieses Flugblatt und er wird dich für deine Mühe bezahlen. FÜR CALVIN: Zahle 200 GOLD FÜR DEN <color=#39CCFF>Kaffee</color>, DAS IST EIN AUFTRAG. 
+ - Roza
+Nachtschwärmer
+Das sind 5 <color=#39CCFF>Muscheln</color>! Mein kleiner Bruder wird sie lieben.[]Hier Farmer, das hast du dir verdient. Es ist ein Rubin, den ich gefunden habe, als ich auf dem Pfad zum Drachentreff patrouillierte.
+Allison möchte 5 <color=#39CCFF>Muscheln</color> nach Hause schicken. Finde 5 <color=#39CCFF>Muscheln</color> am Strand und bringe sie zu Allison in die Kaserne.
+Hallo, Bürger! Ich hoffe, jemand hat die Zeit, 5 <color=#39CCFF>Muscheln</color> am Strand für mich zu finden. Ich möchte sie nach Hause schicken, da wir dort keinen Strand haben. Ich werde etwas Glänzendes dafür eintauschen!
+- Allison
+Allisons Muscheln
+Das sieht köstlich aus, Farmer. Bist du sicher, dass du kein Koch bist, der nur so tut, als wäre er ein Farmer? Hah, nur ein Scherz.[]Hier ist dein Gold, Farmer. Nochmals vielen Dank!
+Allison ist auf der Suche nach dem besten <color=#39CCFF>Sesamreisbällchen</color> der Stadt. Benutze deinen Kochtopf, um einen zu machen und bringe ihn zu ihr in die Kaserne.
+Hallo, Bürger! Ich bin auf der Suche nach dem besten Reisbällchen der Stadt. Ich zahle 300 Gold für jedes <color=#39CCFF>Sesamreisbällchen</color>, das ich in die Finger bekomme. Limit: 1 pro Person. Vielen Dank im Voraus!
+Allisons Reisbällchen
+Hey, das riecht vertraut. Ist das <color=#39CCFF>Apfelkuchen</color>? Dann hast du meine Anfrage gesehen![]Ich kann es kaum erwarten, das mit nach Hause zu nehmen - vielleicht esse ich alles auf einmal. Danke, XX.
+Amanda sehnt sich nach einem Gericht aus ihrer Kindheit. Backe einen <color=#39CCFF>Apfelkuchen</color> und bringe ihn Amanda in die Bücherei.
+Ich sehne mich nach etwas, das ich seit meiner Kindheit nicht mehr gegessen habe - <color=#39CCFF>Apfelkuchen</color>. Ich sitze in der Bücherei fest, aber ich würde mich bestimmt revanchieren, wenn mir jemand welchen bringen würde. Vielen Dank im Voraus. 
+- Amanda
+Amandas Lieblingsessen
+Hey, das ist mein <color=#39CCFF>Saphir</color>! Vielen Dank, XX. Hier ist deine Bezahlung, wie versprochen.
+Anne glaubt, dass sie ihren <color=#39CCFF>Saphir</color> in den Minen verloren hat. Finde ihn und bringe ihn zu ihr zurück.
+VERLOREN!
+Ich scheine einen <color=#39CCFF>Saphir</color> "verlegt" zu haben, der sentimentalen Wert hat. Der letzte Ort, an dem ich ihn gesehen habe, war in der Nähe des Schmieds. Ich zahle jedem, der ihn mir zurückgeben kann, mehr als er wert ist, ohne Fragen zu stellen. Dies ist ein einmaliges Angebot!
+Annes Saphir
+Wunderbar, ist das die Helm-Bestellung, die ich angefordert habe? Perfektes Timing, hier ist deine Zahlung. Hey, die sehen gut gemacht aus! Ich bin mir sicher, dass wir in Zukunft Nachschub brauchen werden, also halte Ausschau nach meinen Ausschreibungen. Wir können Qualitätsware wie diese gebrauchen.
+Fertige 2 <color=#39CCFF>Kupferhelme</color> an und bringe sie zu Roza in die Kaserne.
+GEBRAUCHT: 2 gut gefertigte <color=#39CCFF>Kupferhelme</color> für Trainingszwecke. Bitte bei Roza in der Kaserne abgeben.
+Kaserne: Helmknappheit
+Sieh mal einer an, mein Flugblatt hat doch noch funktioniert! Du hast gute Arbeit an diesen Schwertern geleistet, danke XX. Du beweist, dass du ziemlich zuverlässig bist.
+Fertige 2 <color=#39CCFF>Kupferschwerter</color> an und bringe sie zu Roza in die Kaserne.
+Sie werden so schnell wie möglich benötigt: 2 <color=#39CCFF>Kupferschwerter</color> für neue Rekruten, um sie im Training zu verwenden. Zahlt 1200 Gold. Melde dich bei Roza in der Kaserne, um zu bezahlen.
+Kaserne: Mangel an Schwertern
+Ist das... <color=#39CCFF>Pizza</color>?? Verdammt, ja! Der heutige Abend wird gut, vielen Dank XX![]Es tut mir leid, dass ich kein Gold habe, aber ich hoffe, dieser Stoff ist nützlich.
+Billie muss ihren Tag auf einer guten Note beenden. Bringe ihr eine <color=#39CCFF>Pizza</color> im Salon.
+Normalerweise halte ich mich an eine gesunde Ernährung, aber ich hatte einen langen Tag. Ich möchte den Tag einfach auf einer guten Note enden lassen. Also suche ich nach <color=#39CCFF>Pizza</color>. Ich habe kein Gold, aber ich habe ein paar zusätzliche Stoffe, die ich tauschen kann. Komm im Salon vorbei, wenn du Interesse hast!
+- Billie
+Billies Kohlenhydrate
+Oh Mann, das ist ein großer Burger. Ich würde ihn am liebsten sofort aufessen, aber ich sollte erst Lester holen. Du weißt schon, als Zeuge. Und für den Fall, dass ich mich verschlucke.[]Tut mir leid, das ist dir egal. Hier, nimm das Hemd, ich habe aus Versehen zwei gekauft.
+Calvin will so schnell wie möglich einen <color=#39CCFF>Cheeseburger</color> essen. Bringe einen <color=#39CCFF>Cheeseburger</color> direkt zu ihm.
+Ich bin gelangweilt und suche nach einer Herausforderung. Ich muss wissen, wie schnell ich einen ganzen <color=#39CCFF>Cheeseburger</color> in einer Sitzung essen kann. Ich gebe dir etwas Schönes, wenn du den Burger schnell zu mir bringst!
+- Calvin
+Calvins großer Burger
+Hey, die sehen eigentlich ganz nett aus. Hast du die gemacht? Unmöglich, du musst sie gestohlen haben oder so. Wie auch immer, ich werde keine Fragen stellen. Hier, nimm dein Geld.
+Calvin will seinen Look verändern, bring ihm eine <color=#39CCFF>Eisenhose</color>.
+Liest eigentlich jemand dieses Ding? Wie auch immer - ich bin auf der Suche nach einem neuen Beinpanzer. Ich habe genug von den von der Armee ausgegebenen Rüstungen. Ich zahle jedem 1000 Gold, der mir eine <color=#39CCFF>Eisenhose</color> bringt. Das war's. 
+Calvins Hose
+Wow, tolle Arbeit! Du könntest eine Karriere im Holzhandwerk in Betracht ziehen.[]Wie auch immer, hier ist etwas Gold für deine Arbeit.
+In Camilas Haus wird es abends zu dunkel. Bringe ihr eine <color=#39CCFF>Holzfackel</color>, um ihr Haus zu beleuchten.
+Mein Haus ist abends viel zu dunkel. Kann mir jemand eine schöne Lampe machen? Ich denke eine <color=#39CCFF>Holzfackel</color> würde gut in mein Haus passen. Vielen Dank im Voraus!
+Camilas Lampe
+Diese werden gut tun, danke XX. Hier, nimm das für deine Hilfe. Ich weiß es wirklich zu schätzen!
+Sammle 2 <color=#39CCFF>Blätter von Blättlingen</color> für Catherines neues Trankrezept.
+Catherines Rezept
+Heiliger Bimbam, du spendest die gesamten 500 <color=#39CCFF>Gold</color>? Das ist unglaublich! Deine Spende wird den Kindern sehr helfen, vielen Dank!
+Spende 500 <color=#39CCFF>Gold</color> an Amanda in der Bibliothek.
+Gemeinnützigkeit
+Gott sei Dank, du hast den <color=#39CCFF>Käse</color> mitgebracht! Ich dachte schon, die Mädels würden sich nie wieder beruhigen, aber jetzt kann ich dieses Käsebrot machen.... Ich weiß es zu schätzen, Farmer![]Du sollst das als Bezahlung haben. Es ist zwar kein Gold, aber es schmeckt sicher besser als Gold! Obwohl ich denke, dass das eigentlich nicht viel bedeutet.[]Warte, wie schmeckt Gold?
+Liam braucht dringend <color=#39CCFF>Käse</color>. Bringe ihm so schnell wie möglich 3 Stücke <color=#39CCFF>Käse</color>.
+BRAUCHE KÄSE SO SCHNELL WIE MÖGLICH
+Sorry für die Dringlichkeit, aber Emma und Elizabeth hören nicht auf, über dieses Rezept zu reden! Soweit ich das beurteilen kann, ist es nur Brot mit <color=#39CCFF>Käse</color> eingebacken... aber das ist nebensächlich. Ich brauche 3 Stücke <color=#39CCFF>Käse</color>, um genug für uns alle zu machen. Herzlichen Dank!
+Käse für Liam
+Oh hey, XX. Ich habe nicht mit einer so schnellen Antwort auf meine Nachricht gerechnet, also vielen Dank! Topi wird sich wirklich freuen... wenn er sich lange genug konzentrieren kann und die Schokomilch tatsächlich stehen lässt.
+Bringe Tonya 10 <color=#39CCFF>Holzbretter</color>, damit sie Topi helfen kann, einen Schokoladenmilchstand zu bauen.
+Schokomilchstand
+Oh, du bist es. Danke, das ist genau das, was ich mir erhofft habe.[]Lass mich mich bei dir revanchieren. Hier ist ein kleines Dankeschön.
+Claude hat ein Verlangen nach <color=#39CCFF>Tomatensuppe</color>. Bring sie ihm, um seinen Hunger zu stillen.
+An denjenigen, der dies sieht:
+Ich hoffe, dass ich etwas <color=#39CCFF>Tomatensuppe</color> zum Abendessen bekomme. Wenn mir jemand helfen kann, dieses Verlangen zu stillen, wäre ich sehr dankbar.
+Claudes Verlangen
+Hallo, Farmer. Du hast mir <color=#39CCFF>Tomaten</color> gebracht? Ausgezeichnet, danke. Hier, für deine Hilfe.
+Es sieht so aus, als würde Claude eine Suppe kochen. Bring ihm 5 <color=#39CCFF>Tomaten</color> zum Kochen mit.
+Ich brauche mehrere <color=#39CCFF>Tomaten</color> für eine Suppe. 5 sollten reichen. Ich werde natürlich für deine Hilfe bezahlen.
+Claudes Tomaten
+Igitt, die sieht so matschig aus![]Liam hat gesagt, ich soll sie nicht mit den Händen anfassen, also lasse ich sie erst mal auf dem Boden liegen. Danke, XX! Nimm das Gold von Liam!
+Elizabeth will Emma zeigen, dass <color=#39CCFF>Kugelfische</color> echt sind. Bringe ihr 1 <color=#39CCFF>Kugelfisch</color> zum Beweis.
+Hi! Liam hat gesagt, ich kann hier einen Aushang anbringen! Ich will einen <color=#39CCFF>Kugelfisch</color>, um Emma zu beweisen, dass sie wirklich echt sind. Liam hat mir sogar etwas Gold gegeben, um es dir zurückzuzahlen! Danke!
+- Elisabeth
+Elizabeths Beweis
+Wow - <color=#39CCFF>Eisenerz</color>! Woher wusstest du das?[]Danke, XX! Ich gebe dir Kekse zurück!
+Emma ist neugierig auf <color=#39CCFF>Eisenerz</color>. Bringe 5 <color=#39CCFF>Eisenerz</color> direkt zu ihr.
+Emmas eiserner Wille
+Wird auch Zeit, dass jemand kommt. Ich weiß das zu schätzen, Nachbar. Nimm deine Bezahlung.
+Bringe einen <color=#39CCFF>Feuerkristall</color> zu Solon in die Schmiede.
+Ich brauche einen <color=#39CCFF>Feuerkristall</color>, um die Schmiede heiß zu halten, während ich an einem Satz Rüstungen arbeite. Bringe ihn zu mir in die Schmiede. Nur Qualitätskristalle. - Solon
+Feuerkristall-Lieferung
+Mmm, sieht gut aus. Danke, XX. Ich denke, das wird ein solider Anwärter sein!
+Bring einen <color=#39CCFF>Heidelbeersalat</color> zu Mari in die Taverne.
+Geschmacksrichtung
+Gott sei Dank! Ich war den ganzen Tag hier draußen und habe so getan, als würde ich arbeiten, damit Tonya nicht herausfindet, dass ich mein Werkzeug verloren habe.[]Danke übrigens, dass du es ihr nicht gesagt hast. Ich verliere ständig Dinge und sie macht sich deswegen immer über mich lustig.
+Finde Giuseppes verlorene <color=#39CCFF>Werkzeugkiste</color> am Weizenfeldfluss und bringe sie Giuseppe zurück.
+Verlorenes Werkzeug
+Na gut, das wird ein Spaß! Du bist der Beste, Farmer. Hier, nimm das im Gegenzug. Ich weiß nicht, wie viel es wert ist, aber ich habe mein Herzblut hineingesteckt.
+Giuseppe ist auf der Suche nach einem neuen Hobby. Bring ihm einen <color=#39CCFF>Webstuhl</color>, damit er anfangen kann.
+Hallo! Ich versuche, meine Hobbys zu erweitern und bin auf der Suche nach einem <color=#39CCFF>Webstuhl</color>. Wenn jemand einen zusätzlichen <color=#39CCFF>Webstuhl</color> herumliegen hat, bin ich gerne bereit, ihn zu tauschen!
+Giuseppes Webstuhl
+Das ist ein <color=#39CCFF>Amethyst</color>? Er ist wunderschön! Catherine hatte recht, das erfüllt mich mit einer positiven Energie.[]Vielen Dank, XX. Bitte lass mich dich für deine Mühe bezahlen.
+Heather hat erfahren, dass ihr Geburtsstein ein <color=#39CCFF>Amethyst</color> ist und muss ihn nun haben. Bringe 1 <color=#39CCFF>Amethyst</color> zu Heather ins Café.
+Ich habe gerade von Catherine erfahren, dass <color=#39CCFF>Amethyst</color> mein Geburtsstein ist, und jetzt muss ich einfach einen haben! Kann mir jemand 1 <color=#39CCFF>Amethyst</color> mitbringen? Ich werde natürlich dafür bezahlen!
+- Heather
+Heathers Geburtsstein
+Puh! Du rettest mir wirklich den Arsch, Farmer. Ich kann dich zwar nicht in Gold bezahlen, aber der Kaffee geht aufs Haus.
+Dem Café geht die <color=#39CCFF>Milch</color> wegen einer verpassten Lieferung aus. Bringe 5 Flaschen <color=#39CCFF>Milch</color> zu Heather ins Café.
+Hilfe für das Café benötigt!
+Eine unserer Lieferungen hat es diese Woche nicht geschafft und jetzt geht uns schnell die <color=#39CCFF>Milch</color> aus. Wir brauchen 5 Flaschen <color=#39CCFF>Milch</color>, um die nächste Lieferung zu bekommen. So schnell wie möglich, bitte!
+Heathers Ladung
+Na sieh mal einer an, ein wunderschöner <color=#39CCFF>Diamant</color>! Das wird meinem Wohnraum einen längst überfälligen Glanz verleihen. Das schätze ich sehr, XX. Hier ist deine Bezahlung.
+Judith möchte ihrem Zuhause mit einem <color=#39CCFF>Diamanten</color> etwas Glanz verleihen. Finde einen <color=#39CCFF>Diamanten</color> und liefere ihn direkt zu ihr.
+Gesucht: 1 <color=#39CCFF>Diamant</color>
+Ich verstehe, dass dies albern erscheinen mag, aber ich denke, ein <color=#39CCFF>Diamant</color> würde meinem Zuhause etwas dringend benötigten Glanz verleihen. Ich denke da an ein Mittelstück für meinen Tisch. Natürlich erwarte ich es nicht umsonst - ich werde dich großzügig entschädigen. Es kann direkt zu mir geliefert werden. Vielen Dank!
+- Judith
+Judiths Mittelstück
+Oh, das sieht köstlich aus. Ich hoffe, du hast dir dafür keine Unannehmlichkeiten gemacht, XX![]Jedenfalls vielen Dank. Bitte nimm etwas Gold für deine Hilfe.
+Jun bittet um frischen <color=#39CCFF>Honig</color> für seinen Tee. Bringe Jun etwas <color=#39CCFF>Honig</color>.
+Hallo, Sun Haven! Ich bin auf der Suche nach frischen <color=#39CCFF>Honig</color>, der zu meinem Tee passt. Wenn ein Nachbar mir freundlicherweise welchen bringen würde, würde ich mich gerne revanchieren. Danke!
+Juns Honig
+Ich kann es kaum erwarten, es mir anzuhören - ich habe wirklich keine Ahnung, was mich erwartet. Vielen Dank, Farmer. Oh, und ich habe sie gerade heute Morgen gemacht, also sind sie schön frisch. Guten Appetit!
+Kara möchte eine neue Platte zum Anhören. Bringe ihr eine <color=#39CCFF>groovige Platte</color> nach Hause.
+Ich habe das Gefühl, dass das Haus in letzter Zeit ein wenig zu ruhig ist. Ich könnte eine neue <color=#39CCFF>groovige Platte</color> gebrauchen, um den Ort zu beleben. Tonya hat mir Groovy Jazz empfohlen und seitdem bin ich neugierig! Ich kann im Gegenzug etwas frisches Essen eintauschen.
+- Kara
+Karas Platte
+Ooh, die riechen so süß! Nichts geht über erntefrisch, hm? Ich schätze deine Arbeit, Farmer. Nimm dies als Dankeschön. Es ist nicht viel, aber es ist für dich.
+Kara ist auf der Suche nach einem gesunden Snack für Pod. Bringe 6 <color=#39CCFF>Erdbeeren</color> zu Kara in ihr Haus.
+Ich brauche ein paar frische Früchte für Pod. Ich habe auf <color=#39CCFF>Erdbeeren</color> gehofft. 6 <color=#39CCFF>Erdbeeren</color> sollten einen schönen Snack ergeben. Vielen Dank dafür!
+Karas Erdbeeren
+Mein <color=#39CCFF>Seesterne</color>! XX, du hast dich für Kitty eingesetzt? Du bist der Beste, nya![]Weil du es geschafft hast, verrate ich es dir... Mein geheimes Projekt ist ein Hut![]Alles macht mehr Spaß als ein Geheimnis, nya. Hier, Fisch für dich!
+Finde 5 <color=#39CCFF>Seesterne</color> und bringe sie zu Kitty für eine Art Geheimprojekt.
+ACHTUNG!
+Ich brauche 5 <color=#39CCFF>Seesterne</color>! Es ist für ein seeeeehr geheimes Projekt, also frag nicht warum! Danke, danke, danke!
+Kittys geheime Seesterne
+Sind das die <color=#39CCFF>Sanddollar</color>, die ich angefordert habe? Vielen Dank, XX! Ich muss mich bei dir für deine Zeit revanchieren, nimm das hier.
+Lucia scheint zu Hause an einem Projekt zu arbeiten und braucht einige Materialien. Bringe ihr 3 <color=#39CCFF>Sanddollar</color> vom Strand.
+Achtung, liebe Nachbarn!
+Ich brauche ein paar <color=#39CCFF>Sanddollar</color> für ein Heimprojekt. 3 <color=#39CCFF>Sanddollar</color> sollten genug sein. Vielen Dank im Voraus für deine Hilfe!
+Lucias Sanddollar
+Das ist also <color=#39CCFF>Heidelbeersalat</color>? Sieht köstlich aus![]Hier, ich hoffe, der Handel ist in Ordnung.
+Liefere einen <color=#39CCFF>Heidelbeersalat</color> an Lynn.
+Hilfe, bitte!
+Ich habe gerade von etwas erfahren, das <color=#39CCFF>Heidelbeersalat</color> heißt. Er klingt lecker und exotisch, aber ich traue mir nicht zu, ihn richtig zu machen. Würde mir jemand, der das Rezept kennt, bitte etwas davon mitbringen? Ich kann gegen eine Rüstung tauschen!
+Lynns Heidelbeersalat
+Oh hi XX, wofür sind die Tische? ... Ach ja, mein Aushang! Ich hätte nicht gedacht, dass sich tatsächlich jemand meldet. Du bist ein Lebensretter, XX.
+Bastle 3 <color=#39CCFF>Holztische</color> und bringe sie zu Liam.
+Bastle einen Tisch
+Diese <color=#39CCFF>Paprikaschoten</color> sehen gut und würzig aus. Danke Farmer! Nimm ein wenig Gold für deine Mühe.
+Mari will Ronald einen Streich spielen, und sie braucht <color=#39CCFF>Paprika</color>. Bringe 5 <color=#39CCFF>Paprika</color> zu Mari in die Taverne.
+Ich suche nach <color=#39CCFF>Paprika</color>! 
+Ich brauche 5 <color=#39CCFF>Paprika</color>, damit ich Ronald damit austricksen kann. Er ist so ein Weichei bei scharfem Essen! Bring sie einfach in der Taverne vorbei - aber sprich mit mir und nicht mit Ronald! Ich werde natürlich für deine Hilfe bezahlen.
+- Mari
+Maris Paprika
+Hey, XX. Oh - du hast das <color=#39CCFF>Mithrilschwert</color> mitgebracht! Ich hatte Solon oder Lynn erwartet, aber du scheinst dich mit einem Amboss auszukennen![]Hier ist deine Bezahlung, Farmer. Vielen Dank für die Hilfe!
+Bringe Nathaniel ein <color=#39CCFF>Mithrilschwert</color> für die Fortbildung. Du kannst <color=#39CCFF>Mithrilschwerter</color> aus Mithrilerz herstellen, das du in den Minen findest.
+Achtung Sun Haven!
+Hier ist Nathaniel! Ich benötige ein hochwertiges Schwert für das fortgeschrittene Training. Was ich suche, ist ein <color=#39CCFF>Mithrilschwert</color>. Die Armee wird dich großzügig für deine Arbeit entschädigen.
+- Cpt. Nathaniel
+Nathaniels Ausrüstung
+Farmer, du bist ein Lebensretter. Ich weiß nicht, was wir ohne diese <color=#39CCFF>Zwiebeln</color> getan hätten.[]Dachtest du, ich würde deinen Sold vergessen? Ha, keine Chance!
+Die Taverne ist knapp an <color=#39CCFF>Zwiebeln</color>. Bringe 10 <color=#39CCFF>Zwiebeln</color> zu Ronald in die Taverne.
+HILFE GEBRAUCHT!
+Unsere üblichen Lieferanten haben eine Lieferung verpasst, so dass das Lager der Taverne jetzt knapp an <color=#39CCFF>Zwiebeln</color> ist! Wir zahlen in der Taverne den Höchstpreis für 10 <color=#39CCFF>Zwiebeln</color>. Bitte sei schnell!
+- Ronald
+Zwiebeln für Ronald
+Wow, die sind wirklich schwer! Das heißt, sie sollten perfekt funktionieren. Vielen Dank, Farmer![]Hier ist deine Bezahlung!
+Peter braucht eine <color=#39CCFF>Kupferhose</color>, um seinen Halt zu behalten. Fertige oder kaufe eine <color=#39CCFF>Kupferhose</color> für Peter. Du kannst sie an einem Amboss mit Kupfererz aus den Minen herstellen.
+Gesucht: <color=#39CCFF>Kupferhose</color>
+Gestern wurde ich von einem riesigen Fisch von den Füßen gerissen! Jetzt brauche ich eine gute, schwere <color=#39CCFF>Kupferhose</color>, um meine Füße in der zweiten Runde auf dem Boden zu halten. Jeder, der die Fähigkeiten hat, sie zu machen, kann sie mir direkt liefern. Ich zahle!
+- Peter
+Peters Seehose
+Oh, danke XX. Ich habe das wirklich gebraucht - mein Kopf bringt mich um. Hier, nimm das als Dankeschön.
+Pinto hat sich den Kopf gestoßen und braucht etwas Schmerzlinderung. Finde einen <color=#39CCFF>Wasserkristall</color> und bringe ihn zu ihm in die Kaserne.
+Hallo, dies ist mein erstes Mal, dass ich dieses Brett benutze. Ich bin auf der Suche nach einem <color=#39CCFF>Wasserkristall</color>. Niemand in der Kaserne scheint einen zu haben. Ich habe mir heute Morgen den Kopf gestoßen und habe schon den ganzen Tag Kopfschmerzen. Bitte komm schnell mit einem <color=#39CCFF>Wasserkristall</color> zurück.
+- Pinto
+Pintos Kopfschmerzen
+Ist das für den Aushang, das ich ans Schwarze Brett gehängt habe? Prima! Damit werde ich mir eine coole Rüstung basteln. Dann kann ich vielleicht Allison beeindrucken.[]Oh, Bezahlung. Richtig, äh... sorry, das ist alles, was ich habe.
+Pinto braucht ein paar Materialien zum Basteln. Bringe 2 <color=#39CCFF>Adamantbarren</color> zu Pinto in die Kaserne.
+Hallo, alle zusammen. Ich hoffe, dass jemand 2 <color=#39CCFF>Adamantbarren</color> für mich finden kann, damit ich eine bessere Rüstung herstellen kann. Bitte bringe sie zu Pinto in der Kaserne, danke.
+Pintos Aushang
+Haha - sie sind doch für Streiche gedacht![]Nimm diese Handschuhe. Sie passen nicht und sind zu schwer.
+Pod fragt nach <color=#39CCFF>Eiern</color>, aber es scheint, als ob er etwas im Schilde führt. Bringe Pod 5 <color=#39CCFF>Eier</color>.
+Hilfe! Ich brauche <color=#39CCFF>Eier</color>. Es ist nicht für Streiche gedacht, dafür sind sie wirklich nicht gedacht. Ich brauche 5 <color=#39CCFF>Eier</color>! 
+Pods Scherz
+Oh, du hast die <color=#39CCFF>Äpfel</color> mitgebracht! Das ist genau das, was wir brauchen, danke Farmer. Vielleicht lernt Pinto gerade zu stehen, während ich ihm einen <color=#39CCFF>Apfel</color> vom Kopf schieße!
+Bringe 5 <color=#39CCFF>Äpfel</color> zu Roza in die Kaserne.
+GEBRAUCHT: 5 <color=#39CCFF>Äpfel</color> zu den Kasernen für Zielübungen. Spreche mit Roza für die Bezahlung.
+Übungsäpfel
+Gott sei Dank, dass jemand durchgekommen ist. Wenn ich noch eine weitere schlaflose Nacht durchmache, weiß ich nicht, was mit mir passieren würde.[]Hier Farmer, das sollte die Platte abdecken und noch einiges mehr. Herzlichen Dank!
+Raimi hat Probleme zu schlafen. Bring ihm eine <color=#39CCFF>Wiegenlied Platte</color> aus dem Plattenladen.
+Kann nicht schlafen, brauche Hilfe!
+Ich habe gehört, dass es eine schöne Platte im Plattenladen gibt, die mir beim Einschlafen hilft. Kann mir jemand eine <color=#39CCFF>Wiegenlied Platte</color> bringen? Ich habe seit Ewigkeiten nicht mehr gut geschlafen, also wäre ich sehr dankbar dafür!
+- Raimi
+Raimis Wiegenlied
+Uff - das wird reichen! Das ist perfekt, Farmer. Vielen Dank.[]Oh, der <color=#39CCFF>Erddünger I</color>? Der Verlierer des Rennens muss ihn in der Nacht als Kopfkissen benutzen. Heheheh...
+Aus irgendeinem Grund braucht Roza einen Sack <color=#39CCFF>Erddünger I</color>, um die Soldaten in einem Staffellauf zu motivieren. Bringe 1 <color=#39CCFF>Erddünger I</color> zu Roza in die Kaserne.
+BENÖTIGT: 1 SACK <color=#39CCFF>ERDDÜNGER I</color>
+Wir machen diese Woche Staffelläufe in der Kaserne, und ich sorge dafür, dass die Soldaten motiviert sind. Ich zahle 200 Gold aus eigener Tasche für einen Sack <color=#39CCFF>Erddünger I</color>. Je stinkender, desto besser.
+- Roza
+Rozas Dünger
+Oh, das ist aber ein schönes Exemplar. Vielen Dank, Farmer. Hier, dafür, dass du so eine Schönheit gefangen hast.
+Anscheinend liebt Solon <color=#39CCFF>Aal</color>. Fange einen <color=#39CCFF>Aal</color> und bringe ihn zu Solon. Du kannst <color=#39CCFF>Aal</color> beim Fischen fangen.
+Hört zu! Ich möchte, dass mir jemand einen <color=#39CCFF>Aal</color> bringt. Es ist schon zu lange her, dass ich mein Lieblingsgericht gegessen habe, also zahle ich großzügig. Je früher, desto besser.
+Solons Lieblingsspeise
+Der Farmer ist also der erste, der auftaucht! Die Rüstung, die du mitgebracht hast, sieht auch gut gemacht aus. Das sollte verhindern, dass diese Attrappen so schnell auseinanderfallen - es ist unmöglich zu trainieren, wenn meine Attrappen nur fünf Minuten halten.[]Ich weiß das zu schätzen, Farmer. Hier ist das Gold für dich.
+Sophie braucht eine Rüstung für das Training. Bringe eine <color=#39CCFF>Kupferbrustplatte</color> zu Sophie in der Nähe des Drachenzugs im Norden der Stadt. Du kannst eine <color=#39CCFF>Kupferbrustplatte</color> mit Kupfererz aus den Minen herstellen.
+Achtung, Bürger!
+Ich benötige eine zusätzliche Rüstung für mein Training. Ich zahle 600 Gold für eine <color=#39CCFF>Kupferbrustplatte</color>. Ich habe es eilig, weiter zu trainieren, also beeil dich!
+- Sophie
+Sophies Rüstungsquest
+Na toll! Darauf habe ich schon gewartet. Wenn Calvin heute Abend dienstfrei hat, werde ich ihn dazu bringen, seine Worten Taten folgen zu lassen.[]Danke, Farmer. Nimm das Erz, wie ich es versprochen habe.
+Sophie hat eine Wette mit Calvin und braucht 3 <color=#39CCFF>Adamantbarren</color>. Bringe die <color=#39CCFF>Adamantbarren</color> zu Sophie. Du kannst <color=#39CCFF>Adamantbarren</color> herstellen, indem du Adamanterz mit deinem Schmelzer verwendest.
+Dies ist ein Aufruf mit der Bitte um 3 <color=#39CCFF>Adamantbarren</color>. Mit diesen Barren beabsichtige ich, Calvin das Gegenteil zu beweisen, indem ich sie mit meinem Eisenschwert sauber durchhacke. Ich bin bereit, im Gegenzug 6 Mithrilerz zu tauschen.
+Sophies Stärkeprüfung
+XX, mein Held! Dieser Tisch ist so süß, er ist perfekt. Ich kann es kaum erwarten, alle meine Dekorationen darauf zu stellen. Nochmals vielen Dank, XX!
+Fertige einen <color=#39CCFF>Holztisch</color> an und bringe ihn zu Kitty.
+Verschönerungssaison
+Sind das wirklich 25 <color=#39CCFF>Steine</color>? Oh-oh, ich hätte nach mehr fragen sollen... aber das ist ein wirklich guter Anfang. Danke, Farmer!
+Topi will eine Brücke aus <color=#39CCFF>Steinen</color> bauen. Bringe ihm dafür 25 <color=#39CCFF>Steine</color> aus den Minen.
+Bitte hilf mir!
+Ich brauche <color=#39CCFF>Steine</color>, um eine Brücke zu bauen! Ich brauche soooo viele, um eine ganze Brücke zu bauen. 25 <color=#39CCFF>Steine</color> sollten genug sein!
+- Topi
+Topis Brücke
+Also gut, <color=#39CCFF>Kohle</color>! Ich werde so tun, als ob ich Tattoos auf Pod malen würde. Hier, du kannst diesen coolen Stein haben, den ich gefunden habe.
+Topi bittet um 5 <color=#39CCFF>Kohle</color>, damit er und Pod sich gegenseitig anmalen können. Wider besseres Wissen bringst du Topi 5 <color=#39CCFF>Kohle</color>.
+Hallo! Hier ist Topi. Ich möchte <color=#39CCFF>Kohle</color>, damit Pod und ich aufeinander zeichnen können. Bitte bringe 5 <color=#39CCFF>Kohle</color> mit!
+Topis Tattoos
+Hey, meine <color=#39CCFF>Steine</color>! Vielen Dank, Farmer. Du bist ein toller Nachbar.
+Dr. Wornhardt braucht Hilfe, um in seinem Büro Ordnung zu halten. Bring ihm 5 <color=#39CCFF>Steine</color>, damit der Wind seine Papiere nicht herumweht. Du kannst <color=#39CCFF>Steine</color> in den Minen finden.
+Wenn jemand Zeit hat, könnte ich etwas Hilfe gebrauchen, um mein Büro in Ordnung zu halten. Ich liebe es, bei offenem Fenster zu arbeiten, aber der Wind bläst meine Papiere immer auf den Boden. Kann mir jemand einfach 5 <color=#39CCFF>Steine</color> bringen, um sie zu beschweren? Das wäre großartig!
+Wornhardts Briefbeschwerer
+Sind das die Holzscheite, die ich brauche? Danach wird dem Krankenhaus nie wieder das Holz ausgehen! Vielleicht habe ich sogar ein bisschen übertrieben, als ich nach so viel <color=#39CCFF>Holz</color> gefragt habe...[]Na ja - danke für die Hilfe!
+Das Krankenhaus ist knapp an Zungenspateln. Bringt Dr. Wornhardt 25 <color=#39CCFF>Holz</color>, damit das Krankenhaus nie wieder leer wird.
+Das Krankenhaus braucht deine Hilfe!
+Jeder, der etwas Zeit hat, könnte mir bei der Versorgung helfen. Ich habe fast keine Zungenspatel mehr im Krankenhaus. Wenn jemand 25 <color=#39CCFF>Zungenspatel</color> zu mir bringen könnte, würden sie mir nie wieder ausgehen! Vielen Dank im Voraus!
+Wornhardt's Vorräte
+Bauernhof
+Der Strand
+der Strand-Kampfsaal
+die Brücke
+Aufstieg
+Drachentreef
+das Krankenhaus
+die Bäckerei
+die Kaserne
+der Schmied
+der Kleiderladen
+der Farmerladen
+der Gemischtwarenladen
+die Bibliothek
+Annes Haus
+Catherines Haus
+Wornhardts Haus
+Juns Haus
+Kittys Haus
+Liams Haus
+Lucias Haus
+Lynns Haus
+Nathaniels Haus
+die Tierhandlung
+der Plattenladen
+der Salon
+Die Taverne
+das Rathaus
+der Steinbruch
+Das Weizenfeld
+Das Withergate
+Test 12354534534535
+Romantik-Händler
+100
+Cafe
+E
+Elfenblatt-Couch
+Das würde sicher toll in deinem Haus oder auf deiner Farm aussehen. 
+<color=#6B7DA1>(Linksklick zum Platzieren)</color>
+Tierleine
+Leine ein Tier an, damit es dir folgt. Wird auch benutzt um ein Tier abzuleinen.
+Tierfutter
+Leckeres Essen für deine Stall- und Haustiere!
+Liebesbrief
+Schenke dies einem NSC um ihn zu daten.
+Dev Axe
+Fälle Bäume mit diesem Werkzeug.
+<color=#6B7DA1>(Mit Linksklick auf Bäume benutzen)</color>
+Rostige Axt
+Kupferaxt
+Eisenaxt
+Adamantaxt
+Mithrilaxt
+Sunitaxt
+Kupferangel
+Höchste Zeit, Fische zu fangen!
+<color=#6B7DA1>(Halte die linke Maustaste um die Leine auszuwerfen)</color>
+Mithrilangel
+Sunitangel
+DevHoe
+Gräbt Gras zu Ackerland um
+<color=#6B7DA1>(Linksklick zum umgraben)</color>
+<color=#6B7DA1>(Rechtsklick zum umkehren)</color>
+Rostige Hacke
+Kupferhacke
+Eisenhacke
+Adamanthacke
+Mithrilhacke
+Sunithacke
+Dev Pickaxe
+Schlage Steine mit diesem Werkzeug auf. Auch nützlich um Dekorationen aufzusammeln.
+<color=#6B7DA1>(Mit Linksklick auf Steine oder Dekorationen benutzen)</color>
+Rostige Spitzhacke
+Eisenspitzhacke
+Adamantspitzhacke
+Mithrilspitzhacke
+Sunitspitzhacke
+Armbrust
+Rüste diese Fernwaffe aus auf deinem Weg zum Sieg.
+<color=#6B7DA1>(Mit Linksklick schießen)</color>
+<color=#6B7DA1>(Mit Rechtsklick Pfeilhagel auslösen)</color>
+Schwere Armbrust
+Elfenarmbrust
+Mithrilarmbrust
+Rel'Tar's Zeichen (Armbrust)
+Sense
+Eine typische Sense um Feldfrüchte zu ernten oder Gräser zu schneiden. Kein Farmer braucht je eine bessere.
+<color=#6B7DA1>(Mit Linksklick schwingen)</color>
+Dev Scythe
+Eisenschwert
+Rüste diese scharfe Waffe aus auf deinem Weg zum Sieg.
+Adamantschwert
+Sunitschwert
+Erddünger II
+Düngt eine Feldfrucht und sorgt dafür, dass sie deutlich mehr Ertrag bringt.
+<color=#6B7DA1>(Mit Linksklick auf Feldfrucht benutzen)</color>
+Feuerdünger I
+Düngt eine Feldfrucht und sorgt dafür, dass diese schneller wächst.
+Feuerdünger II
+Düngt eine Feldfrucht und sorgt dafür, dass diese deutlich schneller wächst.
+Wasserdünger I
+Düngt eine Feldfrucht und sorgt dafür, dass die Chance erhöht wird, dass diese über Nacht gewässtert bleibt.
+Wasserdünger II
+Düngt eine Feldfrucht und sorgt dafür, dass die Chance deutlich erhöht wird, dass diese über Nacht gewässtert bleibt.
+Knochengeschenk
+Ein tolles Geschenk für ungewöhnliche Freunde!
+Halm
+Ozean-Schatzkiste
+Gefallener Baumstamm
+Feder
+Ein Material, welches sich hervorragend zur Weiterverarbeitung eignet.
+Manakugeln
+Bonus Mana
+Havenite
+Ohh, glänzend.
+Adamanteis
+Rohe Materialien, welche in eine nützlichere Form eingeschmolzen werden, damit man aus ihnen Dinge herstellen kann.
+Suniterz
+Golderz
+Rohes Material, welches für ziemlich viel Geld verkauft werden kann. Kann nur zu Goldbarren geschmolzen werden.
+Erdkristall
+Glänzend und nützlich. Hilft deinen Feldfrüchten, wenn du ihn zu Dünger verarbeitest.
+Kupferbarren
+Geschmolzen aus Erz, ist dies der Grundstein für die Schmiedekunst.
+Eisenbarren
+Mithrilbarren
+Rostiger Schlüssel
+Du wirst ohne diesen nicht weit kommen.
+<color=#6B7DA1>(Auf Minentor benutzen zum öffnen)</color>
+Kupferschlüssel
+Eisenschlüssel
+Adamantschlüssel
+Mithrilschlüssel
+Sunitschlüssel
+Bushies Stock
+Die Überreste eines gefallenen Feindes.
+Löwenpfeife
+Darauf zu reiten, ist sicher besser als laufen.
+<color=#6B7DA1>(Linksklick zum rufen/wegschicken)</color>
+Skateboardpfeife
+Hexenbesenpfeife
+Stufe 2 Hausverbesserung
+Verbessert das Haus auf Stufe 2.
+Stufe 3 Hausverbesserung
+Verbessert das Haus auf Stufe 3.
+Stufe 2 Hausgenehmigung
+Benötigt um eine Stufe 2 Hausverbesserung an einer Werkbank herzustellen. Wird durch Bernard im Rathaus verkauft.
+Stufe 3 Hausgenehmigung
+Benötigt um eine Stufe 3 Hausverbesserung an einer Werkbank herzustellen. Wird durch Bernard im Rathaus verkauft.
+Hauszerstörungswerkzeug
+Zerstört ein ausgewähltes Haus.
+Hölzerne Kommode
+Kerze
+Regal
+Babytisch
+Withergate Lampe
+Haus
+Platziere dein Haus!
+Scheune
+Das würde toll aussehen in deinem Haus oder auf dem Hof.
+Holztor
+Gegenstände können hier gelagert werden.
+Holzzaun
+Großes Fenster
+Laterne
+Goldener Plattenspieler
+Spielt Platten ab.
+Plattenspieler
+Blauer Teppich
+Sun Haven Teppich
+Trainingsattrappe
+Vogelscheuche
+Schlafendes Monster am Stadtnordeingang
+Schlafendes Monster an der verzweigten Straße
+Schlafendes Monster im Wald
+Snacoon Farm
+Snacoon Foresta
+Blaues Bett
+Kleiner Busch im Kübel
+Schwarzer Kühlschrank
+Hasenkühlschrank
+Große Pflanze
+Roter Teppich
+Snacoon Forestf
+Snacoon Nelvari
+Sun Haven Kühlschrank
+Einfacher Kühlschrank
+Kessel
+Blauer runder Holztisch
+Picknicktisch
+Küchenspüle-Theke
+Blauer langer Holztisch
+Langer Holztisch
+Dunkler runder Holztisch
+Runder Holztisch
+Barocker Halbmondtisch
+Blaues Holztischende
+Barocker Beistelltisch
+Blaue abstrakte Holzskulptur
+Gigantischer lila Teddybär
+Langer Holzauslagetisch
+Rote Truhe
+Holztruhe
+Glühwürmchen-Glas
+Mantel Uhr
+Kleiner roter Kosmetikspiegel
+Weiße schläfrige Katze
+Blaue Elfenvase
+Rote Elfenvase
+Grüne Elfenvase
+Erdige Elfenvase
+Hölzerne Huhnskulptur
+Rote und orange Flaschen
+Blaue und grüne Flaschen
+Gelbe Blume
+Grüner Strumpf
+Roter Strumpf
+Blauer Strumpf
+Berg an Geschenken
+Rotgrüner Strumpf
+Goldene Truhe
+Schneekumpel
+Schneeige Strümpfe
+Kranzständer
+Kranz
+Goldene Löwenstatue
+Lila Steppsofa
+Brauner Lederhocker
+Fluffiger blauer Hocker
+Hölzerner Hocker
+Lila Hocker
+Blauer Hocker
+Fluffiger Teppich
+Goldene Säule
+Schwarzer Teppich
+Hellblauer Teppich
+Goldenes Tierhaus
+Hasenmatte
+Withergatematte
+Weiße Tischlampe
+Blaue Tischlampe
+Grüne Tischlampe
+Lila Tischlampe
+Rote Tischlampe
+Weiße Bodenlampe
+Sichelpflanze
+Kaktuspflanze
+Kitty Kaktus
+Zenpflanze
+Oshopflanze
+Traumhaftes Gemälde
+Ovales Baumgemälde
+Kleines "Sonniger Tag"-Gemälde
+Kleines "Nacht"-Gemälde
+Kleines "Sonnenuntergang"-Gemälde
+Schwarze Katze Gemälde
+Friedlicher Wasserfall Gemälde
+Elegantes Gemälde
+Wilde Pilze Gemälde
+Wirbelnde Nacht Gemälde
+Stimmungsvolle Blume Gemälde
+Gespentisches Gemälde
+Organisches Gemälde
+Hackbraten Gemälde
+Geode Gemälde
+Goldener Kamin
+Gelbes Bett
+Wolkenbett
+Schöne Kommode
+Mystics Buchregal
+Schönes Buchregal
+Warmes Holzwandregal
+Goldener Kühlschrank
+Goldene Couch
+Goldenes Piano
+Goldteppich
+Wildblumen Gemälde
+Goldene Schlangenvase
+Kuhplüschtier
+Triceratopsplüschtier
+Glückliche Katze Plüschtier
+Oktopusplüschtier
+Rosa Elephantenplüschtier
+Blaues Elephantenplüschtier
+Pinguinplüschtier
+Hundeplüschtier
+Baby Panda Plüschtier
+Schwarze Katze Plüschtier
+Rosa Katze Plüschtier
+Gigantischer Teddybär
+Gigantischer rosa Teddybär
+Ferkel Plüschtier
+Baby Elios Plüschtier
+Withergate Apartment Beistelltisch
+Withergate Apartment Teppich
+Withergate Apartment Tisch
+Withergate Apartment Stuhl
+Withergate Apartment Theke
+Tontopf
+Lila Teekessel
+Grüne Edelsteinflasche
+Rote Edelsteinflasche
+Lila Federkiel
+Schmetterling Wanddisplay
+Schaukelstuhl
+Sonnenblumen Teppich
+Große rote bequeme Beistellcouch
+Großer Kesseltopf
+Großer leckerer Kuchen
+Waffenständer
+Metallsondenwandplakette
+Roter Barhocker
+Epischer Rüstungsständer
+Gigantische Sonnenblumen
+Große Blättlingpflanze
+Beistelltisch
+Metallene Kaffeekanne
+Gläserene Kaffeekanne
+Runde Wanduhr
+Boho runder Teppisch
+Orchestraler Bass
+Harfe
+Rote Rose
+Großvateruhr
+Holzscheitel
+Kleine weiße Säule
+Piano
+Kandelaber
+Große Kandelaber
+Lila Couchsessel
+Kleine schwarze Säule
+Königlicher Withergateteppich
+Königliche schwarze Säule
+Stachelige Dämonenpflanze
+Prinz Darius Büste
+Königlicher Withergatekamin
+Blaumer Fransen-Samtteppich
+Runder blauer Holzkaffeetisch
+Blaue Schließflächer
+Ampel
+Spielautomat
+Dämonen Drama-TV
+Verkehrskegel
+Gehweg-Geschlossen Schild
+Schwarzer Reifen
+Straßenschild Collage
+Kaugummiautomat
+Rotes Neon-Türlicht
+Froggy Buddy
+Kehrbesen
+Kessel mit geheimnisvoller grüner Flüssigkeit
+Hellgrüne Beistellcouch
+Umhangsständer
+Rotes Bankierlicht
+Verzieter Teppich in Blaugrün und Gelb
+Staffelei
+Holzleiter
+Pflanzenständer
+Geschnitzter Elfen-Quadrattisch
+Geschnitzter langer Elfentisch
+Blaue Kissen-Beistellcouch
+Sammlerregal
+Rosa Tischläufer Esstisch
+Industrieller Kochherd
+Couchsitz aus braunem Leder
+Haustier-Wassernapf
+Hase Poster
+Nachthimmel-Truhe
+Sun Haven Kamin
+Gelber Shaggy-Teppich
+Astrologischer Globus
+Rote gesteppte Couch
+Häschen-Karotten-Malerei
+Haustiertrage
+Zähes Seil-Haustierspielzeug
+Blaues Haustierhaus
+Lila Haustierhaus
+Rotes Haustierhaus
+Braunes Haustierhaus
+Rosa Haustierhaus
+Kiste mit Fetch Balls
+Korb mit Garnkugeln
+Holzkiste mit Schallplatten
+Rote Kiste mit Schallplatten
+Hängendes Wandvinyl
+Türkisfarbener Couchsitz
+Retro-Pinguin-Plattencover
+Imitat-Tiger-Teppich
+Grüner Couchsitz aus Leder
+Roter Hocker aus glänzendem Leder
+Oranger Hocker aus glänzendem Leder
+Hocker aus glänzendem Leder in Gelb
+Grüner Hocker aus glänzendem Leder
+Türkisfarbener Hocker aus glänzendem Leder
+Hocker aus glänzendem Leder in Lila
+Kleines Pony-Malerei
+Künstliches Einhorn-Wandtrophäe
+Künstliche Drachen-Wandtrophäe
+Kleine Sonnenblume
+Große Sonnenblume
+Üppiges Vogelbad
+Hängende Wandpflanze
+Großer weißer flauschiger Teppich
+Mausfreund Dekoration
+Spülbeckenzähler in Dunkelgrün
+Riesenrad Miniaturmodell
+Freche Pflanze
+Pilztrampolin
+Zugwagen aus Holz
+Holzwindmühle
+Holzbank
+Lagerfeuer
+Lange blaue Holzbank
+Lange lila Holzbank
+Statischer Fernseher
+Retro-Fernseher
+Retro Karnevalsfernseher
+LED-Fledermaus-Banner
+Stehender Sarg
+Jack-O-Stack
+Mystisches Auge-Banner
+LED Totenkopf Banner
+Karnevalsflieger
+Kessel mit geheimnisvoller Orangenflüssigkeit
+Verzierter quadratischer blauer Teppich
+Blauer seitlicher Couchsitz aus Leder
+Langer roter Wüstenteppich
+Neon Bat
+Neon-Drachen-Kopflicht
+Withergate-Bett
+Schwarzer Couchsitz
+Einfacher Kamin
+Sternenstuhl
+Regenbogenwolke Wandleuchte
+Wolkencouch
+Wolkentisch
+Wolkenwandregal
+Wolkengarderobe
+Eiscremebett
+Eiscreme-Couch
+Eiscreme-Lampe
+Eiscreme-Beistelltisch
+Eiscreme-Garderobe
+Eiscreme-Teppich
+Eiscreme-Stuhl
+Eiscreme-Wandregal
+Eiscreme-Tisch
+Wolken-Nachttisch
+Elfenblattbett
+Elfenblatt-Wandbücherregal
+Elfenblattstuhl
+Elfenblattlampe
+Elfenblatt-Nachttisch
+Elfenblatt-Teppich
+Elfenblatt Kleiderschrank
+Orangenscheiben-Bett
+Orangenscheiben-Tisch
+Orangenscheiben-Stuhl
+Orangenscheiben-Lampe
+Orangenscheiben-Nachttisch
+Orangenscheiben-Teppich
+Orangenscheiben-Garderobe
+Orangenscheiben-Bücherregal
+Orangenscheiben-Couch
+Schwarzer Teppich mit langen Fransen
+Espresso gepolsterte Beistellcouch
+Schwarze gepolsterte Beistellcouch
+Schwarzer verzierter ovaler Teppich
+Brauner verzierter ovaler Teppich
+Gelbe tiefe Couch
+Red Burst Couch
+Hellgraue Diamantcouch
+Blaue Samtcouch
+Braune Geo Couch
+Erdige gestreifte Couch
+Withergate Couch
+Withergate Stuhl
+Withergate-Tabelle
+Schachbrett
+Lila Fledermaus-Teppich
+Lila Ottomane
+Coole Katzencouch
+Neonrosa L Schreibtisch
+Rosa Buntglasfenster
+Goldbett
+Schmetterlingsstatue A
+Bett
+Nettes Doppelbett
+Nettes Sofa
+Netter Holznachttisch
+Holztheke
+Fertige hier Gegenstände an.
+Verarbeitet Erz in Barren.
+Verarbeitet Barren in nützliche Werkzeuge und Rüstungen.
+Stellt Dekorationen für dein Haus oder deine Farm her.
+Verarbeitet Feldfrüchte und Zutaten in leckeres Essen.
+Zermahlt Weizen und Grünwurzel zu Tiefutter und Kochzutaten.
+Lynns Amboss
+Nette Holzlampe
+Hasen-Beistelltisch
+Hasen-Garderobe
+Hasen-Couch
+Hasen-Tisch
+Karrotten sind blöd.
+Hasen-Lampe
+Beerenfutter
+Geldsackfutter
+Manabandfutter
+Futtertruhe
+Rote Pilze-Futter
+Feuerkristall-Futter
+Erdkristall-Futter
+Zerbrechbarer Topf
+Drachentruhe
+Verließtruhe
+Wasserkristall-Futter
+Kleiner Geldbeutel
+Beinhaltet eine kleine Menge an Geld.
+<color=#6B7DA1>(Rechtsklick zum Benutzen)</color>
+Kleiner Manaband
+Enthält eine kleine Menge Mana.
+Großer Manaband
+Enthält eine große Menge Mana.
+Pizzabox
+Auf der Pizzabox steht, dass die Pizza für 4 ist. Alle 4 für mich!
+ <color=#6B7DA1>(Rechtsklick zum Öffnen)</color>
+Kugel
+Enthält eine Kugel.
+Ticket
+Enthält ein Ticket.
+Kupfererzbrocken
+Eisenerzbrocken
+Adamanterzbrocken
+Mithrilerzbrocken
+Suniterzbrocken
+Golderzbrocken
+Kohlebrocken
+Saphirbrocken
+Rubinbrocken
+Amethystbrocken
+Diamantbrocken
+Havenitbrocken
+Steinbrocken 1
+Steinbrocken 2
+Steinbrocken 3
+Steinbrocken 4
+Steinbrocken 5
+Steinbrocken 6
+Steinbrocken 7
+Largerock1
+Holzboden
+Super zum Laufen.
+<color=#6B7DA1>(Linksklick um den Pfad auf deine Farm zu platzieren)</color>
+Steinboden
+Werkstattboden
+Apfelbaum
+Claude Apfelbaum
+Orangenbaum
+Heidelbeerbaum
+Erdbeerbaum
+Pfirsischbaum
+Himbeerbaum
+Elfenheidelbeerbaum
+Elfenpfirsischbaum
+Elfenhimbeerbaum
+Elfenerdbeerbaum
+Eiche
+Nelvari Baum
+Vakuumulus 
+Benutzt 40 Mana.
+Erzeugt eine arkane Explosion um dich herum, die hohen Schaden an Felsen verursacht und Feinde zurückdrängt. Sammelt automatisch Gegenstände ein.
+Regenwolke
+Benutzt 25 Mana.
+Beschwört eine wandernde Wolke herbei, die auf Feldfrüchte und Ackerboden regnet.
+Erdbeben
+Erzeugt ein Erdbeben in einem Gebiet um dich herum. Verwandelt bebaubares Land in der Nähe in Ackerland.
+Feuerstrahl
+Benutzt 20 Mana.
+Schießt einen Feuerstrahl, der viel Schaden verursacht, in die Richtung des Ziels.
+Feuerball
+Benutzt 5 Mana.
+Schießt einen konzentrierten Feuerball auf Feinde.
+Kettenblitz
+Benutzt 8 Mana. 
+Wirft einen Blitz auf einen Feind. Verkettet sich automatisch mit Gegnern in der Nähe.
+Wunschflasche
+Erfülle alle deine Träume
+Foraging2d
+8% Chance eine Schatzkiste beim Angeln zu fangen
+Combat6d
+Anne
+Steinsplitter
+Mining1a
+Steinbrocken lassen 2 Steine mehr fallen
+Versteckte Naht
+Mining4c
+Geldbeutel haben eine 20% Chance, 1000 Extragold zu geben.
+Ersparnisse
+Mining1c
+Erhallte 150 Bonusgold pro Tag
+Foraging4d
+Fische schwimmen 20% schneller zu deinem Köder
+Gewinnmarge
+Farming3b
+Gekochte Mahlzeiten lassen sich für 20% mehr verkaufen.
+Sauberer Schnitt
+Foraging1b
+Füge Bäumen 20% mehr Schaden zu.
+Expertenbeschwörer
+Combat4a
+Erhalte +20 Maximale Mana
+Farming5a
+Vogelscheucheneffekt +25%
+Expertenreiter
+Foraging6a
+Erhalte 5% mehr Geschwindigkeit auf Reittieren
+Interpretation
+Foraging7a
+Manabände stellen auch 35% der maximalen Mana wieder her
+Agilität
+Combat1b
+Erhalte 10% zusätzliche Angriffgeschwindigkeit
+Schatzjäger
+Mining8c
+Verdoppelt die Rate, mit der Schatzkasten in der Mine auftauchen
+Industriell II
+Mining5c
+Beim Herstellen eines Gegenstands erhältst du zusätzlich 12 Gold.
+Dreifachschuss
+Combat4c
+Erhöht die Anzahl an Pfeilen um 1
+Feuerstrahl
+Combat5a
+Schaltet den Feuerstrahl-Zauber frei. Feuerstrahl kann genutzt werden um einen Strahl, welcher hohen Schaden verursacht, in Richtung eines Gegners für 10 Mana zu schießen.
+Organisch
+Foraging4c
+Alle Früchte können für 75% mehr verkauft werden
+Combat7b
+Mining8b
+Foraging3d
+Nachdem ein Fisch gefangen wurde, bewegst du dich für 15 Sekunden 20% schneller.
+Foraging1c
+Füllhorn
+Foraging8c
+Bäume lassen drei mal so viel Früchte fallen
+Wornhardt
+Chefkoch
+Farming1b
+Stelle Gerichte 25% schneller her.
+Kuss des Kochs I
+Farming4b
+Gekochte Mahlzeiten geben ein Extraherz, wenn sie verschenkt werden
+Jun
+Goldsammler
+Foraging2c
+Geldbeutel haben eine 12% Chance, 1000 Gold zu geben.
+Eile II
+Foraging5a
+Du bewegst dich 5% schneller
+Luftsprung
+Foraging1a
+Drücke doppelt auf die Sprungtaste um während eines Sprungs nach vorne zu schnellen
+Hohe Nachfrage
+Mining4b
+Rüstung verkauft sich für 20% mehr
+Farming6b
+Mystischer Bergbau II
+Mining6c
+Einen Stein mit einer Spitzhacke zu zerbrechen, stellt 2 Mana wieder her
+Foraging8d
+Alles, was du fängst, wird verdoppelt.
+Legendärer Beschwörer
+Combat6a
+Erhalte +35 maximale Mana
+Mining4a
+Kupferbarren können für 100% mehr verkauft werden
+Eile I
+Foraging2a
+Du bewegst dich 8% schneller
+Liam
+Doppelschuss
+Combat2c
+Meisterschwertkämpfer
+Combat2b
+Deine Schläge sind 35% genauer
+Safttrinker
+Foraging4b
+Erhalte 8 Mana wenn du einen Baum fällst
+Combat8d
+Zurückgeben
+Farming5c
+Erhalte 0.5 Mana Regeneration pro 10 Sekunden für jeden voll gefütterten Snacoon
+Foraging6d
+Vakuumulus
+Mining6a
+Schaltet den Vakuumulus Zauber frei. Vakuumulus kann für 40 Mana gewirkt werden, um eine arkane Explosion um dich herum zu erzeugen, die hohen Schaden an Felsen verursacht und Gegner zurückstößt
+Foraging1d
+Seidensparer
+Foraging6b
+Erhalte eine 2. Seide von jedem Spinnennetz
+Combat7a
+Beschwörerneuling
+Combat2a
+Erhalte +15 maximale Mana
+Heißer Schuss
+Combat3c
+Deine Bögen schießen Feuerpfeile. Feuerpfeile verursachen zusätzlichen Schaden
+Regeneration II
+Combat4d
+Erhalte 1 HP regeneration pro 10 Sekunden
+Farming8c
+Industriell I
+Mining2c
+Beim Herstellen eines Gegenstands, erhältst du zusätzlich 8 Gold
+Farming2b
+15% Chance eine Mahlzeit mit höherer Qualität zu kochen
+In deinem Element
+Foraging8a
+Zusätzlich 2 Manaregeneration pro 10 Sekunden während du im Wald oder der Wildnis bist
+Sprengbergbau
+Mining8a
+5% Chance eine Explosion an Erzen zu erhalten, wenn du einen Brocken zerbrichst
+Fruchtbares Land
+Farming7a
+20% erhöhte Chance auf Feldfrüchte mit höherer Qualität
+Regeneration I
+Combat1d
+Erhalte 1 HP Regeneration pro 10 Sekunden
+Combat1a
+Schalte den Feuerballzauber frei. Feuerball kann gewirkt werden, um für 5 Mana einen kleinen konzentrierten Feuerball auf Feinde zu schießen
+Beleben
+Farming4a
+In der Nähe von Feldfrüchten zu stehen, gibt dir zusätzlich 2,5 Mana pro 10 Sekunden
+Kluger Investor
+Mining7c
+Erhalte 5% deine gesamten Golds extra über Nacht. Max. 5.000
+Schnelles Ziehen
+Combat5c
+Holzspalter
+Foraging3b
+Bäume lassen 2 extra Holz fallen
+Mining3b
+Farming4c
+Erhalte ein Samenbündel jede Woche per Post von Catherine
+Kuss des Kochs II
+Farming8b
+Überreste geben 2 Bonusherzen, wenn sie verschenkt werden
+Farming6c
+Förster
+Combat1c
+Erhalte 2 Schaden mehr auf jeden Angriff
+Waldläuferstärkung
+Foraging4a
+Futter aufzusammeln, regeneriert 6 HP und 6 Mana
+Mining6b
+Schwerfällig I
+Foraging2b
+Verursache 50% erhöhten Schaden auf Baumstümpfe
+Farming2a
+Du bewegst dich 15% schneller auf Pfaden
+Scharfschütze
+Combat6c
+Du erhältst 10% erhöhte Chance auf kritische Treffer.
+Überreste II
+Farming7b
+15% Chance eine zweite Überreste-Mahlzeit zu erzeugen. Überreste werden für die Hälfte verkauft und können nicht gegessen werden, sind aber ein tolles Geschenk
+Mining1b
+Regnerischer Tag
+Farming8a
+Schaltet den Regenwolkenzauber frei. Regenwolke kann gewirkt werden, um eine große Regenwolke zu beschwören, die nahegelegene Feldfrüchte für 25 Mana bewässert
+Combat8b
+Mining2b
+Farmer Markt
+Farming1c
+Feldfrüchte können für 10% mehr verkauft werden
+Catherine
+Combat8a
+Combat5b
+Fruchtbarer Boden
+Farming1a
+Erhöht die Chance, dass Feldfruchte über nach gewässert bleiben um 15%
+Foraging5d
+Erhalte 10 Mana nachdem du einen Fisch gefangen hast
+Seelennahrung
+Foraging6c
+Pilze oder Beeren zu essen erhöht deine maximale Mana um 1. Maximal 40 Mana können durch diese Fähigkeit erlangt werden.
+Foraging5b
+Pfeilhagel
+Combat8c
+Schaltet den Pfeilhagelzauber frei. Pfeilhagel kann mit jeder Armbrust gewirkt werden, um eine Salve magischer Pfeile für 10 Mana abzuschießen
+Combat7d
+Doppelter Einsatz
+Foraging5c
+Pilze und Beeren geben 2 statt 1
+Foraging7d
+Aus deiner Region
+Foraging7c
+Futtermittel können für 20% mehr verkauft werden
+Kupfersammler
+Mining2a
+Kupfererzbrocken lassen 1 extra Kupfererz fallen
+Mystischer Bergbau I
+Mining3c
+Einen Stein mit der Spitzhacke zu zerbrechen, stellt 1 Mana wieder her.
+Combat6b
+Dämmerschlaf
+Combat3b
+Erhalte eine 10%ige Chance, ein Monster beim Angriff für 1 Sekunde zu betäuben
+Münzen
+Mining5b
+Combat5d
+Angereichert
+Mining5a
+Erzbrocken haben eine 20% Chance ein extra Erz fallen zu lassen
+Spieler
+Schwerfällig II
+Foraging8b
+Geheimfach
+Foraging3c
+Alle Schatzkisten geben 200 Gold extra
+Nathaniel
+Lynn
+Tillers Trinkgeld II
+Farming7c
+Erhalte 7 Gold zusätztlich pro verkaufter Feldfrucht
+Demnächst verfügbar!
+Tickets
+Claude
+Verständnis
+Foraging3a
+Manabände geben 50% deiner maximalen Mana
+Tillers Trinkgeld I
+Farming3c
+Verformbares Metall
+Mining7b
+Alle Gegenstände brauchen 10% weniger Zeit um hergestellt zu werden
+Freundlicher Farmer
+Farming3a
+Zusätzliche 15% Chance ein zusätzliches tierisches Produkt zu erhalten
+Erdbrecher
+Farming6a
+Schalte den Zauber "Erdbeben" frei. Erdbeben kann gewirkt werden, um schnell Land in der Nähe für 25 Mana zu hacken
+Eingestimmt
+Foraging7b
+In der Nähe eines Baums oder Baumstumpfs zu stehen, regeneriert 1 Mana pro Sekunde
+Meditation
+Combat2d
+Erhalte 1 Mana Regeneration alle 10 Sekunden
+Voltschuss
+Combat7c
+Dein Bogen schießt Blitzpfeile. Blitzpfeile verursachen noch mehr Bonusschaden und fliegen schneller
+Kopfgeldjäger
+Combat4b
+Eine 15%ige Chance, dass das Töten eines Monsters, doppeltes Gold gibt.
+Schwachpunkt
+Mining3a
+Zusätzliche 10% Chance, einen kritischen Treffer auf Steinbrocken zu landen
+Ausbreitung
+Farming2c
+Eine 10%ige Chance eine zusätzliche Feldfrucht zu erhalten
+Überreste I
+Farming5b
+10% Chance eine zweite Überreste-Mahlzeit zu erzeugen. Überreste werden für die Hälfte verkauft und können nicht gegessen werden, sind aber ein tolles Geschenk
+Mining7a
+Gepolsterte Rüstung
+Combat3d
+Erleide 20% weniger Schaden
+Combat3a
+Schalte den Kettenblitz-Zauber frei. Der Kettenblitz kann gewirkt werden, um einen Blitz auf einen Feind zu feuern, der sich automatisch an Feinde in der Nähe kettet.
+Kupferspitzhacke
+Kupferschwert
+Mithrilschwert
+Erddünger I
+Düngert eine Feldfrucht und verursacht, dass diese mehr Ertrag liefert.
+Stein
+Holz
+Holzplanke
+Seide
+Stoff
+Treibholz
+Ein klein bisschen um dir auf deinem Weg zu helfen.
+Sanddollar
+Sternfisch
+Muschel
+Seegras Node
+Kampf EXP
+Farm EXP
+Entdecken EXP
+Bergbau EXP
+Saphir
+Rubin
+Amethyst
+Diamant
+Kupfererz
+Eisenerz
+Mithrilerz
+Kohle
+Rohmaterial, welches toll für das Herstellen ist aber schrecklich zum Verschenken.
+Feuerkristall
+Wasserkristall
+Adamantbarren
+Sunitbarren
+Goldbarren
+Blatt eines Blättlings
+Gequetschte Banane
+Käfermuschel
+Kaktusfeige
+Blitz in einer Flasche
+Geweih
+Holztisch
+Hölzerne Fackel
+Fass mit Schwertern
+Fass mit roten Blumen
+Buchkerzen
+Player Farm Stone Node
+Laub 1
+Laub 2
+Laub 3
+Laub 4
+Laub 5
+Laub 6
+Laub 7
+Laub 8
+Der Prinz von Withergate
+Der wilde Abenteurer
+Der königliche Architekt
+Das musikalische Wunderkind
+Der fürsorgliche Bäcker
+Das liebenswerte Kätzchen
+Der berühmte Arzt
+Die Erzmagierin von Sun Haven
+Die freundliche Hexe
+Der Luftmagier von Nel'Vari
+Die Verzauberin von Nel'Vari
+Die berühmte Kauffrau
+Der Hauptmann der Wache
+Die Ratsherrin
+Der Lehrling des Schmieds 
+Das müssen Petrus' Fänge des Tages sein.
+Untersuche
+Das muss der größte Fisch sein, den Peter je gefangen hat!
+HAT SICH DER GERADE BEWEGT?!
+<i>Crrrroak</i>
+Der Rauch in der Kristallkugel lichtet sich und enthüllt... <color=#39CCFF>scharfe Ramen</color>.[]Der Rauch in der Kristallkugel lichtet sich und enthüllt... einen <color=#39CCFF>kleinen Manawälzer</color>.[]Der Rauch in der Kristallkugel lichtet sich und enthüllt...<color=#39CCFF>Kaktusfeigen</color>. [Der Rauch in der Kristallkugel lichtet sich und enthüllt... einen <color=#39CCFF>Rubin</color>.[]Der Rauch in der Kristallkugel lichtet sich und enthüllt... einen <color=#39CCFF>Saphir</color>.[]Der Rauch in der Kristallkugel lichtet sich und enthüllt... einen <color=#39CCFF>Amethyst</color>.
+Das müssen die Holzbearbeitungswerkzeuge von Iris sein. Es sieht so aus, als wären sie schon lange nicht mehr benutzt worden.
+Dieser magische Spiegel zeigt, was er gesehen hat. Im Moment zeigt er Vaan, wie er eine dampfende Schüssel <color=#39CCFF>rote Gemüsesuppe</color> isst.[]Dieser magische Spiegel zeigt, was er gesehen hat. Gerade jetzt zeigt er, wie Vaan ein Glas <color=#39CCFF>Honig</color> auf den Boden fallen lässt. Ist der Boden deshalb so klebrig?[]Dieser magische Spiegel zeigt, was er gesehen hat. Im Moment zeigt er Vaan, der ein <color=#39CCFF>Cape</color> modelliert.
+Das ist eine Phönixfeder! Man sagt, dass man nur eine bekommt, wenn man einen Phönix am Himmel trifft. Es ist ein Zeichen des Glücks!
+Es ist eine komplette Nachbildung des Riesenrads von Withergate, aber in Miniatur. So muss Xyla auch den Bau der ganzen Stadt geplant haben. Die Details sind unglaublich!
+"Die GEFÄHRLICHSTE PFLANZE der Welt - <color=#39CCFF>Bissige Pflanze</color>!"[]Diese ganze Seite scheint ausschließlich <color=#39CCFF>Holzarmbrüsten</color> gewidmet zu sein.[]Das sieht aus wie ein Magazin voller <color=#39CCFF>Plüschtiere</color> aller Art.
+Lügen
+Ist das die Einkaufsliste von Donovan? Da steht nur "<color=#39CCFF>Fleisch</color>."[]"3 Schritte zum perfekten <color=#39CCFF>Eierhasch</color>!"[]"Du suchst ein klassisches Geschenk, ohne die Bank zu überfallen? Nichts geht über einen guten altmodischen <color=#39CCFF>Knochen</color>!"[]"<color=#39CCFF>Müllstiefel</color>, das Mysterium im Anmarsch"[]Diese Fettflecken können nur von <color=#39CCFF>Pizza</color> stammen. []Eine seltsame handschriftliche Notiz am oberen Rand der Seite lautet: "Bestes Sandwich - <color=#39CCFF>BLT</color> oder <color=#39CCFF>Cheeseburger</color>??"
+Das ist ein großer Knochen! Da sind Bissspuren an einem Ende... Wie hat Donovan den bekommen?
+Das Magazin ist aufgeschlagen und zeigt eine Seite mit einem Rezept für <color=#39CCFF>Mondkuchen</color>.[]Es scheint einen Artikel von jemandem namens "Der schlaue Schwertkämpfer" zu geben.[]Sie haben eine Rangliste der Schwerter von den besten bis zu den schlechtesten erstellt: <color=#39CCFF>Kupferschwert</color>, <color=#39CCFF>Eisenschwert</color>, <color=#39CCFF>Adamantschwert</color>, <color=#39CCFF>Mithrilschwert</color>, <color=#39CCFF>Sunitschwert</color>. [Das Magazin ist aufgeschlagen und zeigt eine Seite voller Bilder von glitzernden <color=#39CCFF>Diamanten</color>. Sie scheinen alle einzeln eingekreist zu sein.[]"Die schärfsten <color=#39CCFF>scharfen Ramen</color> außerhalb der südlichen Inseln!"[]"Du suchst nach einem klassischen Geschenk, ohne die Bank zu überfallen? Nichts geht über einen guten altmodischen <color=#39CCFF>Knochen</color>!"
+Das muss die Krone von Darius sein. Sie ist mit Staub bedeckt.
+Demnächst
+Ein Helm, der aussieht, als hätte er schon einige Schlachten gesehen. Dem Schaden nach zu urteilen, hatte der Träger Glück, ihn zu haben.
+Eine kaputte Brücke für 20 Holzbretter reparieren?
+Ein gutes Zuhause für einen guten Hund.
+Inspizieren
+Das sieht aus wie frisches Brot von Liam's Bakery. Jetzt bin ich hungrig!
+Ich möchte mich einfach ins Gras legen und zusehen, wie es sich dreht.
+Es stehen Annes Öffnungszeiten drauf, sie ist von 10 bis 16 Uhr hier. Gut zu wissen.
+Schild lesen
+Repariere das Sun Haven Cafe für 80 <color=#39CCFF>Holzplanken</color> und 6000 <sprite="gold_icon" index=0> ?
+Berühre das Wasser
+Es sieht nicht so aus, als wäre das schon lange benutzt worden.
+Ich sollte besser nicht...
+trinken.
+Der Rabe steht für Wissen.
+Einige leere Häuser. Vielleicht wird bald jemand einziehen.
+Schön und warm.
+Die sind niedlich, aber nicht dasselbe wie ein echtes Haustier!
+Wow, Doktor Wornhardt kümmert sich wirklich um seine Arbeit. Dieser Ort ist makellos.
+Möchtest du den Sun Haven Salon für 30 Holzplanken, 10 Stoff und 4000 Gold reparieren?
+Die Eule steht für Weisheit.
+Der Schild ist in den Farben der Eastern Region gehalten, aber die Insignien müssen aus Lynns Heimatdorf stammen. Es sieht aus, als wäre es erst kürzlich poliert worden.
+"SALE!!! <color=#39CCFF>Mithrilbarren</color> und <color=#39CCFF>Sunitbarren</color>, billig billig billig! Rabatte für zertifizierte Schmiede!"[]"Östlicher Geschmack - das beste <color=#39CCFF>cremige Rindergulasch</color> Rezept im Westen!"[]Lynn scheint eine Liste für sich selbst geschrieben zu haben.[]Die Liste beinhaltet: <color=#39CCFF>Kupfer-Riegel</color>, <color=#39CCFF>Adamant-Riegel</color>, <color=#39CCFF>Mithril-Riegel</color>, neu <color=#39CCFF>Anvil</color>.[]"Das Geheimnis für ein längeres, gesünderes Leben - <color=#39CCFF>gebeizter Gemüsesalat</color>!"
+Wünsch dir was!
+Das sieht so gut aus, dass ich mir eine Portion für unterwegs kaufen sollte.
+"<color=#39CCFF>Feuerkristalle</color> sind eine wichtige Zutat für jeden, der in der Küche ernst genommen werden will."[]"<color=#39CCFF>Kleine Mana-Bände</color> - der schnellste Weg, deine magischen Fähigkeiten zu steigern! Bringe dein Zauberspiel auf die nächste Stufe mit <color=#39CCFF>Kleinen Manabände</color>!"[]In diesem Magazin ist eine Notiz versteckt, die lautet: "Erinnerung: Kaufe <color=#39CCFF>Paprika</color>! "[]In der Zeitschrift ist ein Artikel aufgeschlagen, der beschreibt, wie man <color=#39CCFF>Grünwurzel</color> am besten anbaut.[]Es sieht aus wie ein Rezept für einen <color=#39CCFF>Energie-Smoothie</color>.[]Es gibt ein Bild von <color=#39CCFF>scharfen Ramen</color> mit einer Notiz daneben: "YUM!"[]
+Es ist eine alte Schriftrolle, die halb verbrannt aussieht. Sie zeigt verschiedene Techniken, um Feuerzauber zu wirken. In der Ecke steht ein Wort geschrieben: "CINDERHEAD".
+Es ist eine abgenutzte Schürze. Ein Bild in der Tasche zeigt einen Mann, der sie trägt und mit einem kleinen Jungen steht, der Liam ähnelt.
+Es ist ein Bild von einem Koch, der eine <color=#39CCFF>Kochmütze</color> trägt. Die Mütze ist mit einer handgeschriebenen Nachricht eingekreist, die lautet: "SO COOL!!"[]Die Seite ist aufgeschlagen und zeigt eine Schritt-für-Schritt-Anleitung, wie man die perfekte Tasse <color=#39CCFF>Kaffee</color> zubereitet.[]Liam hat eine Notiz an die Seite der Seite geschrieben. Es sieht aus wie eine kurze Liste, darunter <color=#39CCFF>Kekse</color> und <color=#39CCFF>Mehl</color>.
+Das Magazin ist aufgeschlagen und zeigt eine Seite voller Bilder von glitzernden <color=#39CCFF>Diamanten</color>. Sie scheinen alle einzeln eingekreist zu sein.[]"Die perfekte Art, dein Gold sicher aufzubewahren - <color=#39CCFF>kleiner Geldbeutel</color>!"[]Es sieht aus wie ein Meinungsartikel. Er lautet: "Versuchst du, deinen Jemand Besonderes zu beeindrucken? Edelsteine zeigen, dass du in dein Herz UND deinen Geldbeutel investiert hast!"[]<color=#39CCFF>Rubin</color> und <color=#39CCFF>Saphir</color> sind beliebte Steine, aber <color=#39CCFF>Amethyst</color> ist eine großartige Wahl, die oft übersehen wird."[]Eine handgeschriebene Notiz liegt oben auf dem Magazin. Sie lautet "<color=#39CCFF>Himbeer-Käsekuchen</color> Zutaten: <color=#39CCFF>Himbeere</color>, Käsekuchen..."[]Ein Artikel scheint herausgerissen worden zu sein, aber der Titel steht noch auf der Seite - Finding <color=#39CCFF>Gold Ore</color> for Amateurs.
+Dies ist ein gemaltes Portait der südlichen Inseln. Jemand hat etwas auf den Rahmen geschrieben: "Eines Tages".
+Das sieht aus wie Juns Tagebuch. Es ist fast vollständig mit seinen privatesten Gedanken gefüllt... Lass es lieber liegen.
+"Der #1 empfohlene Snack von Healthy Living ist... <color=#39CCFF>Frühlingsrollen</color>!"[]"Brauchst du Hilfe bei deinen <color=#39CCFF>Sesamreisbällchen</color>? Folge diesem schnellen und einfachen Rezept!"[]"<color=#39CCFF>Hühnernudelsuppe</color> leicht gemacht."[]Es sind rote Flecken auf der Seite. Es sieht aus, als hätte Jun <color=#39CCFF>Spaghetti</color> gegessen.[]Es ist ein Artikel mit dem Titel "5 Decorative Uses for your <color=#39CCFF>Sand Dollars</color>."
+"Soldier's Diet Weekly - die HOT-Empfehlungen dieser Woche sind <color=#39CCFF>Erdkuchen</color> und <color=#39CCFF>Kartoffelpüree mit Soße</color>."[]Es scheint einen Artikel von jemandem namens "Der schlaue Schwertkämpfer" zu geben.[]Sie haben Schwerter von den besten bis zu den schlechtesten gerankt: <color=#39CCFF>Kupferschwert</color>, <color=#39CCFF>Eisenschwert</color>, <color=#39CCFF>Adamantschwert</color>, <color=#39CCFF>Mithrilschwert</color>, <color=#39CCFF>Sunitschwert</color>.[]Das Magazin ist aufgeschlagen zu einer Seite voller Rüstungssets. []Es sind Kreise um <color=#39CCFF>Kupferrüstung</color>, <color=#39CCFF>Eisenrüstung</color>, <color=#39CCFF>Adamantrüstung</color>, <color=#39CCFF>Mithrilrüstung</color> und <color=#39CCFF>Sunitrüstung</color> gezogen.
+Es ist ein veralteter Plattenspieler. Es gibt Schnitzereien im Sockel, die aussehen, als wären sie von einem Kind gemacht worden.
+Es scheint ein Flyer von einem Plattenladen in Sun Haven zu sein. Darauf steht: "<color=#39CCFF>Platten</color> in Hülle und Fülle!"[]"Hol dir alle Vitamine, die du brauchst, mit <color=#39CCFF>roter Gemüsesuppe</color>!"[]Es gibt einen Artikel, der die Vor- und Nachteile von <color=#39CCFF>Tomatensuppe</color> beschreibt. Er ist überraschend ausführlich.[]Das Magazin ist aufgeschlagen zu einer Seite mit verschiedenen <color=#39CCFF>Schallplattenspielern</color>.[]Auf die Seite gekritzelt ist etwas, das wie eine unfertige Einkaufsliste aussieht. Der einzige Artikel auf der Liste ist, <color=#39CCFF>Tomaten</color>.[]"<color=#39CCFF>Spaghetti</color> made EASY!"
+Der erste Artikel auf der Seite trägt den Titel "Fische in dieser Saison" und fährt mit einer Aufzählung fort:[]<color=#39CCFF>Goldfisch</color>, <color=#39CCFF>Roter Schnapper</color>, <color=#39CCFF>Blauer Gill</color>, <color=#39CCFF>Karpfen</color>, <color=#39CCFF>Silberkarpfen</color>. []Es sieht aus wie ein Artikel über die Zubereitung verschiedener Fische. []Es sind Kreise um <color=#39CCFF>Blauer Tang</color>, <color=#39CCFF>Regenbogenforelle</color>, <color=#39CCFF>Engelfisch</color> und <color=#39CCFF>Kugelfisch</color> gezogen. [Auf einer handgeschriebenen Notiz neben der Liste steht <i>FRISCH!</i>[]Die Seite zeigt ein Bild von <color=#39CCFF>Fisch-Tempura</color>. Kitty scheint daneben "YUMMY!!" geschrieben zu haben.[]Es gibt ein Bild von <color=#39CCFF>Haustierfutter</color>, das eingekreist ist... viele Male.
+Es scheint ein Kleid zu sein, das noch nicht fertig ist. Die Handarbeit ist tadellos! Wer hätte gedacht, dass Kitty so geschickt ist?
+Der Artikel trägt den Titel "Ein Geschmack der südlichen Inseln" und zeigt ein Bild von <color=#39CCFF>Karibischer Grüner Suppe</color>.[]Die Seite hat lila Flecken darauf. Könnte Wornhardt einen <color=#39CCFF>Blaubeersalat</color> gegessen haben?[]Die Seite ist aufgeschlagen und zeigt eine Schritt-für-Schritt-Anleitung für die Zubereitung der perfekten Tasse <color=#39CCFF>Kaffee</color>.[]Es sieht aus wie ein Artikel über die Zubereitung verschiedener Fische. []Es sind Kreise um <color=#39CCFF>Blauer Tang</color>, <color=#39CCFF>Regenbogenforelle</color>, <color=#39CCFF>Engelfisch</color> und <color=#39CCFF>Kugelfisch</color> gezogen. [Auf einer handgeschriebenen Notiz neben der Liste steht <i>FRESH! </i>[]Der erste Artikel auf der Seite ist mit "Fische in dieser Saison" betitelt und fährt mit einer Aufzählung fort:[]<color=#39CCFF>Goldfisch</color>, <color=#39CCFF>Red Snapper</color>, <color=#39CCFF>Blauer Gill</color>, <color=#39CCFF>Karpfen</color>, <color=#39CCFF>Silberkarpfen</color>.
+Traumfänger sind auf den südlichen Inseln beliebt, aber Dr. Wornhardt scheint nicht der abergläubische Typ zu sein.
+Es ist ein Buch mit Gedichten und Notizen an den Rändern. Sie sehen aus wie Beschwörungsformeln, die auf den Gedichten basieren. Hat Catherine so ihre Zaubersprüche gelernt?
+Ist das Katharinas Einkaufsliste? Die Liste beinhaltet: <color=#39CCFF>Schimmerwurzel</color>, <color=#39CCFF>Karotten</color>, <color=#39CCFF>Heidelbeersalat</color>."<color=#39CCFF>Kleine Manabände</color> - der schnellste Weg, deine magischen Fähigkeiten zu steigern! Bring dein Zauberspiel auf die nächste Stufe mit <color=#39CCFF>Kleinen Manabänden</color>!"[]"Steigere dein Gartenspiel mit Gießkannen! Top 5 Gießkannen von der besten bis zur schlechtesten: <color=#39CCFF>Sunite Gießkanne</color>, <color=#39CCFF>Mithril Gießkanne</color>,[]<color=#39CCFF>Adamant Gießkanne</color>, <color=#39CCFF>Eisen Gießkanne</color>, <color=#39CCFF>Kupfer Gießkanne</color>. "[]Die Seite wird auf einem Artikel mit dem Titel "Gesundheitliche Vorteile der <color=#39CCFF>Grünen Karibiksuppe</color>."[]Eine Notiz am oberen Rand der Seite sagt: "Erinnerung: Zutaten für <color=#39CCFF>Tomatensuppe</color> kaufen."
+Mensch
+Elfen
+Elfen sind eine der ältesten Rassen der Welt und sind auf mystische Weise auf den Fluss der Lebensenergie um sie herum eingestimmt. Sie sind mit allen Pflanzen und Tieren befreundet und fühlen sich in den Wäldern am wohlsten. Doch jüngere Mitglieder dieser Rasse breiten sich nun in die Welt aus und gründen Dörfer, in denen Elfen noch nie zuvor gesehen wurden.
+Dämonen
+Gerissen und einfallsreich, sind Dämonen Kreaturen der Dunkelheit. Sie gedeihen im Schatten der Nacht und werden von ihrem Appetit auf Stärke angetrieben. Denn was ist der Sinn des Lebens, wenn nicht der Machterhalt? Dies ist das Credo der Dämonen.
+Engel
+Mit unübertroffener Anmut sind die Engel Leuchtfeuer des Lichts am dunkelsten Himmel. Sie agieren als Wächter der Welt und schreiben die Geschichte von allem auf, was sie sehen. Nicht jeder Engel hält sich an die gleichen Prinzipien, doch welchen Weg sie auch wählen, sie gehen ihn mit voller Hingabe.
+Amari
+Die Ursprünge der Amari existieren nur als unbegründeter Mythos. Was <i>bekannt ist</i>, ist, dass die Amari stark mit ihren Urgeistern verbunden sind, was sie zu loyalen Verbündeten macht, die in Kontakt mit den Wilden der Welt stehen.
+Elementar
+Die älteste aller Rassen, die Elementare, existieren als ätherische Wesen mit Körpern aus peitschenden Flammen oder fließendem Wasser. Alles, was über sie bekannt ist, ist, dass sie das Ergebnis der chaotischen Elemente der Natur sind, gemischt mit seltsamer und mächtiger Magie. Es wird angenommen, dass die heute lebenden Elementare dieselben sind, die schon immer existiert haben, da sie keine natürliche Lebensspanne zu haben scheinen.
+Naga
+Die Naga sind eine geheimnisvolle Rasse, die seit Generationen im Untergrund lebt, um ihre Kultur vor äußeren Einflüssen zu schützen. Da sie sich so lange vor der Oberfläche versteckt haben, haben sie fast alles über das unterirdische Leben gelernt. Das Überleben ist der Grundpfeiler ihrer Kultur.
+Körper
+Augen
+Hose
+Hut
+Schwanz
+Du kannst hier nicht eintreten, bis du ein Bürger bist
+Burg Withergate
+Du kannst hier noch nicht eintreten
+Nach unten zu Apartment Hall
+Halle der Burg
+in der Nordkaserne
+Du musst besser mit Vaan befreundet sein, bevor du sein Haus betreten kannst!
+Vaan's Haus
+Du musst zuerst ein Apartment kaufen
+Nach oben gehen?
+Withergate 
+Ausgang Schneider
+Nach unten zur Lobby
+Nach oben zur Rooftop Farm
+Du musst besser mit Xyla befreundet sein, um einzutreten.
+Xylas Haus
+Trautes Heim...2
+Darius' Kammern
+Thronsaal
+Dynus' Altarraum
+Dunkle Energie hindert dich daran, diesen Raum zu betreten
+Du kannst hier nicht eintreten 
+Du musst besser mit Lynn befreundet sein, um einzutreten.
+Taverne
+Kaserne
+Krankenhaus
+Bibliothek
+Sie ist verschlossen.
+Salon
+Du musst besser mit Catherine befreundet sein, um einzutreten.
+Du musst besser mit Wornhardt befreundet sein, um einzutreten.
+Magische Kräfte hindern dich am Gehen
+Irgendetwas sagt mir, dass ich hier nicht hingehen sollte.
+Du kannst hier nicht hingehen.
+Peters Angelladen
+Du kannst da noch nicht hingehen. 
+Solons Schmiede
+Du kannst hier nicht hingehen, bis du stärker bist.
+Du kannst hier noch nicht hineingehen 
+Du kannst hier noch nicht reingehen
+Withergate Hutladen
+Withergate-Schneiderei
+Du kannst hier noch nicht hineingehen
+Withergate Zoohandlung
+Withergate Wohnung
+Du musst besser mit Donovan befreundet sein, um einzutreten.
+Donovan's Haus
+Du musst besser mit Jun befreundet sein, um einzutreten.
+Juns Haus
+Du musst besser mit Claude befreundet sein, um einzutreten.
+Etwas auf der anderen Seite blockiert den Weg
+Du musst besser mit Liam befreundet sein, um hineinzukommen.
+Du musst besser mit Kitty befreundet sein, um einzutreten.
+Du musst besser mit Lucia befreundet sein, um einzutreten.
+Du musst besser mit Iris befreundet sein, um einzutreten.
+Iris' Haus
+Wer?
+Nathaniels Quartier
+Trautes Heim
+in der Bibliothek
+in der Schmiede des Östlichen Steinbruchs
+Funkenwanze
+Tausenfüßler
+Chimchuck
+Hornschlange
+Blättling
+Paprikorn
+Phantom
+Pricklepop
+Prickletot
+Wurzelläufer
+Skorpaprika
+Schattenklaue
+Kröte
+Erde 1
+Feuer 1
+Wasser 1
+Erde 2
+Feuer 2
+Wasser 2
+Baum
+Erntbar
+Forage
+Wasser
+Dekoration
+Laub
+Boden
+Wand
+Angelwasser
+Nelvari Baum
+Eiche
+Normal
+Erz
+Ozean
+Schatzkiste
+Ozean-Schatzkiste
+Blutung
+Gegner
+Heilung
+Spielerblutung
+Mana benutzen
+Projektil
+Zerbrechbar
+Standard
+Lächeln
+Treffer
+Tod
+Angriff
+Wander
+Verfolgen
+Verletzt
+Still
+Pathing
+Folgen
+Streicheln
+Gegenstände
+Fortschritt
+Töten
+Aufgabe
+Main
+Schwingen
+Springen
+Interagieren
+Weiter
+Fähigkeiten
+Quests
+Karte
+Inventarplatz 1
+Inventarplatz 2
+Inventarplatz 3
+Inventarplatz 4
+Inventarplatz 5
+Inventarplatz 6
+Inventarplatz 7
+Inventarplatz 8
+Inventarplatz 9
+Inventarplatz 10
+Emote 1
+Emote 2
+Emote 3
+Emote 4
+Emote 5
+Emote 6
+Emote 7
+Schließen
+Zauber 1
+Zauber 2
+Aktionsleiste wechseln
+Benutzen 2
+Links
+Rechts
+Hoch
+Runter
+Taste
+Maustaste
+Einfacher Schlag
+Durchstechend
+Unendlich durchstechend
+Nur Hitbox
+Nur Maus
+Beide
+Rüstung
+Essen
+Fisch
+Feldfrucht
+Gießkanne
+Tier
+Rar
+Episch
+Legendär
+Start
+Ende
+Konstant
+Handschuhe
+Ring
+Amulett
+Andenken
+Helm
+Maske
+Maske
+Heiligenschein
+Hörner
+Vorderarme
+Hinterarme
+Vorderhandschuhe
+Hinterhandschuhe
+Vorderärmel
+Mund
+Ohren
+Kopf
+Beine
+Overlay
+Gesicht
+Haaraccessoire
+Rot
+Braun
+Haselnussbraun
+Gelb
+Grün
+Blau
+Dunkelblau
+Lila
+Dunkelrosa
+Rosa
+Hellrosa
+Weiß
+Grau
+Schwarz
+Hautfarbe 1
+Hautfarbe 2
+Hautfarbe 3
+Hautfarbe 4
+Hautfarbe 5
+Hautfarbe 6
+Hautfarbe 7
+Hautfarbe 8
+Hautfarbe 9
+Hautfarbe 10
+Hautfarbe 11
+Hautfarbe 12
+Ausrüsten
+Benutzen
+Herstellbar
+Monster
+Möbelstück
+Quest
+Gewöhnlich
+Ungewöhnlich
+Sehr klein
+Klein
+Moderat
+Groß
+Riesig
+Nahkampf
+Spitzhacke
+Axt
+Hacke
+Kein Halt
+Neutraler Halt
+Horizonzaler Schlag
+Vertikaler Schlag
+Zauber wirken
+Zauber laden
+Gegenstand halten
+Ziehen
+Gegenstand nutzen
+Drücken
+SunHaven
+Nelvari
+Gold
+Kugeln
+Füttern
+Automatisch
+Mine
+Wald
+Vor Wunsch
+Nach Wunsch
+Leben
+Mana
+Angriffsstärke
+Angriffsgeschwindigkeit
+Lebensregeneration
+Manaregeneration
+Bewegungsgeschwindigkeit
+Magischer Schaden
+Leben stehlen
+Heilen beim Töten
+Bewegungsgeschwindigkeit bei Schlag
+Bewegungsgeschwindigkeit beim Töten
+Heilen beim Töten
+Kritische Chance
+Schadensreduktion
+Gold
+Rückstoß
+Betäubungsdauer
+Größe
+Angelnfähigkeit
+Bergbaufähigkeit
+Entdeckungsfähigkeit
+Verteidigung
+Schaden
+Romantikbonus
+Geld pro Tag
+Extra Kampferfahrung
+Extra Holzfallerfahrung
+Extra Angelerfahrung
+Extra Bergbauerfahrung
+Extra Herstellerfahrung
+Extra Farmerfahrung
+Betäubungschance
+Genauigkeit
+Farmfähigkeit
+Gold pro Herstellung
+Kritische Chance beim Bergbau
+Kritische Chance beim Holz hacken
+Schmiedefähigkeit
+Extra Erfahrung
+Gefallen
+Gewachsen
+Portrait
+Büste
+Nativ
+Steam
+Grass
+Erde
+Holz
+Leer
+Bestellt
+Gewässert
+Workshop
+x0
+x1
+x10
+x100
+x1000
+Lava
+Gieß Blumen vor Kittys Haus
+Triff Anne morgen um 16:00 Uhr vor ihrem Wagen
+Triff Catherine morgen um 17:00 Uhr an ihrem Haus
+Triff Claude morgen um 17:00 Uhr an seinem Haus
+Triff Claude morgen um 12:00 vor seinem Haus
+Triff Darius morgen um 17:00 Uhr vor deinem Wohnhaus
+Triff Donovan morgen um 12:00 Uhr am Gully neben dem Wohnhaus
+Triff Iris morgen um 12:00 Uhr vor ihrem Haus
+Triff Iris morgen um 17:00 Uhr an ihrem Haus
+Triff Jun morgen um 10:00 Uhr an seinem Haus
+Triff Jun morgen um 17:00 Uhr bei ihm zu Hause
+Triff Kitty morgen um 10:00 Uhr an ihrem Haus
+Triff Kitty morgen um 17:00 Uhr bei ihrem Haus
+Triff Liam morgen um 17:00 Uhr bei seiner Bäckerei
+Triff Liam morgen um 17:00 Uhr bei seinem Haus
+Triff Lucia morgen um 17:00 Uhr vor dem Gemeindehaus
+Triff Lucia morgen um 17:00 Uhr vor ihrem Haus
+Triff Lynn morgen um 10:00 Uhr vor ihrem Haus
+Triff Lynn morgen um 17:00 Uhr an ihrem Haus
+Triff Nathaniel morgen um 12:00 Uhr an der Kaserne
+Triff Nathaniel morgen um 17:00 Uhr vor der Kaserne
+Triff Vaan morgen um 12:00 Uhr vor seinem Haus
+Triff Vaan morgen um 17:00 Uhr in seinem Haus
+Triff Wornhardt morgen um 10:00 Uhr vor dem Krankenhaus
+Triff Wornhardt morgen um 17:00 Uhr in seinem Haus
+Triff Xyla morgen um 17:00 Uhr außerhalb ihrer Wohnung
+Pflanze 10 Weizensamen
+Bewässere 10 Weizensamen
+Besuche den Gemischtwarenladen in der Stadt
+Nutze den Rest des Tages, um dich einzurichten!
+Unkraut beseitigt
+Blume im Gemischtwarenladen
+Tavernen-Blume
+Krankenhaus-Blume
+Brücken-Blume
+Erforsche den Pfad nördlich von Sun Haven
+Füttere den Snaccoon nördlich von Sun Haven
+Gehe nach Norden zum Schloss, um mit dem Dämonenkönig Minos zu sprechen
+Betritt den Thronsaal und sprich mit dem Dämonenkönig
+Untersuche den Wald südlich von Withergate
+Konfrontiere Dynus, den Monddrachen
+Finde deinen Weg nach Norden
+Gehe durch den Nebel
+Charon
+Benutze die Fähre
+Betritt Withergate
+Finde das Wohnhaus und kaufe ein Apartment.
+Triff dich mit Elios am Drachentreff
+Suche im westlichen Wald nach einem Eingang zur Elfenstadt Nel'Vari
+Suche in der Bibliothek nach einem Buch über die Geschichte der Elfen.
+Durchsuche den westlichen Wald
+Finde den Eingang zu Nel'Vari
+Löse das Rätsel von Nelvari
+Triff Lucia morgen um 10 Uhr im Rathaus
+Sprich mit Elios
+Erreiche Stufe 5 in einer Fertigkeit
+Sprich mit Roza
+Erforsche die Östliche Wildnis
+Erwarte Elios Rückkehr
+Sprich mit Elios
+Triff Anne um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Catherine um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Claude um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Darius um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Donovan um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Iris um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Jun um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Kitty um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Liam um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Lucia um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Lynn um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven, um morgen zu heiraten
+Triff Nathaniel um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Vaan um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Wornhardt um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Triff Xyla um 16 Uhr auf dem Veranstaltungsplatz nördlich von Sun Haven um morgen zu heiraten
+Bandit
+Kunst & Ausdruck
+	Die Kultur der Elfen dreht sich um künstlerischen Ausdruck in vielen Formen. An erster Stelle steht die Holzkunst - Elfen gelten als die sorgfältigsten und geschicktesten Holzarbeiter, die es weltweit gibt. Gartenbau - die Kunst, Pflanzen zu beschneiden und zu formen - ist ebenfalls eine gefeierte Form des Ausdrucks. 
+	Elfen sind auch dafür bekannt, dass sie Symbole von kultureller Bedeutung auf ihre Häuser malen. Diese Symbole können sowohl Siegel der Gesundheit und des Friedens sein, als auch niedrige Verzauberungen für Schutz und Glück. Dieselben Symbole werden auch in die reiche Tradition des Tätowierens übertragen, was ein Zeichen der spirituellen Reife der Elfen ist.
+Kulturelle Werte
+<i>Natur & Harmonie</i>
+	Die Werte der Elfen basieren auf den Lehren von Nel'Vars Schutzdrachen, Nivara. Nivara, auch der Weltdrache genannt, lehrt die Kraft des Friedens und der Harmonie mit der Natur. Ihre Verbindung mit der Natur erlaubt es ihr, fortgeschrittene magische Fähigkeiten zu praktizieren.
+<i>Schützende Verschwiegenheit</i>
+	Als das friedliche Volk, das sie sind, sind Elfen seit jeher vertrauensvoll gegenüber anderen Kulturen. Dieses Vertrauen hat leider zu Katastrophen in Nel'Vari geführt. Als Reaktion darauf haben die Elfen von Nel'Vari eine Position der Verschwiegenheit eingenommen und erlauben nur ausgewählten Gästen, die Grenzen der Stadt zu betreten. Die Stadt selbst ist durch eine Illusion geschützt, die verhindert, dass potentielle Feinde sie jemals finden.
+Traditioneller Kinderreim
+<align="center">Plant a seed inside your bed
+Grow a dream inside your head
+Sleep in soil, rich and dark
+Stems coiled up in bedtime bark
+Leeres Buch
+Nur eine leere Seite
+Leben
+Mana
