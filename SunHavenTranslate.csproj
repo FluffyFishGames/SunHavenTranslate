@@ -28,13 +28,7 @@
     <None Update="dialogs.orig">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="dialogs.trans">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="methods.orig">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="methods.trans">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="table.orig">

@@ -10,6 +10,11 @@ namespace SunHavenTranslate
 {
     public class Enums
     {
+        private static HashSet<string> IgnoreEnums = new HashSet<string>()
+        {
+            "BulletinBoardType"
+        };
+
         public class EnumsContainer
         {
             public MethodReference GetName;
@@ -57,6 +62,7 @@ namespace SunHavenTranslate
                                     while ((lastCall.Next.OpCode.Code == Mono.Cecil.Cil.Code.Callvirt || lastCall.Next.OpCode.Code == Mono.Cecil.Cil.Code.Call) && ((MethodReference) lastCall.Next.Operand).Name == "ToLower")
                                         lastCall = lastCall.Next;
                                     ilProcessor.InsertAfter(lastCall, ilProcessor.Create(Mono.Cecil.Cil.OpCodes.Call, getObject));
+                                    ilProcessor.InsertAfter(lastCall, ilProcessor.Create(Mono.Cecil.Cil.OpCodes.Ldstr, method.FullName));
                                     System.Console.WriteLine("Modifying Enum implicit ToString in " + method + ". Offset: " + instruction.Offset);
                                     i += 2;
                                 }
@@ -74,6 +80,7 @@ namespace SunHavenTranslate
                                     while ((lastCall.Next.OpCode.Code == Mono.Cecil.Cil.Code.Callvirt || lastCall.Next.OpCode.Code == Mono.Cecil.Cil.Code.Call) && ((MethodReference) lastCall.Next.Operand).Name == "ToLower")
                                         lastCall = lastCall.Next;
                                     ilProcessor.InsertAfter(lastCall, ilProcessor.Create(Mono.Cecil.Cil.OpCodes.Call, getString));
+                                    ilProcessor.InsertAfter(lastCall, ilProcessor.Create(Mono.Cecil.Cil.OpCodes.Ldstr, method.FullName)); 
                                     System.Console.WriteLine("Modifying Enum explicit ToString in " + method + ". Offset: " + instruction.Offset);
                                     i += 2;
                                 }
@@ -118,7 +125,7 @@ namespace SunHavenTranslate
             {
                 foreach (var type in module.Types)
                 {
-                    if (type.Namespace == "Wish")
+                    if (type.Namespace == "Wish" && !IgnoreEnums.Contains(type.Name))
                     {
                         if (type.BaseType != null && type.BaseType.FullName == "System.Enum")
                         {

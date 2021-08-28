@@ -28,17 +28,23 @@ namespace TranslatorPlugin
                 {
                     for (var i = 0; i < lines1.Length; i++)
                     {
-                        if (!Translations.ContainsKey(lines1[i].Trim()))
+                        var l = lines1[i];
+                        var ind = l.IndexOf("||");
+                        if (ind > 0)
+                            l = l.Substring(0, ind).Trim() + "||" + l.Substring(ind + 2).Trim();
+                        else l = l.Trim();
+                        //System.IO.File.AppendAllText("log.txt", l + "\r\n");
+                        if (!Translations.ContainsKey(l))
                         {
-                            Translations.Add(lines1[i].Trim(), lines2[i]);
-                            if (!AllTranslations.Contains(lines1[i].Trim()))
+                            Translations.Add(l, lines2[i]);
+/*                            if (!AllTranslations.Contains(lines1[i].Trim()))
                                 AllTranslations.Add(lines1[i].Trim());
                             if (!AllTranslations.Contains(lines2[i].Trim()))
-                                AllTranslations.Add(lines2[i].Trim());
+                                AllTranslations.Add(lines2[i].Trim());*/
                         }
                     }
                 }
-
+                /*
                 var dialogLines0 = System.IO.File.ReadAllLines("dialogs.orig");
                 var dialogLines1 = System.IO.File.ReadAllLines("dialogs.trans");
 
@@ -52,7 +58,7 @@ namespace TranslatorPlugin
                     if (!AllTranslations.Contains(dialogLines1[j].Trim()))
                         AllTranslations.Add(dialogLines1[j].Trim());
                 }
-
+                */
                 /*
                 System.IO.File.WriteAllText("log.txt", Translations.Count + " translations and " + DialogReplacements.Count + " dialog replacements loaded!\r\n");
                 System.IO.File.WriteAllText("missing.txt", "");
@@ -75,7 +81,7 @@ namespace TranslatorPlugin
                     {
                         foreach (var p in quest.questProgressRequirements)
                         {
-                            p.progressName = GetString(p.progressName);
+                            p.progressName = TranslateString(p.progressName, "");
                         }
                     }
                 }
@@ -139,7 +145,7 @@ namespace TranslatorPlugin
         };
 
         private static HashSet<string> TextFields = new HashSet<string>();
-        public static void ChangeText(TMPro.TextMeshProUGUI text)
+        public static void ChangeTextMesh(TMPro.TextMeshProUGUI text)
         {
             if (!text.autoSizeTextContainer)
             {
@@ -183,8 +189,8 @@ namespace TranslatorPlugin
 
                     commandIndex = line.IndexOf("//");
                     var trimmed = dialogLine.Trim();
-                    if (DialogReplacements.ContainsKey(trimmed))
-                        result += line.Substring(0, dialogMarker + 2) + " " + DialogReplacements[trimmed] + (addEnd ? "(End)" : "") + (commandIndex > 0 ? line.Substring(commandIndex) : "") + "\r\n";
+                    if (Translations.ContainsKey("Dialogue||" + trimmed))
+                        result += line.Substring(0, dialogMarker + 2) + " " + Translations["Dialogue||" + trimmed] + (addEnd ? "(End)" : "") + (commandIndex > 0 ? line.Substring(commandIndex) : "") + "\r\n";
                     else
                         result += line + "\r\n";
                 }
@@ -194,19 +200,19 @@ namespace TranslatorPlugin
             return result;
         }
 
-        public static object GetObject(object s)
+        public static object TranslateObject(object s, string context)
         {
             if (s is string str)
-                return GetString(str);
+                return TranslateString(str, context);
             else if (s is Enum)
-                return GetString(Enum.GetName(s.GetType(), s));
+                return TranslateString(Enum.GetName(s.GetType(), s), context);
             else return s;
         }
 
-        public static string GetString(string st)
+        public static string TranslateString(string st, string context)
         {
             Initialize();
-
+            context = context.Trim();
             var currentStr = "";
             var ret = "";
             for (var i = 0; i < st.Length; i++)
@@ -218,17 +224,12 @@ namespace TranslatorPlugin
                         var trimmed = currentStr.Trim();
                         if (trimmed != "")
                         {
-                            if (Translations.ContainsKey(trimmed))
+                            if (context != null && Translations.ContainsKey(context + "||" + trimmed))
+                                ret += Translations[context + "||" + trimmed];
+                            else if (Translations.ContainsKey(trimmed))
                                 ret += Translations[trimmed];
                             else
-                            {
-                                if (!AllTranslations.Contains(currentStr) && !MissingTranslations.Contains(currentStr))
-                                {
-                                    MissingTranslations.Add(currentStr);
-                                    //System.IO.File.AppendAllText("missing.txt", currentStr + "\r\n");
-                                }
                                 ret += currentStr;
-                            }
                         }
                         else ret += currentStr;
                     }
@@ -240,21 +241,15 @@ namespace TranslatorPlugin
             var lastTrimmed = currentStr.Trim();
             if (lastTrimmed != "")
             {
-                if (Translations.ContainsKey(lastTrimmed))
+                if (context != null && Translations.ContainsKey(context + "||" + lastTrimmed))
+                    ret += Translations[context + "||" + lastTrimmed];
+                else if (Translations.ContainsKey(lastTrimmed))
                     ret += Translations[lastTrimmed];
                 else
-                {
-                    if (!AllTranslations.Contains(currentStr) && !MissingTranslations.Contains(currentStr))
-                    {
-                        MissingTranslations.Add(currentStr);
-                        //System.IO.File.AppendAllText("missing.txt", currentStr + "\r\n");
-                    }
                     ret += currentStr;
-                }
             }
             else
                 ret += currentStr;
-            
             return ret;
         }
     }

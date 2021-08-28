@@ -44,20 +44,25 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:\Games\Sun Haven\Sun Haven_Data\Managed\Unity.TextMeshPro.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>G:\Games\Sun Haven\Sun Haven_Data\Managed\UnityEngine.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>G:\Games\Sun Haven\Sun Haven_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

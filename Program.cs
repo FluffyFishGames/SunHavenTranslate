@@ -6,6 +6,7 @@ using AssetsTools.NET.Extra;
 using System.Collections.Generic;
 using Mono.Cecil;
 using Mono.Cecil.Cil;
+using Mono.Cecil.Rocks;
 
 namespace SunHavenTranslate
 {
@@ -62,7 +63,7 @@ namespace SunHavenTranslate
             }
             else if (!RecommendedVersions.Contains(version))
             {
-                System.Console.WriteLine("Oops! Your game version is not recommend for this mod. Proceed with caution!");
+                System.Console.WriteLine("Oops! Your game version is not recommended for this mod. Proceed with caution!");
                 System.Console.WriteLine("Your game version: " + version);
                 System.Console.WriteLine("Recommended game versions: " + String.Join(", ", RecommendedVersions));
             }
@@ -85,7 +86,7 @@ namespace SunHavenTranslate
             }
 
             var currentDirectory = Environment.CurrentDirectory;
-            var checkFiles = new string[] { "TranslatorPlugin.dll", "table.orig", "table.trans", "methods.orig", "methods.trans", "dialogs.orig", "dialogs.trans", "classdata.tpk" };
+            var checkFiles = new string[] { "TranslatorPlugin.dll", "table.orig", "table.trans", "classdata.tpk" };
             foreach (var checkFile in checkFiles)
             {
                 if (!File.Exists(Path.Combine(currentDirectory, checkFile)))
@@ -105,7 +106,7 @@ namespace SunHavenTranslate
             System.Console.WriteLine("You can also find this software as open source on github.com/FluffyFishGames");
             System.Console.WriteLine("");
             System.Console.WriteLine("This tool will modify your game files. Therefore you need to know a couple of things.");
-            System.Console.WriteLine("Not every bug you might encounter is necesarrily in the unmodded game.");
+            System.Console.WriteLine("Not every bug you might encounter is necessarily in the unmodded game.");
             System.Console.WriteLine("Before submitting bug reports to PixelSprout please ensure your error also occurs in an unmodded game first.");
             System.Console.WriteLine("In case of an update this mod WILL break. DO NOT just start it again to translate as it will corrupt your files.");
             System.Console.WriteLine("Best way to handle updates is to wait for this tool to get updated.");
@@ -131,10 +132,10 @@ namespace SunHavenTranslate
             resolver.AddSearchDirectory(Path.Combine(managedPath));
 
             System.Console.WriteLine("Fetching methods from TranslatorPlugin.dll");
-            MethodDefinition getStringMethod = null;
-            MethodDefinition getObjectMethod = null;
+            MethodDefinition translateStringMethod = null;
+            MethodDefinition translateObjectMethod = null;
             MethodDefinition translateDialogMethod = null;
-            MethodDefinition changeTextMethod = null;
+            MethodDefinition changeTextMeshMethod = null;
             MethodDefinition getTextMethod = null;
             MethodDefinition textAssetConstructor = null;
 
@@ -143,14 +144,14 @@ namespace SunHavenTranslate
 
             foreach (var method in translatorType.Methods)
             {
-                if (method.Name == "GetString")
-                    getStringMethod = method;
-                if (method.Name == "GetObject")
-                    getObjectMethod = method;
+                if (method.Name == "TranslateString")
+                    translateStringMethod = method;
+                if (method.Name == "TranslateObject")
+                    translateObjectMethod = method;
                 if (method.Name == "TranslateDialog")
                     translateDialogMethod = method;
-                if (method.Name == "ChangeText")
-                    changeTextMethod = method;
+                if (method.Name == "ChangeTextMesh")
+                    changeTextMeshMethod = method;
             }
 
             System.Console.WriteLine("Fetching methods from UnityEngine.CoreModule.dll");
@@ -169,7 +170,7 @@ namespace SunHavenTranslate
                     textAssetConstructor = m;
             }
 
-            if (getStringMethod == null || getObjectMethod == null || translateDialogMethod == null || changeTextMethod == null || getTextMethod == null || textAssetConstructor == null)
+            if (translateStringMethod == null || translateObjectMethod == null || translateDialogMethod == null || changeTextMeshMethod == null || getTextMethod == null || textAssetConstructor == null)
             {
                 System.Console.WriteLine("Couldn't find necessary methods. Can't proceed :(");
                 System.Console.Read();
@@ -187,12 +188,12 @@ namespace SunHavenTranslate
                 if (property.Name == "text")
                     textProperty = property;
             }
-            var getStringRef = textMeshProModule.ImportReference(getStringMethod);
-            var changeTextRef = textMeshProModule.ImportReference(changeTextMethod);
+            var getStringRef = textMeshProModule.ImportReference(translateStringMethod);
+            var changeTextRef = textMeshProModule.ImportReference(changeTextMeshMethod);
 
-            if (textProperty != null && getStringMethod != null)
+            if (textProperty != null && translateStringMethod != null)
             {
-                var mRef = textMeshProModule.ImportReference(getStringMethod);
+                var mRef = textMeshProModule.ImportReference(translateStringMethod);
                 var setMethod = textProperty.SetMethod;
                 var body = setMethod.Body;
                 var processor = body.GetILProcessor();
@@ -201,6 +202,7 @@ namespace SunHavenTranslate
                 {
                     System.Console.WriteLine("Patching TMPro.TMP_Text.text setter...");
                     processor.InsertBefore(firstInstruction, processor.Create(OpCodes.Ldarg_1));
+                    processor.InsertBefore(firstInstruction, processor.Create(OpCodes.Ldstr, setMethod.FullName));
                     processor.InsertBefore(firstInstruction, processor.Create(OpCodes.Call, mRef));
                     processor.InsertBefore(firstInstruction, processor.Create(OpCodes.Starg_S, setMethod.Parameters[0]));
                 }
@@ -234,6 +236,7 @@ namespace SunHavenTranslate
                 processor.Emit(OpCodes.Ldarg_0);
                 processor.Emit(OpCodes.Ldarg_0);
                 processor.Emit(OpCodes.Call, textMeshProModule.ImportReference(getMethod));
+                processor.Emit(OpCodes.Ldstr, startMethod.FullName);
                 processor.Emit(OpCodes.Call, getStringRef);
                 processor.Emit(OpCodes.Call, textMeshProModule.ImportReference(setMethod));
                 processor.Emit(OpCodes.Ldarg_0);
@@ -249,23 +252,22 @@ namespace SunHavenTranslate
             System.Console.WriteLine("Assembly saved successfully!");
 
             System.Console.WriteLine("Loading method patching data...");
-            var original = System.IO.File.ReadAllLines(System.IO.Path.Combine(directory, "methods.orig"));
-            var translated = System.IO.File.ReadAllLines(System.IO.Path.Combine(directory, "methods.trans"));
-
-            Dictionary<string, Dictionary<string, string>> replaces = new Dictionary<string, Dictionary<string, string>>();
+            var original = System.IO.File.ReadAllLines(System.IO.Path.Combine(directory, "table.orig"));
+            
+            Dictionary<string, HashSet<string>> replaces = new Dictionary<string, HashSet<string>>();
             string currentPointer = null;
             for (var i = 0; i < original.Length; i++)
             {
-                if (original[i].StartsWith(":"))
+                var pipes = original[i].IndexOf("||");
+                if (pipes > 0)
                 {
-                    currentPointer = original[i].Substring(1);
-                    if (!replaces.ContainsKey(currentPointer))
-                        replaces.Add(currentPointer, new Dictionary<string, string>());
-                }
-                else if (currentPointer != null)
-                {
-                    if (!replaces[currentPointer].ContainsKey(original[i].Trim()))
-                        replaces[currentPointer].Add(original[i].Trim(), translated[i]);
+                    var name = original[i].Substring(0, pipes);
+                    if (name.EndsWith(")"))
+                    {
+                        if (!replaces.ContainsKey(name))
+                            replaces.Add(name, new HashSet<string>());
+                        replaces[name].Add(original[i].Substring(pipes + 2));
+                    }
                 }
             }
             System.Console.WriteLine("Found " + replaces.Count + " methods to patch.");
@@ -277,20 +279,20 @@ namespace SunHavenTranslate
             System.Console.WriteLine("Looking for enum types...");
             var enums = Enums.FindEnums(managedPath, assemblyCSharpModule);
             System.Console.WriteLine("Patching methods which use enums to use Translator...");
-            Enums.ChangeEnumToString(enums, assemblyCSharpModule, assemblyCSharpModule.ImportReference(getObjectMethod), assemblyCSharpModule.ImportReference(getStringMethod));
+            Enums.ChangeEnumToString(enums, assemblyCSharpModule, assemblyCSharpModule.ImportReference(translateObjectMethod), assemblyCSharpModule.ImportReference(translateStringMethod));
+
+            getStringRef = assemblyCSharpModule.ImportReference(translateStringMethod);
+            var translateDialogRef = assemblyCSharpModule.ImportReference(translateDialogMethod);
+            var textAssetConstructorRef = assemblyCSharpModule.ImportReference(textAssetConstructor);
+            var getTextRef = assemblyCSharpModule.ImportReference(getTextMethod);
+            var dialogueTreeClass = assemblyCSharpModule.GetType("Wish.DialogueTree");
 
             System.Console.WriteLine("Replacing inline strings...");
             foreach (var type in assemblyCSharpModule.Types)
             {
                 if (type.Namespace == "Wish")
-                    ReplaceStrings(type, replaces);
+                    ReplaceStrings(type, replaces, getStringRef);
             }
-
-            getStringRef = assemblyCSharpModule.ImportReference(getStringMethod);
-            var translateDialogRef = assemblyCSharpModule.ImportReference(translateDialogMethod);
-            var textAssetConstructorRef = assemblyCSharpModule.ImportReference(textAssetConstructor);
-            var getTextRef = assemblyCSharpModule.ImportReference(getTextMethod);
-            var dialogueTreeClass = assemblyCSharpModule.GetType("Wish.DialogueTree");
 
             System.Console.WriteLine("Patching Wish.DialougeTree:ParseTextAsset...");
             foreach (var m in dialogueTreeClass.Methods)
@@ -396,6 +398,7 @@ namespace SunHavenTranslate
                                 ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Ldarg_0));
                                 ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Ldarg_0));
                                 ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Ldfld, field));
+                                ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Ldstr, awakeMethod.FullName));
                                 ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Call, getStringRef));
                                 ilProcessor.InsertBefore(baseInstruction, ilProcessor.Create(OpCodes.Stfld, field));
                             }
@@ -407,6 +410,7 @@ namespace SunHavenTranslate
                                 ilProcessor.Emit(OpCodes.Ldarg_0);
                                 ilProcessor.Emit(OpCodes.Ldarg_0);
                                 ilProcessor.Emit(OpCodes.Ldfld, field);
+                                ilProcessor.Emit(OpCodes.Ldstr, awakeMethod.FullName); 
                                 ilProcessor.Emit(OpCodes.Call, getStringRef);
                                 ilProcessor.Emit(OpCodes.Stfld, field);
                             }
@@ -421,6 +425,7 @@ namespace SunHavenTranslate
                             ilProcessor.Emit(OpCodes.Ldarg_0);
                             ilProcessor.Emit(OpCodes.Ldarg_0);
                             ilProcessor.Emit(OpCodes.Ldfld, field);
+                            ilProcessor.Emit(OpCodes.Ldstr, awakeMethod.FullName);
                             ilProcessor.Emit(OpCodes.Call, getStringRef);
                             ilProcessor.Emit(OpCodes.Stfld, field);
                         }
@@ -451,7 +456,7 @@ namespace SunHavenTranslate
             var currentDirectory = Environment.CurrentDirectory;
             if (Path.GetFullPath(currentDirectory) != Path.GetFullPath(directory))
             {
-                var copyFiles = new string[] { "methods.orig", "methods.trans", "dialogs.orig", "dialogs.trans", "table.orig", "table.trans" };
+                var copyFiles = new string[] { "table.orig", "table.trans" };
                 foreach (var copyFile in copyFiles)
                 {
                     System.Console.WriteLine("Copying " + copyFile);
@@ -548,11 +553,11 @@ namespace SunHavenTranslate
             return ret;
         }
 
-        private static void ReplaceStrings(TypeDefinition type, Dictionary<string, Dictionary<string, string>> replaces)
+        private static void ReplaceStrings(TypeDefinition type, Dictionary<string, HashSet<string>> replaces, MethodReference getString)
         {
             foreach (var t in type.NestedTypes)
             {
-                ReplaceStrings(t, replaces);
+                ReplaceStrings(t, replaces, getString);
             }
 
             var str = "";
@@ -564,15 +569,18 @@ namespace SunHavenTranslate
                     if (method.Body != null)
                     {
                         var body = method.Body;
+
+                        body.SimplifyMacros();
+                        
                         var processor = body.GetILProcessor();
                         for (var i = 0; i < body.Instructions.Count; i++)
                         {
                             var instruction = body.Instructions[i];
                             if (instruction.OpCode.Code == Code.Ldstr)
                             {
+                                bool needsTranslation = true;
                                 var st = (instruction.Operand as string);
                                 var currentStr = "";
-                                var ret = "";
                                 for (var j = 0; j < st.Length; j++)
                                 {
                                     if (st[j] == '\r' || st[j] == '\n')
@@ -582,41 +590,35 @@ namespace SunHavenTranslate
                                             var trimmed = currentStr.Trim();
                                             if (trimmed != "")
                                             {
-                                                if (replaces[method.FullName].ContainsKey(trimmed))
-                                                    ret += replaces[method.FullName][trimmed];
-                                                else
-                                                    ret += currentStr;
+                                                if (!replaces[method.FullName].Contains(trimmed))
+                                                    needsTranslation = false;
                                             }
-                                            else ret += currentStr;
                                         }
-                                        ret += st[j];
-                                        currentStr = "";
                                     }
                                     else currentStr += st[j];
                                 }
                                 var lastTrimmed = currentStr.Trim();
                                 if (lastTrimmed != "")
                                 {
-                                    if (replaces[method.FullName].ContainsKey(lastTrimmed))
-                                        ret += replaces[method.FullName][lastTrimmed];
-                                    else
-                                        ret += currentStr;
+                                    if (!replaces[method.FullName].Contains(lastTrimmed))
+                                        needsTranslation = false;
                                 }
-                                else
-                                    ret += currentStr;
 
-                                if (st != ret)
+                                if (needsTranslation)
                                 {
-                                    System.Console.WriteLine("Replacing Ldstr instruction in " + method + " Offset: " + instruction.Offset);
-                                    processor.Replace(instruction, processor.Create(OpCodes.Ldstr, ret));
-                                    instruction.Operand = ret;
+                                    processor.InsertAfter(instruction, processor.Create(OpCodes.Call, getString));
+                                    processor.InsertAfter(instruction, processor.Create(OpCodes.Ldstr, method.FullName));
                                 }
                             }
                         }
+
+                        body.OptimizeMacros();
+                        body.Optimize();
                     }
                 }
             }
 
+            /*
             foreach (var field in type.Fields)
             {
                 if (replaces.ContainsKey(field.FullName))
@@ -630,7 +632,7 @@ namespace SunHavenTranslate
                     {
                         if (first) result += "\r\n";
 
-                        if (repl.ContainsKey(line))
+                        if (repl.Contains(line))
                             result += repl[line];
                         else
                             result += line;
@@ -642,7 +644,7 @@ namespace SunHavenTranslate
                         field.InitialValue = System.Text.Encoding.UTF8.GetBytes(result);
                     }
                 }
-            }
+            }*/
         }
     }
 }
