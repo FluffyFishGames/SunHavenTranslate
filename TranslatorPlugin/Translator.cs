@@ -37,10 +37,12 @@ namespace TranslatorPlugin
                         if (!Translations.ContainsKey(l))
                         {
                             Translations.Add(l, lines2[i]);
-/*                            if (!AllTranslations.Contains(lines1[i].Trim()))
-                                AllTranslations.Add(lines1[i].Trim());
-                            if (!AllTranslations.Contains(lines2[i].Trim()))
-                                AllTranslations.Add(lines2[i].Trim());*/
+                            AllTranslations.Add(l.Trim());
+                            AllTranslations.Add(lines2[i].Trim());
+                            /*                            if (!AllTranslations.Contains(lines1[i].Trim()))
+                                                            AllTranslations.Add(lines1[i].Trim());
+                                                        if (!AllTranslations.Contains(lines2[i].Trim()))
+                                                            AllTranslations.Add(lines2[i].Trim());*/
                         }
                     }
                 }
@@ -81,11 +83,26 @@ namespace TranslatorPlugin
                     {
                         foreach (var p in quest.questProgressRequirements)
                         {
-                            p.progressName = TranslateString(p.progressName, "");
+                            var newProgressName = TranslateString(p.progressName, "");
+                            if (p.progressName == newProgressName && !Extractor.Unknown.Contains(p.progressName))
+                            {
+                                // it wasn't changed. Cache it in the extractor for extraction.
+                                Extractor.Unknown.Add(p.progressName);
+                            }
+                            p.progressName = newProgressName;
                         }
                     }
                 }
+
+                var go = new UnityEngine.GameObject();
+                UnityEngine.Object.DontDestroyOnLoad(go);
+                go.AddComponent<Extractor>();
             }
+        }
+
+        public static bool IsUnknown(string line)
+        {
+            return !AllTranslations.Contains(line.Trim());
         }
 
         public static void CheckForUnknown(string text)
@@ -156,14 +173,6 @@ namespace TranslatorPlugin
                     text.enableAutoSizing = true;
                 }
             }
-            /** DEBUG
-            var textField = text.transform.name + " (" + (text.transform.parent != null ? text.transform.parent.name : "");
-            if (!TextFields.Contains(textField))
-            {
-                TextFields.Add(textField);
-                System.IO.File.AppendAllText("textfields.txt", textField + ")\r\n");// ":\r\nFont Size:" + text.fontSize + "\r\nRect height:" + text.rectTransform.rect.height + "\r\nSize delta:" + text.rectTransform.sizeDelta.x + ";" + text.rectTransform.sizeDelta.y + "\r\nAnchor min: " + text.rectTransform.anchorMin.x + ";" + text.rectTransform.anchorMin.y + "\r\nAnchor max: " + text.rectTransform.anchorMax.x + ";" + text.rectTransform.anchorMax.y + "\r\nAnchored Position: " + text.rectTransform.anchoredPosition.x + ";" + text.rectTransform.anchoredPosition.y + "\r\nOffset min: " + text.rectTransform.offsetMin.x + ";" + text.rectTransform.offsetMin.y + "\r\nOffset max: " + text.rectTransform.offsetMax.x + ";" + text.rectTransform.offsetMax.y + "\r\nPivot: " + text.rectTransform.pivot.x + ";" + text.rectTransform.pivot.y + "\r\n");
-            }
-            */
         }
 
         public static string TranslateDialog(string text)

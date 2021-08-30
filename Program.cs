@@ -12,7 +12,7 @@ namespace SunHavenTranslate
 {
     class Program
     {
-        private static List<string> RecommendedVersions = new List<string>() { "0.2.1c" };
+        private static List<string> RecommendedVersions = new List<string>() { "0.2.2a" };
 
         private static Dictionary<string, List<string>> ModifyMembers = new Dictionary<string, List<string>>()
         {
