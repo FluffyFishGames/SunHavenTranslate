@@ -12,7 +12,7 @@ namespace SunHavenTranslate
 {
     class Program
     {
-        private static List<string> RecommendedVersions = new List<string>() { "0.2.2a" };
+        private static List<string> RecommendedVersions = new List<string>() { "0.3.1b" };
 
         private static Dictionary<string, List<string>> ModifyMembers = new Dictionary<string, List<string>>()
         {
@@ -32,9 +32,42 @@ namespace SunHavenTranslate
             { "EnemyAI", new List<string>() { "enemyName" } }
         };
 
+        private static Dictionary<string, List<string>> ExtractMembers = new Dictionary<string, List<string>>()
+        {
+            { "AnimalData", new List<string>() { "name", "description", "shopDescription" } },
+            { "ArmorData", new List<string>() { "name", "description", "shopDescription" } },
+            { "DecorationData", new List<string>() { "name", "description", "shopDescription" } },
+            { "FoodData", new List<string>() { "name", "description", "shopDescription" } },
+            { "PetData", new List<string>() { "name", "description", "shopDescription" } },
+            { "QuestItemData", new List<string>() { "name", "description", "shopDescription" } },
+            { "RecordData", new List<string>() { "name", "description", "shopDescription" } },
+            { "WallpaperData", new List<string>() { "name", "description", "shopDescription" } },
+            { "WateringCanData", new List<string>() { "name", "description", "shopDescription" } },
+            { "CropData", new List<string>() { "name", "description", "shopDescription" } },
+            { "FishData", new List<string>() { "name", "description", "shopDescription" } },
+            { "SeedData", new List<string>() { "name", "description", "shopDescription" } },
+            { "ItemData", new List<string>() { "name", "description", "shopDescription" } },
+            { "QuestAsset", new List<string>() { "endTex", "questDescription", "bulletinBoardDescription", "questName" } },
+            { "TextMeshProUGUI", new List<string>() { "m_text" } },
+            { "SceneSettings", new List<string>() { "formalSceneName" } },
+            { "MailAsset", new List<string>() { "message" } },
+            { "ClothingLayerData", new List<string>() { "menuName" } },
+            { "BookShelf", new List<string>(){ "bookName", "text" } },
+            { "Popup", new List<string>(){ "text", "description" } },
+            { "SkillNode", new List<string>(){ "nodeTitle", "nodeName", "description" } },
+            { "NPCAI", new List<string>(){ "title", "questLocation" } },
+            { "Inspectable", new List<string>() { "inspectionText", "dialogueName", "interactionText" } },
+            { "EliosFountain", new List<string>() { "interactionText" } },
+            { "RepairSign", new List<string>() { "text" } },
+            { "ScenePortalSpot", new List<string>() { "_cantEnterNotificiation", "enterOverrideText" } },
+        };
+
         static void Main(string[] args)
         {
             var directory = Environment.CurrentDirectory;
+            if (args.Length > 1 && (args[0] == "extract" || args[0] == "merge"))
+                directory = args[1];
+
             while (!Verify(directory))
             {
                 System.Console.WriteLine("Game was not found at path " + directory);
@@ -42,8 +75,385 @@ namespace SunHavenTranslate
                 directory = System.Console.ReadLine();
             }
 
-            System.Console.WriteLine("Game found. Applying patch...");
-            Apply(directory);
+            if (args.Length > 0)
+            {
+                if (args[0] == "merge")
+                {
+                    Merge();
+                }
+                else if (args[0] == "extract")
+                {
+                    System.Console.WriteLine("Game found. Extracting texts...");
+                    Extract(Path.Combine(directory, "Sun Haven_Data"));
+                    return;
+                }
+            }
+            else
+            {
+                System.Console.WriteLine("Game found. Applying patch...");
+                Apply(directory);
+            }
+        }
+
+        static void Merge()
+        {
+            var newLines = File.ReadAllLines("news.txt");
+            var newDialogue = File.ReadAllLines("newDialogue.txt");
+            var newMethods = File.ReadAllLines("newMethods.txt");
+            string currentMethod = null;
+            var lines = new HashSet<string>();
+            foreach (var m in newMethods)
+            {
+                if (m.Contains("Wish.") && m.EndsWith(")"))
+                    currentMethod = m;
+                else if (currentMethod != null)
+                    lines.Add(currentMethod + "||" + m.Trim());
+            }
+
+            foreach (var d in newDialogue)
+                lines.Add("Dialogue||" + d.Trim());
+            foreach (var l in newLines)
+                lines.Add(l.Trim());
+
+            var origLines = File.ReadAllLines("table.orig").ToHashSet();
+            var newFound = new HashSet<string>();
+            foreach (var l in lines)
+            {
+                if (!origLines.Contains(l))
+                    newFound.Add(l);
+            }
+
+            var newFoundText = "";
+            foreach (var l in newFound)
+            {
+                newFoundText += l + "\r\n";
+            }
+            File.WriteAllText("newFound.txt", newFoundText);
+        }
+
+        static Dictionary<string, HashSet<string>> GetTypeStrings(TypeDefinition type)
+        {
+            var ret = new Dictionary<string, HashSet<string>>();
+            foreach (var subType in type.NestedTypes)
+            {
+                var r = GetTypeStrings(subType);
+                foreach (var n in r)
+                {
+                    if (!ret.ContainsKey(n.Key))
+                        ret.Add(n.Key, new HashSet<string>());
+                    foreach (var nn in n.Value)
+                        ret[n.Key].Add(nn);
+                }
+            }
+            foreach (var method in type.Methods)
+            {
+                if (method.Body != null)
+                {
+                    foreach (var instruction in method.Body.Instructions)
+                    {
+                        if (instruction.OpCode.Code == Code.Ldstr)
+                        {
+                            if (!ret.ContainsKey(method.FullName))
+                                ret.Add(method.FullName, new HashSet<string>());
+                            ret[method.FullName].Add((instruction.Operand as string).Trim());
+                        }
+                    }
+                }
+            }
+
+            foreach (var field in type.Fields)
+            {
+                if (field.HasDefault && field.FieldType.FullName == "System.String")
+                {
+                    if (!ret.ContainsKey(field.FullName))
+                        ret.Add(field.FullName, new HashSet<string>());
+                    ret[field.FullName].Add(System.Text.Encoding.UTF8.GetString(field.InitialValue).Trim());
+                }
+            }
+            return ret;
+        }
+
+        static void Extract(string directory)
+        {
+            var originalLines = File.ReadAllLines("table.orig");
+            var original = new HashSet<string>();
+            var originalMethods = new Dictionary<string, HashSet<string>>();
+            var originalDialogue = new HashSet<string>();
+            var newLines = new HashSet<string>();
+            var newMethods = new Dictionary<string, HashSet<string>>();
+            var newDialogue = new HashSet<string>();
+            foreach (var line in originalLines)
+            {
+                if (line.StartsWith("Dialogue||"))
+                    originalDialogue.Add(line.Substring("Dialogue||".Length));
+                else
+                {
+                    var methodIndex = line.IndexOf(")||");
+                    if (methodIndex > 0)
+                    {
+                        var method = line.Substring(0, methodIndex + 1);
+                        var methodLine = line.Substring(methodIndex + 3);
+                        if (!originalMethods.ContainsKey(method))
+                            originalMethods.Add(method, new HashSet<string>());
+                        originalMethods[method].Add(methodLine);
+                    }
+                    else
+                    {
+                        original.Add(line);
+                    }
+                }
+            }
+            var assemblyCSharp = System.IO.Path.Combine(directory, "Managed", "Assembly-CSharp.dll");
+            var assembly = AssemblyDefinition.ReadAssembly(assemblyCSharp);
+            var module = assembly.MainModule;
+            var enums = Enums.FindEnums(Path.Combine(directory, "Managed"), module);
+            foreach (var en in enums.Enums)
+            {
+                foreach (var kv in en.Value.Fields)
+                {
+                    var val = kv.Value.Name.Trim();
+                    if (val.Trim() != "" && !newLines.Contains(val))
+                        newLines.Add(val);
+                }
+            }
+            foreach (var type in module.Types)
+            {
+                if (type.Namespace == "Wish")
+                {
+                    var l = GetTypeStrings(type);
+                    foreach (var n in l)
+                    {
+                        if (!newMethods.ContainsKey(n.Key))
+                            newMethods.Add(n.Key, new HashSet<string>());
+                        foreach (var nn in n.Value)
+                            newMethods[n.Key].Add(nn);
+                    }
+                }
+            }
+            module.Dispose();
+            assembly.Dispose();
+
+            var manager = new AssetsManager();
+            var files = System.IO.Directory.GetFiles(directory);
+            var classNames = new HashSet<string>();
+            foreach (var file in files)
+            {
+                var fileName = System.IO.Path.GetFileName(file);
+                if (fileName.EndsWith(".assets") || fileName.StartsWith("level"))
+                {
+                    System.Console.WriteLine("Loading file: " + file);
+                    var assets = manager.LoadAssetsFile(file, true);
+                    manager.LoadClassPackage("classdata.tpk");
+                    manager.LoadClassDatabaseFromPackage(assets.file.typeTree.unityVersion);
+
+                    var gameObjectAssets = assets.table.GetAssetsOfType(0x01);
+                    for (var j = 0; j < gameObjectAssets.Count; j++)
+                    {
+                        var ext = manager.GetExtAsset(assets, 0, gameObjectAssets[j].index);
+                        var bff = ext.instance.GetBaseField();
+                        var components = bff.Get("m_Component").Get("Array");
+                        int componentSize = components.GetValue().AsArray().size;
+                        for (int n = 0; n < componentSize; n++)
+                        {
+                            var componentPtr = components[n].GetLastChild();
+                            var comp = manager.GetExtAsset(assets, componentPtr);
+                            if (comp.instance != null)
+                            {
+                                var firstBaseField = comp.instance.GetBaseField();
+                                var script = firstBaseField.Get("m_Script");
+                                if (script.templateField != null)
+                                {
+                                    var sc = manager.GetExtAsset(assets, script);
+                                    var scriptAti = sc.instance;
+                                    if (scriptAti == null)
+                                        System.Console.WriteLine("Unknown script name");
+                                    else
+                                    {
+                                        var className = scriptAti.GetBaseField().Get("m_Name").GetValue().AsString();
+
+                                        if (!classNames.Contains(className))
+                                        {
+                                            classNames.Add(className);
+                                            System.Console.WriteLine(className);
+                                        }
+                                        if (ExtractMembers.ContainsKey(className))
+                                        {
+                                            try
+                                            {
+                                                var s = comp;
+                                                var bf = s.instance.GetBaseField();
+                                                string managedPath = System.IO.Path.Combine(directory, "Managed");
+                                                if (Directory.Exists(managedPath))
+                                                {
+                                                    bf = manager.GetMonoBaseFieldCached(assets, s.info, managedPath);
+                                                }
+                                                foreach (var member in ExtractMembers[className])
+                                                {
+                                                    var c = bf.Get(member);
+
+                                                    var cv = c.GetValue();
+                                                    if (cv != null)
+                                                    {
+                                                        if (cv.GetValueType() == EnumValueTypes.String || cv.GetValueType() == EnumValueTypes.ValueType_String)
+                                                        {
+                                                            var val = cv.AsString().Trim();
+                                                            if (val != "" && !newLines.Contains(val))
+                                                                newLines.Add(val);
+                                                        }
+                                                        else
+                                                        {
+
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                            catch (Exception e)
+                                            {
+                                                System.Console.WriteLine(e);
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    var monoBehaviourAssets = assets.table.GetAssetsOfType(0x72);
+                    for (var j = 0; j < monoBehaviourAssets.Count; j++)
+                    {
+                        var template = manager.GetTemplateBaseField(assets.file, monoBehaviourAssets[j]);
+                        var typeInstance = manager.GetTypeInstance(assets.file, monoBehaviourAssets[j]);
+                        var firstBaseField = typeInstance.GetBaseField();
+                        var firstExt = manager.GetExtAsset(assets, firstBaseField.Get("m_GameObject"));
+                        var scriptAti = manager.GetExtAsset(assets, firstBaseField.Get("m_Script")).instance;
+                        if (scriptAti == null)
+                            System.Console.WriteLine("Unknown script name");
+                        else
+                        {
+                            var className = scriptAti.GetBaseField().Get("m_Name").GetValue().AsString();
+
+                            if (ExtractMembers.ContainsKey(className))
+                            {
+                                try
+                                {
+                                    var s = manager.GetExtAsset(assets, 0, monoBehaviourAssets[j].index);
+                                    var bf = s.instance.GetBaseField();
+                                    string managedPath = System.IO.Path.Combine(directory, "Managed");
+                                    if (Directory.Exists(managedPath))
+                                    {
+                                        bf = manager.GetMonoBaseFieldCached(assets, monoBehaviourAssets[j], managedPath);
+                                    }
+                                    foreach (var member in ExtractMembers[className])
+                                    {
+                                        var c = bf.Get(member);
+                                        var cv = c.GetValue();
+                                        if (cv != null)
+                                        {
+                                            if (cv.GetValueType() == EnumValueTypes.String || cv.GetValueType() == EnumValueTypes.ValueType_String)
+                                            {
+                                                var val = cv.AsString().Trim();
+                                                if (val != "" && !newLines.Contains(val))
+                                                    newLines.Add(val);
+                                            }
+                                            else
+                                            {
+
+                                            }
+                                        }
+                                    }
+                                }
+                                catch (Exception e)
+                                {
+                                    System.Console.WriteLine(e);
+                                }
+                            }
+                        }
+                    }
+
+                    var textAssets = assets.table.GetAssetsOfType(0x31);
+                    for (var j = 0; j < textAssets.Count; j++)
+                    {
+                        if (textAssets[j].ReadName(assets.table.file, out var name))
+                        {
+                            var st = new MemoryStream();
+                            var reader = new AssetsFileReader(st);
+                            var data = new byte[textAssets[j].curFileSize];
+                            assets.file.reader.Position = textAssets[j].absoluteFilePos;
+                            assets.file.reader.Read(data, 0, (int) data.Length);
+
+                            var lengthName = BitConverter.ToInt32(data, 0);
+                            var startDataLength = lengthName + 4;
+                            if ((startDataLength % 4) > 0)
+                                startDataLength += 4 - (startDataLength % 4);
+                            var lengthText = BitConverter.ToInt32(data, startDataLength);
+                            var title = System.Text.Encoding.UTF8.GetString(data, 4, lengthName);
+                            var text = System.Text.Encoding.UTF8.GetString(data, startDataLength + 4, lengthText);
+
+                            var lines = text.Split(new string[] { "\r\n" }, StringSplitOptions.None);
+                            for (var k = 0; k < lines.Length; k++)
+                            {
+                                var line = lines[k];
+                                var dialogMarker = line.IndexOf("::");
+                                if (dialogMarker > 0)
+                                {
+                                    var dialogLine = line.Substring(dialogMarker + 3);
+                                    var commandIndex = dialogLine.IndexOf("//");
+                                    if (commandIndex > 0)
+                                        dialogLine = dialogLine.Substring(0, commandIndex - 1);
+                                    if (dialogLine.EndsWith("(End)"))
+                                        dialogLine = dialogLine.Substring(0, dialogLine.Length - 5);
+
+                                    dialogLine = dialogLine.Trim();
+                                    if (!newDialogue.Contains(dialogLine))
+                                        newDialogue.Add(dialogLine);
+                                }
+                            }
+                            st.Close();
+                        }
+                    }
+                }
+            }
+
+            var newDialogueText = "";
+            foreach (var d in newDialogue)
+            {
+                if (!originalDialogue.Contains(d))
+                    newDialogueText += d + "\r\n";
+            }
+
+            var newMethodsText = "";
+            foreach (var n in newMethods)
+            {
+                var found = new HashSet<string>();
+                if (originalMethods.ContainsKey(n.Key))
+                {
+                    foreach (var nn in n.Value)
+                    {
+                        if (!originalMethods[n.Key].Contains(nn))
+                            found.Add(nn);
+                    }
+                }
+                else
+                    foreach (var nn in n.Value)
+                        found.Add(nn);
+                if (found.Count > 0)
+                {
+                    newMethodsText += n.Key + "\r\n";
+                    foreach (var f in found)
+                        newMethodsText += f + "\r\n";
+                }
+            }
+
+            var newText = "";
+            foreach (var n in newLines)
+            {
+                if (!original.Contains(n))
+                    newText += n + "\r\n";
+            }
+
+            File.WriteAllText("news.txt", newText);
+            File.WriteAllText("newDialogue.txt", newDialogueText);
+            File.WriteAllText("newMethods.txt", newMethodsText);
         }
 
         static bool Verify(string directory)
@@ -158,7 +568,19 @@ namespace SunHavenTranslate
 
             var unityEngineCoreModule = System.IO.Path.Combine(translatorBackupPath, "UnityEngine.CoreModule.dll");
             var coreModuleAssembly = AssemblyDefinition.ReadAssembly(unityEngineCoreModule, new ReaderParameters() { AssemblyResolver = resolver });
+            MethodDefinition objectSetName = null;
+            MethodDefinition objectGetName = null;
+            var objectClass = coreModuleAssembly.MainModule.GetType("UnityEngine.Object");
+            foreach (var p in objectClass.Properties)
+            {
+                if (p.Name == "name")
+                {
+                    objectSetName = p.SetMethod;
+                    objectGetName = p.GetMethod;
+                }
+            }
             var textAssetClass = coreModuleAssembly.MainModule.GetType("UnityEngine.TextAsset");
+            
             foreach (var p in textAssetClass.Properties)
             {
                 if (p.Name == "text")
@@ -284,6 +706,9 @@ namespace SunHavenTranslate
             getStringRef = assemblyCSharpModule.ImportReference(translateStringMethod);
             var translateDialogRef = assemblyCSharpModule.ImportReference(translateDialogMethod);
             var textAssetConstructorRef = assemblyCSharpModule.ImportReference(textAssetConstructor);
+            var textAssetRef = assemblyCSharpModule.ImportReference(textAssetClass);
+            var objectSetNameRef = assemblyCSharpModule.ImportReference(objectSetName);
+            var objectGetNameRef = assemblyCSharpModule.ImportReference(objectGetName);
             var getTextRef = assemblyCSharpModule.ImportReference(getTextMethod);
             var dialogueTreeClass = assemblyCSharpModule.GetType("Wish.DialogueTree");
 
@@ -302,13 +727,22 @@ namespace SunHavenTranslate
                     var body = m.Body;
                     if (body.Instructions[0].OpCode.Code == Code.Newobj)
                     {
+                        var textAssetVar = new VariableDefinition(textAssetRef);
+                        body.Variables.Add(textAssetVar);
+
                         var firstInstruction = body.Instructions[0];
                         var ilProcessor = body.GetILProcessor();
                         ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Ldarg_1));
                         ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Callvirt, getTextRef));
                         ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Call, translateDialogRef));
                         ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Newobj, textAssetConstructorRef));
-                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Starg_S, m.Parameters[0]));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Stloc, textAssetVar));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Ldloc, textAssetVar));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Ldarg_1));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Call, objectGetNameRef));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Call, objectSetNameRef));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Ldloc, textAssetVar));
+                        ilProcessor.InsertBefore(firstInstruction, ilProcessor.Create(OpCodes.Starg, 1));
                     }
                 }
             }
@@ -604,6 +1038,7 @@ namespace SunHavenTranslate
                                         needsTranslation = false;
                                 }
 
+                                
                                 if (needsTranslation)
                                 {
                                     processor.InsertAfter(instruction, processor.Create(OpCodes.Call, getString));
