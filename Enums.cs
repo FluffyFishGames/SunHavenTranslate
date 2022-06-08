@@ -45,6 +45,8 @@ namespace SunHavenTranslate
             {
                 foreach (var method in type.Methods)
                 {
+                    if (type.Name == "Skills" && method.Name == "SetLevelProgress")
+                        continue;
                     var body = method.Body;
                     if (body != null)
                     {
@@ -97,8 +99,9 @@ namespace SunHavenTranslate
         public static EnumsContainer FindEnums(string directory, ModuleDefinition module)
         {
             var container = new EnumsContainer();
-            foreach (var reference in module.AssemblyReferences)
+            for (var i = 0; i < module.AssemblyReferences.Count; i++)
             {
+                var reference = module.AssemblyReferences[i];
                 if (reference.Name == "mscorlib")
                 {
                     var mscorlibPath = System.IO.Path.Combine(directory, "mscorlib.dll");

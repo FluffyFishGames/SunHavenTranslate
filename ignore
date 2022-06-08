@@ -1,0 +1,1533 @@
+﻿Type||Wish.QuantumConsoleManager
+MarriedTo
+TalkedTo
+Dating
+Keepsake
+Anne
+Catherine
+Claude
+Darius
+Donovan
+Iris
+Jun
+Kitty
+Liam
+Lucia
+Lynn
+Nathaniel
+Vaan
+Wornhardt
+Amanda
+Nivara
+Salix
+Ulmus
+Edwin
+Xyla
+Town9
+Roza
+Peter
+Dynus
+Wilt
+Flemmett
+EnemyDamageSource
+IdleNorth
+IdleSouth
+IdleEast
+IdleWest
+WalkNorth
+WalkSouth
+WalkEast
+WalkWest
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+=
+%
+Materials/Outline
+PathToNelvari1Quest
+PathToNelvari2Quest
+PathToNelvari3Quest
+PathToNelvari4Quest
+PathToNelvari5Quest
+PathToNelvari6Quest
+PathToNelvari7Quest
+PathToNelvari8Quest
+PathToNelvari9Quest
+PathToNelvari10Quest
+PathToNelvari11Quest
+PathToNelvari12Quest
+PathToNelvari13Quest
+PathToNelvari14Quest
+PathToNelvari15Quest
+PathToNelvari16Quest
+PathToNelvari17Quest
+PathToNelvari18Quest
+PathToNelvari19Quest
+PathToNelvari20Quest
+PathToNelvari21Quest
+PathToNelvari22Quest
+PathToNelvari23Quest
+PathToNelvari24Quest
+BeachIntroCutscene1
+BeachIntroCutscene2
+BulletinBoardCutscene1
+BulletinBoardCutscene2
+PathToNelvariCutscene6
+PathToNelvariCutscene7
+LynnMarriageQuest
+AnneMarriageQuest
+LuciaMarriageQuest
+DonovanMarriageQuest
+VaanMarriageQuest
+XylaMarriageQuest
+NathanielMarriageQuest
+JunMarriageQuest
+LiamMarriageQuest
+CatherineMarriageQuest
+ClaudeMarriageQuest
+KittyMarriageQuest
+WornhardtMarriageQuest
+DariusMarriageQuest
+IrisMarriageQuest
+DragonMeet
+DragonsMeet
+dddd
+_GlobalLightIntensity
+_Color
+x
+XX
+en-US
+file:///c://SunHaven//
+/
+c:/SunHaven/
+//
+...
+....
+.....
+......
+.......
+........
+.........
+..........
+...........
+ANewHome4Quest
+.
+UI
+ScreenFade
+Quantum Console
+<sprite=\"gold_icon\" index=0>
+<sprite=\"ticket_icon\" index=0>
+<sprite=\"orb_icon\" index=0>
+console
+ActionBar
+ExpBars
+QuestTracking
+HelpNotifications
+NotificationStack
+.png
+Cycle 7
+00
+Sending network initialize of enemy:
+Received network initialize of enemy:"
+Foraging2d
+<size=8><color=#FFF164>Sun Dragon's Protection  sdfsadfasdfas dfasdfsdfasdfasdf
+<size=8><color=#B7FFA3> - Place Flower 0/5
+- Place Flower 0/10 s
+Foraging4d
+Foraging1b
+Foraging6a
+Foraging7a
+Foraging4c
+Foraging3d
+Foraging1c
++1000 xp
+Foraging8c
+Foraging2c
+Foraging5a
+Animals 10/10
+Foraging1a
+1000/1000
+1000 /1000
+Foraging8d
+Foraging2a
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis eros velit, ut gravida lacus tincidunt a. Nulla et consectetur urna. Aliquam augue orci, vestibulum et libero a, tempor consequat velit. Cras id sagittis purus. Curabitur quis tempus eros. Etiam efficitur libero purus, eget placerat turpis facilisis ultricies. Ut orci lectus, luctus sed mi nec, consectetur placerat ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas mattis sem id enim semper, vel scelerisque enim scelerisque. Ut viverra odio tempor magna gravida viverra.
+Duis varius metus nec nulla scelerisque, at commodo est cursus. Aenean id nibh in arcu elementum efficitur. Mauris faucibus blandit consequat. Nulla sit amet ligula rhoncus, cursus nisi ullamcorper, faucibus nulla. Nunc vitae tempus libero, at venenatis ante. Pellentesque nec suscipit orci. Maecenas et eros eget nunc molestie viverra ac sit amet arcu. Fusce magna risus, aliquet a vulputate ut, tincidunt eu sem. Mauris sed felis nec nisi luctus aliquam. Nullam vitae sagittis turpis. Quisque lacinia odio nec nibh facilisis iaculis. Fusce est quam, iaculis ut finibus nec, malesuada in enim. Donec egestas, lorem eget tristique ultrices, ante ipsum venenatis est, a laoreet ipsum nulla et arcu. In eleifend consectetur tellus. Etiam accumsan libero at est rhoncus, vel dictum diam bibendum.
+sdfsdfsdf
+100/500
+Foraging4b
+100000g
+Foraging6d
+Foraging1d
+Foraging6b
+Foraging8a
+5000g
+Foraging3b
+Q
+Foraging4a
+Foraging2b
+Foraging5d
+Foraging6c
+Foraging5c
+Foraging7d
+Foraging7c
+Foraging8b
+Foraging3c
+x2
+Foraging3a
+Foraging7b
+Players Sleeping : 1/1
+Test 123
+1/9
+2/9
+3/9
+4/9
+5/9
+6/9
+7/9
+8/9
+9/9
+1/24
+2/24
+3/24
+4/24
+5/24
+6/24
+7/24
+8/24
+9/24
+10/24
+11/24
+12/24
+13/24
+14/24
+15/24
+16/24
+17/24
+18/24
+19/24
+20/24
+21/24
+22/24
+23/24
+24/24
+1/7
+2/7
+3/7
+4/7
+5/7
+6/7
+7/7
+1/8
+2/8
+3/8
+4/8
+5/8
+6/8
+7/8
+8/8
+1/5
+2/5
+3/5
+4/5
+5/5
+1/3
+2/3
+3/3
+- Kara
+- Judith
+- Lester
+- Heather
+- Solon
+- Emmett
+- Elizabeth
+- Camila
+- Calvin
+- Billie
+- Amanda
+- Allison
+- Roza
+- Albert
+- Willow
+- Tornn
+- Rel'Tar
+- Reed
+- Quincy
+- Sylvia
+- Opal
+- Morgan
+- Lucius
+- Jarrod
+- Wesley
+- Gren
+- Clay
+- Caspian
+- Beeanca
+- Angel
+- Luke
+- Xyla
+- Dr. Wornhardt
+- Vaan
+- Nathaniel
+- Lynn
+- Lucia
+- Kitty
+- Jun
+- Iris
+- Donovan
+- Darius
+- Catherine
+- Anne
+Copper Ore Node
+Iron Ore Node
+Adamant Ore Node
+Mithril Ore Node
+Sunite Ore Node
+Gold Ore Node
+Coal Ore Node
+Glorite Ore Node
+Sapphirenode
+Rubynode
+Amethystnode
+Diamondnode
+Havenitenode
+Stone Node 1
+Stone Node 2
+Stone Node 3
+Stone Node 4
+Stone Node 5
+Stone Node 6
+Stone Node 7
+Largerock1
+Foliage 1
+Foliage 2
+Foliage 3
+Foliage 4
+Foliage 5
+Foliage 6
+Foliage 7
+Foliage 8
+Berry Forageable
+Money Bag Forageable
+Mana Tome Forageable
+Forageable Chest
+Red Mushroom Forageable
+Fire Crystal Forageable
+Earth Crystal Forageable
+Breakable Pot
+Dragon Chest
+Dungeon Chest
+Water Crystal Forageable
+Foliage 9
+Foliage 10
+Foliage 11
+Foliage 12
+Foliage 13
+Foliage 14
+Foliage 15
+Foliage 16
+Nelvari6 Onetimechest
+Nelvari6snaccoon Onetimechest
+Butterfly Statue A
+Dragon Chest One Time
+Mines10a Onetimechest
+Mines20a Onetimechest
+Mines30a Onetimechest
+Mines40a Onetimechest
+Nivarasecretwaterfall Onetimechest
+Grandtreetop Onetimechest
+Grandtreejumppuzzle1 Onetimechest
+Snacoon Mines20a
+Snacoon Mines40a
+Crate Purple-Crystals 1
+Crate Purple-Crystals 2
+Crate Purple-Crystals 3
+Crate Purple-Crystals 4
+Crate Purple-Crystals 5
+Crate Purple-Crystals 6
+Rock1b
+Rock2b
+Rock3b
+Rock4b
+Rock5b
+Rock6b
+Rock7b
+Rock1c
+Rock2c
+Rock3c
+Rock4c
+Rock5c
+Rock6c
+Rock7c
+Rock1d
+Rock2d
+Rock3d
+Rock4d
+Rock5d
+Rock6d
+Rock7d
+Dynus Altar Rareitems
+Dynus Altar Fruit 0
+Dynus Altar Foraging 0
+Dynus Altar Gold 0
+Dynus Altar Miscenalleous 0
+Dynus Altar Mining 0
+Dynus Altar Farming 0
+Dynus Altar Fishing 0
+Dynus Altar Wgticket 1
+Crate Red-Crystals 1
+Crate Red-Crystals 2
+Crate Red-Crystals 3
+Crate Red-Crystals 4
+Crate Red-Crystals 5
+Crate Red-Crystals 6
+2/10
+- Liam
+Zuri
+Ellios
+Sylvia
+Sylvius
+Alex
+Brendan
+Bruce
+Emily
+Jennifer
+John 1
+John 2
+Katelyn
+Kyle
+Lexxi
+Michael
+Mike
+Special Thanks to:
+- Claude
+Time Left: 5:00
+10000/10000
+34
+0/300
+39
+38
+46
+23
+14
+18
+49
+45
+26
+19
+43
+T1
+31
+41
+15
+32
+0/20
+44
+17
+0/999
+27
+16
+T3
+35
+36
+0/5
+10
+47
+37
+13
+0/5000
+30
+11
+25
+28
+0/50
+12
+40
+T2
+0 / 100000
+48
+T4
+0/100
+24
+42
+0/30
+29
+Current Floor: <b><i>5</i>
+21
+50
+33
+0/10
+22
+0/1
+5000 <sprite="gold_icon" index=0>
+1000000g
+100g
+20
+10 <sprite="gold_icon" index=0>
+100/100
+Coins: 150
+1/16
+2/16
+3/16
+4/16
+5/16
+6/16
+7/16
+8/16
+9/16
+10/16
+11/16
+12/16
+13/16
+14/16
+15/16
+16/16
+Elios
+Arturo
+Ronald
+Billie
+Frankie
+Stephen
+Aegis
+</line-height>
+<line-height=80%>
+<size=90%>
+</size>
+<line-height=70%>
+<line-height=10%>
+<line-height=-1%>
+<line-height=40%><line-height=-20%><align=left>
+<align=right>
+<line-height=-20%><align=left>
+</color><line-height=40%>
+</color></size>
+<color=#F8F377>
+<color=#3FFB45>
+<color=#EFEFEF>
+<color=#FF8484>
+)</color></line-height></i>
+<size=125%><line-height=65%>
+</line-height><line-height=
+%>
+</line-height><size=80%><i>
+<color=#F8F377>"
+"</color>
+</i><color=#E9E9E9>
+</color><i>
+<line-height=70%><color=#6B7DA1>
+</color></line-height>
+<sprite="icon_
+" index=0>
+FishinFishing8ag7a
+BeginnerCook
+Alchemy
+AdvancedCook
+JamMaker
+BeeBox
+FarmAnimals
+AdventurersCookbook
+MiningAccessories
+MiningArmor
+ManaTome
+SellPortal
+SkillTome
+<sprite="attack_speed_icon" index=0>
+<sprite="jump_height_icon" index=0>
+<sprite="flat_damage_icon" index=0>
+<sprite="romance_bonus_icon" index=0>
+<sprite="accuracy_icon" index=0>
+<sprite="max_mana_icon" index=0>
+<sprite="max_health_icon" index=0>
+<sprite="mana_regen_icon" index=0>
+<sprite="health_regen_icon" index=0>
+<sprite="attack_damage_icon" index=0>
+<sprite="magic_damage_icon" index=0>
+<sprite="max_defense_icon" index=0>
+<sprite="movement_speed_icon" index=0>
+<sprite="gold_per_day_icon" index=0>
+<line-height=65%>
+SealOfSunHaven
+FishingPermit1
+FishingPermit2
+FishingPermit3
+System.Void Wish.GameStats::InitializeKeyItems()||Married
+MiningLevel1
+DynusAltarMining
+<size=150%><color=#FFEC81>
+</size></color>
+<line-height=100%><i><color=#FFEC81>
+</line-height><size=9>
+extUI
+demokit
+System.Void Wish.UserSettings::.cctor()||YButton
+System.Void Wish.UserSettings::.cctor()||AButton
+System.Void Wish.UserSettings::.cctor()||XButton
+System.Void Wish.UserSettings::.cctor()||BButton
+System.Void Wish.UserSettings::.cctor()||4Button
+System.Void Wish.UserSettings::.cctor()||5Button
+Home00
+Home01
+Home02
+carnivalgame
+Chauncey
+Bob
+Point00
+Point01
+Point02
+Point03
+Point04
+Point05
+Point06
+EndMoving
+Sombasu
+StartEndDialogue
+Benny
+TakeLife
+Chester
+System.Void Wish.SWController::CheckResults()||PRIZE WON
+System.Void Wish.SWController::CheckResults()||AppleCore
+System.Void Wish.SWController::CheckResults()||5RTickets
+System.Void Wish.SWController::CheckResults()||Damage
+System.Void Wish.SWController::CheckResults()||DO DAMAGE
+System.Void Wish.SWController::CheckResults()||50RTickets
+System.Void Wish.SWController::CheckResults()||10RTickets
+System.Void Wish.SWController::CheckResults()||20Tickets
+System.Void Wish.SWController::CheckResults()||100RTickets
+System.Void Wish.SWController::CheckResults()||Random
+Dugan
+ExitCarnivalGame
++
+-
+LightOff
+Idle
+Coaster_Track00
+Coaster_Track01
+Coaster_Track02
+Coaster_Track03
+RunRollerCoaster
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)|||
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Dialogue
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Dialogue|::
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Option
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Option|::
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Response
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||Response|::
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||LeadIn
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||LeadIn|::
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||//RIGHTANSWER
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||//HEALTH1
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||HEALTH1
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||<b>(-1 <sprite="max_health_icon" index=0> )</b>
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||//HEALTH2
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||HEALTH2
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||<b>(-2 <sprite="max_health_icon" index=0> )</b>
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||//TICKETS1
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||TICKETS1
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||<b>(-1 <sprite="ticket_icon" index=0>)</b>
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||//TICKETS5
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||TICKETS5
+System.Void Wish.VendingMachine::ParseTextAsset(UnityEngine.TextAsset)||<b>(-5 <sprite="ticket_icon" index=0>)</b>
+10000 <sprite="gold_icon" index=0>
+3500 <sprite="gold_icon" index=0>
+4000 <sprite="gold_icon" index=0>
+2000 <sprite="gold_icon" index=0>
+1000 <sprite="gold_icon" index=0>
+800 <sprite="gold_icon" index=0>
+1500 <sprite="gold_icon" index=0>
+<sprite="ticket_icon" index=0>)</b>
+<color="red"><b>(-
+<b>(-
+ResetHatAnim
+System.Collections.Generic.List`1<Wish.EnemyAI> Wish.Utilities::EnemyCast(UnityEngine.Vector2,System.Single)||FlyingEnemy
+MainUIManager
+ResetToPlatform
+Settings/Scroll View/Viewport/Content/Panel
+System.Void Wish.PlayerCostumeHandler::HandleAnimations()||Speed
+System.Void Wish.PlayerCostumeHandler::HandleAnimations()||Direction
+System.Boolean Wish.Player/<Sleep>d__481::MoveNext()||sleep
+System.Void Wish.Player::HandleInput()||Horizontal
+System.Void Wish.Player::HandleInput()||Vertical
+System.Void Wish.MouseVisualManager::Update()||RightHorizontal
+System.Void Wish.MouseVisualManager::Update()||RightVertical
+System.Void Wish.MouseVisualManager::UpdateBumberValue()||Horizontal
+System.Void Wish.MouseVisualManager::UpdateBumberValue()||Vertical
+System.Void Wish.GameManager::LateUpdate()||movespeed
+System.Void Wish.GameSave::DeleteCharacter(System.Int32,System.Boolean)||/Backups/
+System.Void Wish.GameSave::LoadAllBackups()||/Backups/
+<sprite="normal_icon" index=0>
+<sprite="rare_icon" index=0>
+<sprite="epic_icon" index=0>
+<sprite="legendary_icon" index=0>
+<sprite="enchanted_icon" index=0>
+<sprite="combat_bonus_icon" index=0>
+<sprite="farming_bonus_icon" index=0>
+<sprite="fishing_bonus_icon" index=0>
+<sprite="mining_bonus_icon" index=0>
+<sprite="exploration_bonus_icon" index=0>
+_Hlow
+Combat1a
+Combat1b
+Combat1c
+Combat1d
+Combat2a
+Combat2b
+Combat2c
+Combat2d
+Combat3a
+Combat3b
+Combat3c
+Combat3d
+Combat4a
+Combat4b
+Combat4c
+Combat4d
+Combat5a
+Combat5b
+Combat5c
+Combat5d
+Combat6a
+Combat6b
+Combat6c
+Combat6d
+Combat7a
+Combat7b
+Combat7c
+Combat7d
+Combat8a
+Combat8b
+Combat8c
+Combat8d
+Combat9a
+Combat9b
+Combat9c
+Combat9d
+Combat10a
+Combat10b
+Combat10c
+Combat10d
+Farming1a
+Farming1b
+Farming1c
+Farming1d
+Farming2a
+Farming2b
+Farming2c
+Farming2d
+Farming3a
+Farming3b
+Farming3c
+Farming3d
+Farming4a
+Farming4b
+Farming4c
+Farming4d
+Farming5a
+Farming5b
+Farming5c
+Farming5d
+Farming6a
+Farming6b
+Farming6c
+Farming6d
+Farming7a
+Farming7b
+Farming7c
+Farming7d
+Farming8a
+Farming8b
+Farming8c
+Farming8d
+Farming9a
+Farming9b
+Farming9c
+Farming9d
+Farming10a
+Farming10b
+Farming10c
+Farming10d
+Fishing1a
+Fishing1b
+Fishing1c
+Fishing1d
+Fishing2a
+Fishing2b
+Fishing2c
+Fishing2d
+Fishing3a
+Fishing3b
+Fishing3c
+Fishing3d
+Fishing4a
+Fishing4b
+Fishing4c
+Fishing4d
+Fishing5a
+Fishing5b
+Fishing5c
+Fishing5d
+Fishing6a
+Fishing6b
+Fishing6c
+Fishing6d
+Fishing7a
+Fishing7b
+Fishing7c
+Fishing7d
+Fishing8a
+Fishing8b
+Fishing8c
+Fishing8d
+Fishing9a
+Fishing9b
+Fishing9c
+Fishing9d
+Fishing10a
+Fishing10b
+Fishing10c
+Fishing10d
+Exploration1a
+Exploration1b
+Exploration1c
+Exploration1d
+Exploration2a
+Exploration2b
+Exploration2c
+Exploration2d
+Exploration3a
+Exploration3b
+Exploration3c
+Exploration3d
+Exploration4a
+Exploration4b
+Exploration4c
+Exploration4d
+Exploration5a
+Exploration5b
+Exploration5c
+Exploration5d
+Exploration6a
+Exploration6b
+Exploration6c
+Exploration6d
+Exploration7a
+Exploration7b
+Exploration7c
+Exploration7d
+Exploration8a
+Exploration8b
+Exploration8c
+Exploration8d
+Exploration9a
+Exploration9b
+Exploration9c
+Exploration9d
+Exploration10a
+Exploration10b
+Exploration10c
+Exploration10d
+Mining1a
+Mining1b
+Mining1c
+Mining1d
+Mining2a
+Mining2b
+Mining2c
+Mining2d
+Mining3a
+Mining3b
+Mining3c
+Mining3d
+Mining4a
+Mining4b
+Mining4c
+Mining4d
+Mining5a
+Mining5b
+Mining5c
+Mining5d
+Mining6a
+Mining6b
+Mining6c
+Mining6d
+Mining7a
+Mining7b
+Mining7c
+Mining7d
+Mining8a
+Mining8b
+Mining8c
+Mining8d
+Mining9a
+Mining9b
+Mining9c
+Mining9d
+Mining10a
+Mining10b
+Mining10c
+Mining10d
+Base Layer.IdleEast
+Base Layer.IdleWest
+petCanvas
+System.Void Wish.Animal/<>c::<OnMouseOver>b__50_0()||animal
+System.Void Wish.Animal/<>c::<OnMouseExit>b__51_0()||animal
+System.Void Wish.Animal/<>c::<OnDisable>b__52_0()||animal
+System.Void Wish.Animal::NameAnimal()||animal
+System.Void Wish.Animal::NameAnimal()||animalCanvas
+System.Void Wish.Animal::SetName()||animalCanvas
+System.Void Wish.Animal::CloseNameCanvas()||animal
+System.Void Wish.Animal::CloseNameCanvas()||animalCanvas
+<size=150%> Patch 0.4.1a Notes :</size>
+- Main Quest Line Update
+- New Path to Nel'Vari Questline
+-Current saves that have reached Nel’Vari will receive this quest upon updating
+- New Storyline to unlock Nel'Vari Player Farm
+- New Nivara Questline
+- Nel'Vari Player Farm
+- Includes new Nel’Vari Player Treehouse and Nel’Vari crops
+- New Animals and Creatures that can be attracted to your Nel’Vari Farm
+- Nel’Vari Fast Travel
+- 25+ New Nel'Vari NPCs
+- Nel'Vari Town Map Rework
+- New Nel'Vari Shops
+- General Store, Clothing Store, Cape Store, Crossbow Store, Pet Store
+- Updated Nel’Vari Shops
+- Farm Animal Shop, Mount Store
+- Nel'Vari Bulletin Board is now functional
+- Added 20 Nel'Vari Bulletin Board Quests
+- Nel'Vari Minimap
+- 15+ New Nel'Vari songs
+- 4 New Nel’Vari Pets
+- 1 New Mount
+- 700+ New Player Clothing and Furniture throughout Sun Haven, Nel’Vari, and Withergate
+- Buy 1, 5, and 20 buttons for Shops
+- Mine Reward Floors
+- 4 Treasure Rooms
+-  A New Hungry ‘Blockade’ will appear on these floors
+- Some Mines Floors now have enemies
+- 8 New Mines Enemies
+- Steam Cloud Saving
+- Saving now also retains your current health, mana, and your location
+- When you exit the game you will be able to open the game and start in the last town’s
+Player Home you were staying in
+- New Sun Haven House exterior
+- Houses and House Demolition Kits are now sold at the Town hall
+<i>Preparing for external house customization next patch</i>
+- Trees now grow in stages
+- Oaktree Seeds can be purchased from the Sun Haven General Store
+- Nel'Vari Tree Seeds can be purchased from the Nel’Vari General Store
+- Chests now have sort/deposit options
+- Wooden Chests can be renamed and recolored when they are open
+- New Storage Options
+- Fridges can now store food
+- Wardrobes can now store equipment and clothes
+- Shipping Portal UI now displays how much the total value of the chest
+- Sun Haven Shipping Portal now animates when interacting with it
+- New Minimap hover over text for locations
+- New icons for combat skill tree
+- Updated icons and descriptions for 700+ items
+- EXP Bars are now visible inside the Skill Tree tab
+- Lowered mana gained from Mana Tomes, Elios Fountain, Wishing Well, Main Quest Line, and Food
+- Minor combat balance for spells and enemies
+- Economy Rebalance
+- Lowered starting gold
+- Lowered gold from intro quests, chests, some cooked food, some enemies,
+- Increased orb prices of most Nel'Vari items
+- Major Bug fixes
+- Attempted major multiplayer disconnecting
+- Gifts not giving proper response
+- Delivery quests not working
+- General Minor Bug fixes
+Pixel Sprout Studios
+Version 0.4.1d
+- Pixel Sprout Studios
+x0
+x1
+x10
+x100
+x1000
+GreenReptile
+OrangeReptile
+FreeAirSkipChance
+DarkMagicReduction
+FarmingSkill
+GoldPerCraft
+MiningCrit
+WoodcuttingCrit
+SmithingSkill
+BonusExperience
+SpellPower
+SwordPower
+CrossbowPower
+CritDamage
+FlatDamage
+RomanceBonus
+MoneyPerDay
+BonusCombatEXP
+BonusWoodcuttingEXP
+BonusFishingEXP
+BonusMiningEXP
+BonusCraftingEXP
+BonusFarmingEXP
+StunChance
+FishingSkill
+MiningSkill
+ExplorationSkill
+StunDuration
+DamageReduction
+GoldGain
+AttackDamage
+AttackSpeed
+HealthRegen
+ManaRegen
+Movespeed
+MagicDamage
+MeleeLifesteal
+RangedLifeSteal
+MovespeedOnHit
+MovespeedOnKill
+HealthOnKill
+SunHaven
+PreWish
+PostWish
+WellFed
+ExpertSwordsman
+LungingStrikes
+UseItem
+NoGrip
+NeutralGrip
+HorizontalSlash
+VerticalSlash
+SpellCast
+SpellCharge
+ItemHold
+VerySmall
+TreasureChest
+OceanTreasureChest
+FishableWater
+NelvariTree
+System.Void Wish.WorldController::UpdateCharacterOvernight()||waitForElios
+System.Void Wish.WorldController::UpdateCharacterOvernight()||wait
+UnityEngine.GameObject Wish.SimplePool/Pool::Spawn(UnityEngine.Vector3,UnityEngine.Quaternion)||(
+UnityEngine.GameObject Wish.SimplePool/Pool::Spawn(UnityEngine.Vector3,UnityEngine.Quaternion)||)
+System.Void Wish.SimplePool::Despawn(UnityEngine.GameObject)||Object '
+System.Void Wish.StartIdleRandomly::Start()||Base Layer.Idle
+System.Void Wish.Wall::OnSetProgressIntWorld(System.String,System.Int32)||WallPaper
+System.Void Wish.FloatingTextManager::SpawnFloatingGoldText(System.Int32,UnityEngine.Vector3)||<sprite="gold_icon" index=0>
+System.Void Wish.FloatingTextManager::SpawnFloatingTicketsText(System.Int32,UnityEngine.Vector3)||<sprite="ticket_icon" index=0>
+System.Void Wish.FloatingTextManager::SpawnFloatingOrbsText(System.Int32,UnityEngine.Vector3)||<sprite="orb_icon" index=0>
+X
+0/12
+0/15
+DevHoe
+who are you calling a hoe
+100
+E
+1000000
+Hi sdfasdfasdf
+Lucia:
+R
+1/4
+2/4
+3/4
+4/4
+1/6
+2/6
+3/6
+4/6
+5/6
+6/6
+- Wyatt
+- Dr. Hopsan Barley
+- Tali
+- Spectral Knight
+- Slobert
+- Tony
+- Phoebe
+- Felix
+- Faeyon
+- Eris
+- Dwayne
+- Cordelia
+- Christine
+- Cassia
+- Caspera
+- Arnold
+- Topi
+- Tonya
+- Sophie
+- Giuseppe
+- Emma
+- Raimi
+- Mama
+- Pinto
+- Peter
+- Ronald
+- Cpt. Nathaniel
+- Mari
+FPS:
+10000
+Sat
+04:30 PM
+Time: 10:45 AM
+5 jobs in progress
+1.
+100%
+Use Item: C
+0 ms
+0/0
+SkinTone1
+SkinTone2
+SkinTone3
+SkinTone4
+SkinTone5
+SkinTone6
+SkinTone7
+SkinTone8
+SkinTone9
+SkinTone10
+SkinTone11
+SkinTone12
+FrontSleeves
+FrontArms
+BackArms
+FrontGloves
+BackGloves
+WateringCan
+HitboxOnly
+MouseOnly
+InfinitePierce
+MouseButton
+SingleHit
+SwapActionbar
+Attack2
+Attack3
+Attack4
+Attack5
+Attack6
+Attack7
+Attack8
+Earth1
+Fire1
+Water1
+Earth2
+Fire2
+Water2
+_
+*.
+/Settings.
+tracking
+<i><color=#FFF164>
+</i>
+<size=9>
+<color="red">
+>
+hour
+{0:0}
+min
+<alpha=#00 id = "a">
+<.*?>
+dialogue
+MISSING STAT NAME
+Materials/MainMaterial_Fade
+null
+TheSunDragonsProtection6Quest
+TheSunDragonsProtection4Quest
+PrepareTheEventSquareQuest
+RaimiIntroQuest
+{0:0.0}
+xp
+keybinds
+:
+ConfrontingDynus1Quest
+TheMysteryOfNelvari1Quest
+TheMysteryOfNelvari2Quest
+TheMysteryOfNelvari3Quest
+TheMysteryOfNelvari4Quest
+_xOffset
+_yOffset
+_ZVal
+<sprite="gold_icon" index=0>
+<sprite="ticket_icon" index=0>
+<sprite="orb_icon" index=0>
+<color=#39CCFF>
+</color>
+pet
+HurtWest
+HurtEast
+TheSunDragonsProtection8Quest
+NivarasLessonGrowth3Quest
+System.Void Wish.DialogueTree::HandleDynusDialogue(System.Collections.Generic.Dictionary`2<System.Int32,Wish.Response>)||Fight
+System.Void Wish.DialogueTree::HandleDynusDialogue(System.Collections.Generic.Dictionary`2<System.Int32,Wish.Response>)||CompleteOffering
+System.Void Wish.DialogueTree::HandleDynusDialogue(System.Collections.Generic.Dictionary`2<System.Int32,Wish.Response>)||IncompleteOffering
+System.Void Wish.DialogueTree::HandleDynusDialogue(System.Collections.Generic.Dictionary`2<System.Int32,Wish.Response>)||CheckFight
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||1a
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||1b
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||1c
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||2a
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||\(End\)
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||(End)
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||2b
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||2c
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||3a
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||3b
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||3c
+System.Void Wish.DialogueTree::HandleDynusDialogue(System.Collections.Generic.Dictionary`2<System.Int32,Wish.Response>)||Confront
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)|||
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||::|//
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Dialogue
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Response
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Response|::
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Option
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Option|::|\(|\)|Permanent
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||<sprite="quest_assets" index=0>
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Permanent
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||End
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||a
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||b
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||c
+System.String Wish.NPCAI::FormatGiftText(System.String,Wish.ItemData)||ITEM
+System.Boolean Wish.NPCAI::CheckForQuest(System.String,System.String&)||\s+
+System.Void Wish.DialogueTree/<>c__DisplayClass23_0::<ParseTextAsset>b__19()||OpenUI none
+System.Void Wish.DialogueTree/<>c__DisplayClass23_0::<ParseTextAsset>b__21()||ConfirmDivorce
+System.Void Wish.DialogueTree/<>c__DisplayClass23_0::<ParseTextAsset>b__27()||Services
+System.Void Wish.DialogueTree/<>c__DisplayClass23_0::<ParseTextAsset>b__29()||OpenUI none
+System.Void Wish.NPCAI::HandleTextFunction(System.String)||\s+
+System.Void Wish.EnemyAI::Die(System.Boolean)||killed
+System.Void Wish.EnemyAI::Chase()||Enemy
+System.Void Wish.FireFlies::OnTriggerEnter2D(UnityEngine.Collider2D)||Player
+System.String Wish.Animal::GetName()||\(Clone\)
+System.Void Wish.Animal::OnMouseOver()||animal
+System.Void Wish.Animal::<PetAnimal>b__17_0()||Materials/MainMaterial_Fade
+System.Void Wish.Deer::Idle(System.Boolean)||Base Layer.IdleEast
+System.Void Wish.Deer::Idle(System.Boolean)||Base Layer.IdleWest
+System.Void Wish.Animal/<>c::<OnMouseOver>b__29_0()||animal
+System.Void Wish.Animal/<>c::<OnMouseExit>b__30_0()||animal
+System.Void Wish.Animal/<>c::<OnDisable>b__31_0()||animal
+System.Void Wish.AI::Die(System.Boolean)||Materials/MainMaterial_Fade
+System.Void Wish.AI::Die(System.Boolean)||Animation
+System.Void Wish.DayCycle::UpdateTimeText()||<color=red>
+System.Void Wish.DayCycle::UpdateTimeText()||hh:
+System.Void Wish.DayCycle::UpdateTimeText()||tt
+System.Boolean Wish.TestingCutscene/<Examples>d__1::MoveNext()||NPC 1
+NivarasLessonCommonality6Quest
+NivarasLessonCommonality5Quest
+Tier1House
+System.Void Wish.CharacterClothingStyles::GetAllClothing()||Items/
+System.Void Wish.Donovan::.cctor()||default
+System.Void Wish.AnimalSpawnItem::CreateNewAnimal(Wish.AnimalItem,System.Boolean)||New pet animal unique id
+System.Void Wish.PetItem::.ctor(System.Int32)||New pet animal unique id
+System.Void Wish.AnimalItem::.ctor(System.Int32)||New pet animal unique id
+System.Void Wish.Cart::Interact(System.Int32)||A
+System.Void Wish.Cart/<>c__DisplayClass34_2::<Interact>b__1()||A
+System.Void Wish.MasterScriptableObject::GetAllScriptableObjects()||Items/
+System.Void Wish.StoplightController::Start()||Stoplight 1 state:
+System.Void Wish.StoplightController::Start()||Stoplight 2 state:
+System.Void Wish.SaleManager::DebugPrices()||merchant table missing item
+System.Void Wish.SaleManager::DebugPrices()||buy:
+System.Void Wish.SaleManager::DebugPrices()||sell:
+System.Void Wish.MineGenerator2::Initialize()||generatedmines
+System.Void Wish.NetworkPlayer/<>c__DisplayClass45_0::<CreateAnimal>b__0()||Creating animal with ID:
+System.Void Wish.NetworkPlayer/<>c__DisplayClass47_0::<DeleteAnimal>b__0()||Deleting animal with ID:
+System.Void Wish.NetworkPlayer/<>c__DisplayClass59_0::<UpdateSceneID>b__0()||Other player is in scene
+System.Void Wish.NetworkPlayer::LoadedScene(BeardedManStudios.Forge.Networking.RpcArgs)||Sending world data to player:
+System.Void Wish.Player::SetAnimatorBool(UnityEngine.Animator,Direction)||North
+System.Void Wish.Player::SetAnimatorBool(UnityEngine.Animator,Direction)||South
+System.Void Wish.Player::SetAnimatorBool(UnityEngine.Animator,Direction)||East
+System.Void Wish.Player::SetAnimatorBool(UnityEngine.Animator,Direction)||West
+System.Void Wish.Player::Sleep()||sleep
+System.Void Wish.Player::FinishSleeping()||sleep
+System.Void Wish.PlayerSettings::EnableConfirmCheatMenu()||cheats
+System.Void Wish.PlayerSettings::CloseConfirmCheatMenu()||cheats
+System.Void Wish.PortalSpot::OnTriggerEnter2D(UnityEngine.Collider2D)||Player
+System.Void Wish.PortalSpot::OnTriggerExit2D(UnityEngine.Collider2D)||Player
+System.Void Wish.MineLock::OnSetProgressBoolWorld(System.String,System.Boolean)||minesUnlockTemp
+System.Void Wish.MineLock::OnSetProgressBoolWorld(System.String,System.Boolean)||minesUnlock
+System.Void Wish.ProgressTrigger::OnTriggerEnter2D(UnityEngine.Collider2D)||Player
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||Accepted
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||Task
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||Task0
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||FireCrystalDeliveryQuest
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||Task1
+System.Void Wish.BulletinBoardManager::GenerateDailyTasks(Wish.BulletinBoardType)||PracticeApplesQuest
+Wish.QuestAsset Wish.BulletinBoardManager::GetTask(System.Int32,Wish.BulletinBoardType)||Task
+System.String Wish.NelvariGate/<>c::<Interact>b__5_0()||Shed
+System.String Wish.NelvariGate/<>c::<Interact>b__5_2()||Dread
+System.String Wish.NelvariGate/<>c::<Interact>b__5_4()||Head
+System.String Wish.NelvariGate/<>c::<Interact>b__5_6()||Park
+System.String Wish.NelvariGate/<>c::<Interact>b__5_8()||Bark
+System.String Wish.NelvariGate/<>c::<Interact>b__5_10()||Spark
+System.String Wish.NelvariGate/<>c::<Interact>b__5_12()||Embark
+System.String Wish.NelvariGate/<>c::<Interact>b__5_14()||Tread
+System.Void Wish.NivaraQuestCrop::Plant()||planted
+System.Boolean Wish.NivaraQuestCrop::Water()||watered
+System.Void Wish.NivaraQuestCrop::Infuse()||infused
+System.Void Wish.PlayerFarmQuestManager::SendStartingNotifications()||Intro1Quest
+System.Void Wish.TaskPopup::SetupPostit(Wish.QuestAsset,Wish.BulletinBoard,System.Int32,Wish.BulletinBoardType)||Accepted
+System.Void Wish.TaskPopup::SetupPostit(Wish.QuestAsset,Wish.BulletinBoard,System.Int32,Wish.BulletinBoardType)||Task
+System.Void Wish.TaskPopup::AcceptQuest()||Accepted
+System.Void Wish.TaskPopup::AcceptQuest()||Task
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__43::MoveNext()||Loading Scenes
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__43::MoveNext()||Player
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__43::MoveNext()||Loaded scenes at :
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__43::MoveNext()||Loading World from Host
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__43::MoveNext()||Finished loading world at :
+System.Void Wish.ScenePortalSpot::Interact(System.Int32)||portal
+System.String Wish.Stat::ToString()||{0:0.00}
+System.Void Wish.DialogueController::Emote(EmoteType)||Romantic
+System.Void Wish.DialogueController::Emote(EmoteType)||Happy
+System.Void Wish.DialogueController::Emote(EmoteType)||Mad
+System.Void Wish.DialogueController::Emote(EmoteType)||Embarrassed
+System.Void Wish.DialogueController::Emote(EmoteType)||Sad
+System.Void Wish.CharacterCreation::SetCharacterName()||Bob
+System.Void Wish.HelpTooltips::SendTestNotification(System.Int32)||test
+System.Void Wish.LoadCharacterMenu::SetupSavePanels()||char
+System.Void Wish.LoadCharacterMenu::SetupSavePanels()||world
+System.Void Wish.LoadCharacterMenu::SetupSavePanels()||coins
+System.Void Wish.QuestList::CheckQuestsForComplete(System.Boolean)||<size=9.5>
+System.Void Wish.Settings::.cctor()||usersettings
+System.Void Wish.Settings::.cctor()||Settings
+System.Void Wish.SkillTree::SetTier(Wish.ProfessionType)||tier
+System.String Wish.HouseDemoKit::SceneToLoad(System.Int32,System.Int32)||Tier
+System.String Wish.HouseDemoKit::SceneToLoad(System.Int32,System.Int32)||House
+System.Collections.Generic.List`1<Wish.AI> Wish.Utilities::NPCCast(UnityEngine.Vector2,System.Single)||NPC
+System.Collections.Generic.List`1<Wish.EnemyAI> Wish.Utilities::EnemyCast(UnityEngine.Vector2,System.Single)||Enemy
+System.Void Wish.DonationBox::DonateOrbs(System.Int32)||donate
+System.Void Wish.Chest::SetChestNameAndUpdate(System.String)||chest
+System.Void Wish.Chest::StartSettingChestName()||chest
+System.Void Wish.ManaInfuser::InfuseMana(System.Int32)||infused
+System.Void Wish.ManaInfuser::.ctor()||infuser
+System.Void Wish.SkillNode::UpdateName()||_node
+System.Void Wish.PlayerInventory::Update()||Mouse ScrollWheel
+System.Void Wish.ArmorItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)||<i>(
+System.Void Wish.ArmorItem::GetToolTip(Wish.Tooltip,System.Int32,System.Boolean)||)</i>
+System.Void Wish.GameSave::.cctor()||save
+System.Void Wish.GameSave::.cctor()||Saves
+System.Single Wish.GameManager::Depth(UnityEngine.Vector2,System.Boolean)||Ignore Raycast
+System.Single Wish.GameManager::LinearDepth(UnityEngine.Vector2,System.Boolean)||Ignore Raycast
+System.Void Wish.GameSave::WriteCharacterToFile(System.Boolean,System.Boolean)||/Backups/
+System.Void Wish.GameSave::WriteCharacterToFile(System.Boolean,System.Boolean)||<|>|=|#
+System.Void Wish.GameSave::WriteCharacterToFile(System.Boolean,System.Boolean)||Write to file
+System.Boolean Wish.GameManager/<>c::<Initialize>b__42_0(UnityEngine.Tilemaps.Tilemap)||Enemy
+System.Void Wish.FishingRoom::Update()||D2
+System.Void Wish.FishingRoom::Initialize()||fishRoom
+System.Void Wish.PlayerAnimationLayers::SetClothingLayer(Wish.ClothingLayer,UnityEngine.Sprite[],UnityEngine.Material,UnityEngine.GameObject)||Materials/PlayerMaterial_Breath
+System.Void Wish.PlayerAnimationLayers::SetClothingLayer(Wish.ClothingLayer,UnityEngine.Sprite[],UnityEngine.Material,UnityEngine.GameObject)||Materials/PlayerMaterial_NoBreath
+System.Void Wish.Quest::StartQuest()||killed
+System.Void Wish.Quest::StartQuest()||start
+System.Void Wish.NPC::.cctor()||default
+System.Void Wish.MainQuestLineManager::OnWater(System.Int32)||water
+System.Void Wish.MainQuestLineManager::OnPlantSeeds(System.Int32)||plant
+System.Void Wish.MainQuestLineManager::OnCropInfused(System.Int32)||infuse
+System.Void Wish.MainQuestLineManager/<>c__DisplayClass7_0::<OnCropPickedUp>b__0()||grow
+System.Void Wish.MainQuestLineManager::OnCropPickedUp(System.Int32)||grapes
+System.Void Wish.DialogueTree::<HandleDynusDialogue>b__24_1()||CheckFight
+System.Void Wish.DialogueTree::<HandleDynusDialogue>b__24_5()||CompleteOffering
+System.Void Wish.DialogueTree::<HandleDynusDialogue>b__24_5()||IncompleteOffering
+System.Void Wish.DialogueTree::<HandleDynusDialogue>b__24_7()||Fight
+System.Void Wish.DialogueTree::<HandleDynusDialogue>b__24_11()||Confront
+System.Boolean Wish.DialogueTree::CheckForQuest(System.String,System.String&)||\s+
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||ConfirmDivorce
+System.Void Wish.DialogueTree::ParseTextAsset(UnityEngine.TextAsset)||Services
+System.Void Wish.NetworkEnemy/<>c__DisplayClass5_0::<NetworkInitialize>b__0()||Received network initialize of enemy:
+System.Void Wish.NetworkFish/<>c__DisplayClass5_0::<TargetBobber>b__0()||Assigning ownership of fish to
+System.Void Wish.NetworkFish/<>c__DisplayClass6_0::<NetworkInitialize>b__0()||Received network initialize of fish:
+System.Void Wish.NetworkFish::SendNetworkInitialize()||Sending network initialize of fish:
+System.String Wish.NPCAI::HandleWeddingRing(System.Boolean&)||Cycle 14
+System.Void Wish.NPCAI::Gift(Wish.Item)||Love
+System.Void Wish.NPCAI::Gift(Wish.Item)||Happy
+System.Void Wish.NPCAI::Gift(Wish.Item)||Angry
+System.String Wish.PlayerHouse::SceneToLoad(System.Int32)||Tier
+System.String Wish.PlayerHouse::SceneToLoad(System.Int32)||House
+System.Void Wish.Minecart::OnTriggerEnter2D(UnityEngine.Collider2D)||Player
+System.Void Wish.Minecart::OnTriggerExit2D(UnityEngine.Collider2D)||Player
+System.Void Wish.MailManager::Awake()||Mail Assets
+System.Void Wish.ScenePortalSpot::OnTriggerEnter2D(UnityEngine.Collider2D)||Player
+System.Void Wish.FPSCounter::Awake()||FPS: 0
+System.Void Wish.WishRenderer::GenerateSpriteMesh()||F8
+System.Void Wish.BulletinBoard::CloseUI()||Accepted
+System.Void Wish.BulletinBoard::CloseUI()||Task
+System.Void Wish.BulletinBoard::Initialize()||Accepted
+System.Void Wish.BulletinBoard::Initialize()||Task
+System.Void Wish.FishSpawner::OnDrawGizmos()||Fish.png
+System.Void Wish.PlayerSettings::Initialize()||(
+System.Void Wish.PlayerSettings::Initialize()||)
+System.Void Wish.NetworkPlayer::Update()||Bandwidth in :
+System.Void Wish.NetworkPlayer::Update()||Bandwidth out :
+System.Void Wish.NetworkPlayer::Update()||Bandwidth in delta :
+System.Void Wish.NetworkPlayer::Update()||Bandwidth out delta :
+System.Void Wish.PetSpawnItem::CreateNewPet(Wish.PetItem,System.Boolean)||New pet with unique id
+System.Boolean Wish.LoadMainMenu/<LoadAsync2>d__6::MoveNext()||SpriteSheet
+System.Boolean Wish.LoadMainMenu/<LoadAsync2>d__6::MoveNext()||Items
+System.Boolean Wish.LoadMainMenu/<LoadAsync2>d__6::MoveNext()||Clothes
+System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()||Spritesheet
+System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()||Clothes
+System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()||Items/
+System.Boolean Wish.LoadMainMenu/<LoadAsync>d__7::MoveNext()||AssetAddress
+System.Single Wish.FishingRod::GetBobberHeight(UnityEngine.Vector2)||Water
+System.Void Wish.Cart::ExitToQuarry()||Quarry
+System.Void Wish.Cart::ExitToDynusAltar()||DynusAltar
+System.Void Wish.MasterScriptableObject::GetAllScriptableObjects()||Quest Assets
+System.Void Wish.MasterScriptableObject::GetAllScriptableObjects()||Mail Assets
+System.Void Wish.ItemDatabase::ConstructDatabase()||Items/
+System.Void Wish.Pet::SetPetItem(Wish.PetItem)||Set pet item to
+System.Void Wish.NPC::Die()||Death
+System.Void Wish.NPC::Die()||Particles
+NelvariFarm
+UnlockedWithergate
+ManaGem
+GrapeSeeds
+ManaInfusion
+UnlockElvenForest
+UnlockedNelvari
+DelicateGloves
+PathToNelvari3
+StoneOfTongues
+journeytodragonsmeet1
+journeyToDragonsMeet1
+theSunDragonsProtection1
+theSunDragonsProtection2
+theSunDragonsProtection3
+WindTunnel
+UnlockTravelingMerchants
+System.Boolean Wish.ConfrontingDynusCutscene3_BanditIntro/<SceneRoutine>d__5::MoveNext()||investigate
+System.Void Wish.QuestManager::Awake()||Quest Assets
+- Pod
+Foliage 17
+Foliage 18
+Foliage 19
+Foliage 20
+Foliage 21
+Foliage 22
+Foliage 23
+Foliage 24
+1-8
+Mage
+MaskCover
+HairAccessory
+BackSleeves
+Aftertaste
+PetParade
+WellRested
+MinersLuck
+Burn
+AttackElixer
+SpeedElixer
+DefenseElixer
+CelebrateSuccess
+Fade
+Circle
+SpellDamage
+FishingMinigameSpeed
+FishBobberAttraction
+EnemyGoldDrop
+ExtraForageableChance
+BonusTreeDamage
+MiningDamage
+FallDamageReduction
+MovementSpeedAfterRock
+FruitManaRestore
+SpellAttackSpeed
+Power
+WoodcuttingDamage
+CommunityTokenPerDay
+Test
+Tile2
+Tile3
+Tile4
+Tile5
+Tile6
+Tile7
+Tile8
+Tile1
+WoodenPlank
+Brick
+WhiteStone
+Patterned
+OakPlank
+PlayerBleed
+UseMana
+DynusAltar
+Wander
+Chase
+Hurt
+Still
+Pathing
+Follow
+InventorySlot1
+InventorySlot2
+InventorySlot3
+InventorySlot4
+InventorySlot5
+InventorySlot6
+InventorySlot7
+InventorySlot8
+InventorySlot9
+InventorySlot10
+Emote1
+Emote2
+Emote3
+Emote4
+Emote5
+Emote6
+Emote7
+Escape
+Spell1
+Spell2
+Spell3
+Spell4
+Use2
+Mouse0
+Mouse1
+Tool
+NoQuality
+Metal
+MageRobes
+Archer
+Copper
+Iron
+Adamant
+Mithril
+Sunite
+System.Void Wish.TSTargetSpawning::SpawnTargets()||Spawn
+System.Void Wish.SpawnClouds::SpawnTargets()||Spawn
+<color=#ffff00>+
++1
+System.Void Wish.Sword::LateUpdate()||Swinging
+System.Void Wish.Sword::LateUpdate()||Direction
+_Glow
+ferriswheel
+System.Void Wish.BossFishingController::Attack()||Attack
+System.Void Wish.BossFishingController::Hurt()||Hurt
+System.Void Wish.BossFishingController::Death()||Death
+System.Void Wish.BossFishingController::SlapLine()||SlapLine
+System.Void Wish.BossFishingController::StruggleLine(System.Boolean)||StruggleLineLoop
+System.Void Wish.BossFishingController::StruggleLine(System.Boolean)||StruggleLine
+System.Void Wish.BossFishingController::CatchLine()||CatchLine
+System.Void Wish.BossFishingController::SnapLine()||SnapLine
+System.Boolean Wish.ScenePortalManager/<StartGameRoutine>d__30::MoveNext()||Player
+System.String Wish.SkillNode::get_SkillDescription()||ITEM
+System.String Wish.SkillNode::get_SkillDescription()||UNLOCK
+System.Boolean Wish.MGController/<DealCards>d__33::MoveNext()||Moon
+System.Boolean Wish.MGController/<DealCards>d__33::MoveNext()||Ghost
+System.Boolean Wish.MGController/<DealCards>d__33::MoveNext()||Pumpkin
+System.Boolean Wish.MGController/<DealCards>d__33::MoveNext()||Potion
+System.Boolean Wish.MGController/<DealCards>d__33::MoveNext()||Eye
+System.Void Wish.Cart/<>c__DisplayClass34_1::<Interact>b__0()||Glorite
+System.Void Wish.Cart/<>c__DisplayClass34_1::<Interact>b__0()||Mines
+System.Void Wish.Cart/<>c__DisplayClass34_2::<Interact>b__1()||Glorite
+System.Void Wish.Cart/<>c__DisplayClass34_2::<Interact>b__1()||Mines
+System.Void Wish.Cart/<>c__DisplayClass38_1::<Interact>b__0()||Glorite
+System.Void Wish.Cart/<>c__DisplayClass38_1::<Interact>b__0()||Mines
+System.Void Wish.Cart/<>c__DisplayClass38_2::<Interact>b__1()||Glorite
+System.Void Wish.Cart/<>c__DisplayClass38_2::<Interact>b__1()||Mines
+System.Void Wish.Cart/<>c__DisplayClass38_2::<Interact>b__1()||A
+System.String Wish.Barn::SceneToLoad(System.Int32)||Tier
+System.String Wish.Barn::SceneToLoad(System.Int32)||Barn
+System.Boolean Wish.TheSunDragonsProtectionCutscene3_BanditIntro/<SceneRoutine>d__6::MoveNext()||investigate
+System.Boolean Wish.JourneyToWithergateCutscene4/<SceneRoutine>d__12::MoveNext()||Withergatecastletransition

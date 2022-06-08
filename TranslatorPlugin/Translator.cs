@@ -2,13 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using TMPro;
+using Wish;
 
 namespace TranslatorPlugin
 {
     public class Translator
     {
+        private static string Font;
+        private static float TextScale;
+
         private static HashSet<string> AllTranslations = new HashSet<string>();
         private static HashSet<string> MissingTranslations = new HashSet<string>();
         private static Dictionary<string, string> Translations = new Dictionary<string, string>();
@@ -22,6 +27,25 @@ namespace TranslatorPlugin
             if (!Initialized)
             {
                 Initialized = true;
+                Ignore.Initialize();
+                if (System.IO.File.Exists("options"))
+                {
+                    var options = System.IO.File.ReadAllText("options");
+                    var oo = options.Split(new char[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries);
+                    foreach (var o in oo)
+                    {
+                        var e = o.Split(new char[] { '=' }, 2);
+                        if (e.Length == 2)
+                        {
+                            var key = e[0].ToLowerInvariant();
+                            var val = e[1].ToLowerInvariant();
+                            if (key == "font")
+                                Font = val;
+                            else if (key == "text-scale")
+                                TextScale = float.Parse(val);
+                        }
+                    }
+                }
                 var lines1 = System.IO.File.ReadAllLines("table.orig");
                 var lines2 = System.IO.File.ReadAllLines("table.trans");
                 if (lines2.Length >= lines1.Length)
@@ -68,14 +92,53 @@ namespace TranslatorPlugin
                 */
 
                 UnityEngine.SceneManagement.SceneManager.sceneLoaded += SceneManager_sceneLoaded;
-            }
+
+                }
         }
 
+        static bool FixedQuest = false;
         private static void SceneManager_sceneLoaded(UnityEngine.SceneManagement.Scene arg0, UnityEngine.SceneManagement.LoadSceneMode arg1)
         {
+            try
+            {
+                if (!FixedQuest && Player.Instance != null && Player.Instance.QuestList != null)
+                {
+                    var quest = Player.Instance.QuestList.GetQuest("TheSunDragonsProtection6Quest");
+                    if (quest != null)
+                    {
+                        FixedQuest = true;
+                        var progress = quest.GetProgress("erforsche");
+                        if (progress > 0.2f)
+                        {
+                            quest.SetProgress("erforsche", 0f);
+                            quest.SetProgress("investigate", 1f);
+                        }
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+
+            }
             if (!QuestAssetsParsed)
             {
-                QuestAssetsParsed = true;
+
+                var skillNodes = UnityEngine.Resources.FindObjectsOfTypeAll(typeof(SkillNodeAsset));
+                foreach (var s in skillNodes)
+                {
+                    if (s is SkillNodeAsset skillNode)
+                    {
+                        skillNode.description = TranslateString(skillNode.description, "");
+                        skillNode.nodeName = TranslateString(skillNode.nodeName, "");
+                        skillNode.nodeTitle = TranslateString(skillNode.nodeTitle, "");
+                        skillNode.singleDescriptionItem = TranslateString(skillNode.singleDescriptionItem, "");
+                        for (var i = 0; i < skillNode.descriptionItems.Count; i++)
+                            skillNode.descriptionItems[i] = TranslateString(skillNode.descriptionItems[i], "");
+                        for (var i = 0; i < skillNode.thirdDescriptionItems.Count; i++)
+                            skillNode.thirdDescriptionItems[i] = TranslateString(skillNode.thirdDescriptionItems[i], "");
+                    }
+                }
+
                 var questAssets = UnityEngine.Resources.LoadAll<Wish.QuestAsset>("Quest Assets");
                 foreach (var quest in questAssets)
                 {
@@ -84,15 +147,54 @@ namespace TranslatorPlugin
                         foreach (var p in quest.questProgressRequirements)
                         {
                             var newProgressName = TranslateString(p.progressName, "");
-                            if (p.progressName == newProgressName && !Extractor.Unknown.Contains(p.progressName))
+                            if (p.progressName == newProgressName && Translator.IsUnknown(p.progressName) && !Extractor.Unknown.Contains(p.progressName))
                             {
                                 // it wasn't changed. Cache it in the extractor for extraction.
                                 Extractor.Unknown.Add(p.progressName);
                             }
+                            //System.IO.File.AppendAllText("test.log", "Replaced string " + p.progressName + " with " + newProgressName + "\r\n");
                             p.progressName = newProgressName;
+                            for (var k = 0; k < p.questProgress.Count; k++)
+                            {
+                                var progressText = TranslateString(p.questProgress[k].progress, "");
+                                if (progressText == p.questProgress[k].progress && Translator.IsUnknown(p.questProgress[k].progress) && !Extractor.Unknown.Contains(p.questProgress[k].progress))
+                                {
+                                    Extractor.Unknown.Add(p.questProgress[k].progress);
+                                }
+                            }
+                        }
+                    }
+
+                    if (quest.killRequirements != null)
+                    {
+                        foreach (var p in quest.killRequirements)
+                        {
+                            var newProgressName = TranslateString(p.enemy, "");
+                            if (p.enemy == newProgressName && Translator.IsUnknown(p.enemy) && !Extractor.Unknown.Contains(p.enemy))
+                            {
+                                // it wasn't changed. Cache it in the extractor for extraction.
+                                Extractor.Unknown.Add(p.enemy);
+                            }
+                            p.enemy = newProgressName;
+                        }
+                    }
+
+                    if (quest.itemRequirements != null)
+                    {
+                        foreach (var p in quest.itemRequirements)
+                        {
+                            var newProgressName = TranslateString(p.extraText, "");
+                            if (p.extraText == newProgressName && Translator.IsUnknown(p.extraText) && !Extractor.Unknown.Contains(p.extraText))
+                            {
+                                // it wasn't changed. Cache it in the extractor for extraction.
+                                Extractor.Unknown.Add(p.extraText);
+                            }
+                            p.extraText = newProgressName;
                         }
                     }
                 }
+
+                QuestAssetsParsed = true;
 
                 var go = new UnityEngine.GameObject();
                 UnityEngine.Object.DontDestroyOnLoad(go);
@@ -142,7 +244,9 @@ namespace TranslatorPlugin
             "ItemName",
             "Option(Clone)",
             "LevelTMP",
-            "EXPTMP"
+            "EXPTMP",
+            "ExpTMP",
+            "ExpTitleMP"
         };
 
         private static HashSet<string> DontTouchTextParent = new HashSet<string>() {
@@ -158,12 +262,72 @@ namespace TranslatorPlugin
             "BuyButon",
             "Interaction(Clone)",
             "Nameplate",
-            "FloatingText(Clone)"
+            "FloatingText(Clone)",
+            "TooltipPanel",
+            "Spl Panel",
+            "background"
         };
 
         private static HashSet<string> TextFields = new HashSet<string>();
+        private static TMP_FontAsset FontAsset;
+
         public static void ChangeTextMesh(TMPro.TextMeshProUGUI text)
         {
+            /*
+            if (text.transform.parent != null && !TextFields.Contains(text.transform.parent.name))
+            {
+                TextFields.Add(text.transform.parent.name);
+                System.IO.File.AppendAllText("text.txt", text.transform.parent.name + "\r\n");
+            }
+            if (!TextFields.Contains(text.transform.name))
+            {
+                TextFields.Add(text.transform.name);
+                System.IO.File.AppendAllText("text.txt", text.transform.name + "\r\n");
+            }*/
+
+            if (Font != "default")
+            {
+                if (FontAsset == null)
+                {
+                    MaterialReferenceManager.TryGetFontAsset(Font.GetHashCode(), out FontAsset);
+
+                    if (FontAsset == null)
+                    {
+                        FontAsset = UnityEngine.Resources.Load<TMP_FontAsset>(TMP_Settings.defaultFontAssetPath + Font);
+                        if (FontAsset == null)
+                        {
+                            try
+                            {
+                                var path = System.IO.Path.Combine(Environment.CurrentDirectory, Font.ToLowerInvariant());
+                                //System.IO.File.AppendAllText("log.txt", "Trying to load font " + Font + " from " + path + "!\r\n");
+                                if (System.IO.File.Exists(path))
+                                {
+                                    var bytes = System.IO.File.ReadAllBytes(path);
+                                    //System.IO.File.AppendAllText("log.txt", "Loaded " + bytes.Length + " bytes!\r\n");
+                                    var bundle = UnityEngine.AssetBundle.LoadFromMemory(bytes);
+                                    //System.IO.File.AppendAllText("log.txt", "Asset bundle: " + bundle + "!\r\n");
+                                    FontAsset = bundle.LoadAsset<TMP_FontAsset>("Assets/" + Font + ".asset");
+                                    //System.IO.File.AppendAllText("log.txt", "Font " + Font + " found in assetbundle!\r\n");
+                                }
+
+                            }
+                            catch (Exception e)
+                            {
+                            }
+                        }
+                        if (FontAsset != null)
+                            MaterialReferenceManager.AddFontAsset(FontAsset);
+                    }
+                }
+                if (FontAsset != null)
+                    text.font = FontAsset;
+            }
+            if (TextScale != 100)
+            {
+                text.fontSize = text.fontSize * (TextScale / 100f);
+                text.fontSizeMin = text.fontSizeMin * (TextScale / 100f);
+                text.fontSizeMax = text.fontSizeMax * (TextScale / 100f);
+            }
             if (!text.autoSizeTextContainer)
             {
                 if (!DontTouchText.Contains(text.transform.name) && (text.transform.parent == null || !DontTouchTextParent.Contains(text.transform.parent.name)))
@@ -175,33 +339,72 @@ namespace TranslatorPlugin
             }
         }
 
+        public static string TrimAndGetWhitespaces(string str, out string before, out string after)
+        {
+            var emptySpacesBefore = 0;
+            var emptySpacesAfter = 0;
+            for (var i = 0; i < str.Length; i++)
+            {
+                if (str[i] != ' ')
+                    break;
+                emptySpacesBefore++;
+            }
+            for (var i = str.Length - 1; i >= 0; i--)
+            {
+                if (str[i] != ' ')
+                    break;
+                emptySpacesAfter++;
+            }
+            before = new string(' ', emptySpacesBefore);
+            after = new string(' ', emptySpacesAfter);
+            return str.Trim();
+        }
+
         public static string TranslateDialog(string text)
         {
-            var lines = text.Split(new string[] { "\r\n" }, StringSplitOptions.None);
+            var lines = text.Split(new string[] { "\r\n", "\n", "\r" }, StringSplitOptions.None);
             var result = "";
             for (var k = 0; k < lines.Length; k++)
             {
                 var line = lines[k];
-                var dialogMarker = line.IndexOf("::");
+                var dialogMarker = line.LastIndexOf("::");
                 if (dialogMarker > 0)
                 {
                     var dialogLine = line.Substring(dialogMarker + 3);
+                    var addEnd = false;
+                    var command = "";
                     var commandIndex = dialogLine.IndexOf("//");
                     if (commandIndex > 0)
-                        dialogLine = dialogLine.Substring(0, commandIndex - 1);
-                    var addEnd = false;
+                    {
+                        command = dialogLine.Substring(commandIndex);
+                        dialogLine = dialogLine.Substring(0, commandIndex);
+                    }
                     if (dialogLine.EndsWith("(End)"))
                     {
                         addEnd = true;
                         dialogLine = dialogLine.Substring(0, dialogLine.Length - 5);
                     }
 
-                    commandIndex = line.IndexOf("//");
                     var trimmed = dialogLine.Trim();
-                    if (Translations.ContainsKey("Dialogue||" + trimmed))
-                        result += line.Substring(0, dialogMarker + 2) + " " + Translations["Dialogue||" + trimmed] + (addEnd ? "(End)" : "") + (commandIndex > 0 ? line.Substring(commandIndex) : "") + "\r\n";
-                    else
-                        result += line + "\r\n";
+                    var parts = trimmed.Split(new string[] { "[]" }, StringSplitOptions.None);
+                    var newLine = "";
+                    var first = true;
+                    foreach (var part in parts)
+                    {
+                        var p = TrimAndGetWhitespaces(part, out var trimBefore, out var trimAfter);
+                        if (!first)
+                            newLine += "[]";
+                        if (Translations.ContainsKey("Dialogue||" + p))
+                            newLine += trimBefore + Translations["Dialogue||" + p] + trimAfter;
+                        else
+                        {
+                            Extractor.AddUnknown(p);
+                            newLine += trimBefore + p + trimAfter;
+                        }
+                        first = false;
+                    }
+                    newLine = line.Substring(0, dialogMarker + 2) + " " + newLine + (addEnd ? "(End)" : "") + command + "\r\n";
+                    result += newLine;
                 }
                 else result += line + "\r\n";
             }
@@ -218,9 +421,65 @@ namespace TranslatorPlugin
             else return s;
         }
 
+
+        private static Regex ParenthesisRegex = new Regex("\\(([^\\)]+)\\)");
+
+        private static string TranslateLine(string st, string context)
+        {
+            var ret = "";
+            var parts = st.Split(new string[] { "[]" }, StringSplitOptions.None);
+            bool first = true;
+            for (var i = 0; i < parts.Length; i++)
+            {
+                var part = parts[i];
+                var trimmed = TrimAndGetWhitespaces(part, out var trimBefore, out var trimAfter);
+                if (trimmed != "")
+                {
+                    var commandIndex = trimmed.LastIndexOf("//");
+                    string command = "";
+                    if (commandIndex > 0)
+                    {
+                        command = trimmed.Substring(commandIndex);
+                        trimmed = trimmed.Substring(0, commandIndex);
+                    }
+                    if (context != null && Translations.ContainsKey(context + "||" + trimmed))
+                        ret += (!first ? "[]" : "") + trimBefore + Translations[context + "||" + trimmed] + trimAfter + command;
+                    else if (Translations.ContainsKey(trimmed))
+                        ret += (!first ? "[]" : "") + trimBefore + Translations[trimmed] + trimAfter + command;
+                    else if (trimmed.EndsWith(")"))
+                    {
+                        var index = trimmed.LastIndexOf("(");
+
+                        var p1 = trimmed.Substring(0, index).Trim();
+                        var spaces = index - p1.Length;
+                        var p2 = trimmed.Substring(index + 1, trimmed.Length - (index + 1) - 1).Trim();
+
+                        if (Translations.ContainsKey(p1))
+                            p1 = Translations[p1];
+                        //else
+                        //    Extractor.AddUnknown(p1);
+                        if (Translations.ContainsKey(p2))
+                            p2 = Translations[p2];
+                        //else
+                        //    Extractor.AddUnknown(p1);
+                        ret += (!first ? "[]" : "") + trimBefore + p1 + new string(' ', spaces) + "(" + p2 + ")" + trimAfter + command;
+                    }
+                    else
+                    {
+                        Extractor.AddUnknown(part);
+                        ret += (!first ? "[]" : "") + part + command;
+                    }
+                }
+                else
+                    ret += (!first ? "[]" : "") + part;
+                first = false;
+            }
+            return ret;
+        }
         public static string TranslateString(string st, string context)
         {
             Initialize();
+            if (st == null) return null;
             context = context.Trim();
             var currentStr = "";
             var ret = "";
@@ -230,35 +489,15 @@ namespace TranslatorPlugin
                 {
                     if (currentStr != "")
                     {
-                        var trimmed = currentStr.Trim();
-                        if (trimmed != "")
-                        {
-                            if (context != null && Translations.ContainsKey(context + "||" + trimmed))
-                                ret += Translations[context + "||" + trimmed];
-                            else if (Translations.ContainsKey(trimmed))
-                                ret += Translations[trimmed];
-                            else
-                                ret += currentStr;
-                        }
-                        else ret += currentStr;
+                        ret += TranslateLine(currentStr, context);
                     }
                     ret += st[i];
                     currentStr = "";
                 }
                 else currentStr += st[i];
             }
-            var lastTrimmed = currentStr.Trim();
-            if (lastTrimmed != "")
-            {
-                if (context != null && Translations.ContainsKey(context + "||" + lastTrimmed))
-                    ret += Translations[context + "||" + lastTrimmed];
-                else if (Translations.ContainsKey(lastTrimmed))
-                    ret += Translations[lastTrimmed];
-                else
-                    ret += currentStr;
-            }
-            else
-                ret += currentStr;
+
+            ret += TranslateLine(currentStr, context);
             return ret;
         }
     }

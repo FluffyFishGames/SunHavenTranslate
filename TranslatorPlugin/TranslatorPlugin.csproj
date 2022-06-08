@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TranslatorPlugin</RootNamespace>
     <AssemblyName>TranslatorPlugin</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,56 +33,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\DOTween.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="mcs">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\mcs.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mono.Posix">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Mono.Posix.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mono.Security">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Mono.Security.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Attributes">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.OdinInspector.Attributes.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.CompatibilityLayer">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.OdinInspector.CompatibilityLayer.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sirenix.Serialization">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.Serialization.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Sirenix.Serialization.Config">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.Serialization.Config.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Sirenix.Utilities">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.Utilities.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Sirenix.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -92,33 +52,32 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Unity.TextMeshPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>G:\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.InputModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extractor.cs" />
+    <Compile Include="Ignore.cs" />
     <Compile Include="Translator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
