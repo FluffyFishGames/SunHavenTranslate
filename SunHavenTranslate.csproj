@@ -1,8 +1,23 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
+	  <Configurations>Debug;Release;WindowsX64;LinuxX64;MacOS</Configurations>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+	  <DefineConstants>WINDOWS</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='WindowsX64|AnyCPU'">
+	  <DefineConstants>WINDOWS</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LinuxX64|AnyCPU'">
+	  <DefineConstants>LINUX</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MacOS|AnyCPU'">
+	  <DefineConstants>MACOS</DefineConstants>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,15 +31,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ModManagerGUI\ModManagerGUI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="AssetsTools.NET">
       <HintPath>libs\AssetsTools.NET.dll</HintPath>
     </Reference>
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="classdata.tpk">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="dialogs.orig">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

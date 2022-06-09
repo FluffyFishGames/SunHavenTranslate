@@ -11,4 +11,4 @@ So please enjoy but with caution.
 ## Building yourself
 To build this yourself you will have to resolve the reference to the games Assembly-CSharp.dll in the TranslatorPlugin project embedded in this repository.
 
-Please don't use the original AssetTools.NET version but instead the one provided by this repository as I had to fix a bug within AssetTools.NET which prevented my tool from writing to the game files after reading the current game version.
+You also need to add the ModManagerGUI project from my GitHub
